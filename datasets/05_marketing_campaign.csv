@@ -1,0 +1,201 @@
+campaign_id,company,campaign_type,target_audience,duration_days,channel_used,conversion_rate,acquisition_cost,roi,location
+CAMP00001,Alpha Corp,Social Media,18-25,39,Instagram,0.2493,5095.8,6.04,USA
+CAMP00002,Beta Ltd,Search,36-45,49,LinkedIn,0.2547,14784.55,2.49,USA
+CAMP00003,Alpha Corp,Influencer,36-45,49,Email,0.2052,7875.31,0.63,Australia
+CAMP00004,Alpha Corp,Influencer,26-35,38,Instagram,0.0983,2196.36,4.1,Germany
+CAMP00005,Delta Solutions,Influencer,46-60,25,LinkedIn,0.0203,3373.15,6.94,Australia
+CAMP00006,Beta Ltd,Social Media,26-35,38,Facebook,0.2813,7280.97,7.22,Australia
+CAMP00007,Beta Ltd,Social Media,18-25,42,YouTube,0.18,732.82,7.67,India
+CAMP00008,Gamma Inc,Search,26-35,41,Email,0.0965,6991.76,7.1,Australia
+CAMP00009,Alpha Corp,Display,36-45,28,Instagram,0.0532,6342.22,4.85,UK
+CAMP00010,Delta Solutions,Search,26-35,27,Facebook,0.2506,11712.11,3.83,Germany
+CAMP00011,Delta Solutions,Influencer,18-25,19,Google,0.2526,5388.64,6.31,India
+CAMP00012,Beta Ltd,Influencer,26-35,17,Facebook,0.2462,14739.98,6.05,Germany
+CAMP00013,Alpha Corp,Email,36-45,39,Instagram,0.1971,2793.47,4.54,India
+CAMP00014,Delta Solutions,Search,46-60,47,YouTube,0.1161,8905.7,1.15,UK
+CAMP00015,Gamma Inc,Influencer,18-25,6,LinkedIn,0.0982,1436.52,7.45,Australia
+CAMP00016,Alpha Corp,Influencer,26-35,24,Google,0.0125,11034.57,3.92,India
+CAMP00017,Alpha Corp,Display,36-45,19,Google,0.2517,14921.83,3.23,India
+CAMP00018,Alpha Corp,Email,18-25,24,YouTube,0.0354,12305.17,5.22,India
+CAMP00019,Delta Solutions,Search,18-25,19,Google,0.1929,8379.98,5.55,UK
+CAMP00020,Beta Ltd,Social Media,36-45,16,Email,0.1562,7322.65,2.08,Germany
+CAMP00021,Beta Ltd,Search,26-35,16,Instagram,0.1627,12541.95,6.78,UK
+CAMP00022,Gamma Inc,Search,26-35,19,Google,0.2787,14046.01,2.67,India
+CAMP00023,Delta Solutions,Display,26-35,10,Facebook,0.0192,14839.18,1.9,India
+CAMP00024,Alpha Corp,Search,18-25,36,LinkedIn,0.2343,6008.43,3.55,Australia
+CAMP00025,Gamma Inc,Display,46-60,28,Instagram,0.0251,14864.67,5.98,UK
+CAMP00026,Gamma Inc,Display,18-25,47,YouTube,0.0211,2423.3,7.74,UK
+CAMP00027,Beta Ltd,Influencer,26-35,32,Facebook,0.1346,3877.89,6.57,USA
+CAMP00028,Alpha Corp,Social Media,18-25,24,Email,0.0283,1426.34,7.55,Germany
+CAMP00029,Alpha Corp,Display,46-60,18,Google,0.2389,4148.9,1.55,USA
+CAMP00030,Delta Solutions,Email,18-25,32,Facebook,0.1636,11542.27,1.03,USA
+CAMP00031,Delta Solutions,Email,36-45,18,Instagram,0.0184,12808.57,4.68,Germany
+CAMP00032,Delta Solutions,Social Media,26-35,40,Facebook,0.0217,11705.5,2.68,Australia
+CAMP00033,Gamma Inc,Display,26-35,56,Email,0.1877,9502.88,6.71,Australia
+CAMP00034,Alpha Corp,Social Media,26-35,26,LinkedIn,0.2438,7758.1,5.54,Germany
+CAMP00035,Beta Ltd,Influencer,18-25,38,Google,0.137,10659.69,7.78,Germany
+CAMP00036,Gamma Inc,Email,18-25,37,Instagram,0.1708,5923.42,2.41,UK
+CAMP00037,Gamma Inc,Search,18-25,8,Google,0.242,12635.49,4.14,UK
+CAMP00038,Beta Ltd,Email,26-35,6,Google,0.187,10190.13,4.26,UK
+CAMP00039,Beta Ltd,Display,18-25,20,YouTube,0.0752,10497.29,2.29,UK
+CAMP00040,Delta Solutions,Social Media,26-35,8,Google,0.1878,8085.45,4.93,India
+CAMP00041,Beta Ltd,Email,18-25,28,Facebook,0.1922,13289.91,3.82,India
+CAMP00042,Beta Ltd,Search,26-35,39,Facebook,0.2229,3855.02,3.85,Australia
+CAMP00043,Beta Ltd,Search,36-45,29,LinkedIn,0.1901,5779.1,3.22,India
+CAMP00044,Beta Ltd,Social Media,18-25,43,Email,0.2911,11686.87,0.63,India
+CAMP00045,Delta Solutions,Social Media,26-35,13,Instagram,0.0672,7441.96,4.42,UK
+CAMP00046,Gamma Inc,Email,36-45,40,Facebook,0.2858,13349.29,3.01,UK
+CAMP00047,Alpha Corp,Display,36-45,18,Google,0.1661,5261.35,0.51,Germany
+CAMP00048,Alpha Corp,Influencer,46-60,21,Email,0.2049,5603.02,2.81,UK
+CAMP00049,Gamma Inc,Search,18-25,45,Instagram,0.0388,13342.16,2.59,Germany
+CAMP00050,Alpha Corp,Social Media,26-35,55,Instagram,0.1204,7019.12,3.45,Germany
+CAMP00051,Alpha Corp,Influencer,46-60,17,Instagram,0.2331,7790.26,1.49,India
+CAMP00052,Gamma Inc,Influencer,18-25,28,Instagram,0.215,5058.18,4.31,UK
+CAMP00053,Alpha Corp,Influencer,36-45,58,LinkedIn,0.0216,4222.38,5.69,India
+CAMP00054,Alpha Corp,Display,18-25,43,Instagram,0.1685,9873.64,5.23,UK
+CAMP00055,Gamma Inc,Social Media,26-35,58,Email,0.0356,1885.63,6.53,India
+CAMP00056,Alpha Corp,Search,36-45,33,Facebook,0.2988,13201.16,3.89,India
+CAMP00057,Beta Ltd,Social Media,46-60,21,Email,0.2702,11710.13,4.39,India
+CAMP00058,Gamma Inc,Email,18-25,59,Google,0.0161,2942.15,6.58,Australia
+CAMP00059,Delta Solutions,Search,18-25,53,YouTube,0.259,10440.9,3.71,India
+CAMP00060,Alpha Corp,Social Media,46-60,26,LinkedIn,0.2766,9079.23,5.76,USA
+CAMP00061,Delta Solutions,Search,18-25,60,LinkedIn,0.1125,2849.57,3.76,USA
+CAMP00062,Alpha Corp,Email,18-25,11,Google,0.2187,4170.73,3.63,USA
+CAMP00063,Beta Ltd,Search,18-25,25,Email,0.1382,6193.9,6.2,Germany
+CAMP00064,Gamma Inc,Influencer,36-45,6,Email,0.2,10518.72,1.81,India
+CAMP00065,Delta Solutions,Display,36-45,12,Google,0.1087,9616.98,3.04,USA
+CAMP00066,Gamma Inc,Email,26-35,11,YouTube,0.1035,8030.3,2.18,Germany
+CAMP00067,Delta Solutions,Search,18-25,21,Instagram,0.1331,11549.32,3.19,USA
+CAMP00068,Alpha Corp,Email,26-35,17,Instagram,0.0522,11393.27,2.23,UK
+CAMP00069,Beta Ltd,Influencer,36-45,53,Facebook,0.251,9306.1,4.85,Australia
+CAMP00070,Delta Solutions,Display,18-25,36,Email,0.1111,11826.15,6.49,India
+CAMP00071,Delta Solutions,Email,26-35,44,Email,0.126,5080.52,6.4,Australia
+CAMP00072,Beta Ltd,Influencer,18-25,21,Google,0.2693,13230.62,3.23,Australia
+CAMP00073,Beta Ltd,Influencer,18-25,51,Google,0.154,9262.16,7.92,UK
+CAMP00074,Beta Ltd,Influencer,46-60,54,Instagram,0.1678,12353.22,4.95,UK
+CAMP00075,Beta Ltd,Search,26-35,58,Email,0.2874,8239.56,3.5,UK
+CAMP00076,Beta Ltd,Social Media,36-45,23,Email,0.2672,3354.73,6.77,Germany
+CAMP00077,Gamma Inc,Email,26-35,36,LinkedIn,0.0591,8181.91,5.97,USA
+CAMP00078,Alpha Corp,Social Media,26-35,53,Facebook,0.1472,5629.56,6.12,India
+CAMP00079,Alpha Corp,Influencer,26-35,19,Facebook,0.2917,10492.74,1.97,UK
+CAMP00080,Delta Solutions,Social Media,46-60,20,Instagram,0.118,7189.33,4.01,India
+CAMP00081,Beta Ltd,Influencer,18-25,19,YouTube,0.1178,12558.08,6.96,India
+CAMP00082,Gamma Inc,Influencer,36-45,4,Email,0.0666,10203.28,4.28,India
+CAMP00083,Gamma Inc,Display,46-60,53,LinkedIn,0.0432,10299.71,5.63,UK
+CAMP00084,Delta Solutions,Display,36-45,3,Email,0.2247,3335.61,4.91,UK
+CAMP00085,Beta Ltd,Social Media,46-60,45,Google,0.2333,14765.32,6.82,USA
+CAMP00086,Alpha Corp,Email,18-25,59,Instagram,0.291,12640.96,2.63,UK
+CAMP00087,Beta Ltd,Social Media,36-45,12,YouTube,0.2343,11856.17,4.82,UK
+CAMP00088,Gamma Inc,Email,26-35,39,Facebook,0.0806,5020.21,1.42,India
+CAMP00089,Beta Ltd,Social Media,46-60,50,Email,0.0216,8080.91,5.68,USA
+CAMP00090,Alpha Corp,Search,36-45,58,YouTube,0.2958,2142.84,5.99,Australia
+CAMP00091,Alpha Corp,Search,18-25,7,Instagram,0.1087,8123.29,0.82,UK
+CAMP00092,Delta Solutions,Email,36-45,58,Facebook,0.1005,2273.75,5.57,UK
+CAMP00093,Gamma Inc,Display,46-60,57,Email,0.2727,8340.26,3.61,Australia
+CAMP00094,Beta Ltd,Email,18-25,14,LinkedIn,0.1797,9765.96,1.43,India
+CAMP00095,Beta Ltd,Social Media,26-35,38,Instagram,0.0723,5913.92,3.65,USA
+CAMP00096,Delta Solutions,Influencer,46-60,33,Email,0.2678,7528.32,1.96,India
+CAMP00097,Delta Solutions,Search,46-60,57,Facebook,0.2981,13147.24,3.62,Germany
+CAMP00098,Delta Solutions,Influencer,18-25,40,Facebook,0.0351,1717.59,3.38,UK
+CAMP00099,Gamma Inc,Search,46-60,53,LinkedIn,0.2601,11896.82,6.04,Germany
+CAMP00100,Beta Ltd,Social Media,36-45,11,Instagram,0.1232,2644.24,6.31,UK
+CAMP00101,Delta Solutions,Search,26-35,46,Instagram,0.162,646.95,5.05,Germany
+CAMP00102,Gamma Inc,Email,36-45,28,YouTube,0.2753,2865.06,0.67,Australia
+CAMP00103,Beta Ltd,Influencer,18-25,17,Email,0.2923,11499.14,7.48,UK
+CAMP00104,Alpha Corp,Influencer,46-60,18,YouTube,0.086,6136.38,5.65,UK
+CAMP00105,Delta Solutions,Social Media,26-35,15,Facebook,0.0717,13100.56,0.76,Germany
+CAMP00106,Gamma Inc,Influencer,18-25,27,Facebook,0.0333,7918.14,6.64,USA
+CAMP00107,Beta Ltd,Social Media,36-45,32,LinkedIn,0.1729,431.53,2.0,Germany
+CAMP00108,Beta Ltd,Display,46-60,55,LinkedIn,0.0139,10779.03,4.84,UK
+CAMP00109,Delta Solutions,Email,46-60,58,Instagram,0.1295,1742.47,4.0,UK
+CAMP00110,Delta Solutions,Search,18-25,9,YouTube,0.0313,11861.76,3.65,USA
+CAMP00111,Beta Ltd,Search,36-45,59,Facebook,0.1275,2604.73,7.17,India
+CAMP00112,Gamma Inc,Search,46-60,57,Email,0.0216,5247.15,3.78,USA
+CAMP00113,Alpha Corp,Display,36-45,54,Google,0.2522,11442.94,1.07,India
+CAMP00114,Beta Ltd,Email,26-35,6,Email,0.0708,14318.05,7.6,UK
+CAMP00115,Gamma Inc,Influencer,46-60,45,LinkedIn,0.1052,5634.37,7.4,Australia
+CAMP00116,Delta Solutions,Influencer,26-35,42,Email,0.2623,12458.06,5.63,Australia
+CAMP00117,Beta Ltd,Email,46-60,40,Facebook,0.2264,2942.8,4.01,Germany
+CAMP00118,Delta Solutions,Email,18-25,59,YouTube,0.0735,12126.98,1.2,USA
+CAMP00119,Alpha Corp,Search,46-60,32,Instagram,0.0309,9896.66,6.43,USA
+CAMP00120,Delta Solutions,Influencer,46-60,12,YouTube,0.2175,2971.88,1.07,Australia
+CAMP00121,Alpha Corp,Email,36-45,32,Google,0.1233,4607.31,1.01,India
+CAMP00122,Delta Solutions,Influencer,36-45,41,Instagram,0.2322,2063.39,4.53,USA
+CAMP00123,Delta Solutions,Email,26-35,9,Google,0.1391,5806.21,1.7,India
+CAMP00124,Alpha Corp,Social Media,26-35,38,Google,0.1103,3134.36,0.56,India
+CAMP00125,Delta Solutions,Search,26-35,37,Facebook,0.1408,9695.57,3.67,India
+CAMP00126,Gamma Inc,Email,46-60,26,Facebook,0.2271,14918.13,1.53,India
+CAMP00127,Delta Solutions,Display,46-60,41,LinkedIn,0.2716,278.94,1.7,Germany
+CAMP00128,Beta Ltd,Email,26-35,38,LinkedIn,0.0244,8159.71,1.08,Germany
+CAMP00129,Delta Solutions,Social Media,18-25,47,Google,0.162,8647.63,2.04,Australia
+CAMP00130,Gamma Inc,Display,18-25,22,YouTube,0.0195,13721.71,5.87,Germany
+CAMP00131,Beta Ltd,Display,46-60,51,LinkedIn,0.1458,7639.48,6.57,USA
+CAMP00132,Gamma Inc,Email,18-25,34,Facebook,0.2667,8201.15,3.89,Germany
+CAMP00133,Beta Ltd,Social Media,18-25,41,LinkedIn,0.1149,7127.63,4.3,USA
+CAMP00134,Delta Solutions,Display,26-35,51,Google,0.2804,4106.67,0.74,USA
+CAMP00135,Gamma Inc,Search,18-25,28,Instagram,0.1929,934.83,1.02,India
+CAMP00136,Delta Solutions,Search,18-25,28,YouTube,0.2809,6189.0,2.43,Australia
+CAMP00137,Beta Ltd,Influencer,46-60,38,YouTube,0.2296,883.61,4.58,India
+CAMP00138,Gamma Inc,Influencer,46-60,45,Email,0.04,8302.34,6.05,India
+CAMP00139,Alpha Corp,Social Media,46-60,37,LinkedIn,0.077,4678.68,5.04,Germany
+CAMP00140,Gamma Inc,Display,18-25,45,YouTube,0.1243,8050.68,3.44,Germany
+CAMP00141,Delta Solutions,Search,26-35,37,Facebook,0.0593,2101.02,1.39,USA
+CAMP00142,Alpha Corp,Search,36-45,14,Instagram,0.1535,13996.19,6.36,Germany
+CAMP00143,Alpha Corp,Social Media,46-60,35,Facebook,0.1467,13428.37,3.23,Germany
+CAMP00144,Beta Ltd,Display,46-60,38,LinkedIn,0.2873,2930.95,6.02,UK
+CAMP00145,Alpha Corp,Social Media,46-60,16,Google,0.1358,5217.32,4.35,USA
+CAMP00146,Alpha Corp,Email,26-35,35,Email,0.2378,9241.04,6.04,USA
+CAMP00147,Beta Ltd,Search,36-45,48,Email,0.2832,1525.72,7.3,UK
+CAMP00148,Gamma Inc,Social Media,36-45,47,Instagram,0.2643,5383.06,7.41,USA
+CAMP00149,Delta Solutions,Social Media,46-60,47,YouTube,0.0705,3841.57,4.51,Australia
+CAMP00150,Gamma Inc,Email,18-25,26,YouTube,0.1538,13741.2,4.34,Australia
+CAMP00151,Alpha Corp,Influencer,46-60,17,YouTube,0.1108,12802.41,2.49,UK
+CAMP00152,Delta Solutions,Search,46-60,33,Email,0.126,8739.51,7.52,Germany
+CAMP00153,Gamma Inc,Social Media,18-25,19,Google,0.1146,7853.16,3.93,Australia
+CAMP00154,Delta Solutions,Search,18-25,14,YouTube,0.2496,13967.81,1.46,UK
+CAMP00155,Alpha Corp,Influencer,46-60,24,Facebook,0.1411,13993.17,3.75,Australia
+CAMP00156,Gamma Inc,Social Media,26-35,25,YouTube,0.1619,14543.02,1.45,India
+CAMP00157,Delta Solutions,Email,26-35,28,Google,0.2949,1968.15,4.27,UK
+CAMP00158,Delta Solutions,Search,18-25,16,Instagram,0.0274,2492.31,4.71,USA
+CAMP00159,Gamma Inc,Email,46-60,14,Instagram,0.1515,10183.38,3.03,Australia
+CAMP00160,Gamma Inc,Influencer,26-35,52,Email,0.2345,8167.37,1.04,USA
+CAMP00161,Alpha Corp,Influencer,46-60,6,Google,0.0538,375.14,7.58,UK
+CAMP00162,Beta Ltd,Search,46-60,48,Facebook,0.1873,1023.43,6.3,Australia
+CAMP00163,Delta Solutions,Influencer,46-60,53,Google,0.0794,13332.4,6.79,USA
+CAMP00164,Gamma Inc,Display,26-35,15,Facebook,0.2615,13046.17,3.25,Germany
+CAMP00165,Gamma Inc,Search,36-45,59,Facebook,0.1049,5423.34,6.21,Germany
+CAMP00166,Gamma Inc,Display,46-60,57,Google,0.1054,13376.65,4.14,India
+CAMP00167,Delta Solutions,Influencer,26-35,20,LinkedIn,0.1835,8945.76,2.01,UK
+CAMP00168,Alpha Corp,Search,36-45,45,Google,0.0632,12107.99,1.43,USA
+CAMP00169,Beta Ltd,Display,18-25,30,Facebook,0.0926,6468.72,3.09,India
+CAMP00170,Delta Solutions,Influencer,26-35,40,YouTube,0.1308,1789.64,1.53,UK
+CAMP00171,Alpha Corp,Social Media,36-45,43,Instagram,0.1126,6562.53,7.99,Germany
+CAMP00172,Delta Solutions,Social Media,26-35,46,Instagram,0.1622,6913.77,0.87,USA
+CAMP00173,Delta Solutions,Email,36-45,21,Email,0.1839,8309.07,3.81,Australia
+CAMP00174,Gamma Inc,Social Media,36-45,48,Instagram,0.1743,1673.18,3.89,Germany
+CAMP00175,Alpha Corp,Display,26-35,49,LinkedIn,0.1997,14871.89,2.75,Australia
+CAMP00176,Gamma Inc,Social Media,18-25,45,Facebook,0.0992,3737.64,4.79,Australia
+CAMP00177,Gamma Inc,Search,46-60,40,Google,0.0467,3058.43,1.62,USA
+CAMP00178,Alpha Corp,Search,36-45,48,Google,0.2306,7949.36,6.38,USA
+CAMP00179,Gamma Inc,Search,46-60,5,LinkedIn,0.2567,8104.4,2.99,Australia
+CAMP00180,Gamma Inc,Social Media,18-25,21,Instagram,0.0845,6653.33,4.94,India
+CAMP00181,Beta Ltd,Social Media,46-60,22,Facebook,0.1281,11601.19,5.87,Australia
+CAMP00182,Alpha Corp,Email,46-60,27,Instagram,0.1546,7798.15,7.17,Australia
+CAMP00183,Alpha Corp,Influencer,26-35,13,Email,0.1647,9184.46,6.77,USA
+CAMP00184,Gamma Inc,Email,26-35,58,Instagram,0.2013,10883.82,5.06,UK
+CAMP00185,Gamma Inc,Display,18-25,19,Email,0.0221,472.87,3.41,Germany
+CAMP00186,Alpha Corp,Search,26-35,51,Google,0.2192,8602.6,4.27,USA
+CAMP00187,Alpha Corp,Social Media,36-45,57,Facebook,0.028,13274.5,6.27,India
+CAMP00188,Delta Solutions,Influencer,18-25,37,YouTube,0.1458,359.09,7.08,Germany
+CAMP00189,Alpha Corp,Influencer,26-35,16,Email,0.25,6137.21,1.28,USA
+CAMP00190,Delta Solutions,Social Media,26-35,41,Instagram,0.1409,13900.79,3.39,USA
+CAMP00191,Gamma Inc,Email,18-25,59,Instagram,0.0532,5362.0,6.32,UK
+CAMP00192,Beta Ltd,Influencer,36-45,21,Google,0.2957,6935.06,3.74,India
+CAMP00193,Beta Ltd,Email,18-25,5,LinkedIn,0.2679,14724.97,2.99,India
+CAMP00194,Delta Solutions,Social Media,26-35,36,YouTube,0.2337,3069.93,3.58,USA
+CAMP00195,Gamma Inc,Email,26-35,60,LinkedIn,0.1293,1072.3,5.02,UK
+CAMP00196,Gamma Inc,Search,18-25,51,Instagram,0.0633,12905.4,8.0,USA
+CAMP00197,Gamma Inc,Social Media,36-45,43,LinkedIn,0.283,13040.13,4.2,Australia
+CAMP00198,Alpha Corp,Social Media,36-45,24,YouTube,0.1644,7133.96,2.06,Australia
+CAMP00199,Gamma Inc,Influencer,46-60,40,YouTube,0.2572,7761.69,1.72,UK
+CAMP00200,Alpha Corp,Influencer,36-45,58,Facebook,0.1092,12553.51,0.82,USA

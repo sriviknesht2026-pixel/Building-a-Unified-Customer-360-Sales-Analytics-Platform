@@ -1,0 +1,501 @@
+customer_id,customer_name,email,gender,age,country,city,income,education,marital_status,registration_date,customer_status
+CUST00001,Customer 1,customer1@example.com,Male,24,Singapore,Hyderabad,42153,Graduate,Married,2026-04-01,Active
+CUST00002,Customer 2,customer2@example.com,Female,47,Germany,Pune,84765,High School,Divorced,2025-01-19,Active
+CUST00003,Customer 3,customer3@example.com,Male,37,France,Chennai,133212,PhD,Divorced,2024-06-20,Active
+CUST00004,Customer 4,customer4@example.com,Male,32,Singapore,New York,64071,PhD,Married,2025-01-10,Active
+CUST00005,Customer 5,customer5@example.com,Male,42,UK,Pune,137990,PhD,Married,2025-11-15,Active
+CUST00006,Customer 6,customer6@example.com,Female,37,France,Pune,94519,High School,Divorced,2024-12-27,Active
+CUST00007,Customer 7,customer7@example.com,Male,30,France,Coimbatore,34503,Graduate,Single,2025-07-12,Active
+CUST00008,Customer 8,customer8@example.com,Male,21,Singapore,Delhi,120457,Postgraduate,Married,2026-06-09,Active
+CUST00009,Customer 9,customer9@example.com,Female,42,USA,Hyderabad,172977,Graduate,Divorced,2024-05-20,Active
+CUST00010,Customer 10,customer10@example.com,Male,46,UK,Delhi,70838,High School,Divorced,2026-06-05,Active
+CUST00011,Customer 11,customer11@example.com,Female,38,Singapore,Mumbai,150200,Postgraduate,Divorced,2024-04-27,Active
+CUST00012,Customer 12,customer12@example.com,Male,34,UK,Coimbatore,114489,High School,Divorced,2024-10-03,Active
+CUST00013,Customer 13,customer13@example.com,Female,49,UK,New York,51806,PhD,Single,2025-12-26,Inactive
+CUST00014,Customer 14,customer14@example.com,Female,32,France,Delhi,178240,PhD,Divorced,2024-08-07,Inactive
+CUST00015,Customer 15,customer15@example.com,Male,56,Germany,Bengaluru,95119,High School,Married,2024-01-26,Active
+CUST00016,Customer 16,customer16@example.com,Male,55,UK,Berlin,63714,Postgraduate,Single,2025-06-04,Active
+CUST00017,Customer 17,customer17@example.com,Male,32,Australia,Mumbai,80419,Postgraduate,Divorced,2026-02-21,Active
+CUST00018,Customer 18,customer18@example.com,Male,27,France,Chennai,130432,Graduate,Single,2024-01-10,Active
+CUST00019,Customer 19,customer19@example.com,Other,49,USA,New York,117949,PhD,Married,2025-01-12,Active
+CUST00020,Customer 20,customer20@example.com,Male,31,Germany,Mumbai,158533,Graduate,Divorced,2025-09-24,Inactive
+CUST00021,Customer 21,customer21@example.com,Female,53,Australia,Berlin,170363,Graduate,Married,2025-09-28,Inactive
+CUST00022,Customer 22,customer22@example.com,Male,26,Australia,Coimbatore,101971,High School,Divorced,2025-11-12,Active
+CUST00023,Customer 23,customer23@example.com,Female,35,USA,Berlin,118471,High School,Divorced,2025-08-06,Active
+CUST00024,Customer 24,customer24@example.com,Female,52,Germany,Pune,89946,Graduate,Divorced,2024-05-31,Active
+CUST00025,Customer 25,customer25@example.com,Female,31,France,Berlin,123989,PhD,Divorced,2025-12-20,Active
+CUST00026,Customer 26,customer26@example.com,Male,43,India,Pune,109080,High School,Divorced,2024-02-18,Active
+CUST00027,Customer 27,customer27@example.com,Male,46,Germany,Coimbatore,102794,Graduate,Single,2024-06-02,Active
+CUST00028,Customer 28,customer28@example.com,Male,54,USA,London,55841,Graduate,Divorced,2026-05-08,Active
+CUST00029,Customer 29,customer29@example.com,Female,54,Australia,Pune,149447,Graduate,Divorced,2024-10-19,Active
+CUST00030,Customer 30,customer30@example.com,Female,49,France,Chennai,145029,Graduate,Single,2025-08-02,Active
+CUST00031,Customer 31,customer31@example.com,Other,24,Germany,Berlin,101272,Graduate,Single,2024-02-19,Inactive
+CUST00032,Customer 32,customer32@example.com,Male,37,India,Berlin,62643,Graduate,Single,2025-10-25,Active
+CUST00033,Customer 33,customer33@example.com,Female,55,India,Chennai,68950,High School,Single,2025-06-14,Active
+CUST00034,Customer 34,customer34@example.com,Female,33,UK,Bengaluru,125500,PhD,Single,2025-09-03,Active
+CUST00035,Customer 35,customer35@example.com,Male,61,UK,Hyderabad,150588,Graduate,Single,2024-02-29,Active
+CUST00036,Customer 36,customer36@example.com,Male,59,Singapore,London,40997,Postgraduate,Divorced,2024-06-15,Active
+CUST00037,Customer 37,customer37@example.com,Female,35,USA,New York,104751,High School,Divorced,2024-07-20,Active
+CUST00038,Customer 38,customer38@example.com,Female,49,Germany,Pune,123605,High School,Married,2026-05-06,Inactive
+CUST00039,Customer 39,customer39@example.com,Female,49,Germany,Chennai,179983,Graduate,Divorced,2024-05-25,Active
+CUST00040,Customer 40,customer40@example.com,Male,31,Singapore,Coimbatore,80533,High School,Divorced,2025-11-06,Inactive
+CUST00041,Customer 41,customer41@example.com,Female,52,Australia,Pune,107566,Graduate,Single,2025-03-14,Active
+CUST00042,Customer 42,customer42@example.com,Male,22,Australia,Hyderabad,170643,PhD,Single,2024-08-29,Active
+CUST00043,Customer 43,customer43@example.com,Male,34,Singapore,Coimbatore,133255,PhD,Divorced,2025-08-03,Active
+CUST00044,Customer 44,customer44@example.com,Male,40,Australia,Mumbai,83005,High School,Married,2025-11-17,Active
+CUST00045,Customer 45,customer45@example.com,Female,42,UK,Berlin,68541,High School,Single,2025-07-14,Active
+CUST00046,Customer 46,customer46@example.com,Female,31,Germany,Mumbai,48387,Postgraduate,Divorced,2025-04-27,Active
+CUST00047,Customer 47,customer47@example.com,Female,47,Singapore,Pune,118980,High School,Divorced,2024-04-17,Active
+CUST00048,Customer 48,customer48@example.com,Male,23,Germany,Hyderabad,110457,Postgraduate,Married,2024-08-13,Inactive
+CUST00049,Customer 49,customer49@example.com,Female,37,India,London,169129,PhD,Married,2025-11-03,Inactive
+CUST00050,Customer 50,customer50@example.com,Male,64,UK,Pune,89028,PhD,Single,2025-09-22,Inactive
+CUST00051,Customer 51,customer51@example.com,Female,48,France,Chennai,144246,Graduate,Married,2025-10-22,Active
+CUST00052,Customer 52,customer52@example.com,Male,49,UK,Delhi,80731,PhD,Divorced,2025-10-23,Active
+CUST00053,Customer 53,customer53@example.com,Male,41,Singapore,Pune,69638,Postgraduate,Divorced,2025-03-07,Active
+CUST00054,Customer 54,customer54@example.com,Male,36,France,Berlin,45567,High School,Married,2026-03-15,Active
+CUST00055,Customer 55,customer55@example.com,Male,57,India,Berlin,82804,Graduate,Married,2025-10-16,Active
+CUST00056,Customer 56,customer56@example.com,Female,40,Singapore,Pune,133821,Postgraduate,Married,2025-02-22,Active
+CUST00057,Customer 57,customer57@example.com,Female,26,USA,Coimbatore,28754,High School,Married,2025-03-30,Active
+CUST00058,Customer 58,customer58@example.com,Male,39,Germany,Delhi,52044,Graduate,Single,2024-06-08,Active
+CUST00059,Customer 59,customer59@example.com,Female,25,India,Chennai,92260,PhD,Married,2025-06-06,Inactive
+CUST00060,Customer 60,customer60@example.com,Male,23,Germany,Pune,91912,Postgraduate,Single,2025-10-11,Active
+CUST00061,Customer 61,customer61@example.com,Female,21,Australia,Coimbatore,33706,High School,Divorced,2025-08-12,Active
+CUST00062,Customer 62,customer62@example.com,Female,58,USA,Berlin,33894,Graduate,Married,2024-03-17,Active
+CUST00063,Customer 63,customer63@example.com,Female,35,USA,Berlin,174109,Graduate,Single,2025-05-23,Inactive
+CUST00064,Customer 64,customer64@example.com,Male,54,India,Hyderabad,108986,PhD,Married,2025-03-16,Active
+CUST00065,Customer 65,customer65@example.com,Female,55,USA,Pune,106942,High School,Divorced,2024-09-10,Active
+CUST00066,Customer 66,customer66@example.com,Female,45,France,Delhi,54725,PhD,Divorced,2026-02-08,Active
+CUST00067,Customer 67,customer67@example.com,Male,44,USA,Bengaluru,161998,PhD,Divorced,2024-11-15,Active
+CUST00068,Customer 68,customer68@example.com,Male,32,Germany,Delhi,129555,High School,Married,2026-03-13,Active
+CUST00069,Customer 69,customer69@example.com,Female,38,Germany,Berlin,34496,High School,Married,2024-09-19,Active
+CUST00070,Customer 70,customer70@example.com,Female,35,Singapore,Berlin,81447,High School,Single,2025-08-19,Active
+CUST00071,Customer 71,customer71@example.com,Female,64,Germany,Mumbai,126604,Postgraduate,Divorced,2025-10-19,Active
+CUST00072,Customer 72,customer72@example.com,Female,36,Singapore,Berlin,113199,High School,Married,2026-04-14,Active
+CUST00073,Customer 73,customer73@example.com,Female,47,Germany,Chennai,66321,Graduate,Divorced,2025-07-07,Inactive
+CUST00074,Customer 74,customer74@example.com,Male,28,France,New York,178728,PhD,Divorced,2025-01-08,Active
+CUST00075,Customer 75,customer75@example.com,Male,45,Singapore,Pune,80147,Postgraduate,Single,2025-09-28,Active
+CUST00076,Customer 76,customer76@example.com,Male,37,UK,Delhi,116396,High School,Single,2024-06-15,Active
+CUST00077,Customer 77,customer77@example.com,Female,49,Australia,New York,63787,Postgraduate,Single,2026-01-22,Active
+CUST00078,Customer 78,customer78@example.com,Male,28,India,Coimbatore,46727,High School,Single,2025-04-03,Active
+CUST00079,Customer 79,customer79@example.com,Female,35,Germany,Bengaluru,120081,Postgraduate,Divorced,2024-10-06,Active
+CUST00080,Customer 80,customer80@example.com,Female,47,USA,Chennai,147721,PhD,Single,2025-11-30,Active
+CUST00081,Customer 81,customer81@example.com,Female,27,Germany,Delhi,93056,PhD,Single,2024-10-28,Active
+CUST00082,Customer 82,customer82@example.com,Male,23,USA,New York,159153,Graduate,Single,2025-06-14,Active
+CUST00083,Customer 83,customer83@example.com,Female,49,Australia,Bengaluru,105102,Graduate,Single,2025-08-02,Active
+CUST00084,Customer 84,customer84@example.com,Male,64,Australia,Mumbai,101865,High School,Divorced,2024-08-05,Inactive
+CUST00085,Customer 85,customer85@example.com,Female,44,Australia,Chennai,92695,PhD,Single,2024-04-11,Active
+CUST00086,Customer 86,customer86@example.com,Male,23,USA,Chennai,142235,Postgraduate,Divorced,2025-07-07,Active
+CUST00087,Customer 87,customer87@example.com,Male,40,Germany,Mumbai,133777,Postgraduate,Married,2024-10-14,Active
+CUST00088,Customer 88,customer88@example.com,Female,35,Australia,Pune,44033,Postgraduate,Divorced,2024-06-15,Active
+CUST00089,Customer 89,customer89@example.com,Male,45,France,Mumbai,166877,Graduate,Divorced,2025-09-12,Active
+CUST00090,Customer 90,customer90@example.com,Male,50,Singapore,Chennai,51832,Postgraduate,Single,2024-02-05,Active
+CUST00091,Customer 91,customer91@example.com,Female,34,USA,Chennai,140725,Graduate,Married,2026-01-13,Inactive
+CUST00092,Customer 92,customer92@example.com,Female,27,USA,New York,170016,Graduate,Married,2026-01-10,Active
+CUST00093,Customer 93,customer93@example.com,Female,37,Germany,Berlin,44873,High School,Married,2024-12-18,Active
+CUST00094,Customer 94,customer94@example.com,Female,64,USA,Bengaluru,65372,Postgraduate,Married,2025-11-06,Active
+CUST00095,Customer 95,customer95@example.com,Female,40,USA,Mumbai,114464,Postgraduate,Divorced,2026-06-17,Active
+CUST00096,Customer 96,customer96@example.com,Male,56,Australia,Bengaluru,171451,PhD,Married,2024-03-13,Active
+CUST00097,Customer 97,customer97@example.com,Male,29,Germany,Mumbai,142322,High School,Divorced,2025-10-09,Active
+CUST00098,Customer 98,customer98@example.com,Male,58,Australia,Coimbatore,125082,PhD,Divorced,2024-12-18,Active
+CUST00099,Customer 99,customer99@example.com,Female,42,Singapore,Chennai,30110,High School,Divorced,2026-06-09,Active
+CUST00100,Customer 100,customer100@example.com,Female,22,Singapore,Berlin,37087,Postgraduate,Married,2024-03-10,Active
+CUST00101,Customer 101,customer101@example.com,Male,44,Australia,New York,179834,Graduate,Single,2025-02-28,Active
+CUST00102,Customer 102,customer102@example.com,Male,28,Singapore,Berlin,107617,Graduate,Single,2025-12-08,Active
+CUST00103,Customer 103,customer103@example.com,Female,31,Germany,Berlin,125483,Graduate,Married,2026-02-19,Inactive
+CUST00104,Customer 104,customer104@example.com,Male,33,India,Berlin,34596,Graduate,Single,2025-07-14,Active
+CUST00105,Customer 105,customer105@example.com,Female,37,Australia,Bengaluru,132539,Graduate,Single,2026-04-07,Inactive
+CUST00106,Customer 106,customer106@example.com,Female,28,France,Mumbai,43313,PhD,Divorced,2025-10-03,Active
+CUST00107,Customer 107,customer107@example.com,Female,41,France,London,138175,High School,Divorced,2025-05-31,Active
+CUST00108,Customer 108,customer108@example.com,Male,38,USA,Coimbatore,139914,Postgraduate,Married,2025-03-03,Active
+CUST00109,Customer 109,customer109@example.com,Female,50,Singapore,Delhi,48705,PhD,Married,2025-06-22,Active
+CUST00110,Customer 110,customer110@example.com,Female,38,France,Berlin,98445,High School,Single,2024-06-08,Active
+CUST00111,Customer 111,customer111@example.com,Female,51,USA,Pune,128892,Graduate,Divorced,2024-05-28,Active
+CUST00112,Customer 112,customer112@example.com,Female,58,India,Bengaluru,27023,High School,Married,2026-02-14,Active
+CUST00113,Customer 113,customer113@example.com,Female,52,Germany,New York,144654,High School,Married,2024-08-17,Active
+CUST00114,Customer 114,customer114@example.com,Female,31,Germany,Delhi,105073,Graduate,Married,2025-12-12,Active
+CUST00115,Customer 115,customer115@example.com,Male,45,Germany,London,117197,Graduate,Married,2025-07-15,Active
+CUST00116,Customer 116,customer116@example.com,Female,53,France,Pune,89429,Graduate,Married,2024-03-07,Inactive
+CUST00117,Customer 117,customer117@example.com,Female,58,India,London,129195,Postgraduate,Married,2026-03-22,Active
+CUST00118,Customer 118,customer118@example.com,Male,61,France,Delhi,58848,Graduate,Single,2025-01-15,Active
+CUST00119,Customer 119,customer119@example.com,Female,28,Singapore,Berlin,171451,Postgraduate,Divorced,2024-02-27,Active
+CUST00120,Customer 120,customer120@example.com,Female,31,France,Pune,52766,Graduate,Divorced,2024-09-15,Active
+CUST00121,Customer 121,customer121@example.com,Female,42,India,London,93099,Postgraduate,Married,2024-12-07,Active
+CUST00122,Customer 122,customer122@example.com,Male,44,India,New York,94122,High School,Divorced,2026-04-17,Active
+CUST00123,Customer 123,customer123@example.com,Male,61,Singapore,Mumbai,172159,PhD,Divorced,2024-05-09,Active
+CUST00124,Customer 124,customer124@example.com,Other,37,India,Chennai,73868,High School,Divorced,2025-12-27,Active
+CUST00125,Customer 125,customer125@example.com,Female,32,India,Mumbai,144119,High School,Married,2024-06-20,Active
+CUST00126,Customer 126,customer126@example.com,Male,52,Germany,Delhi,179297,Graduate,Married,2026-02-08,Active
+CUST00127,Customer 127,customer127@example.com,Female,35,Singapore,Bengaluru,120286,Postgraduate,Divorced,2025-09-05,Inactive
+CUST00128,Customer 128,customer128@example.com,Female,36,UK,Chennai,31643,PhD,Divorced,2024-07-27,Active
+CUST00129,Customer 129,customer129@example.com,Female,42,UK,Coimbatore,61727,Graduate,Married,2026-03-13,Active
+CUST00130,Customer 130,customer130@example.com,Female,48,India,New York,167077,Graduate,Single,2024-12-19,Active
+CUST00131,Customer 131,customer131@example.com,Male,40,UK,Coimbatore,134079,Graduate,Divorced,2025-04-15,Active
+CUST00132,Customer 132,customer132@example.com,Male,53,UK,Pune,90697,High School,Single,2026-03-08,Inactive
+CUST00133,Customer 133,customer133@example.com,Male,30,India,Chennai,41029,Postgraduate,Divorced,2024-04-25,Active
+CUST00134,Customer 134,customer134@example.com,Female,60,UK,Coimbatore,170298,Postgraduate,Single,2024-09-20,Active
+CUST00135,Customer 135,customer135@example.com,Male,52,France,Coimbatore,134458,PhD,Single,2025-10-23,Inactive
+CUST00136,Customer 136,customer136@example.com,Male,53,USA,London,135384,Postgraduate,Single,2026-03-22,Active
+CUST00137,Customer 137,customer137@example.com,Male,22,Singapore,Mumbai,93926,Postgraduate,Married,2025-03-17,Active
+CUST00138,Customer 138,customer138@example.com,Female,53,USA,London,162069,Graduate,Single,2025-07-01,Active
+CUST00139,Customer 139,customer139@example.com,Female,53,India,Chennai,80506,Graduate,Single,2025-03-28,Active
+CUST00140,Customer 140,customer140@example.com,Male,61,Germany,Chennai,103229,High School,Single,2026-04-24,Active
+CUST00141,Customer 141,customer141@example.com,Male,33,Singapore,Delhi,67092,Graduate,Divorced,2025-04-21,Inactive
+CUST00142,Customer 142,customer142@example.com,Female,50,India,London,87539,Graduate,Single,2024-10-13,Inactive
+CUST00143,Customer 143,customer143@example.com,Male,53,Germany,Hyderabad,177889,Graduate,Divorced,2024-10-29,Active
+CUST00144,Customer 144,customer144@example.com,Male,33,USA,Mumbai,38428,Graduate,Single,2024-11-06,Active
+CUST00145,Customer 145,customer145@example.com,Male,46,India,Chennai,166330,High School,Single,2024-07-26,Active
+CUST00146,Customer 146,customer146@example.com,Male,42,Singapore,Delhi,82775,Graduate,Married,2025-09-09,Inactive
+CUST00147,Customer 147,customer147@example.com,Male,59,Singapore,London,30469,PhD,Divorced,2025-03-21,Active
+CUST00148,Customer 148,customer148@example.com,Female,22,Australia,Mumbai,53854,PhD,Single,2025-10-31,Active
+CUST00149,Customer 149,customer149@example.com,Male,58,France,London,162328,PhD,Divorced,2025-09-24,Active
+CUST00150,Customer 150,customer150@example.com,Female,59,UK,Coimbatore,101256,PhD,Divorced,2024-02-24,Active
+CUST00151,Customer 151,customer151@example.com,Male,46,Germany,Delhi,124134,Graduate,Married,2024-01-12,Active
+CUST00152,Customer 152,customer152@example.com,Female,35,Australia,Mumbai,157723,PhD,Married,2025-10-18,Active
+CUST00153,Customer 153,customer153@example.com,Female,54,UK,Berlin,109730,Graduate,Married,2025-02-03,Active
+CUST00154,Customer 154,customer154@example.com,Male,62,UK,Pune,52386,High School,Married,2025-10-09,Active
+CUST00155,Customer 155,customer155@example.com,Female,64,India,Pune,172256,PhD,Married,2025-05-29,Active
+CUST00156,Customer 156,customer156@example.com,Male,60,UK,Mumbai,58787,Postgraduate,Married,2025-10-17,Active
+CUST00157,Customer 157,customer157@example.com,Other,31,France,London,46621,PhD,Married,2025-06-25,Inactive
+CUST00158,Customer 158,customer158@example.com,Male,23,Singapore,Delhi,102984,PhD,Married,2024-08-24,Active
+CUST00159,Customer 159,customer159@example.com,Male,26,Australia,Pune,59051,Graduate,Single,2024-10-05,Active
+CUST00160,Customer 160,customer160@example.com,Male,29,UK,Delhi,74811,PhD,Divorced,2024-12-13,Active
+CUST00161,Customer 161,customer161@example.com,Other,26,India,Pune,55447,Postgraduate,Married,2025-09-18,Active
+CUST00162,Customer 162,customer162@example.com,Female,29,France,Coimbatore,153046,Graduate,Married,2024-04-13,Active
+CUST00163,Customer 163,customer163@example.com,Female,59,USA,London,109045,Graduate,Divorced,2025-09-21,Inactive
+CUST00164,Customer 164,customer164@example.com,Male,51,Singapore,Coimbatore,141859,High School,Single,2025-05-31,Active
+CUST00165,Customer 165,customer165@example.com,Female,52,Singapore,Pune,170544,High School,Divorced,2026-05-21,Active
+CUST00166,Customer 166,customer166@example.com,Male,61,Australia,Berlin,28471,PhD,Divorced,2024-09-04,Active
+CUST00167,Customer 167,customer167@example.com,Female,32,Singapore,Berlin,145312,High School,Married,2024-12-29,Inactive
+CUST00168,Customer 168,customer168@example.com,Male,28,UK,Coimbatore,164401,High School,Divorced,2024-11-16,Active
+CUST00169,Customer 169,customer169@example.com,Male,28,India,Berlin,71850,High School,Divorced,2025-09-24,Active
+CUST00170,Customer 170,customer170@example.com,Male,48,Singapore,Pune,79220,Graduate,Married,2024-10-12,Active
+CUST00171,Customer 171,customer171@example.com,Male,40,Singapore,Mumbai,118808,Graduate,Married,2024-05-28,Active
+CUST00172,Customer 172,customer172@example.com,Female,27,USA,Coimbatore,162469,Graduate,Married,2024-03-24,Active
+CUST00173,Customer 173,customer173@example.com,Male,31,USA,Bengaluru,78072,High School,Married,2025-02-09,Inactive
+CUST00174,Customer 174,customer174@example.com,Female,40,Germany,London,108820,Graduate,Divorced,2025-03-31,Active
+CUST00175,Customer 175,customer175@example.com,Male,36,France,Berlin,48284,High School,Divorced,2026-01-12,Active
+CUST00176,Customer 176,customer176@example.com,Female,24,UK,Berlin,108369,Graduate,Single,2026-03-10,Active
+CUST00177,Customer 177,customer177@example.com,Male,26,Singapore,Chennai,50122,Graduate,Single,2024-06-09,Inactive
+CUST00178,Customer 178,customer178@example.com,Male,42,Singapore,Hyderabad,155349,Postgraduate,Divorced,2026-02-22,Active
+CUST00179,Customer 179,customer179@example.com,Female,46,India,Coimbatore,95553,PhD,Single,2025-04-04,Active
+CUST00180,Customer 180,customer180@example.com,Male,23,Germany,New York,119788,High School,Divorced,2025-07-03,Active
+CUST00181,Customer 181,customer181@example.com,Male,61,France,Berlin,87812,Postgraduate,Single,2025-05-14,Active
+CUST00182,Customer 182,customer182@example.com,Female,62,Germany,London,32999,Graduate,Married,2026-01-07,Active
+CUST00183,Customer 183,customer183@example.com,Female,34,Australia,Bengaluru,47436,High School,Single,2025-05-23,Active
+CUST00184,Customer 184,customer184@example.com,Male,31,France,Berlin,67963,Graduate,Married,2025-10-15,Inactive
+CUST00185,Customer 185,customer185@example.com,Male,38,Singapore,Bengaluru,158168,PhD,Married,2026-03-14,Active
+CUST00186,Customer 186,customer186@example.com,Female,32,Singapore,Pune,133899,Postgraduate,Married,2025-04-25,Active
+CUST00187,Customer 187,customer187@example.com,Male,43,France,Pune,51201,PhD,Married,2025-10-24,Active
+CUST00188,Customer 188,customer188@example.com,Male,32,Singapore,Hyderabad,175787,Postgraduate,Single,2024-04-23,Active
+CUST00189,Customer 189,customer189@example.com,Male,33,UK,Mumbai,171150,Graduate,Divorced,2026-01-18,Active
+CUST00190,Customer 190,customer190@example.com,Female,45,France,New York,30105,PhD,Married,2025-07-31,Active
+CUST00191,Customer 191,customer191@example.com,Female,39,Germany,Chennai,142666,PhD,Single,2024-12-26,Active
+CUST00192,Customer 192,customer192@example.com,Male,56,France,Hyderabad,119848,Graduate,Married,2024-12-06,Active
+CUST00193,Customer 193,customer193@example.com,Male,28,Singapore,Delhi,27839,PhD,Single,2026-02-08,Active
+CUST00194,Customer 194,customer194@example.com,Male,49,UK,Chennai,93920,High School,Single,2026-01-30,Active
+CUST00195,Customer 195,customer195@example.com,Female,52,UK,Coimbatore,68619,Postgraduate,Single,2025-03-24,Active
+CUST00196,Customer 196,customer196@example.com,Male,64,Australia,London,67821,Postgraduate,Divorced,2026-04-22,Active
+CUST00197,Customer 197,customer197@example.com,Male,38,Germany,Delhi,150736,Postgraduate,Single,2026-04-14,Active
+CUST00198,Customer 198,customer198@example.com,Female,26,USA,Delhi,169565,High School,Single,2024-06-28,Active
+CUST00199,Customer 199,customer199@example.com,Male,38,USA,Hyderabad,42069,Postgraduate,Divorced,2025-12-02,Active
+CUST00200,Customer 200,customer200@example.com,Female,39,France,Mumbai,32531,Graduate,Divorced,2025-02-10,Active
+CUST00201,Customer 201,customer201@example.com,Male,42,Australia,Hyderabad,163808,PhD,Single,2025-10-27,Active
+CUST00202,Customer 202,customer202@example.com,Male,57,India,Coimbatore,163782,High School,Divorced,2024-07-14,Active
+CUST00203,Customer 203,customer203@example.com,Male,52,France,Berlin,92155,Postgraduate,Married,2025-04-10,Active
+CUST00204,Customer 204,customer204@example.com,Female,61,Australia,Berlin,170047,Graduate,Married,2024-11-06,Inactive
+CUST00205,Customer 205,customer205@example.com,Female,23,Germany,Mumbai,87424,PhD,Divorced,2024-09-18,Active
+CUST00206,Customer 206,customer206@example.com,Female,48,Germany,Coimbatore,70603,PhD,Divorced,2025-02-22,Active
+CUST00207,Customer 207,customer207@example.com,Male,30,Germany,Mumbai,179324,High School,Single,2025-02-09,Active
+CUST00208,Customer 208,customer208@example.com,Female,55,Germany,Bengaluru,157503,High School,Divorced,2024-05-22,Active
+CUST00209,Customer 209,customer209@example.com,Male,49,Germany,Berlin,117573,High School,Single,2024-12-07,Active
+CUST00210,Customer 210,customer210@example.com,Male,35,Australia,Delhi,165629,Graduate,Married,2024-11-11,Active
+CUST00211,Customer 211,customer211@example.com,Female,53,Australia,New York,128302,Graduate,Divorced,2024-04-10,Active
+CUST00212,Customer 212,customer212@example.com,Male,27,UK,London,156234,High School,Single,2024-08-31,Active
+CUST00213,Customer 213,customer213@example.com,Male,32,USA,Coimbatore,44675,Postgraduate,Single,2025-05-04,Active
+CUST00214,Customer 214,customer214@example.com,Male,50,Singapore,Chennai,98997,PhD,Married,2024-01-12,Active
+CUST00215,Customer 215,customer215@example.com,Male,41,Germany,Mumbai,173087,PhD,Divorced,2024-08-26,Inactive
+CUST00216,Customer 216,customer216@example.com,Male,51,India,London,165905,Graduate,Married,2025-07-14,Active
+CUST00217,Customer 217,customer217@example.com,Female,44,Singapore,Chennai,32896,PhD,Single,2024-02-11,Active
+CUST00218,Customer 218,customer218@example.com,Male,40,Australia,London,74733,Postgraduate,Single,2025-11-08,Active
+CUST00219,Customer 219,customer219@example.com,Female,57,India,New York,66800,PhD,Divorced,2025-08-16,Inactive
+CUST00220,Customer 220,customer220@example.com,Female,24,India,Chennai,121044,Graduate,Single,2025-03-04,Active
+CUST00221,Customer 221,customer221@example.com,Male,48,India,Hyderabad,30347,Graduate,Divorced,2026-03-13,Active
+CUST00222,Customer 222,customer222@example.com,Male,64,UK,Pune,158715,Postgraduate,Married,2024-06-06,Active
+CUST00223,Customer 223,customer223@example.com,Male,40,Australia,Hyderabad,65785,Postgraduate,Divorced,2024-08-03,Active
+CUST00224,Customer 224,customer224@example.com,Female,44,India,Berlin,43681,PhD,Divorced,2025-10-31,Active
+CUST00225,Customer 225,customer225@example.com,Male,52,Germany,Pune,128864,PhD,Single,2025-04-06,Active
+CUST00226,Customer 226,customer226@example.com,Female,61,France,Hyderabad,171964,Graduate,Single,2024-05-13,Active
+CUST00227,Customer 227,customer227@example.com,Male,56,India,Pune,72299,Postgraduate,Divorced,2024-03-07,Active
+CUST00228,Customer 228,customer228@example.com,Female,54,UK,Pune,42073,Postgraduate,Single,2026-04-27,Active
+CUST00229,Customer 229,customer229@example.com,Male,56,Singapore,Delhi,127304,Postgraduate,Single,2024-01-07,Active
+CUST00230,Customer 230,customer230@example.com,Male,22,Australia,Mumbai,55682,PhD,Single,2025-06-09,Active
+CUST00231,Customer 231,customer231@example.com,Female,35,UK,Mumbai,149302,Postgraduate,Divorced,2024-03-13,Active
+CUST00232,Customer 232,customer232@example.com,Female,54,India,Delhi,170361,Graduate,Single,2025-02-02,Active
+CUST00233,Customer 233,customer233@example.com,Male,56,Australia,London,140359,Graduate,Divorced,2025-02-08,Inactive
+CUST00234,Customer 234,customer234@example.com,Female,26,France,Bengaluru,163999,PhD,Single,2025-11-05,Active
+CUST00235,Customer 235,customer235@example.com,Female,59,India,London,91707,High School,Married,2025-07-31,Active
+CUST00236,Customer 236,customer236@example.com,Female,62,UK,Chennai,90428,PhD,Single,2026-05-08,Active
+CUST00237,Customer 237,customer237@example.com,Female,32,USA,Chennai,75601,High School,Single,2024-05-09,Inactive
+CUST00238,Customer 238,customer238@example.com,Male,23,Germany,Pune,158611,Postgraduate,Divorced,2025-04-10,Active
+CUST00239,Customer 239,customer239@example.com,Male,38,Singapore,Hyderabad,136487,PhD,Divorced,2024-07-24,Active
+CUST00240,Customer 240,customer240@example.com,Male,60,UK,Hyderabad,178741,Graduate,Single,2026-02-26,Active
+CUST00241,Customer 241,customer241@example.com,Female,41,Australia,Mumbai,176716,Postgraduate,Married,2026-02-06,Active
+CUST00242,Customer 242,customer242@example.com,Female,35,India,Coimbatore,174817,Graduate,Single,2024-09-22,Active
+CUST00243,Customer 243,customer243@example.com,Male,53,Germany,London,53228,Postgraduate,Single,2025-06-20,Active
+CUST00244,Customer 244,customer244@example.com,Male,55,India,Berlin,147788,PhD,Married,2026-03-03,Active
+CUST00245,Customer 245,customer245@example.com,Female,46,Australia,New York,122239,High School,Divorced,2024-09-09,Inactive
+CUST00246,Customer 246,customer246@example.com,Other,28,India,Hyderabad,51928,Postgraduate,Single,2026-04-01,Active
+CUST00247,Customer 247,customer247@example.com,Female,56,USA,New York,43322,High School,Divorced,2024-10-15,Active
+CUST00248,Customer 248,customer248@example.com,Male,50,Germany,Pune,112896,Postgraduate,Divorced,2024-06-12,Active
+CUST00249,Customer 249,customer249@example.com,Male,43,Germany,New York,87292,Graduate,Married,2024-04-04,Active
+CUST00250,Customer 250,customer250@example.com,Male,62,Australia,Berlin,54055,Graduate,Married,2026-02-20,Active
+CUST00251,Customer 251,customer251@example.com,Female,64,Singapore,Delhi,67891,Postgraduate,Divorced,2026-04-12,Active
+CUST00252,Customer 252,customer252@example.com,Male,34,USA,Berlin,106912,High School,Single,2024-04-19,Active
+CUST00253,Customer 253,customer253@example.com,Female,34,UK,New York,162660,PhD,Divorced,2024-12-01,Inactive
+CUST00254,Customer 254,customer254@example.com,Male,22,India,Berlin,115536,PhD,Single,2026-04-01,Inactive
+CUST00255,Customer 255,customer255@example.com,Female,57,France,Bengaluru,31304,Graduate,Single,2024-08-25,Active
+CUST00256,Customer 256,customer256@example.com,Female,25,India,Pune,32345,PhD,Married,2025-01-15,Active
+CUST00257,Customer 257,customer257@example.com,Female,58,India,London,116006,Graduate,Single,2025-03-11,Inactive
+CUST00258,Customer 258,customer258@example.com,Male,61,UK,Delhi,171424,PhD,Single,2026-06-17,Active
+CUST00259,Customer 259,customer259@example.com,Male,34,India,Hyderabad,154350,Postgraduate,Divorced,2025-04-27,Inactive
+CUST00260,Customer 260,customer260@example.com,Male,59,USA,Chennai,44446,Graduate,Married,2024-01-25,Active
+CUST00261,Customer 261,customer261@example.com,Female,45,USA,London,27336,Graduate,Single,2025-10-14,Active
+CUST00262,Customer 262,customer262@example.com,Female,40,Germany,Chennai,87032,Postgraduate,Single,2024-04-26,Active
+CUST00263,Customer 263,customer263@example.com,Female,22,Australia,Pune,122852,Graduate,Married,2025-04-26,Active
+CUST00264,Customer 264,customer264@example.com,Female,59,Singapore,Delhi,163593,PhD,Divorced,2025-01-26,Active
+CUST00265,Customer 265,customer265@example.com,Female,26,France,Mumbai,179553,PhD,Married,2025-06-20,Active
+CUST00266,Customer 266,customer266@example.com,Male,37,India,Hyderabad,43474,Graduate,Married,2024-03-19,Active
+CUST00267,Customer 267,customer267@example.com,Female,45,India,Bengaluru,80718,PhD,Single,2025-08-02,Active
+CUST00268,Customer 268,customer268@example.com,Male,48,UK,Mumbai,69629,High School,Single,2024-06-21,Active
+CUST00269,Customer 269,customer269@example.com,Male,22,Australia,Pune,70232,Graduate,Divorced,2024-01-12,Inactive
+CUST00270,Customer 270,customer270@example.com,Female,55,USA,London,111544,Postgraduate,Single,2026-03-10,Active
+CUST00271,Customer 271,customer271@example.com,Male,57,France,Bengaluru,75669,High School,Single,2024-05-07,Active
+CUST00272,Customer 272,customer272@example.com,Male,25,Germany,Berlin,94184,Graduate,Married,2025-08-30,Active
+CUST00273,Customer 273,customer273@example.com,Female,21,USA,New York,38140,Postgraduate,Single,2024-04-01,Active
+CUST00274,Customer 274,customer274@example.com,Male,60,Australia,Bengaluru,151468,PhD,Divorced,2025-10-14,Inactive
+CUST00275,Customer 275,customer275@example.com,Female,32,Singapore,Pune,108457,Postgraduate,Married,2025-06-26,Active
+CUST00276,Customer 276,customer276@example.com,Male,56,Germany,Coimbatore,39357,High School,Divorced,2026-04-25,Active
+CUST00277,Customer 277,customer277@example.com,Male,43,Singapore,New York,136672,PhD,Married,2025-06-15,Active
+CUST00278,Customer 278,customer278@example.com,Male,51,UK,Chennai,93673,Graduate,Single,2025-10-19,Active
+CUST00279,Customer 279,customer279@example.com,Male,31,UK,Hyderabad,146673,PhD,Married,2026-04-07,Active
+CUST00280,Customer 280,customer280@example.com,Female,30,India,Chennai,90633,Graduate,Married,2025-03-22,Inactive
+CUST00281,Customer 281,customer281@example.com,Male,23,Singapore,Bengaluru,121111,Graduate,Single,2025-01-24,Active
+CUST00282,Customer 282,customer282@example.com,Female,34,Australia,Chennai,103258,Postgraduate,Single,2025-11-02,Active
+CUST00283,Customer 283,customer283@example.com,Male,36,France,Pune,168996,Postgraduate,Divorced,2026-05-10,Active
+CUST00284,Customer 284,customer284@example.com,Female,30,Germany,Berlin,94286,Postgraduate,Divorced,2024-02-12,Active
+CUST00285,Customer 285,customer285@example.com,Female,49,USA,London,118269,High School,Single,2024-09-10,Active
+CUST00286,Customer 286,customer286@example.com,Female,30,Australia,Hyderabad,99071,High School,Single,2024-05-09,Active
+CUST00287,Customer 287,customer287@example.com,Male,32,Australia,Chennai,55651,Postgraduate,Single,2024-02-29,Active
+CUST00288,Customer 288,customer288@example.com,Male,50,UK,Chennai,95202,High School,Married,2025-10-24,Active
+CUST00289,Customer 289,customer289@example.com,Male,61,Singapore,Bengaluru,73777,PhD,Married,2025-04-11,Active
+CUST00290,Customer 290,customer290@example.com,Female,21,India,London,173066,PhD,Married,2024-10-13,Active
+CUST00291,Customer 291,customer291@example.com,Male,25,India,Mumbai,92263,High School,Single,2025-05-31,Active
+CUST00292,Customer 292,customer292@example.com,Female,40,Germany,Chennai,125158,High School,Divorced,2025-04-11,Active
+CUST00293,Customer 293,customer293@example.com,Female,28,UK,Pune,35800,PhD,Single,2026-02-16,Inactive
+CUST00294,Customer 294,customer294@example.com,Male,63,Australia,Coimbatore,62823,Graduate,Married,2024-12-10,Active
+CUST00295,Customer 295,customer295@example.com,Female,32,France,Hyderabad,88878,PhD,Married,2025-10-03,Active
+CUST00296,Customer 296,customer296@example.com,Male,21,UK,Chennai,43708,PhD,Single,2025-01-16,Active
+CUST00297,Customer 297,customer297@example.com,Male,40,Germany,Pune,168891,High School,Single,2026-02-17,Active
+CUST00298,Customer 298,customer298@example.com,Female,48,Germany,Pune,88870,PhD,Married,2025-11-20,Active
+CUST00299,Customer 299,customer299@example.com,Female,63,UK,Hyderabad,34283,High School,Married,2024-09-09,Active
+CUST00300,Customer 300,customer300@example.com,Female,57,Germany,Mumbai,103707,High School,Married,2024-02-25,Active
+CUST00301,Customer 301,customer301@example.com,Male,57,UK,Pune,30774,Postgraduate,Single,2025-04-07,Active
+CUST00302,Customer 302,customer302@example.com,Male,32,USA,Coimbatore,167055,PhD,Married,2025-04-01,Active
+CUST00303,Customer 303,customer303@example.com,Female,57,UK,Pune,121468,Graduate,Married,2024-03-23,Active
+CUST00304,Customer 304,customer304@example.com,Female,64,Singapore,Pune,121334,Postgraduate,Divorced,2024-04-08,Active
+CUST00305,Customer 305,customer305@example.com,Female,48,UK,Pune,43133,High School,Single,2024-05-28,Active
+CUST00306,Customer 306,customer306@example.com,Male,35,Germany,Berlin,171011,High School,Divorced,2024-11-24,Inactive
+CUST00307,Customer 307,customer307@example.com,Female,26,Singapore,Berlin,25781,Graduate,Divorced,2024-06-04,Active
+CUST00308,Customer 308,customer308@example.com,Male,64,Germany,Mumbai,139586,High School,Married,2024-07-08,Active
+CUST00309,Customer 309,customer309@example.com,Male,40,India,Chennai,52624,PhD,Single,2025-05-08,Active
+CUST00310,Customer 310,customer310@example.com,Female,34,India,Pune,31823,Postgraduate,Married,2026-06-01,Inactive
+CUST00311,Customer 311,customer311@example.com,Male,22,Singapore,London,43489,High School,Single,2024-09-19,Active
+CUST00312,Customer 312,customer312@example.com,Female,29,USA,Chennai,54118,High School,Divorced,2024-03-20,Active
+CUST00313,Customer 313,customer313@example.com,Male,57,India,Mumbai,125417,Graduate,Single,2025-02-03,Active
+CUST00314,Customer 314,customer314@example.com,Male,40,UK,Delhi,106816,PhD,Married,2026-02-02,Active
+CUST00315,Customer 315,customer315@example.com,Female,46,Germany,Chennai,178335,High School,Married,2025-08-31,Active
+CUST00316,Customer 316,customer316@example.com,Female,49,India,Chennai,38565,Graduate,Married,2024-09-16,Active
+CUST00317,Customer 317,customer317@example.com,Female,21,India,New York,176426,High School,Single,2026-02-10,Active
+CUST00318,Customer 318,customer318@example.com,Female,55,USA,Bengaluru,116179,Graduate,Divorced,2025-09-06,Active
+CUST00319,Customer 319,customer319@example.com,Female,26,Singapore,New York,48648,Graduate,Divorced,2025-07-05,Inactive
+CUST00320,Customer 320,customer320@example.com,Female,57,Singapore,Coimbatore,66971,PhD,Single,2026-02-23,Active
+CUST00321,Customer 321,customer321@example.com,Female,25,Australia,Berlin,43658,High School,Married,2024-04-10,Active
+CUST00322,Customer 322,customer322@example.com,Male,53,USA,Berlin,46253,PhD,Divorced,2024-12-24,Active
+CUST00323,Customer 323,customer323@example.com,Female,34,UK,Bengaluru,113664,Graduate,Married,2025-01-14,Active
+CUST00324,Customer 324,customer324@example.com,Male,32,Singapore,Hyderabad,128850,Postgraduate,Single,2026-03-30,Inactive
+CUST00325,Customer 325,customer325@example.com,Other,62,Germany,Hyderabad,162924,High School,Married,2024-08-08,Active
+CUST00326,Customer 326,customer326@example.com,Female,40,USA,Mumbai,158623,Postgraduate,Divorced,2026-03-30,Active
+CUST00327,Customer 327,customer327@example.com,Male,44,India,Bengaluru,96947,High School,Divorced,2025-02-23,Active
+CUST00328,Customer 328,customer328@example.com,Female,63,Germany,Chennai,86001,PhD,Married,2024-05-03,Active
+CUST00329,Customer 329,customer329@example.com,Female,54,Germany,Hyderabad,147775,PhD,Single,2025-02-25,Active
+CUST00330,Customer 330,customer330@example.com,Male,45,India,Pune,58243,PhD,Married,2024-08-18,Active
+CUST00331,Customer 331,customer331@example.com,Female,49,USA,London,177872,PhD,Single,2025-11-20,Active
+CUST00332,Customer 332,customer332@example.com,Female,59,India,Chennai,100939,PhD,Married,2024-03-03,Active
+CUST00333,Customer 333,customer333@example.com,Male,51,Australia,Coimbatore,82828,Postgraduate,Divorced,2025-04-29,Active
+CUST00334,Customer 334,customer334@example.com,Female,63,Germany,Pune,163311,PhD,Single,2025-09-19,Inactive
+CUST00335,Customer 335,customer335@example.com,Male,43,France,Pune,31710,Graduate,Single,2025-12-03,Active
+CUST00336,Customer 336,customer336@example.com,Female,64,France,Bengaluru,177456,Graduate,Single,2025-07-27,Active
+CUST00337,Customer 337,customer337@example.com,Other,58,UK,Mumbai,177110,Postgraduate,Divorced,2026-02-06,Active
+CUST00338,Customer 338,customer338@example.com,Female,40,Singapore,Coimbatore,62991,High School,Married,2025-04-27,Active
+CUST00339,Customer 339,customer339@example.com,Male,43,India,Hyderabad,163043,Graduate,Divorced,2025-06-02,Active
+CUST00340,Customer 340,customer340@example.com,Female,36,India,Bengaluru,110445,High School,Single,2024-06-03,Active
+CUST00341,Customer 341,customer341@example.com,Female,62,UK,Hyderabad,105257,Postgraduate,Married,2024-04-01,Active
+CUST00342,Customer 342,customer342@example.com,Male,28,UK,Bengaluru,62711,High School,Divorced,2025-06-09,Active
+CUST00343,Customer 343,customer343@example.com,Female,41,UK,Bengaluru,31530,High School,Single,2025-03-30,Active
+CUST00344,Customer 344,customer344@example.com,Male,21,Germany,Bengaluru,36116,High School,Single,2026-01-10,Inactive
+CUST00345,Customer 345,customer345@example.com,Female,28,Australia,Mumbai,90794,High School,Divorced,2025-08-20,Active
+CUST00346,Customer 346,customer346@example.com,Male,49,India,Bengaluru,156354,Postgraduate,Divorced,2025-10-06,Active
+CUST00347,Customer 347,customer347@example.com,Male,52,Germany,Delhi,157970,Graduate,Divorced,2025-05-24,Active
+CUST00348,Customer 348,customer348@example.com,Male,58,UK,London,29135,PhD,Single,2024-07-01,Active
+CUST00349,Customer 349,customer349@example.com,Female,25,India,Hyderabad,162701,High School,Divorced,2025-01-20,Active
+CUST00350,Customer 350,customer350@example.com,Male,42,Germany,Chennai,134472,Graduate,Single,2025-07-27,Active
+CUST00351,Customer 351,customer351@example.com,Female,54,Australia,New York,150147,Graduate,Divorced,2025-12-31,Active
+CUST00352,Customer 352,customer352@example.com,Male,21,Germany,Coimbatore,114087,Postgraduate,Single,2025-02-08,Active
+CUST00353,Customer 353,customer353@example.com,Male,46,Australia,Berlin,58380,Graduate,Single,2024-09-02,Active
+CUST00354,Customer 354,customer354@example.com,Female,63,UK,Mumbai,154951,Postgraduate,Married,2026-01-11,Active
+CUST00355,Customer 355,customer355@example.com,Female,30,Australia,Chennai,42071,High School,Divorced,2025-08-13,Inactive
+CUST00356,Customer 356,customer356@example.com,Male,50,India,Pune,45074,High School,Divorced,2025-10-22,Active
+CUST00357,Customer 357,customer357@example.com,Female,38,UK,Delhi,92843,PhD,Single,2025-10-11,Active
+CUST00358,Customer 358,customer358@example.com,Female,37,India,Berlin,64901,PhD,Single,2025-04-15,Active
+CUST00359,Customer 359,customer359@example.com,Female,46,France,New York,36205,PhD,Single,2026-04-05,Active
+CUST00360,Customer 360,customer360@example.com,Male,28,USA,Chennai,149661,Graduate,Married,2026-06-06,Active
+CUST00361,Customer 361,customer361@example.com,Male,60,Australia,Berlin,30906,High School,Married,2025-02-26,Active
+CUST00362,Customer 362,customer362@example.com,Female,32,USA,Chennai,158663,Postgraduate,Single,2024-03-05,Active
+CUST00363,Customer 363,customer363@example.com,Male,47,USA,Delhi,150576,PhD,Divorced,2024-01-13,Active
+CUST00364,Customer 364,customer364@example.com,Female,28,Australia,New York,87987,Postgraduate,Divorced,2024-07-31,Active
+CUST00365,Customer 365,customer365@example.com,Female,45,UK,Pune,105685,Postgraduate,Married,2024-08-29,Active
+CUST00366,Customer 366,customer366@example.com,Female,24,France,Bengaluru,135454,PhD,Married,2025-05-07,Active
+CUST00367,Customer 367,customer367@example.com,Female,53,India,Hyderabad,130487,High School,Single,2024-07-31,Active
+CUST00368,Customer 368,customer368@example.com,Other,21,Germany,Pune,79400,PhD,Divorced,2025-11-23,Active
+CUST00369,Customer 369,customer369@example.com,Male,39,India,Bengaluru,56852,Postgraduate,Single,2024-12-03,Inactive
+CUST00370,Customer 370,customer370@example.com,Female,51,Germany,Mumbai,77756,PhD,Married,2024-06-21,Inactive
+CUST00371,Customer 371,customer371@example.com,Male,36,India,London,140357,Postgraduate,Divorced,2025-11-02,Active
+CUST00372,Customer 372,customer372@example.com,Male,34,Australia,Coimbatore,144052,Postgraduate,Divorced,2024-06-12,Active
+CUST00373,Customer 373,customer373@example.com,Female,25,France,Coimbatore,81481,PhD,Married,2025-04-09,Active
+CUST00374,Customer 374,customer374@example.com,Female,61,Germany,Hyderabad,26283,Graduate,Single,2025-05-11,Inactive
+CUST00375,Customer 375,customer375@example.com,Other,46,Singapore,New York,58691,PhD,Single,2025-11-30,Inactive
+CUST00376,Customer 376,customer376@example.com,Female,48,UK,Delhi,157197,Graduate,Divorced,2025-01-29,Active
+CUST00377,Customer 377,customer377@example.com,Male,22,India,New York,51170,Postgraduate,Married,2025-12-03,Active
+CUST00378,Customer 378,customer378@example.com,Male,26,India,Delhi,33438,Postgraduate,Divorced,2024-11-03,Active
+CUST00379,Customer 379,customer379@example.com,Female,29,Germany,New York,45095,Graduate,Married,2026-02-06,Active
+CUST00380,Customer 380,customer380@example.com,Male,53,UK,London,172226,Postgraduate,Single,2024-07-01,Active
+CUST00381,Customer 381,customer381@example.com,Male,61,UK,Mumbai,164076,Graduate,Married,2025-09-20,Inactive
+CUST00382,Customer 382,customer382@example.com,Male,45,Australia,Mumbai,34752,Graduate,Single,2026-03-04,Active
+CUST00383,Customer 383,customer383@example.com,Male,33,Singapore,Bengaluru,80426,Postgraduate,Married,2025-05-24,Active
+CUST00384,Customer 384,customer384@example.com,Male,29,Australia,Berlin,51819,High School,Divorced,2025-12-08,Inactive
+CUST00385,Customer 385,customer385@example.com,Male,33,Australia,Mumbai,117051,Graduate,Single,2025-06-29,Active
+CUST00386,Customer 386,customer386@example.com,Male,51,Australia,Mumbai,57994,PhD,Divorced,2025-07-17,Active
+CUST00387,Customer 387,customer387@example.com,Male,61,Australia,Pune,171108,PhD,Divorced,2025-09-15,Active
+CUST00388,Customer 388,customer388@example.com,Other,31,Australia,Pune,122756,Postgraduate,Single,2026-02-02,Active
+CUST00389,Customer 389,customer389@example.com,Male,24,France,Bengaluru,165659,High School,Single,2025-08-16,Active
+CUST00390,Customer 390,customer390@example.com,Male,54,UK,Berlin,120665,Postgraduate,Divorced,2026-01-13,Active
+CUST00391,Customer 391,customer391@example.com,Female,58,Australia,Hyderabad,156717,High School,Divorced,2024-08-14,Active
+CUST00392,Customer 392,customer392@example.com,Male,24,UK,Pune,106835,Graduate,Divorced,2026-01-14,Active
+CUST00393,Customer 393,customer393@example.com,Female,58,UK,Hyderabad,147232,Graduate,Divorced,2026-01-02,Active
+CUST00394,Customer 394,customer394@example.com,Female,39,USA,Chennai,174960,Graduate,Single,2025-03-11,Active
+CUST00395,Customer 395,customer395@example.com,Male,26,France,Pune,68732,Graduate,Single,2025-02-25,Active
+CUST00396,Customer 396,customer396@example.com,Male,54,Australia,London,71305,PhD,Divorced,2025-07-07,Active
+CUST00397,Customer 397,customer397@example.com,Female,38,India,Berlin,34346,PhD,Married,2024-01-21,Active
+CUST00398,Customer 398,customer398@example.com,Female,33,Germany,Bengaluru,25587,Postgraduate,Married,2025-07-07,Active
+CUST00399,Customer 399,customer399@example.com,Male,61,Singapore,Chennai,37763,High School,Single,2025-01-31,Active
+CUST00400,Customer 400,customer400@example.com,Female,43,India,Berlin,94615,Graduate,Divorced,2025-09-16,Active
+CUST00401,Customer 401,customer401@example.com,Male,39,France,London,145987,Graduate,Divorced,2024-04-14,Active
+CUST00402,Customer 402,customer402@example.com,Other,31,Germany,Berlin,116353,High School,Single,2024-07-10,Active
+CUST00403,Customer 403,customer403@example.com,Male,21,France,London,120648,High School,Married,2024-01-17,Inactive
+CUST00404,Customer 404,customer404@example.com,Female,44,UK,London,50556,Postgraduate,Married,2024-04-29,Active
+CUST00405,Customer 405,customer405@example.com,Female,27,Germany,Hyderabad,84042,High School,Married,2025-01-27,Active
+CUST00406,Customer 406,customer406@example.com,Female,45,UK,New York,43099,Graduate,Single,2025-02-28,Active
+CUST00407,Customer 407,customer407@example.com,Female,41,India,Chennai,134089,Graduate,Married,2024-05-08,Active
+CUST00408,Customer 408,customer408@example.com,Male,35,India,Berlin,169302,Graduate,Single,2024-05-09,Active
+CUST00409,Customer 409,customer409@example.com,Male,21,Germany,Delhi,58866,Graduate,Single,2025-07-25,Active
+CUST00410,Customer 410,customer410@example.com,Male,32,Germany,Chennai,130400,Graduate,Divorced,2025-07-13,Active
+CUST00411,Customer 411,customer411@example.com,Male,27,Australia,New York,109246,Postgraduate,Married,2024-01-29,Active
+CUST00412,Customer 412,customer412@example.com,Female,35,France,Chennai,101975,Graduate,Single,2024-04-06,Active
+CUST00413,Customer 413,customer413@example.com,Male,41,Australia,Mumbai,106557,Postgraduate,Married,2024-01-10,Active
+CUST00414,Customer 414,customer414@example.com,Male,39,France,Delhi,162488,Graduate,Married,2024-08-29,Active
+CUST00415,Customer 415,customer415@example.com,Other,49,Australia,New York,97516,PhD,Divorced,2026-04-05,Inactive
+CUST00416,Customer 416,customer416@example.com,Female,45,UK,Hyderabad,174130,PhD,Married,2024-08-19,Active
+CUST00417,Customer 417,customer417@example.com,Female,53,Germany,Berlin,57602,PhD,Divorced,2026-02-27,Active
+CUST00418,Customer 418,customer418@example.com,Other,52,India,Coimbatore,154295,PhD,Single,2024-10-10,Active
+CUST00419,Customer 419,customer419@example.com,Male,55,France,New York,112969,Postgraduate,Married,2025-12-15,Active
+CUST00420,Customer 420,customer420@example.com,Male,64,France,Bengaluru,157161,Postgraduate,Single,2026-01-28,Active
+CUST00421,Customer 421,customer421@example.com,Female,58,India,Berlin,166559,High School,Married,2026-03-12,Active
+CUST00422,Customer 422,customer422@example.com,Female,46,Australia,New York,25155,Graduate,Single,2026-02-14,Active
+CUST00423,Customer 423,customer423@example.com,Male,31,France,Mumbai,148950,PhD,Married,2025-12-26,Active
+CUST00424,Customer 424,customer424@example.com,Female,55,Singapore,Coimbatore,92494,Postgraduate,Married,2024-07-18,Active
+CUST00425,Customer 425,customer425@example.com,Male,28,UK,Mumbai,101229,Graduate,Married,2024-03-19,Active
+CUST00426,Customer 426,customer426@example.com,Male,34,Germany,Coimbatore,129648,Graduate,Married,2026-05-04,Inactive
+CUST00427,Customer 427,customer427@example.com,Female,30,India,Bengaluru,63547,Postgraduate,Married,2026-05-05,Active
+CUST00428,Customer 428,customer428@example.com,Female,22,Germany,Berlin,53795,PhD,Married,2024-06-21,Active
+CUST00429,Customer 429,customer429@example.com,Female,29,Singapore,Hyderabad,46447,High School,Married,2025-04-11,Active
+CUST00430,Customer 430,customer430@example.com,Male,23,France,Mumbai,112960,Graduate,Married,2025-08-03,Active
+CUST00431,Customer 431,customer431@example.com,Female,41,France,Mumbai,88278,High School,Married,2025-02-19,Active
+CUST00432,Customer 432,customer432@example.com,Male,46,Singapore,London,80077,PhD,Single,2025-03-24,Active
+CUST00433,Customer 433,customer433@example.com,Male,28,India,Coimbatore,137782,PhD,Divorced,2024-03-27,Active
+CUST00434,Customer 434,customer434@example.com,Female,22,UK,Pune,127932,High School,Married,2024-04-10,Active
+CUST00435,Customer 435,customer435@example.com,Female,26,USA,Berlin,165600,PhD,Divorced,2024-01-08,Active
+CUST00436,Customer 436,customer436@example.com,Female,48,India,Coimbatore,134869,Graduate,Married,2026-04-24,Active
+CUST00437,Customer 437,customer437@example.com,Female,49,USA,London,164251,High School,Married,2024-07-18,Inactive
+CUST00438,Customer 438,customer438@example.com,Female,46,Singapore,Chennai,73781,PhD,Single,2025-05-19,Active
+CUST00439,Customer 439,customer439@example.com,Female,45,Australia,Coimbatore,78798,High School,Single,2024-03-27,Active
+CUST00440,Customer 440,customer440@example.com,Male,32,USA,Hyderabad,123696,Graduate,Divorced,2024-02-12,Active
+CUST00441,Customer 441,customer441@example.com,Male,25,UK,Berlin,75939,PhD,Single,2025-01-19,Active
+CUST00442,Customer 442,customer442@example.com,Male,54,Australia,London,54516,Graduate,Single,2025-09-12,Active
+CUST00443,Customer 443,customer443@example.com,Male,57,USA,Chennai,166521,PhD,Divorced,2025-03-10,Active
+CUST00444,Customer 444,customer444@example.com,Female,35,Singapore,Delhi,75290,Postgraduate,Single,2025-02-11,Active
+CUST00445,Customer 445,customer445@example.com,Female,64,Australia,London,151688,PhD,Married,2025-04-27,Active
+CUST00446,Customer 446,customer446@example.com,Male,56,Singapore,Delhi,111661,High School,Divorced,2025-10-25,Active
+CUST00447,Customer 447,customer447@example.com,Male,35,USA,Berlin,97954,PhD,Divorced,2024-01-17,Active
+CUST00448,Customer 448,customer448@example.com,Female,63,Singapore,Mumbai,47746,Graduate,Married,2025-10-06,Active
+CUST00449,Customer 449,customer449@example.com,Male,43,UK,London,92990,Graduate,Single,2024-05-27,Active
+CUST00450,Customer 450,customer450@example.com,Female,26,USA,Bengaluru,83810,PhD,Divorced,2024-10-03,Active
+CUST00451,Customer 451,customer451@example.com,Female,64,USA,Delhi,143362,High School,Divorced,2024-08-19,Active
+CUST00452,Customer 452,customer452@example.com,Female,63,USA,Hyderabad,171295,Postgraduate,Married,2026-04-05,Active
+CUST00453,Customer 453,customer453@example.com,Female,41,India,Bengaluru,158669,High School,Married,2024-12-31,Active
+CUST00454,Customer 454,customer454@example.com,Female,43,India,New York,27659,Postgraduate,Single,2024-08-15,Active
+CUST00455,Customer 455,customer455@example.com,Male,63,India,New York,111516,Graduate,Divorced,2025-10-12,Active
+CUST00456,Customer 456,customer456@example.com,Female,36,UK,Chennai,99567,High School,Single,2025-03-11,Active
+CUST00457,Customer 457,customer457@example.com,Female,35,Australia,Mumbai,40037,Postgraduate,Single,2025-02-02,Active
+CUST00458,Customer 458,customer458@example.com,Male,45,Singapore,Berlin,151498,PhD,Married,2024-07-29,Active
+CUST00459,Customer 459,customer459@example.com,Female,56,France,London,37109,Graduate,Divorced,2025-01-25,Active
+CUST00460,Customer 460,customer460@example.com,Female,31,USA,Pune,47010,PhD,Divorced,2025-05-13,Inactive
+CUST00461,Customer 461,customer461@example.com,Female,35,Singapore,Hyderabad,33787,Graduate,Divorced,2025-06-23,Inactive
+CUST00462,Customer 462,customer462@example.com,Female,24,USA,Delhi,164544,High School,Married,2025-07-16,Active
+CUST00463,Customer 463,customer463@example.com,Female,41,UK,Berlin,179455,High School,Married,2025-05-05,Active
+CUST00464,Customer 464,customer464@example.com,Female,33,USA,Bengaluru,86709,Graduate,Married,2025-03-17,Active
+CUST00465,Customer 465,customer465@example.com,Female,42,India,New York,59518,Graduate,Married,2024-09-17,Active
+CUST00466,Customer 466,customer466@example.com,Female,39,France,Hyderabad,78909,Graduate,Married,2026-02-11,Inactive
+CUST00467,Customer 467,customer467@example.com,Female,54,Germany,Pune,43351,High School,Divorced,2024-12-15,Active
+CUST00468,Customer 468,customer468@example.com,Female,34,USA,London,40282,Postgraduate,Single,2024-12-17,Active
+CUST00469,Customer 469,customer469@example.com,Female,24,Singapore,Chennai,177850,PhD,Divorced,2025-06-03,Inactive
+CUST00470,Customer 470,customer470@example.com,Male,47,India,Pune,30075,PhD,Single,2024-11-15,Active
+CUST00471,Customer 471,customer471@example.com,Female,49,Germany,Hyderabad,53365,High School,Married,2024-05-17,Active
+CUST00472,Customer 472,customer472@example.com,Female,48,France,Pune,36002,PhD,Single,2025-07-03,Inactive
+CUST00473,Customer 473,customer473@example.com,Male,55,Germany,Hyderabad,38947,Graduate,Divorced,2025-09-14,Active
+CUST00474,Customer 474,customer474@example.com,Female,28,India,Hyderabad,119840,Postgraduate,Divorced,2025-01-02,Active
+CUST00475,Customer 475,customer475@example.com,Male,36,Australia,Coimbatore,141219,PhD,Single,2024-08-07,Active
+CUST00476,Customer 476,customer476@example.com,Male,62,Australia,Delhi,103610,Postgraduate,Married,2024-12-02,Active
+CUST00477,Customer 477,customer477@example.com,Female,56,Germany,New York,77142,Graduate,Married,2024-08-10,Active
+CUST00478,Customer 478,customer478@example.com,Male,50,UK,Coimbatore,81307,PhD,Divorced,2025-10-09,Active
+CUST00479,Customer 479,customer479@example.com,Female,38,Singapore,London,160565,High School,Single,2026-02-06,Inactive
+CUST00480,Customer 480,customer480@example.com,Female,22,Singapore,Coimbatore,75085,Postgraduate,Married,2024-12-25,Active
+CUST00481,Customer 481,customer481@example.com,Female,33,Germany,Mumbai,59228,Graduate,Married,2024-11-24,Active
+CUST00482,Customer 482,customer482@example.com,Male,24,USA,Mumbai,68472,Postgraduate,Divorced,2025-04-07,Active
+CUST00483,Customer 483,customer483@example.com,Male,46,USA,New York,74437,PhD,Married,2025-07-14,Active
+CUST00484,Customer 484,customer484@example.com,Female,45,Singapore,Pune,84711,PhD,Single,2026-03-14,Active
+CUST00485,Customer 485,customer485@example.com,Other,50,Singapore,Delhi,162888,High School,Divorced,2025-01-16,Active
+CUST00486,Customer 486,customer486@example.com,Female,31,Australia,New York,102175,Graduate,Divorced,2026-04-15,Active
+CUST00487,Customer 487,customer487@example.com,Male,27,UK,Hyderabad,89307,Graduate,Single,2025-08-12,Active
+CUST00488,Customer 488,customer488@example.com,Female,51,India,Bengaluru,71733,High School,Divorced,2025-09-08,Active
+CUST00489,Customer 489,customer489@example.com,Female,64,USA,Delhi,153202,High School,Married,2024-06-17,Active
+CUST00490,Customer 490,customer490@example.com,Female,30,Singapore,Delhi,120028,Graduate,Married,2024-08-04,Active
+CUST00491,Customer 491,customer491@example.com,Male,59,Australia,Hyderabad,167312,Postgraduate,Single,2025-01-12,Active
+CUST00492,Customer 492,customer492@example.com,Female,33,France,Hyderabad,117493,Postgraduate,Married,2024-04-28,Active
+CUST00493,Customer 493,customer493@example.com,Female,51,Australia,Chennai,150149,High School,Single,2024-07-08,Active
+CUST00494,Customer 494,customer494@example.com,Other,27,USA,New York,33259,Postgraduate,Single,2026-02-05,Active
+CUST00495,Customer 495,customer495@example.com,Male,62,USA,Hyderabad,153775,Graduate,Married,2025-01-04,Active
+CUST00496,Customer 496,customer496@example.com,Female,62,Australia,Mumbai,39849,PhD,Single,2026-02-16,Active
+CUST00497,Customer 497,customer497@example.com,Female,56,India,London,106768,PhD,Married,2024-05-28,Active
+CUST00498,Customer 498,customer498@example.com,Male,40,Germany,Bengaluru,131108,Postgraduate,Divorced,2025-11-06,Active
+CUST00499,Customer 499,customer499@example.com,Female,24,USA,New York,114709,High School,Divorced,2025-10-13,Active
+CUST00500,Customer 500,customer500@example.com,Female,27,Australia,Berlin,79869,High School,Single,2026-05-08,Active

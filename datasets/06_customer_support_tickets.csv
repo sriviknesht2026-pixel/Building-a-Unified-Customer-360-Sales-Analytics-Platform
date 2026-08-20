@@ -1,0 +1,901 @@
+ticket_id,customer_id,customer_name,customer_email,product_purchased,ticket_type,ticket_subject,ticket_status,resolution,ticket_priority,ticket_channel,first_response_minutes,resolution_hours,customer_satisfaction_rating
+TKT00001,CUST00014,Customer 19,customer360@example.com,Laptop,Technical Issue,Installation help,In Progress,Configuration fixed,Low,Phone,375,76.1,2
+TKT00002,CUST00459,Customer 336,customer65@example.com,Cloud Subscription,Billing,Payment issue,In Progress,Configuration fixed,Medium,Web Form,567,75.2,5
+TKT00003,CUST00258,Customer 235,customer1@example.com,Support Package,Product Question,General enquiry,Open,Refund processed,Medium,Chat,219,10.4,5
+TKT00004,CUST00482,Customer 492,customer243@example.com,Support Package,Billing,Performance issue,Resolved,Escalated,Medium,Phone,5,27.1,1
+TKT00005,CUST00189,Customer 345,customer469@example.com,Support Package,Product Question,Performance issue,Open,Refund processed,Medium,Chat,381,25.3,1
+TKT00006,CUST00364,Customer 1,customer381@example.com,CRM License,Feature Request,Login problem,Closed,Refund processed,Low,Email,416,89.8,4
+TKT00007,CUST00239,Customer 130,customer316@example.com,AI Platform,Account Access,Login problem,Open,Escalated,Medium,Chat,639,47.1,4
+TKT00008,CUST00401,Customer 496,customer25@example.com,AI Platform,Product Question,Performance issue,Closed,Refund processed,Medium,Web Form,204,11.1,5
+TKT00009,CUST00334,Customer 27,customer347@example.com,AI Platform,Technical Issue,Performance issue,In Progress,Escalated,High,Web Form,187,28.2,3
+TKT00010,CUST00473,Customer 2,customer394@example.com,CRM License,Billing,Login problem,Open,Information provided,High,Email,414,83.8,4
+TKT00011,CUST00304,Customer 250,customer50@example.com,Support Package,Billing,Login problem,In Progress,Configuration fixed,High,Email,402,81.4,5
+TKT00012,CUST00091,Customer 222,customer396@example.com,AI Platform,Billing,Payment issue,Resolved,Refund processed,High,Phone,220,86.5,4
+TKT00013,CUST00392,Customer 435,customer348@example.com,CRM License,Product Question,Performance issue,In Progress,Escalated,Low,Web Form,353,37.6,2
+TKT00014,CUST00184,Customer 138,customer241@example.com,CRM License,Feature Request,Performance issue,Resolved,Password reset,Low,Web Form,584,61.7,1
+TKT00015,CUST00017,Customer 275,customer32@example.com,Cloud Subscription,Product Question,General enquiry,In Progress,Refund processed,High,Phone,598,27.1,5
+TKT00016,CUST00453,Customer 490,customer33@example.com,AI Platform,Technical Issue,Payment issue,Open,Refund processed,Medium,Web Form,658,17.8,4
+TKT00017,CUST00012,Customer 464,customer200@example.com,Support Package,Billing,Installation help,Open,Escalated,Medium,Phone,45,2.6,1
+TKT00018,CUST00166,Customer 141,customer234@example.com,Laptop,Product Question,Installation help,In Progress,Password reset,High,Web Form,7,21.8,3
+TKT00019,CUST00146,Customer 432,customer26@example.com,CRM License,Billing,Installation help,Closed,Password reset,Medium,Chat,98,58.2,4
+TKT00020,CUST00282,Customer 256,customer42@example.com,Cloud Subscription,Technical Issue,Login problem,Closed,Information provided,Low,Chat,63,86.9,5
+TKT00021,CUST00479,Customer 370,customer434@example.com,Laptop,Account Access,Installation help,Resolved,Refund processed,Low,Phone,411,13.2,2
+TKT00022,CUST00037,Customer 312,customer61@example.com,CRM License,Account Access,General enquiry,Resolved,Configuration fixed,Low,Phone,22,88.2,1
+TKT00023,CUST00070,Customer 456,customer41@example.com,Cloud Subscription,Account Access,Login problem,In Progress,Refund processed,High,Email,498,33.5,1
+TKT00024,CUST00169,Customer 440,customer441@example.com,AI Platform,Billing,Login problem,Open,Configuration fixed,Medium,Web Form,512,41.3,2
+TKT00025,CUST00335,Customer 434,customer130@example.com,Cloud Subscription,Product Question,Installation help,Resolved,Configuration fixed,High,Chat,590,35.4,5
+TKT00026,CUST00170,Customer 95,customer355@example.com,CRM License,Billing,Login problem,In Progress,Escalated,High,Email,336,39.5,3
+TKT00027,CUST00497,Customer 173,customer354@example.com,AI Platform,Feature Request,Payment issue,Resolved,Refund processed,Low,Web Form,173,25.3,2
+TKT00028,CUST00253,Customer 473,customer198@example.com,Support Package,Product Question,Payment issue,Open,Escalated,Low,Chat,676,67.2,3
+TKT00029,CUST00346,Customer 443,customer287@example.com,Cloud Subscription,Technical Issue,Installation help,Resolved,Information provided,Medium,Web Form,685,72.9,5
+TKT00030,CUST00499,Customer 423,customer151@example.com,Laptop,Account Access,General enquiry,In Progress,Configuration fixed,High,Phone,210,79.1,4
+TKT00031,CUST00460,Customer 405,customer204@example.com,AI Platform,Product Question,Login problem,Resolved,Password reset,Low,Chat,525,33.1,4
+TKT00032,CUST00297,Customer 439,customer182@example.com,AI Platform,Product Question,Performance issue,Closed,Configuration fixed,High,Chat,509,73.5,5
+TKT00033,CUST00431,Customer 57,customer371@example.com,Support Package,Account Access,Installation help,Resolved,Information provided,Medium,Email,350,61.4,3
+TKT00034,CUST00142,Customer 498,customer412@example.com,Cloud Subscription,Technical Issue,Login problem,Open,Configuration fixed,Medium,Web Form,308,92.0,2
+TKT00035,CUST00385,Customer 102,customer207@example.com,Laptop,Billing,Installation help,Open,Escalated,High,Phone,119,41.1,5
+TKT00036,CUST00273,Customer 169,customer147@example.com,Support Package,Billing,Installation help,Open,Refund processed,Low,Phone,668,95.3,5
+TKT00037,CUST00225,Customer 477,customer204@example.com,Cloud Subscription,Product Question,General enquiry,Open,Password reset,Medium,Web Form,91,71.2,4
+TKT00038,CUST00183,Customer 70,customer498@example.com,Laptop,Account Access,Performance issue,In Progress,Escalated,Low,Web Form,99,74.6,2
+TKT00039,CUST00221,Customer 338,customer48@example.com,Laptop,Feature Request,Login problem,Resolved,Refund processed,High,Phone,432,3.0,4
+TKT00040,CUST00053,Customer 49,customer258@example.com,CRM License,Technical Issue,Installation help,Resolved,Password reset,High,Web Form,702,48.0,3
+TKT00041,CUST00118,Customer 428,customer139@example.com,Laptop,Billing,Installation help,Resolved,Information provided,High,Email,454,51.0,3
+TKT00042,CUST00365,Customer 419,customer172@example.com,Cloud Subscription,Technical Issue,Login problem,Resolved,Configuration fixed,Low,Web Form,630,4.4,1
+TKT00043,CUST00159,Customer 347,customer101@example.com,Support Package,Technical Issue,Installation help,In Progress,Password reset,Low,Email,545,30.3,5
+TKT00044,CUST00446,Customer 5,customer187@example.com,Support Package,Technical Issue,Installation help,Open,Information provided,Medium,Email,719,91.8,2
+TKT00045,CUST00136,Customer 455,customer384@example.com,CRM License,Account Access,Installation help,Resolved,Refund processed,Medium,Web Form,6,41.2,2
+TKT00046,CUST00414,Customer 202,customer315@example.com,Cloud Subscription,Account Access,Payment issue,Resolved,Password reset,Medium,Chat,82,18.3,4
+TKT00047,CUST00077,Customer 202,customer376@example.com,Laptop,Account Access,Payment issue,Open,Information provided,Medium,Chat,328,49.5,4
+TKT00048,CUST00336,Customer 179,customer294@example.com,CRM License,Product Question,Performance issue,Closed,Refund processed,Low,Email,102,3.7,2
+TKT00049,CUST00450,Customer 57,customer409@example.com,AI Platform,Account Access,General enquiry,Closed,Escalated,High,Web Form,633,49.8,4
+TKT00050,CUST00045,Customer 186,customer363@example.com,Cloud Subscription,Product Question,Login problem,Open,Configuration fixed,High,Email,114,57.3,1
+TKT00051,CUST00018,Customer 92,customer21@example.com,CRM License,Billing,General enquiry,Resolved,Information provided,Critical,Web Form,683,34.7,5
+TKT00052,CUST00355,Customer 292,customer298@example.com,Support Package,Billing,General enquiry,Open,Escalated,Medium,Web Form,461,73.3,1
+TKT00053,CUST00429,Customer 394,customer420@example.com,CRM License,Billing,Payment issue,Resolved,Refund processed,Medium,Phone,492,13.5,3
+TKT00054,CUST00403,Customer 434,customer393@example.com,AI Platform,Billing,Performance issue,Resolved,Password reset,Low,Chat,375,84.4,2
+TKT00055,CUST00205,Customer 483,customer396@example.com,Cloud Subscription,Billing,General enquiry,Closed,Configuration fixed,Low,Chat,341,91.7,1
+TKT00056,CUST00499,Customer 227,customer10@example.com,CRM License,Account Access,General enquiry,Closed,Refund processed,Medium,Phone,603,0.6,1
+TKT00057,CUST00324,Customer 421,customer187@example.com,Laptop,Feature Request,Installation help,Resolved,Information provided,Critical,Phone,26,81.0,4
+TKT00058,CUST00083,Customer 112,customer494@example.com,Cloud Subscription,Account Access,Login problem,Resolved,Configuration fixed,Low,Phone,309,48.8,4
+TKT00059,CUST00050,Customer 148,customer133@example.com,CRM License,Feature Request,Performance issue,Resolved,Escalated,Medium,Email,276,44.6,4
+TKT00060,CUST00281,Customer 269,customer33@example.com,CRM License,Account Access,Login problem,Closed,Configuration fixed,Low,Email,494,23.3,3
+TKT00061,CUST00166,Customer 203,customer69@example.com,Cloud Subscription,Billing,Payment issue,Resolved,Escalated,Medium,Email,450,43.2,1
+TKT00062,CUST00243,Customer 378,customer80@example.com,Support Package,Technical Issue,General enquiry,Open,Refund processed,Low,Email,282,91.3,5
+TKT00063,CUST00377,Customer 365,customer191@example.com,Laptop,Feature Request,General enquiry,In Progress,Password reset,Medium,Email,655,20.6,4
+TKT00064,CUST00479,Customer 403,customer101@example.com,Cloud Subscription,Technical Issue,Login problem,In Progress,Configuration fixed,Medium,Chat,381,17.6,3
+TKT00065,CUST00164,Customer 348,customer485@example.com,Laptop,Billing,Payment issue,Resolved,Password reset,Low,Chat,236,23.6,3
+TKT00066,CUST00324,Customer 358,customer285@example.com,Laptop,Feature Request,Installation help,Open,Password reset,Low,Web Form,596,53.2,4
+TKT00067,CUST00056,Customer 56,customer402@example.com,Cloud Subscription,Technical Issue,Installation help,Resolved,Configuration fixed,Medium,Chat,430,89.3,2
+TKT00068,CUST00039,Customer 301,customer221@example.com,CRM License,Account Access,General enquiry,Open,Configuration fixed,Medium,Phone,59,55.3,1
+TKT00069,CUST00319,Customer 316,customer390@example.com,Support Package,Billing,General enquiry,Closed,Password reset,Low,Chat,445,23.8,4
+TKT00070,CUST00128,Customer 452,customer53@example.com,Laptop,Account Access,Performance issue,Closed,Information provided,High,Phone,38,42.6,5
+TKT00071,CUST00391,Customer 185,customer466@example.com,Laptop,Account Access,Login problem,Resolved,Information provided,Medium,Chat,333,37.8,1
+TKT00072,CUST00122,Customer 54,customer160@example.com,CRM License,Billing,General enquiry,Closed,Configuration fixed,Medium,Email,458,4.9,3
+TKT00073,CUST00247,Customer 37,customer380@example.com,Cloud Subscription,Feature Request,Payment issue,Resolved,Password reset,High,Chat,392,49.3,5
+TKT00074,CUST00186,Customer 211,customer42@example.com,Support Package,Product Question,Login problem,In Progress,Password reset,Medium,Web Form,434,12.5,1
+TKT00075,CUST00208,Customer 293,customer47@example.com,Laptop,Product Question,Performance issue,Open,Refund processed,High,Email,480,80.9,5
+TKT00076,CUST00315,Customer 270,customer159@example.com,Laptop,Billing,Installation help,Open,Password reset,High,Email,129,52.9,3
+TKT00077,CUST00304,Customer 351,customer446@example.com,Cloud Subscription,Product Question,Performance issue,In Progress,Information provided,Low,Web Form,527,81.2,4
+TKT00078,CUST00389,Customer 220,customer184@example.com,CRM License,Technical Issue,Login problem,In Progress,Refund processed,High,Chat,486,91.8,5
+TKT00079,CUST00239,Customer 228,customer246@example.com,AI Platform,Feature Request,Installation help,In Progress,Information provided,Low,Chat,321,90.6,4
+TKT00080,CUST00215,Customer 428,customer11@example.com,CRM License,Account Access,Payment issue,In Progress,Escalated,Medium,Web Form,126,10.1,3
+TKT00081,CUST00292,Customer 358,customer154@example.com,Laptop,Account Access,Installation help,Closed,Configuration fixed,High,Email,551,90.7,3
+TKT00082,CUST00224,Customer 211,customer220@example.com,Laptop,Billing,Installation help,Open,Escalated,High,Web Form,585,76.5,5
+TKT00083,CUST00088,Customer 298,customer155@example.com,Support Package,Account Access,Payment issue,Open,Configuration fixed,Medium,Phone,317,74.8,5
+TKT00084,CUST00025,Customer 1,customer339@example.com,CRM License,Technical Issue,General enquiry,In Progress,Information provided,Low,Phone,491,9.1,3
+TKT00085,CUST00429,Customer 23,customer441@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Information provided,Medium,Chat,655,17.6,5
+TKT00086,CUST00220,Customer 448,customer365@example.com,Support Package,Billing,Installation help,Resolved,Escalated,Medium,Email,16,93.6,5
+TKT00087,CUST00275,Customer 284,customer283@example.com,AI Platform,Account Access,Installation help,Resolved,Configuration fixed,Medium,Phone,129,20.9,5
+TKT00088,CUST00135,Customer 496,customer187@example.com,Support Package,Product Question,Performance issue,Resolved,Configuration fixed,Critical,Web Form,663,16.6,5
+TKT00089,CUST00492,Customer 388,customer62@example.com,CRM License,Product Question,General enquiry,Closed,Refund processed,Medium,Chat,81,35.1,1
+TKT00090,CUST00442,Customer 425,customer148@example.com,Laptop,Feature Request,Payment issue,Open,Password reset,Low,Chat,584,87.7,3
+TKT00091,CUST00233,Customer 188,customer387@example.com,AI Platform,Billing,Installation help,Open,Refund processed,Low,Email,240,46.0,3
+TKT00092,CUST00465,Customer 18,customer144@example.com,CRM License,Feature Request,Installation help,Open,Information provided,Medium,Phone,575,88.4,2
+TKT00093,CUST00066,Customer 447,customer103@example.com,AI Platform,Product Question,Performance issue,Resolved,Escalated,Medium,Chat,258,32.4,4
+TKT00094,CUST00080,Customer 445,customer300@example.com,CRM License,Product Question,Performance issue,In Progress,Configuration fixed,Low,Web Form,410,22.1,2
+TKT00095,CUST00423,Customer 49,customer93@example.com,Support Package,Product Question,Performance issue,Resolved,Refund processed,High,Phone,247,47.8,5
+TKT00096,CUST00255,Customer 47,customer463@example.com,CRM License,Feature Request,Login problem,Open,Escalated,Low,Chat,465,59.3,5
+TKT00097,CUST00125,Customer 115,customer286@example.com,Support Package,Billing,Payment issue,Resolved,Escalated,Medium,Chat,281,37.9,1
+TKT00098,CUST00146,Customer 39,customer424@example.com,Laptop,Technical Issue,Login problem,In Progress,Password reset,High,Phone,473,33.5,1
+TKT00099,CUST00103,Customer 217,customer119@example.com,Support Package,Technical Issue,Installation help,In Progress,Configuration fixed,Low,Phone,224,21.3,1
+TKT00100,CUST00385,Customer 210,customer497@example.com,Cloud Subscription,Product Question,Performance issue,Resolved,Escalated,Medium,Email,229,26.8,1
+TKT00101,CUST00447,Customer 262,customer449@example.com,Laptop,Billing,Performance issue,Open,Configuration fixed,High,Web Form,105,64.8,1
+TKT00102,CUST00387,Customer 211,customer29@example.com,CRM License,Billing,Performance issue,Closed,Refund processed,Medium,Email,638,35.8,1
+TKT00103,CUST00383,Customer 53,customer30@example.com,CRM License,Account Access,General enquiry,Open,Escalated,Medium,Email,511,8.1,1
+TKT00104,CUST00277,Customer 460,customer360@example.com,Cloud Subscription,Account Access,Payment issue,Closed,Escalated,High,Web Form,591,13.7,1
+TKT00105,CUST00382,Customer 281,customer366@example.com,CRM License,Feature Request,Login problem,Open,Refund processed,Critical,Web Form,335,36.1,1
+TKT00106,CUST00124,Customer 355,customer288@example.com,Laptop,Account Access,Payment issue,Resolved,Configuration fixed,Low,Email,241,88.8,3
+TKT00107,CUST00414,Customer 321,customer138@example.com,Laptop,Feature Request,Performance issue,Closed,Configuration fixed,Medium,Phone,343,36.7,1
+TKT00108,CUST00267,Customer 133,customer475@example.com,Support Package,Technical Issue,Installation help,Open,Escalated,Low,Web Form,510,6.3,4
+TKT00109,CUST00278,Customer 449,customer51@example.com,AI Platform,Product Question,General enquiry,Resolved,Refund processed,Low,Email,169,40.4,1
+TKT00110,CUST00111,Customer 264,customer392@example.com,CRM License,Billing,Payment issue,Open,Information provided,Medium,Phone,673,64.4,5
+TKT00111,CUST00381,Customer 295,customer435@example.com,Cloud Subscription,Technical Issue,Installation help,In Progress,Configuration fixed,Critical,Chat,222,57.2,5
+TKT00112,CUST00313,Customer 111,customer292@example.com,Laptop,Technical Issue,Performance issue,In Progress,Information provided,Medium,Phone,380,27.1,1
+TKT00113,CUST00089,Customer 43,customer234@example.com,Laptop,Feature Request,Performance issue,Open,Escalated,Medium,Email,16,66.2,1
+TKT00114,CUST00387,Customer 338,customer55@example.com,Laptop,Product Question,Performance issue,Resolved,Information provided,Low,Web Form,436,60.7,5
+TKT00115,CUST00158,Customer 238,customer419@example.com,AI Platform,Feature Request,Performance issue,Open,Information provided,High,Phone,87,16.9,4
+TKT00116,CUST00216,Customer 379,customer292@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Configuration fixed,Medium,Phone,435,16.0,2
+TKT00117,CUST00384,Customer 457,customer240@example.com,CRM License,Billing,General enquiry,Closed,Escalated,Medium,Phone,629,52.8,3
+TKT00118,CUST00301,Customer 389,customer312@example.com,Cloud Subscription,Account Access,Payment issue,In Progress,Information provided,High,Web Form,482,63.5,5
+TKT00119,CUST00036,Customer 247,customer36@example.com,AI Platform,Feature Request,Performance issue,Closed,Configuration fixed,Medium,Web Form,711,92.4,1
+TKT00120,CUST00087,Customer 4,customer89@example.com,Support Package,Technical Issue,General enquiry,Resolved,Information provided,Low,Phone,373,40.8,3
+TKT00121,CUST00118,Customer 364,customer212@example.com,AI Platform,Account Access,Installation help,Open,Configuration fixed,Medium,Phone,657,73.6,1
+TKT00122,CUST00328,Customer 349,customer445@example.com,Laptop,Account Access,General enquiry,In Progress,Escalated,High,Email,640,11.6,2
+TKT00123,CUST00448,Customer 385,customer318@example.com,Cloud Subscription,Technical Issue,General enquiry,Resolved,Refund processed,High,Web Form,145,85.5,2
+TKT00124,CUST00182,Customer 350,customer500@example.com,CRM License,Product Question,Payment issue,Resolved,Configuration fixed,Low,Phone,631,61.0,5
+TKT00125,CUST00068,Customer 312,customer365@example.com,AI Platform,Technical Issue,General enquiry,In Progress,Configuration fixed,Medium,Web Form,460,60.6,3
+TKT00126,CUST00434,Customer 173,customer245@example.com,Laptop,Billing,Installation help,Open,Information provided,Low,Web Form,506,14.1,3
+TKT00127,CUST00359,Customer 193,customer465@example.com,Support Package,Account Access,Performance issue,In Progress,Escalated,Medium,Web Form,407,4.3,2
+TKT00128,CUST00491,Customer 3,customer87@example.com,Support Package,Billing,Login problem,Open,Password reset,High,Email,292,67.5,1
+TKT00129,CUST00159,Customer 278,customer409@example.com,CRM License,Feature Request,Payment issue,Open,Password reset,Medium,Chat,359,11.7,5
+TKT00130,CUST00285,Customer 456,customer240@example.com,CRM License,Account Access,Installation help,Resolved,Refund processed,High,Web Form,347,12.6,4
+TKT00131,CUST00443,Customer 56,customer320@example.com,AI Platform,Product Question,Payment issue,Open,Escalated,Medium,Web Form,153,18.4,2
+TKT00132,CUST00164,Customer 274,customer188@example.com,CRM License,Technical Issue,Performance issue,Open,Configuration fixed,High,Phone,214,9.8,2
+TKT00133,CUST00461,Customer 409,customer57@example.com,Laptop,Feature Request,General enquiry,In Progress,Password reset,High,Web Form,116,60.2,5
+TKT00134,CUST00361,Customer 176,customer113@example.com,Laptop,Billing,General enquiry,In Progress,Refund processed,Medium,Chat,658,40.8,1
+TKT00135,CUST00073,Customer 116,customer223@example.com,Laptop,Feature Request,Installation help,Open,Escalated,Medium,Web Form,540,25.9,3
+TKT00136,CUST00119,Customer 84,customer70@example.com,AI Platform,Product Question,Performance issue,Resolved,Refund processed,Medium,Email,53,42.6,2
+TKT00137,CUST00341,Customer 159,customer227@example.com,AI Platform,Technical Issue,Login problem,In Progress,Password reset,High,Phone,335,81.1,5
+TKT00138,CUST00499,Customer 286,customer256@example.com,CRM License,Feature Request,Login problem,Closed,Information provided,Low,Chat,369,89.0,5
+TKT00139,CUST00195,Customer 80,customer180@example.com,AI Platform,Billing,General enquiry,Resolved,Information provided,High,Email,15,47.1,5
+TKT00140,CUST00089,Customer 66,customer184@example.com,Laptop,Feature Request,Performance issue,In Progress,Escalated,Low,Chat,192,54.6,3
+TKT00141,CUST00345,Customer 209,customer191@example.com,Cloud Subscription,Technical Issue,Performance issue,In Progress,Refund processed,Low,Phone,513,25.1,2
+TKT00142,CUST00076,Customer 10,customer452@example.com,Laptop,Feature Request,Installation help,Closed,Configuration fixed,Low,Web Form,584,49.5,5
+TKT00143,CUST00221,Customer 199,customer232@example.com,Cloud Subscription,Billing,Login problem,Open,Password reset,Critical,Phone,449,71.9,3
+TKT00144,CUST00139,Customer 59,customer276@example.com,CRM License,Technical Issue,Installation help,In Progress,Information provided,Medium,Phone,94,47.5,1
+TKT00145,CUST00372,Customer 234,customer233@example.com,Support Package,Product Question,Payment issue,Closed,Information provided,Low,Web Form,626,29.3,4
+TKT00146,CUST00395,Customer 307,customer54@example.com,AI Platform,Product Question,Performance issue,Closed,Refund processed,Critical,Email,680,56.1,2
+TKT00147,CUST00241,Customer 244,customer257@example.com,AI Platform,Account Access,Login problem,In Progress,Information provided,High,Chat,452,90.9,3
+TKT00148,CUST00154,Customer 379,customer493@example.com,Laptop,Feature Request,Installation help,Resolved,Refund processed,High,Email,36,85.3,4
+TKT00149,CUST00053,Customer 393,customer90@example.com,Laptop,Billing,General enquiry,In Progress,Password reset,Low,Web Form,331,74.0,4
+TKT00150,CUST00142,Customer 54,customer226@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Refund processed,Low,Chat,78,26.9,3
+TKT00151,CUST00320,Customer 446,customer247@example.com,AI Platform,Technical Issue,Installation help,In Progress,Information provided,Medium,Web Form,255,23.6,3
+TKT00152,CUST00464,Customer 337,customer394@example.com,CRM License,Account Access,General enquiry,Resolved,Refund processed,High,Email,454,80.6,3
+TKT00153,CUST00394,Customer 393,customer151@example.com,Laptop,Billing,Login problem,Open,Information provided,Medium,Phone,359,17.8,5
+TKT00154,CUST00031,Customer 9,customer435@example.com,AI Platform,Feature Request,Login problem,Open,Escalated,Medium,Chat,537,58.3,1
+TKT00155,CUST00223,Customer 101,customer113@example.com,Support Package,Billing,Payment issue,In Progress,Information provided,High,Web Form,300,42.4,5
+TKT00156,CUST00292,Customer 408,customer408@example.com,Cloud Subscription,Technical Issue,General enquiry,In Progress,Information provided,Low,Chat,302,45.2,4
+TKT00157,CUST00266,Customer 295,customer269@example.com,Laptop,Account Access,Performance issue,Closed,Information provided,Medium,Chat,332,43.9,4
+TKT00158,CUST00282,Customer 203,customer157@example.com,Laptop,Billing,Login problem,Resolved,Escalated,Medium,Email,306,86.4,4
+TKT00159,CUST00276,Customer 392,customer442@example.com,CRM License,Technical Issue,Performance issue,Closed,Configuration fixed,Low,Phone,516,8.8,3
+TKT00160,CUST00381,Customer 153,customer366@example.com,Laptop,Product Question,Performance issue,Closed,Information provided,Low,Chat,342,75.3,2
+TKT00161,CUST00044,Customer 110,customer347@example.com,AI Platform,Billing,Installation help,Open,Configuration fixed,High,Email,589,80.2,5
+TKT00162,CUST00062,Customer 322,customer351@example.com,AI Platform,Account Access,Installation help,Closed,Password reset,High,Chat,378,90.5,2
+TKT00163,CUST00201,Customer 266,customer299@example.com,AI Platform,Billing,Login problem,Closed,Refund processed,Medium,Phone,557,43.7,1
+TKT00164,CUST00335,Customer 373,customer394@example.com,Support Package,Billing,Performance issue,Open,Configuration fixed,Low,Chat,98,48.3,1
+TKT00165,CUST00009,Customer 152,customer159@example.com,Support Package,Technical Issue,Installation help,Open,Password reset,Low,Phone,136,92.3,5
+TKT00166,CUST00071,Customer 496,customer487@example.com,Laptop,Feature Request,General enquiry,Resolved,Refund processed,High,Email,615,44.3,4
+TKT00167,CUST00090,Customer 464,customer330@example.com,Support Package,Feature Request,General enquiry,Resolved,Information provided,Medium,Email,57,48.6,1
+TKT00168,CUST00024,Customer 83,customer472@example.com,Support Package,Billing,General enquiry,Resolved,Information provided,Critical,Phone,500,32.2,2
+TKT00169,CUST00140,Customer 443,customer225@example.com,CRM License,Account Access,General enquiry,In Progress,Information provided,High,Phone,233,3.5,2
+TKT00170,CUST00316,Customer 415,customer14@example.com,Support Package,Account Access,Performance issue,Open,Escalated,Medium,Email,644,41.9,3
+TKT00171,CUST00340,Customer 395,customer355@example.com,Cloud Subscription,Technical Issue,General enquiry,In Progress,Escalated,Low,Phone,216,63.1,4
+TKT00172,CUST00376,Customer 134,customer109@example.com,Cloud Subscription,Billing,Performance issue,In Progress,Escalated,Medium,Phone,508,66.4,3
+TKT00173,CUST00078,Customer 326,customer418@example.com,Cloud Subscription,Billing,Login problem,Resolved,Escalated,Low,Web Form,499,1.1,5
+TKT00174,CUST00214,Customer 160,customer401@example.com,Laptop,Feature Request,Login problem,Open,Password reset,Low,Chat,675,77.0,1
+TKT00175,CUST00016,Customer 39,customer405@example.com,AI Platform,Technical Issue,General enquiry,In Progress,Password reset,Low,Email,237,47.5,3
+TKT00176,CUST00029,Customer 176,customer96@example.com,CRM License,Product Question,General enquiry,Closed,Information provided,Medium,Email,75,50.2,3
+TKT00177,CUST00416,Customer 13,customer195@example.com,Laptop,Account Access,General enquiry,Closed,Refund processed,Medium,Web Form,193,92.3,5
+TKT00178,CUST00467,Customer 315,customer58@example.com,AI Platform,Account Access,Login problem,Open,Escalated,Medium,Phone,667,27.7,2
+TKT00179,CUST00375,Customer 67,customer463@example.com,CRM License,Billing,Installation help,In Progress,Refund processed,Medium,Phone,12,73.2,2
+TKT00180,CUST00291,Customer 440,customer392@example.com,CRM License,Technical Issue,Login problem,Resolved,Password reset,Low,Phone,336,55.4,5
+TKT00181,CUST00043,Customer 248,customer352@example.com,CRM License,Product Question,General enquiry,In Progress,Escalated,High,Email,616,67.4,2
+TKT00182,CUST00352,Customer 41,customer294@example.com,Cloud Subscription,Account Access,Installation help,Closed,Password reset,High,Web Form,20,40.4,5
+TKT00183,CUST00375,Customer 184,customer154@example.com,Cloud Subscription,Technical Issue,Installation help,Closed,Password reset,Low,Chat,670,27.2,2
+TKT00184,CUST00053,Customer 35,customer64@example.com,Cloud Subscription,Product Question,Payment issue,Resolved,Configuration fixed,Medium,Web Form,673,52.7,5
+TKT00185,CUST00276,Customer 422,customer158@example.com,CRM License,Billing,Performance issue,Open,Password reset,Medium,Email,97,36.3,2
+TKT00186,CUST00371,Customer 337,customer265@example.com,CRM License,Feature Request,General enquiry,In Progress,Information provided,Low,Chat,266,21.8,3
+TKT00187,CUST00232,Customer 451,customer121@example.com,Cloud Subscription,Account Access,Performance issue,Closed,Password reset,Medium,Phone,553,80.6,3
+TKT00188,CUST00212,Customer 290,customer288@example.com,CRM License,Account Access,Payment issue,In Progress,Escalated,Critical,Web Form,165,45.9,2
+TKT00189,CUST00008,Customer 76,customer11@example.com,Cloud Subscription,Product Question,Performance issue,Resolved,Information provided,Low,Web Form,355,81.4,5
+TKT00190,CUST00122,Customer 472,customer214@example.com,Cloud Subscription,Feature Request,General enquiry,Resolved,Password reset,Medium,Email,178,45.8,3
+TKT00191,CUST00483,Customer 70,customer162@example.com,Cloud Subscription,Technical Issue,Payment issue,Open,Information provided,High,Web Form,321,53.7,1
+TKT00192,CUST00042,Customer 234,customer105@example.com,AI Platform,Billing,Performance issue,Resolved,Password reset,Medium,Chat,22,95.5,2
+TKT00193,CUST00333,Customer 11,customer402@example.com,CRM License,Technical Issue,Login problem,Open,Information provided,Medium,Web Form,490,91.4,1
+TKT00194,CUST00233,Customer 368,customer147@example.com,Laptop,Product Question,Installation help,In Progress,Refund processed,High,Email,371,26.4,1
+TKT00195,CUST00070,Customer 283,customer182@example.com,Cloud Subscription,Account Access,Payment issue,Closed,Configuration fixed,Medium,Web Form,355,83.5,4
+TKT00196,CUST00367,Customer 304,customer338@example.com,Laptop,Account Access,Login problem,Closed,Information provided,Medium,Chat,532,37.8,1
+TKT00197,CUST00016,Customer 24,customer37@example.com,AI Platform,Technical Issue,General enquiry,Open,Escalated,High,Chat,439,7.3,1
+TKT00198,CUST00069,Customer 274,customer82@example.com,CRM License,Billing,Installation help,Closed,Configuration fixed,High,Email,274,55.5,4
+TKT00199,CUST00053,Customer 27,customer12@example.com,Cloud Subscription,Product Question,Payment issue,Open,Configuration fixed,Critical,Phone,72,93.8,4
+TKT00200,CUST00173,Customer 54,customer4@example.com,Cloud Subscription,Billing,Installation help,Open,Password reset,High,Email,34,93.5,4
+TKT00201,CUST00435,Customer 55,customer495@example.com,Cloud Subscription,Product Question,Payment issue,In Progress,Information provided,Medium,Phone,320,12.6,5
+TKT00202,CUST00482,Customer 376,customer43@example.com,Laptop,Billing,Payment issue,In Progress,Configuration fixed,High,Chat,168,74.2,4
+TKT00203,CUST00262,Customer 233,customer411@example.com,AI Platform,Technical Issue,Performance issue,Resolved,Escalated,High,Web Form,324,77.2,5
+TKT00204,CUST00379,Customer 277,customer51@example.com,CRM License,Feature Request,Installation help,Open,Escalated,Critical,Web Form,18,35.7,2
+TKT00205,CUST00289,Customer 443,customer261@example.com,AI Platform,Product Question,Installation help,In Progress,Escalated,High,Chat,283,63.4,5
+TKT00206,CUST00463,Customer 371,customer134@example.com,Cloud Subscription,Technical Issue,Login problem,Open,Password reset,Low,Email,436,47.1,2
+TKT00207,CUST00015,Customer 418,customer461@example.com,AI Platform,Account Access,General enquiry,Open,Refund processed,High,Web Form,672,22.3,4
+TKT00208,CUST00270,Customer 120,customer87@example.com,Laptop,Account Access,Login problem,Open,Information provided,Low,Email,638,73.2,4
+TKT00209,CUST00167,Customer 225,customer362@example.com,Support Package,Billing,Performance issue,In Progress,Configuration fixed,Medium,Web Form,267,25.6,2
+TKT00210,CUST00063,Customer 58,customer56@example.com,Support Package,Account Access,Payment issue,Open,Information provided,Low,Phone,686,33.0,3
+TKT00211,CUST00261,Customer 255,customer217@example.com,CRM License,Feature Request,Performance issue,Open,Configuration fixed,High,Web Form,526,18.6,5
+TKT00212,CUST00500,Customer 176,customer366@example.com,CRM License,Product Question,Performance issue,Resolved,Password reset,Medium,Phone,176,69.2,1
+TKT00213,CUST00121,Customer 54,customer68@example.com,AI Platform,Billing,Login problem,Open,Information provided,High,Web Form,362,44.3,4
+TKT00214,CUST00346,Customer 146,customer500@example.com,CRM License,Product Question,Payment issue,Resolved,Password reset,Medium,Web Form,17,42.8,5
+TKT00215,CUST00240,Customer 259,customer352@example.com,Laptop,Product Question,General enquiry,Open,Password reset,Low,Web Form,677,58.2,5
+TKT00216,CUST00465,Customer 152,customer44@example.com,Cloud Subscription,Technical Issue,Performance issue,Resolved,Information provided,Medium,Web Form,236,15.5,4
+TKT00217,CUST00107,Customer 385,customer143@example.com,Cloud Subscription,Account Access,General enquiry,In Progress,Information provided,Medium,Web Form,480,86.3,2
+TKT00218,CUST00495,Customer 262,customer346@example.com,AI Platform,Product Question,Payment issue,In Progress,Configuration fixed,High,Email,475,44.9,4
+TKT00219,CUST00180,Customer 19,customer42@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Escalated,Low,Phone,164,35.5,5
+TKT00220,CUST00016,Customer 342,customer139@example.com,AI Platform,Feature Request,Login problem,Open,Password reset,Medium,Phone,643,12.6,3
+TKT00221,CUST00355,Customer 371,customer73@example.com,CRM License,Account Access,Installation help,Closed,Refund processed,Medium,Web Form,564,16.5,2
+TKT00222,CUST00422,Customer 171,customer267@example.com,CRM License,Account Access,Login problem,Closed,Configuration fixed,Low,Email,265,88.4,4
+TKT00223,CUST00309,Customer 379,customer194@example.com,Laptop,Billing,General enquiry,Resolved,Configuration fixed,Low,Email,577,44.1,1
+TKT00224,CUST00215,Customer 392,customer493@example.com,Cloud Subscription,Billing,Login problem,In Progress,Escalated,Low,Chat,638,69.5,4
+TKT00225,CUST00077,Customer 197,customer155@example.com,Laptop,Billing,Payment issue,Open,Escalated,Medium,Chat,606,8.2,5
+TKT00226,CUST00225,Customer 436,customer246@example.com,Support Package,Account Access,Performance issue,Open,Password reset,Medium,Email,363,62.0,5
+TKT00227,CUST00093,Customer 73,customer314@example.com,Laptop,Product Question,Installation help,Resolved,Configuration fixed,Medium,Chat,259,88.5,1
+TKT00228,CUST00181,Customer 303,customer218@example.com,AI Platform,Technical Issue,Payment issue,Closed,Configuration fixed,Critical,Phone,606,29.1,2
+TKT00229,CUST00174,Customer 85,customer456@example.com,AI Platform,Billing,Performance issue,Resolved,Refund processed,High,Email,519,55.8,5
+TKT00230,CUST00354,Customer 284,customer384@example.com,Laptop,Technical Issue,General enquiry,Closed,Password reset,Medium,Chat,284,90.3,2
+TKT00231,CUST00354,Customer 302,customer253@example.com,CRM License,Feature Request,General enquiry,Open,Password reset,Medium,Email,121,69.2,2
+TKT00232,CUST00219,Customer 132,customer277@example.com,Support Package,Account Access,General enquiry,Resolved,Escalated,Low,Chat,614,6.5,4
+TKT00233,CUST00143,Customer 120,customer277@example.com,Laptop,Feature Request,Login problem,Closed,Password reset,Low,Email,166,36.7,2
+TKT00234,CUST00315,Customer 216,customer72@example.com,CRM License,Billing,General enquiry,Resolved,Refund processed,Medium,Web Form,302,8.7,5
+TKT00235,CUST00434,Customer 136,customer129@example.com,Laptop,Product Question,General enquiry,In Progress,Password reset,Medium,Phone,301,82.8,5
+TKT00236,CUST00393,Customer 116,customer358@example.com,Cloud Subscription,Billing,Login problem,Resolved,Information provided,Medium,Chat,598,59.9,3
+TKT00237,CUST00282,Customer 61,customer186@example.com,AI Platform,Technical Issue,Performance issue,Open,Information provided,High,Web Form,362,91.8,2
+TKT00238,CUST00259,Customer 17,customer13@example.com,Cloud Subscription,Billing,Payment issue,Resolved,Refund processed,High,Email,664,2.4,3
+TKT00239,CUST00356,Customer 34,customer329@example.com,Cloud Subscription,Product Question,Installation help,Open,Escalated,Low,Web Form,522,40.9,4
+TKT00240,CUST00047,Customer 20,customer220@example.com,Support Package,Product Question,General enquiry,Open,Configuration fixed,Medium,Phone,382,10.5,3
+TKT00241,CUST00005,Customer 208,customer6@example.com,CRM License,Account Access,General enquiry,Resolved,Password reset,Low,Chat,701,34.0,2
+TKT00242,CUST00062,Customer 458,customer239@example.com,AI Platform,Account Access,General enquiry,Resolved,Escalated,Medium,Chat,430,16.0,5
+TKT00243,CUST00468,Customer 162,customer471@example.com,Cloud Subscription,Product Question,Login problem,Resolved,Escalated,Low,Email,541,31.9,4
+TKT00244,CUST00084,Customer 299,customer112@example.com,AI Platform,Product Question,Login problem,In Progress,Password reset,High,Phone,557,78.7,2
+TKT00245,CUST00133,Customer 10,customer228@example.com,CRM License,Technical Issue,Login problem,In Progress,Configuration fixed,High,Web Form,173,15.8,4
+TKT00246,CUST00394,Customer 94,customer442@example.com,Laptop,Billing,Installation help,Closed,Password reset,Low,Email,519,45.7,1
+TKT00247,CUST00336,Customer 414,customer17@example.com,Cloud Subscription,Account Access,Payment issue,Resolved,Configuration fixed,High,Chat,368,88.5,2
+TKT00248,CUST00063,Customer 371,customer73@example.com,CRM License,Technical Issue,General enquiry,Closed,Refund processed,Medium,Web Form,687,95.9,1
+TKT00249,CUST00281,Customer 409,customer12@example.com,AI Platform,Billing,Performance issue,Closed,Configuration fixed,Medium,Email,434,24.4,3
+TKT00250,CUST00044,Customer 383,customer86@example.com,CRM License,Account Access,General enquiry,Open,Escalated,Medium,Web Form,573,89.8,2
+TKT00251,CUST00153,Customer 441,customer499@example.com,Laptop,Technical Issue,General enquiry,Closed,Refund processed,Medium,Web Form,87,25.5,1
+TKT00252,CUST00414,Customer 366,customer180@example.com,CRM License,Feature Request,General enquiry,Resolved,Information provided,High,Email,334,40.0,5
+TKT00253,CUST00270,Customer 447,customer122@example.com,AI Platform,Feature Request,General enquiry,In Progress,Refund processed,High,Web Form,695,84.3,3
+TKT00254,CUST00342,Customer 107,customer204@example.com,Cloud Subscription,Account Access,Payment issue,Closed,Configuration fixed,Medium,Web Form,137,75.6,2
+TKT00255,CUST00171,Customer 105,customer70@example.com,Cloud Subscription,Technical Issue,Performance issue,Closed,Refund processed,High,Phone,602,82.4,2
+TKT00256,CUST00156,Customer 71,customer108@example.com,Support Package,Billing,Login problem,In Progress,Refund processed,Critical,Phone,461,76.9,5
+TKT00257,CUST00478,Customer 431,customer201@example.com,AI Platform,Billing,Performance issue,Closed,Information provided,Medium,Chat,357,22.9,5
+TKT00258,CUST00275,Customer 84,customer52@example.com,Support Package,Technical Issue,General enquiry,Resolved,Configuration fixed,Low,Phone,348,53.9,1
+TKT00259,CUST00358,Customer 209,customer37@example.com,Support Package,Feature Request,Performance issue,Closed,Escalated,High,Email,98,37.3,1
+TKT00260,CUST00426,Customer 259,customer117@example.com,Laptop,Technical Issue,General enquiry,Open,Refund processed,Critical,Web Form,386,44.4,1
+TKT00261,CUST00020,Customer 239,customer259@example.com,AI Platform,Feature Request,Performance issue,Closed,Password reset,Low,Chat,299,15.2,4
+TKT00262,CUST00483,Customer 302,customer482@example.com,Cloud Subscription,Feature Request,Installation help,Open,Escalated,Medium,Phone,202,30.7,3
+TKT00263,CUST00214,Customer 232,customer264@example.com,AI Platform,Billing,Performance issue,In Progress,Refund processed,Low,Web Form,83,82.4,2
+TKT00264,CUST00079,Customer 420,customer394@example.com,Laptop,Account Access,Login problem,In Progress,Escalated,High,Email,682,86.2,3
+TKT00265,CUST00139,Customer 282,customer303@example.com,AI Platform,Product Question,Login problem,Closed,Password reset,High,Web Form,555,58.8,5
+TKT00266,CUST00438,Customer 394,customer425@example.com,AI Platform,Technical Issue,Performance issue,Closed,Escalated,Medium,Email,218,48.1,3
+TKT00267,CUST00098,Customer 418,customer64@example.com,Support Package,Feature Request,Performance issue,In Progress,Escalated,Medium,Web Form,647,68.6,3
+TKT00268,CUST00377,Customer 206,customer42@example.com,AI Platform,Technical Issue,Payment issue,Open,Password reset,High,Chat,673,58.6,1
+TKT00269,CUST00152,Customer 264,customer43@example.com,Support Package,Account Access,Performance issue,In Progress,Password reset,Low,Chat,163,94.4,5
+TKT00270,CUST00198,Customer 311,customer125@example.com,Support Package,Account Access,Login problem,In Progress,Password reset,High,Phone,561,18.7,3
+TKT00271,CUST00273,Customer 347,customer393@example.com,CRM License,Product Question,Installation help,Open,Information provided,Medium,Phone,205,43.4,2
+TKT00272,CUST00156,Customer 394,customer270@example.com,Laptop,Product Question,Login problem,In Progress,Password reset,Medium,Web Form,26,88.2,1
+TKT00273,CUST00050,Customer 185,customer485@example.com,Support Package,Feature Request,Payment issue,Closed,Escalated,Medium,Web Form,343,87.9,3
+TKT00274,CUST00479,Customer 114,customer347@example.com,AI Platform,Product Question,Performance issue,Closed,Password reset,Medium,Phone,246,47.8,5
+TKT00275,CUST00228,Customer 79,customer233@example.com,Support Package,Feature Request,Installation help,In Progress,Refund processed,High,Phone,242,13.4,2
+TKT00276,CUST00439,Customer 357,customer480@example.com,Support Package,Billing,Login problem,Closed,Password reset,Critical,Web Form,153,78.3,5
+TKT00277,CUST00457,Customer 342,customer132@example.com,Support Package,Feature Request,Installation help,Resolved,Password reset,High,Web Form,583,56.4,5
+TKT00278,CUST00010,Customer 301,customer2@example.com,Cloud Subscription,Product Question,General enquiry,In Progress,Configuration fixed,Low,Web Form,11,74.3,5
+TKT00279,CUST00149,Customer 50,customer115@example.com,Cloud Subscription,Technical Issue,Login problem,Resolved,Escalated,Medium,Chat,237,44.7,4
+TKT00280,CUST00058,Customer 320,customer481@example.com,Cloud Subscription,Product Question,General enquiry,In Progress,Escalated,Medium,Email,583,20.0,2
+TKT00281,CUST00162,Customer 95,customer469@example.com,Cloud Subscription,Account Access,Installation help,In Progress,Refund processed,High,Email,81,2.8,5
+TKT00282,CUST00351,Customer 258,customer1@example.com,CRM License,Product Question,Performance issue,Resolved,Information provided,Medium,Phone,493,53.9,4
+TKT00283,CUST00477,Customer 429,customer492@example.com,Support Package,Billing,Performance issue,In Progress,Configuration fixed,Critical,Chat,91,15.9,1
+TKT00284,CUST00107,Customer 351,customer331@example.com,CRM License,Feature Request,Performance issue,Closed,Refund processed,Critical,Web Form,226,18.4,4
+TKT00285,CUST00427,Customer 62,customer65@example.com,AI Platform,Account Access,General enquiry,Resolved,Refund processed,Medium,Web Form,417,42.2,1
+TKT00286,CUST00395,Customer 142,customer430@example.com,Laptop,Feature Request,Performance issue,In Progress,Escalated,High,Phone,588,42.7,4
+TKT00287,CUST00289,Customer 330,customer443@example.com,CRM License,Feature Request,Payment issue,Closed,Configuration fixed,Critical,Phone,206,26.7,5
+TKT00288,CUST00186,Customer 222,customer459@example.com,Cloud Subscription,Product Question,Login problem,Resolved,Escalated,High,Chat,575,13.1,4
+TKT00289,CUST00046,Customer 356,customer125@example.com,Cloud Subscription,Technical Issue,Login problem,Resolved,Information provided,Medium,Email,280,90.7,4
+TKT00290,CUST00445,Customer 111,customer256@example.com,AI Platform,Account Access,Installation help,Closed,Escalated,High,Email,225,13.1,5
+TKT00291,CUST00446,Customer 104,customer391@example.com,Support Package,Billing,General enquiry,In Progress,Password reset,Low,Web Form,161,34.0,1
+TKT00292,CUST00129,Customer 15,customer322@example.com,Laptop,Billing,Login problem,In Progress,Escalated,Medium,Phone,185,29.6,5
+TKT00293,CUST00405,Customer 270,customer143@example.com,CRM License,Technical Issue,General enquiry,Resolved,Password reset,Low,Chat,133,83.2,2
+TKT00294,CUST00318,Customer 159,customer328@example.com,Support Package,Technical Issue,Installation help,Open,Refund processed,Low,Web Form,247,39.7,4
+TKT00295,CUST00448,Customer 157,customer246@example.com,Support Package,Product Question,Performance issue,In Progress,Information provided,High,Email,176,12.3,2
+TKT00296,CUST00087,Customer 27,customer116@example.com,CRM License,Billing,Installation help,In Progress,Password reset,Medium,Email,507,1.5,5
+TKT00297,CUST00249,Customer 85,customer377@example.com,CRM License,Account Access,Payment issue,Closed,Information provided,Low,Chat,484,69.4,5
+TKT00298,CUST00329,Customer 9,customer303@example.com,CRM License,Technical Issue,Performance issue,Open,Escalated,Medium,Web Form,274,68.7,3
+TKT00299,CUST00440,Customer 276,customer90@example.com,CRM License,Technical Issue,Performance issue,Open,Escalated,Critical,Chat,425,40.4,2
+TKT00300,CUST00257,Customer 227,customer296@example.com,Cloud Subscription,Technical Issue,Performance issue,Resolved,Refund processed,High,Web Form,167,12.6,3
+TKT00301,CUST00277,Customer 186,customer42@example.com,Support Package,Account Access,Installation help,Closed,Escalated,Low,Email,28,36.0,2
+TKT00302,CUST00278,Customer 79,customer435@example.com,Support Package,Billing,Payment issue,Closed,Password reset,Critical,Phone,501,56.8,3
+TKT00303,CUST00438,Customer 216,customer35@example.com,Cloud Subscription,Account Access,General enquiry,In Progress,Refund processed,Medium,Phone,197,67.7,3
+TKT00304,CUST00004,Customer 433,customer500@example.com,Support Package,Account Access,Installation help,Resolved,Information provided,Medium,Email,394,8.0,2
+TKT00305,CUST00065,Customer 57,customer494@example.com,CRM License,Product Question,Login problem,In Progress,Refund processed,High,Phone,501,53.6,5
+TKT00306,CUST00435,Customer 144,customer489@example.com,Laptop,Technical Issue,Login problem,Open,Information provided,High,Phone,133,26.9,1
+TKT00307,CUST00202,Customer 356,customer41@example.com,Support Package,Billing,Installation help,Closed,Configuration fixed,High,Web Form,557,59.4,5
+TKT00308,CUST00063,Customer 331,customer341@example.com,Laptop,Product Question,General enquiry,Resolved,Password reset,Medium,Chat,547,62.4,1
+TKT00309,CUST00143,Customer 392,customer124@example.com,Laptop,Product Question,Login problem,In Progress,Password reset,Medium,Web Form,40,87.5,2
+TKT00310,CUST00244,Customer 67,customer57@example.com,Cloud Subscription,Feature Request,General enquiry,In Progress,Information provided,Medium,Chat,461,39.7,4
+TKT00311,CUST00292,Customer 275,customer294@example.com,AI Platform,Technical Issue,Performance issue,Open,Escalated,Medium,Chat,365,51.8,5
+TKT00312,CUST00285,Customer 494,customer456@example.com,Support Package,Billing,Installation help,Closed,Escalated,Medium,Phone,219,26.1,3
+TKT00313,CUST00180,Customer 105,customer235@example.com,Cloud Subscription,Billing,Performance issue,Open,Configuration fixed,Medium,Chat,291,27.9,5
+TKT00314,CUST00174,Customer 451,customer96@example.com,Cloud Subscription,Billing,Login problem,In Progress,Information provided,Medium,Chat,373,4.9,2
+TKT00315,CUST00325,Customer 420,customer392@example.com,Laptop,Technical Issue,General enquiry,Closed,Configuration fixed,Low,Email,473,27.8,4
+TKT00316,CUST00413,Customer 473,customer492@example.com,Support Package,Billing,Performance issue,Closed,Information provided,Medium,Chat,190,6.6,4
+TKT00317,CUST00111,Customer 188,customer458@example.com,Cloud Subscription,Account Access,Login problem,Open,Configuration fixed,High,Email,478,92.6,5
+TKT00318,CUST00175,Customer 164,customer319@example.com,CRM License,Account Access,Payment issue,Closed,Information provided,Medium,Web Form,65,60.1,5
+TKT00319,CUST00475,Customer 267,customer343@example.com,Cloud Subscription,Technical Issue,Performance issue,Open,Password reset,Critical,Phone,266,17.0,5
+TKT00320,CUST00153,Customer 51,customer132@example.com,CRM License,Billing,Payment issue,Closed,Configuration fixed,Low,Chat,115,11.7,2
+TKT00321,CUST00464,Customer 126,customer176@example.com,AI Platform,Feature Request,Payment issue,Closed,Configuration fixed,Medium,Email,145,35.8,1
+TKT00322,CUST00400,Customer 80,customer52@example.com,CRM License,Feature Request,Login problem,Resolved,Information provided,Medium,Web Form,539,29.9,1
+TKT00323,CUST00356,Customer 183,customer38@example.com,CRM License,Feature Request,Installation help,Closed,Refund processed,Low,Web Form,83,27.2,3
+TKT00324,CUST00217,Customer 310,customer478@example.com,Laptop,Account Access,General enquiry,In Progress,Refund processed,Low,Web Form,498,45.2,2
+TKT00325,CUST00297,Customer 17,customer489@example.com,Cloud Subscription,Feature Request,Login problem,Resolved,Password reset,High,Email,35,87.7,4
+TKT00326,CUST00449,Customer 446,customer343@example.com,AI Platform,Billing,Performance issue,Open,Escalated,Medium,Email,520,54.7,3
+TKT00327,CUST00453,Customer 170,customer5@example.com,Cloud Subscription,Billing,General enquiry,In Progress,Escalated,Medium,Phone,513,50.3,4
+TKT00328,CUST00489,Customer 280,customer213@example.com,CRM License,Feature Request,Installation help,Open,Password reset,Medium,Chat,634,77.5,4
+TKT00329,CUST00404,Customer 401,customer120@example.com,CRM License,Product Question,Login problem,Open,Escalated,High,Web Form,70,0.9,5
+TKT00330,CUST00453,Customer 304,customer326@example.com,Cloud Subscription,Feature Request,Installation help,In Progress,Information provided,Medium,Phone,514,19.4,4
+TKT00331,CUST00420,Customer 340,customer369@example.com,AI Platform,Product Question,Performance issue,Open,Refund processed,High,Email,375,47.9,4
+TKT00332,CUST00477,Customer 214,customer209@example.com,AI Platform,Technical Issue,Login problem,Resolved,Password reset,Medium,Phone,291,67.9,2
+TKT00333,CUST00240,Customer 198,customer217@example.com,Laptop,Technical Issue,Performance issue,In Progress,Information provided,Medium,Web Form,180,46.8,5
+TKT00334,CUST00226,Customer 7,customer24@example.com,CRM License,Billing,General enquiry,Open,Password reset,Low,Web Form,127,16.1,5
+TKT00335,CUST00186,Customer 398,customer342@example.com,CRM License,Account Access,General enquiry,Open,Refund processed,High,Phone,235,89.3,3
+TKT00336,CUST00048,Customer 11,customer205@example.com,Laptop,Billing,Installation help,Closed,Escalated,High,Web Form,559,31.9,5
+TKT00337,CUST00466,Customer 12,customer401@example.com,Cloud Subscription,Billing,Installation help,Closed,Information provided,Medium,Email,8,75.8,1
+TKT00338,CUST00386,Customer 110,customer462@example.com,CRM License,Account Access,General enquiry,Open,Refund processed,Low,Web Form,706,85.6,2
+TKT00339,CUST00208,Customer 133,customer226@example.com,Cloud Subscription,Billing,Payment issue,In Progress,Password reset,Medium,Chat,416,33.6,3
+TKT00340,CUST00157,Customer 389,customer218@example.com,AI Platform,Account Access,General enquiry,Resolved,Configuration fixed,Low,Chat,254,81.2,1
+TKT00341,CUST00225,Customer 128,customer211@example.com,Support Package,Billing,Login problem,Open,Information provided,Medium,Web Form,660,68.4,4
+TKT00342,CUST00144,Customer 148,customer26@example.com,Laptop,Technical Issue,Performance issue,Open,Password reset,High,Phone,491,86.9,1
+TKT00343,CUST00419,Customer 54,customer252@example.com,CRM License,Product Question,General enquiry,Open,Password reset,High,Web Form,349,24.5,3
+TKT00344,CUST00111,Customer 311,customer3@example.com,Laptop,Billing,General enquiry,Closed,Refund processed,Low,Chat,337,89.4,5
+TKT00345,CUST00318,Customer 442,customer2@example.com,AI Platform,Product Question,Performance issue,In Progress,Password reset,Critical,Email,457,6.7,2
+TKT00346,CUST00363,Customer 79,customer92@example.com,AI Platform,Feature Request,Performance issue,Open,Information provided,High,Chat,162,76.3,3
+TKT00347,CUST00362,Customer 346,customer2@example.com,AI Platform,Billing,Login problem,Closed,Information provided,Medium,Web Form,581,42.1,1
+TKT00348,CUST00465,Customer 97,customer150@example.com,AI Platform,Technical Issue,Performance issue,Open,Password reset,Medium,Web Form,274,17.5,1
+TKT00349,CUST00132,Customer 249,customer71@example.com,Support Package,Account Access,Installation help,Open,Refund processed,High,Phone,591,8.1,3
+TKT00350,CUST00113,Customer 127,customer4@example.com,Cloud Subscription,Technical Issue,General enquiry,In Progress,Information provided,Medium,Web Form,422,37.7,3
+TKT00351,CUST00324,Customer 30,customer497@example.com,Cloud Subscription,Product Question,Performance issue,Closed,Configuration fixed,Medium,Web Form,444,37.7,3
+TKT00352,CUST00435,Customer 24,customer38@example.com,Support Package,Account Access,Login problem,Resolved,Escalated,High,Email,33,22.5,5
+TKT00353,CUST00089,Customer 471,customer359@example.com,Cloud Subscription,Technical Issue,Performance issue,In Progress,Refund processed,Low,Email,339,21.1,3
+TKT00354,CUST00161,Customer 201,customer468@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Refund processed,High,Email,242,38.7,4
+TKT00355,CUST00334,Customer 131,customer70@example.com,Cloud Subscription,Technical Issue,Payment issue,Closed,Escalated,Medium,Phone,157,39.7,2
+TKT00356,CUST00408,Customer 122,customer201@example.com,Laptop,Account Access,Performance issue,Closed,Escalated,Medium,Phone,610,42.7,2
+TKT00357,CUST00075,Customer 356,customer308@example.com,Cloud Subscription,Technical Issue,Installation help,Resolved,Information provided,Low,Chat,119,83.5,4
+TKT00358,CUST00281,Customer 432,customer252@example.com,Laptop,Technical Issue,General enquiry,Closed,Password reset,Medium,Phone,403,58.9,1
+TKT00359,CUST00412,Customer 327,customer287@example.com,CRM License,Product Question,Login problem,In Progress,Password reset,Medium,Email,36,2.5,1
+TKT00360,CUST00007,Customer 150,customer410@example.com,Laptop,Technical Issue,General enquiry,Open,Configuration fixed,Medium,Phone,536,50.1,1
+TKT00361,CUST00113,Customer 14,customer292@example.com,Laptop,Technical Issue,Payment issue,Resolved,Password reset,High,Web Form,57,73.3,1
+TKT00362,CUST00036,Customer 304,customer154@example.com,AI Platform,Feature Request,Login problem,Open,Configuration fixed,Medium,Phone,199,5.9,5
+TKT00363,CUST00266,Customer 29,customer412@example.com,AI Platform,Account Access,Payment issue,Resolved,Configuration fixed,Low,Web Form,309,40.9,4
+TKT00364,CUST00113,Customer 50,customer133@example.com,AI Platform,Feature Request,Payment issue,Open,Refund processed,Medium,Chat,711,43.6,2
+TKT00365,CUST00292,Customer 464,customer371@example.com,Laptop,Product Question,Installation help,Open,Refund processed,Medium,Web Form,349,91.6,4
+TKT00366,CUST00223,Customer 240,customer74@example.com,Support Package,Feature Request,Performance issue,In Progress,Information provided,Low,Email,86,45.9,2
+TKT00367,CUST00211,Customer 482,customer274@example.com,AI Platform,Billing,Installation help,Open,Escalated,Low,Chat,5,72.1,1
+TKT00368,CUST00018,Customer 394,customer271@example.com,AI Platform,Account Access,Installation help,Resolved,Escalated,High,Chat,171,29.4,5
+TKT00369,CUST00241,Customer 455,customer185@example.com,Laptop,Technical Issue,Installation help,Open,Configuration fixed,Low,Chat,321,74.9,3
+TKT00370,CUST00134,Customer 473,customer353@example.com,CRM License,Feature Request,Login problem,Closed,Escalated,High,Email,187,31.3,3
+TKT00371,CUST00220,Customer 283,customer5@example.com,CRM License,Feature Request,Performance issue,Open,Configuration fixed,Medium,Web Form,277,41.6,1
+TKT00372,CUST00391,Customer 335,customer293@example.com,Cloud Subscription,Technical Issue,Performance issue,Open,Escalated,Medium,Chat,673,46.3,1
+TKT00373,CUST00102,Customer 352,customer360@example.com,CRM License,Technical Issue,Login problem,Closed,Information provided,Low,Email,377,89.0,4
+TKT00374,CUST00140,Customer 156,customer86@example.com,AI Platform,Product Question,Installation help,Closed,Refund processed,High,Chat,366,5.6,5
+TKT00375,CUST00169,Customer 137,customer214@example.com,Support Package,Feature Request,Installation help,Resolved,Refund processed,Low,Chat,205,19.3,5
+TKT00376,CUST00498,Customer 327,customer406@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Configuration fixed,Medium,Email,196,67.9,4
+TKT00377,CUST00191,Customer 336,customer436@example.com,Support Package,Billing,Payment issue,Closed,Escalated,Low,Phone,345,55.7,5
+TKT00378,CUST00482,Customer 154,customer15@example.com,Support Package,Billing,General enquiry,Resolved,Password reset,High,Chat,303,24.5,5
+TKT00379,CUST00025,Customer 483,customer273@example.com,AI Platform,Feature Request,Payment issue,Resolved,Information provided,High,Phone,510,28.1,3
+TKT00380,CUST00465,Customer 81,customer51@example.com,Laptop,Billing,Performance issue,Open,Escalated,Medium,Chat,592,35.6,5
+TKT00381,CUST00437,Customer 87,customer253@example.com,Laptop,Feature Request,Login problem,In Progress,Password reset,Medium,Phone,144,43.5,1
+TKT00382,CUST00033,Customer 264,customer45@example.com,Laptop,Account Access,Installation help,Resolved,Information provided,High,Web Form,310,78.6,3
+TKT00383,CUST00343,Customer 258,customer191@example.com,CRM License,Product Question,General enquiry,Closed,Information provided,High,Phone,200,1.8,1
+TKT00384,CUST00329,Customer 479,customer122@example.com,Laptop,Billing,Payment issue,Open,Refund processed,Medium,Phone,65,86.3,1
+TKT00385,CUST00006,Customer 185,customer412@example.com,AI Platform,Feature Request,General enquiry,Closed,Configuration fixed,High,Phone,364,39.9,4
+TKT00386,CUST00446,Customer 180,customer187@example.com,CRM License,Billing,Login problem,Resolved,Escalated,Medium,Phone,311,22.5,5
+TKT00387,CUST00194,Customer 186,customer214@example.com,Laptop,Product Question,Login problem,In Progress,Information provided,Low,Web Form,484,49.1,5
+TKT00388,CUST00230,Customer 123,customer149@example.com,Support Package,Account Access,General enquiry,Open,Escalated,Low,Email,337,63.5,5
+TKT00389,CUST00137,Customer 377,customer170@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Information provided,Medium,Phone,87,4.8,5
+TKT00390,CUST00323,Customer 96,customer209@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Refund processed,Medium,Email,338,68.9,3
+TKT00391,CUST00400,Customer 93,customer453@example.com,Cloud Subscription,Billing,Installation help,Closed,Configuration fixed,Low,Chat,521,73.2,2
+TKT00392,CUST00473,Customer 3,customer82@example.com,AI Platform,Feature Request,Performance issue,In Progress,Password reset,Medium,Email,478,16.4,1
+TKT00393,CUST00216,Customer 392,customer401@example.com,Support Package,Product Question,Payment issue,Resolved,Password reset,Medium,Phone,398,16.5,2
+TKT00394,CUST00495,Customer 443,customer196@example.com,AI Platform,Account Access,Payment issue,Closed,Refund processed,Low,Email,604,20.0,2
+TKT00395,CUST00349,Customer 2,customer246@example.com,Cloud Subscription,Account Access,Payment issue,Open,Information provided,Low,Web Form,696,76.6,2
+TKT00396,CUST00364,Customer 479,customer391@example.com,AI Platform,Account Access,General enquiry,Closed,Refund processed,High,Web Form,581,26.5,3
+TKT00397,CUST00183,Customer 446,customer345@example.com,AI Platform,Technical Issue,General enquiry,Open,Configuration fixed,Medium,Phone,384,76.5,2
+TKT00398,CUST00168,Customer 371,customer357@example.com,Cloud Subscription,Product Question,General enquiry,Closed,Password reset,Low,Email,25,52.1,3
+TKT00399,CUST00282,Customer 305,customer40@example.com,AI Platform,Technical Issue,Installation help,In Progress,Escalated,Medium,Chat,181,73.8,4
+TKT00400,CUST00038,Customer 357,customer168@example.com,CRM License,Billing,Installation help,Closed,Password reset,High,Web Form,367,53.4,4
+TKT00401,CUST00163,Customer 148,customer43@example.com,AI Platform,Account Access,Installation help,In Progress,Configuration fixed,Medium,Phone,26,32.6,4
+TKT00402,CUST00471,Customer 285,customer329@example.com,Laptop,Product Question,Installation help,In Progress,Information provided,Medium,Web Form,552,87.5,3
+TKT00403,CUST00452,Customer 145,customer211@example.com,Laptop,Account Access,Login problem,Open,Refund processed,High,Phone,254,68.8,3
+TKT00404,CUST00443,Customer 330,customer179@example.com,CRM License,Technical Issue,Installation help,Closed,Password reset,Medium,Email,665,46.7,1
+TKT00405,CUST00490,Customer 361,customer457@example.com,AI Platform,Technical Issue,Installation help,Closed,Password reset,Medium,Email,77,61.4,2
+TKT00406,CUST00142,Customer 406,customer23@example.com,Support Package,Technical Issue,Installation help,Closed,Escalated,Medium,Email,95,59.3,5
+TKT00407,CUST00248,Customer 262,customer95@example.com,AI Platform,Account Access,Payment issue,In Progress,Refund processed,High,Email,180,34.7,5
+TKT00408,CUST00431,Customer 62,customer160@example.com,Laptop,Product Question,Payment issue,Resolved,Escalated,Medium,Email,130,41.0,2
+TKT00409,CUST00103,Customer 491,customer244@example.com,Cloud Subscription,Product Question,Payment issue,Closed,Escalated,High,Phone,208,30.9,5
+TKT00410,CUST00199,Customer 226,customer415@example.com,CRM License,Billing,Performance issue,Closed,Information provided,Medium,Web Form,250,96.0,5
+TKT00411,CUST00200,Customer 31,customer17@example.com,Cloud Subscription,Account Access,Login problem,Resolved,Password reset,High,Chat,615,55.9,5
+TKT00412,CUST00042,Customer 190,customer112@example.com,Support Package,Billing,General enquiry,Open,Refund processed,Medium,Web Form,275,9.3,3
+TKT00413,CUST00435,Customer 375,customer103@example.com,AI Platform,Billing,Installation help,Closed,Information provided,Medium,Email,48,50.1,3
+TKT00414,CUST00147,Customer 268,customer314@example.com,Support Package,Billing,Payment issue,Resolved,Information provided,Medium,Web Form,613,5.3,3
+TKT00415,CUST00066,Customer 12,customer86@example.com,Cloud Subscription,Billing,Login problem,Closed,Information provided,Low,Web Form,552,28.1,2
+TKT00416,CUST00431,Customer 191,customer35@example.com,AI Platform,Technical Issue,Installation help,In Progress,Configuration fixed,Low,Phone,172,43.1,4
+TKT00417,CUST00193,Customer 400,customer30@example.com,Support Package,Billing,Performance issue,Resolved,Configuration fixed,High,Chat,439,51.5,5
+TKT00418,CUST00298,Customer 25,customer192@example.com,Laptop,Product Question,General enquiry,In Progress,Information provided,Medium,Chat,34,93.7,1
+TKT00419,CUST00038,Customer 406,customer437@example.com,Laptop,Billing,Installation help,Resolved,Configuration fixed,Low,Email,601,94.3,3
+TKT00420,CUST00141,Customer 91,customer179@example.com,CRM License,Technical Issue,General enquiry,Open,Refund processed,Medium,Phone,361,9.9,1
+TKT00421,CUST00106,Customer 88,customer104@example.com,Laptop,Feature Request,Installation help,In Progress,Password reset,Low,Phone,495,51.9,5
+TKT00422,CUST00428,Customer 332,customer165@example.com,Laptop,Feature Request,Performance issue,Closed,Refund processed,High,Phone,637,78.5,4
+TKT00423,CUST00152,Customer 274,customer474@example.com,Cloud Subscription,Feature Request,Login problem,Resolved,Password reset,Low,Phone,252,23.2,1
+TKT00424,CUST00352,Customer 301,customer122@example.com,Laptop,Account Access,General enquiry,Closed,Configuration fixed,Medium,Phone,700,72.2,5
+TKT00425,CUST00414,Customer 111,customer134@example.com,Laptop,Product Question,General enquiry,Open,Refund processed,Medium,Chat,257,84.4,5
+TKT00426,CUST00326,Customer 80,customer290@example.com,Cloud Subscription,Technical Issue,Login problem,Resolved,Escalated,Medium,Chat,386,63.8,3
+TKT00427,CUST00038,Customer 324,customer312@example.com,Laptop,Feature Request,General enquiry,Open,Information provided,Medium,Web Form,540,31.8,4
+TKT00428,CUST00097,Customer 140,customer224@example.com,Laptop,Technical Issue,Payment issue,Resolved,Password reset,Medium,Chat,638,88.7,5
+TKT00429,CUST00108,Customer 433,customer25@example.com,CRM License,Technical Issue,Login problem,In Progress,Password reset,High,Phone,423,84.9,4
+TKT00430,CUST00119,Customer 417,customer371@example.com,Laptop,Account Access,Performance issue,Closed,Escalated,High,Web Form,127,68.9,3
+TKT00431,CUST00151,Customer 214,customer13@example.com,Laptop,Feature Request,Installation help,In Progress,Escalated,High,Chat,298,35.2,1
+TKT00432,CUST00074,Customer 447,customer319@example.com,CRM License,Billing,Installation help,In Progress,Information provided,High,Web Form,689,76.1,2
+TKT00433,CUST00057,Customer 18,customer230@example.com,Cloud Subscription,Technical Issue,Login problem,In Progress,Configuration fixed,Low,Chat,147,30.7,2
+TKT00434,CUST00366,Customer 54,customer102@example.com,Laptop,Feature Request,Payment issue,In Progress,Refund processed,Low,Email,515,24.7,2
+TKT00435,CUST00335,Customer 368,customer450@example.com,Support Package,Technical Issue,Performance issue,Resolved,Refund processed,High,Chat,685,49.7,4
+TKT00436,CUST00252,Customer 97,customer378@example.com,Cloud Subscription,Account Access,Installation help,Closed,Refund processed,High,Web Form,61,95.7,2
+TKT00437,CUST00407,Customer 283,customer376@example.com,Cloud Subscription,Account Access,Installation help,Resolved,Configuration fixed,Medium,Email,46,77.3,1
+TKT00438,CUST00292,Customer 234,customer389@example.com,Laptop,Billing,Payment issue,Resolved,Information provided,Medium,Phone,635,70.2,5
+TKT00439,CUST00313,Customer 467,customer203@example.com,CRM License,Account Access,General enquiry,Resolved,Refund processed,Medium,Web Form,125,43.7,4
+TKT00440,CUST00255,Customer 240,customer267@example.com,Cloud Subscription,Feature Request,Login problem,In Progress,Password reset,Low,Phone,347,30.3,1
+TKT00441,CUST00254,Customer 334,customer472@example.com,CRM License,Account Access,Payment issue,Open,Password reset,Medium,Phone,336,82.2,4
+TKT00442,CUST00385,Customer 409,customer462@example.com,Support Package,Billing,Payment issue,In Progress,Password reset,High,Web Form,460,54.7,4
+TKT00443,CUST00456,Customer 418,customer365@example.com,CRM License,Product Question,Payment issue,Resolved,Escalated,Medium,Phone,441,78.2,4
+TKT00444,CUST00259,Customer 344,customer222@example.com,AI Platform,Technical Issue,Payment issue,In Progress,Escalated,Medium,Web Form,345,47.1,3
+TKT00445,CUST00270,Customer 486,customer104@example.com,CRM License,Technical Issue,General enquiry,Closed,Configuration fixed,Medium,Web Form,345,72.5,5
+TKT00446,CUST00465,Customer 444,customer111@example.com,Cloud Subscription,Feature Request,Performance issue,Closed,Refund processed,Low,Chat,420,83.4,2
+TKT00447,CUST00034,Customer 54,customer428@example.com,CRM License,Billing,Payment issue,In Progress,Escalated,Medium,Email,186,37.9,3
+TKT00448,CUST00495,Customer 87,customer483@example.com,CRM License,Billing,Payment issue,In Progress,Password reset,Critical,Phone,681,1.8,5
+TKT00449,CUST00326,Customer 261,customer469@example.com,AI Platform,Billing,Login problem,Open,Escalated,High,Phone,268,24.8,2
+TKT00450,CUST00325,Customer 236,customer69@example.com,AI Platform,Technical Issue,Installation help,In Progress,Password reset,High,Email,214,87.9,3
+TKT00451,CUST00238,Customer 123,customer358@example.com,Laptop,Account Access,General enquiry,In Progress,Refund processed,Medium,Email,527,66.2,3
+TKT00452,CUST00179,Customer 420,customer258@example.com,Cloud Subscription,Technical Issue,Payment issue,Open,Configuration fixed,Medium,Email,186,70.9,1
+TKT00453,CUST00489,Customer 54,customer168@example.com,Laptop,Technical Issue,Performance issue,In Progress,Information provided,Critical,Email,448,31.6,3
+TKT00454,CUST00104,Customer 216,customer293@example.com,AI Platform,Technical Issue,Performance issue,In Progress,Information provided,Medium,Email,255,67.5,4
+TKT00455,CUST00029,Customer 420,customer374@example.com,CRM License,Account Access,Performance issue,In Progress,Password reset,High,Chat,142,62.2,3
+TKT00456,CUST00227,Customer 197,customer49@example.com,AI Platform,Product Question,Login problem,In Progress,Escalated,High,Web Form,222,17.5,4
+TKT00457,CUST00466,Customer 39,customer250@example.com,Support Package,Feature Request,Performance issue,In Progress,Escalated,Medium,Email,458,93.0,5
+TKT00458,CUST00232,Customer 454,customer482@example.com,CRM License,Product Question,Login problem,Resolved,Password reset,Medium,Chat,91,34.3,5
+TKT00459,CUST00304,Customer 365,customer331@example.com,Laptop,Product Question,General enquiry,In Progress,Refund processed,Medium,Email,297,31.9,4
+TKT00460,CUST00350,Customer 228,customer420@example.com,CRM License,Technical Issue,Performance issue,Open,Password reset,Low,Email,96,35.8,1
+TKT00461,CUST00335,Customer 237,customer75@example.com,Support Package,Product Question,Installation help,In Progress,Refund processed,Medium,Phone,212,9.3,1
+TKT00462,CUST00117,Customer 132,customer201@example.com,AI Platform,Technical Issue,Payment issue,Resolved,Configuration fixed,High,Phone,208,60.2,5
+TKT00463,CUST00207,Customer 330,customer454@example.com,Cloud Subscription,Technical Issue,General enquiry,Open,Configuration fixed,High,Phone,190,23.3,3
+TKT00464,CUST00400,Customer 500,customer34@example.com,Cloud Subscription,Feature Request,Installation help,Open,Password reset,Medium,Phone,89,77.2,5
+TKT00465,CUST00185,Customer 321,customer314@example.com,Cloud Subscription,Billing,General enquiry,In Progress,Configuration fixed,Medium,Web Form,668,38.1,5
+TKT00466,CUST00481,Customer 469,customer111@example.com,AI Platform,Technical Issue,Performance issue,Closed,Escalated,Medium,Web Form,160,44.3,4
+TKT00467,CUST00138,Customer 168,customer421@example.com,Cloud Subscription,Product Question,General enquiry,Resolved,Refund processed,Medium,Phone,297,62.2,1
+TKT00468,CUST00403,Customer 487,customer352@example.com,Support Package,Feature Request,General enquiry,Closed,Information provided,Medium,Phone,537,73.3,4
+TKT00469,CUST00485,Customer 37,customer316@example.com,AI Platform,Product Question,General enquiry,In Progress,Information provided,Medium,Email,165,22.6,5
+TKT00470,CUST00498,Customer 67,customer396@example.com,Cloud Subscription,Billing,Login problem,Resolved,Configuration fixed,Medium,Email,390,92.8,2
+TKT00471,CUST00323,Customer 111,customer237@example.com,Laptop,Account Access,Installation help,Closed,Refund processed,Low,Phone,489,59.9,3
+TKT00472,CUST00164,Customer 415,customer32@example.com,AI Platform,Billing,Performance issue,Resolved,Escalated,Medium,Phone,507,1.0,5
+TKT00473,CUST00388,Customer 219,customer209@example.com,AI Platform,Feature Request,Payment issue,In Progress,Information provided,Medium,Phone,160,40.2,4
+TKT00474,CUST00075,Customer 209,customer132@example.com,CRM License,Billing,Performance issue,Resolved,Escalated,Medium,Email,147,42.2,2
+TKT00475,CUST00233,Customer 381,customer106@example.com,Cloud Subscription,Billing,Performance issue,In Progress,Escalated,Medium,Phone,623,77.8,2
+TKT00476,CUST00417,Customer 87,customer33@example.com,Laptop,Feature Request,Login problem,Closed,Information provided,Medium,Phone,288,29.6,5
+TKT00477,CUST00284,Customer 461,customer43@example.com,Support Package,Feature Request,Login problem,Resolved,Information provided,High,Web Form,566,32.1,1
+TKT00478,CUST00480,Customer 303,customer368@example.com,AI Platform,Product Question,General enquiry,Open,Configuration fixed,High,Web Form,39,7.2,2
+TKT00479,CUST00377,Customer 411,customer107@example.com,Support Package,Technical Issue,Performance issue,In Progress,Refund processed,Medium,Email,228,27.6,3
+TKT00480,CUST00255,Customer 179,customer265@example.com,Support Package,Account Access,Installation help,Resolved,Password reset,Medium,Web Form,672,69.0,4
+TKT00481,CUST00464,Customer 404,customer226@example.com,Support Package,Account Access,Login problem,Open,Refund processed,Low,Email,397,61.1,4
+TKT00482,CUST00009,Customer 494,customer487@example.com,CRM License,Account Access,Login problem,Open,Password reset,Medium,Chat,412,8.3,4
+TKT00483,CUST00203,Customer 13,customer179@example.com,Support Package,Billing,Installation help,Open,Information provided,High,Phone,707,11.5,5
+TKT00484,CUST00390,Customer 447,customer222@example.com,Cloud Subscription,Feature Request,Login problem,Open,Escalated,Medium,Email,392,36.5,4
+TKT00485,CUST00379,Customer 300,customer370@example.com,Cloud Subscription,Feature Request,Installation help,In Progress,Refund processed,Medium,Web Form,700,71.5,4
+TKT00486,CUST00305,Customer 408,customer125@example.com,Laptop,Feature Request,Payment issue,Resolved,Escalated,Low,Chat,301,80.0,3
+TKT00487,CUST00091,Customer 125,customer276@example.com,Laptop,Technical Issue,Installation help,Open,Refund processed,High,Web Form,327,1.9,1
+TKT00488,CUST00381,Customer 375,customer167@example.com,Support Package,Feature Request,Payment issue,Resolved,Refund processed,High,Email,492,31.9,5
+TKT00489,CUST00332,Customer 233,customer151@example.com,Support Package,Feature Request,General enquiry,Resolved,Escalated,Low,Chat,574,41.0,5
+TKT00490,CUST00150,Customer 251,customer41@example.com,CRM License,Billing,General enquiry,Closed,Configuration fixed,High,Web Form,43,87.5,4
+TKT00491,CUST00360,Customer 387,customer300@example.com,Support Package,Product Question,Login problem,Resolved,Information provided,Low,Chat,509,48.4,3
+TKT00492,CUST00176,Customer 126,customer381@example.com,Support Package,Account Access,Installation help,In Progress,Configuration fixed,Medium,Phone,507,26.3,2
+TKT00493,CUST00485,Customer 235,customer35@example.com,Support Package,Billing,Login problem,In Progress,Configuration fixed,Low,Phone,541,37.7,4
+TKT00494,CUST00405,Customer 138,customer407@example.com,AI Platform,Billing,Installation help,Open,Refund processed,Low,Chat,320,42.2,4
+TKT00495,CUST00033,Customer 449,customer314@example.com,AI Platform,Billing,Login problem,Resolved,Information provided,Low,Web Form,500,64.5,5
+TKT00496,CUST00465,Customer 49,customer304@example.com,CRM License,Account Access,General enquiry,In Progress,Refund processed,High,Web Form,121,4.4,5
+TKT00497,CUST00184,Customer 380,customer231@example.com,CRM License,Billing,General enquiry,In Progress,Password reset,High,Web Form,346,37.7,4
+TKT00498,CUST00157,Customer 186,customer215@example.com,Cloud Subscription,Product Question,Login problem,In Progress,Refund processed,Low,Phone,244,62.2,5
+TKT00499,CUST00053,Customer 205,customer314@example.com,CRM License,Feature Request,Installation help,Open,Escalated,Medium,Email,691,27.6,3
+TKT00500,CUST00296,Customer 78,customer101@example.com,Cloud Subscription,Product Question,Performance issue,In Progress,Refund processed,Low,Email,449,57.0,2
+TKT00501,CUST00202,Customer 481,customer57@example.com,Support Package,Feature Request,Installation help,Resolved,Password reset,Medium,Chat,491,34.6,2
+TKT00502,CUST00274,Customer 386,customer215@example.com,CRM License,Feature Request,Login problem,In Progress,Refund processed,High,Web Form,415,73.0,2
+TKT00503,CUST00175,Customer 194,customer423@example.com,CRM License,Billing,Installation help,In Progress,Password reset,Low,Chat,627,6.3,4
+TKT00504,CUST00244,Customer 103,customer156@example.com,CRM License,Billing,Payment issue,Open,Information provided,Medium,Email,302,88.2,4
+TKT00505,CUST00269,Customer 105,customer64@example.com,Cloud Subscription,Account Access,Installation help,Resolved,Refund processed,Medium,Email,56,16.9,4
+TKT00506,CUST00411,Customer 376,customer62@example.com,Cloud Subscription,Technical Issue,General enquiry,In Progress,Password reset,Low,Web Form,308,15.6,3
+TKT00507,CUST00446,Customer 287,customer339@example.com,Laptop,Product Question,General enquiry,Resolved,Information provided,Medium,Chat,292,80.8,2
+TKT00508,CUST00074,Customer 324,customer369@example.com,Cloud Subscription,Account Access,Payment issue,Resolved,Escalated,High,Web Form,668,83.5,5
+TKT00509,CUST00096,Customer 482,customer368@example.com,Cloud Subscription,Account Access,Installation help,In Progress,Configuration fixed,High,Email,122,9.4,5
+TKT00510,CUST00361,Customer 211,customer62@example.com,AI Platform,Product Question,Performance issue,Open,Password reset,Low,Email,428,87.3,1
+TKT00511,CUST00173,Customer 250,customer94@example.com,CRM License,Product Question,Installation help,Resolved,Escalated,High,Web Form,651,26.6,1
+TKT00512,CUST00387,Customer 293,customer469@example.com,Cloud Subscription,Feature Request,General enquiry,Closed,Information provided,High,Chat,213,59.6,5
+TKT00513,CUST00406,Customer 201,customer472@example.com,CRM License,Technical Issue,General enquiry,In Progress,Escalated,Medium,Phone,131,7.1,2
+TKT00514,CUST00155,Customer 24,customer341@example.com,CRM License,Billing,Login problem,Resolved,Refund processed,Medium,Web Form,297,36.9,4
+TKT00515,CUST00183,Customer 461,customer26@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Configuration fixed,Low,Email,523,43.5,5
+TKT00516,CUST00323,Customer 300,customer435@example.com,CRM License,Technical Issue,Login problem,Resolved,Password reset,Medium,Phone,226,57.8,5
+TKT00517,CUST00289,Customer 478,customer121@example.com,Cloud Subscription,Billing,General enquiry,In Progress,Information provided,Medium,Web Form,81,50.7,1
+TKT00518,CUST00258,Customer 83,customer50@example.com,CRM License,Technical Issue,General enquiry,Closed,Configuration fixed,Medium,Phone,342,44.6,2
+TKT00519,CUST00075,Customer 297,customer371@example.com,Laptop,Account Access,Performance issue,Resolved,Information provided,Low,Web Form,279,92.1,5
+TKT00520,CUST00174,Customer 458,customer252@example.com,Laptop,Account Access,Login problem,Resolved,Escalated,Medium,Email,121,18.2,4
+TKT00521,CUST00330,Customer 179,customer36@example.com,AI Platform,Billing,Login problem,Open,Information provided,Medium,Web Form,296,15.6,4
+TKT00522,CUST00231,Customer 298,customer410@example.com,Cloud Subscription,Billing,General enquiry,In Progress,Information provided,Medium,Phone,275,68.6,3
+TKT00523,CUST00247,Customer 364,customer289@example.com,AI Platform,Product Question,Login problem,In Progress,Escalated,Medium,Chat,451,7.6,4
+TKT00524,CUST00161,Customer 206,customer379@example.com,Laptop,Product Question,General enquiry,Resolved,Escalated,Low,Email,161,46.6,5
+TKT00525,CUST00186,Customer 40,customer100@example.com,Cloud Subscription,Technical Issue,General enquiry,Open,Configuration fixed,Medium,Email,576,46.7,5
+TKT00526,CUST00391,Customer 304,customer324@example.com,CRM License,Technical Issue,Installation help,Resolved,Password reset,Medium,Phone,188,30.1,4
+TKT00527,CUST00143,Customer 113,customer329@example.com,Cloud Subscription,Billing,Login problem,Resolved,Escalated,High,Web Form,428,89.4,1
+TKT00528,CUST00282,Customer 340,customer136@example.com,Support Package,Technical Issue,Payment issue,In Progress,Configuration fixed,Medium,Web Form,660,27.5,2
+TKT00529,CUST00395,Customer 4,customer194@example.com,Cloud Subscription,Feature Request,Login problem,Open,Information provided,Low,Web Form,677,28.0,5
+TKT00530,CUST00128,Customer 486,customer221@example.com,CRM License,Account Access,Login problem,Resolved,Information provided,Low,Email,605,22.9,4
+TKT00531,CUST00166,Customer 108,customer279@example.com,Support Package,Technical Issue,Performance issue,In Progress,Refund processed,Medium,Email,20,14.4,4
+TKT00532,CUST00027,Customer 316,customer326@example.com,AI Platform,Technical Issue,Payment issue,Resolved,Escalated,Low,Phone,102,35.3,5
+TKT00533,CUST00246,Customer 114,customer55@example.com,Cloud Subscription,Product Question,Payment issue,Resolved,Configuration fixed,Medium,Web Form,620,65.5,3
+TKT00534,CUST00487,Customer 167,customer427@example.com,AI Platform,Feature Request,Performance issue,Open,Configuration fixed,High,Web Form,304,71.4,2
+TKT00535,CUST00135,Customer 261,customer484@example.com,Cloud Subscription,Technical Issue,Performance issue,Open,Password reset,Medium,Phone,426,78.2,5
+TKT00536,CUST00385,Customer 106,customer110@example.com,Laptop,Account Access,Login problem,Open,Configuration fixed,Medium,Email,311,19.4,4
+TKT00537,CUST00202,Customer 224,customer149@example.com,Laptop,Technical Issue,Installation help,Resolved,Escalated,High,Email,278,3.9,3
+TKT00538,CUST00021,Customer 262,customer406@example.com,CRM License,Billing,Performance issue,Closed,Configuration fixed,Medium,Chat,265,93.6,5
+TKT00539,CUST00079,Customer 251,customer265@example.com,Laptop,Feature Request,Payment issue,Open,Refund processed,Low,Chat,243,1.9,2
+TKT00540,CUST00158,Customer 14,customer162@example.com,Support Package,Technical Issue,Payment issue,Closed,Information provided,Low,Web Form,336,92.2,3
+TKT00541,CUST00094,Customer 198,customer187@example.com,Support Package,Feature Request,Login problem,Closed,Information provided,High,Email,119,79.7,4
+TKT00542,CUST00008,Customer 126,customer410@example.com,Cloud Subscription,Technical Issue,Installation help,Closed,Configuration fixed,High,Web Form,272,87.6,1
+TKT00543,CUST00472,Customer 206,customer129@example.com,AI Platform,Account Access,General enquiry,In Progress,Configuration fixed,Low,Email,16,37.5,2
+TKT00544,CUST00339,Customer 140,customer484@example.com,Support Package,Account Access,Performance issue,Resolved,Configuration fixed,Low,Chat,77,19.3,3
+TKT00545,CUST00259,Customer 62,customer108@example.com,Cloud Subscription,Feature Request,Performance issue,Open,Configuration fixed,High,Phone,410,58.4,5
+TKT00546,CUST00055,Customer 283,customer389@example.com,AI Platform,Product Question,Login problem,Resolved,Refund processed,Medium,Email,182,71.3,5
+TKT00547,CUST00399,Customer 54,customer425@example.com,Laptop,Product Question,Installation help,Resolved,Escalated,High,Chat,263,13.0,3
+TKT00548,CUST00036,Customer 346,customer447@example.com,Cloud Subscription,Billing,Payment issue,In Progress,Refund processed,Low,Chat,404,76.7,5
+TKT00549,CUST00006,Customer 12,customer406@example.com,AI Platform,Product Question,Payment issue,In Progress,Refund processed,Critical,Email,274,20.4,3
+TKT00550,CUST00377,Customer 136,customer68@example.com,CRM License,Feature Request,General enquiry,In Progress,Refund processed,High,Web Form,636,47.5,2
+TKT00551,CUST00042,Customer 330,customer432@example.com,CRM License,Product Question,Payment issue,Resolved,Information provided,Low,Email,685,82.3,5
+TKT00552,CUST00050,Customer 144,customer66@example.com,Support Package,Billing,Performance issue,Closed,Refund processed,Medium,Chat,490,19.0,2
+TKT00553,CUST00112,Customer 436,customer144@example.com,AI Platform,Technical Issue,General enquiry,Resolved,Configuration fixed,Low,Email,584,23.6,4
+TKT00554,CUST00146,Customer 282,customer464@example.com,CRM License,Product Question,Installation help,In Progress,Refund processed,Medium,Phone,63,6.5,4
+TKT00555,CUST00230,Customer 136,customer53@example.com,Support Package,Feature Request,General enquiry,Resolved,Configuration fixed,Medium,Web Form,646,14.5,4
+TKT00556,CUST00211,Customer 489,customer128@example.com,Cloud Subscription,Feature Request,Installation help,In Progress,Escalated,Medium,Email,270,14.5,4
+TKT00557,CUST00497,Customer 301,customer470@example.com,Cloud Subscription,Billing,Payment issue,In Progress,Information provided,Medium,Chat,79,19.9,5
+TKT00558,CUST00306,Customer 221,customer491@example.com,AI Platform,Billing,Login problem,Open,Escalated,Low,Chat,94,27.8,3
+TKT00559,CUST00030,Customer 340,customer321@example.com,AI Platform,Account Access,General enquiry,Closed,Escalated,High,Web Form,509,78.3,5
+TKT00560,CUST00461,Customer 209,customer207@example.com,AI Platform,Account Access,General enquiry,In Progress,Information provided,Medium,Email,361,88.0,5
+TKT00561,CUST00295,Customer 403,customer320@example.com,AI Platform,Account Access,Performance issue,Open,Configuration fixed,High,Chat,158,39.3,2
+TKT00562,CUST00116,Customer 401,customer216@example.com,CRM License,Technical Issue,Performance issue,Closed,Configuration fixed,Low,Web Form,222,12.7,3
+TKT00563,CUST00396,Customer 359,customer68@example.com,CRM License,Feature Request,Installation help,In Progress,Configuration fixed,Medium,Phone,490,21.9,1
+TKT00564,CUST00226,Customer 380,customer447@example.com,Support Package,Account Access,Login problem,Closed,Information provided,Medium,Web Form,544,70.8,1
+TKT00565,CUST00059,Customer 449,customer62@example.com,CRM License,Feature Request,Performance issue,Closed,Refund processed,Medium,Email,134,65.2,3
+TKT00566,CUST00076,Customer 123,customer210@example.com,Cloud Subscription,Billing,Performance issue,Resolved,Password reset,Medium,Email,70,92.9,1
+TKT00567,CUST00428,Customer 116,customer337@example.com,Support Package,Technical Issue,Payment issue,Open,Refund processed,Medium,Chat,148,1.9,3
+TKT00568,CUST00216,Customer 157,customer327@example.com,CRM License,Billing,Payment issue,Closed,Refund processed,Critical,Phone,384,72.2,2
+TKT00569,CUST00132,Customer 270,customer370@example.com,AI Platform,Feature Request,Performance issue,Resolved,Escalated,Low,Email,317,48.8,2
+TKT00570,CUST00420,Customer 17,customer429@example.com,CRM License,Account Access,Installation help,Closed,Password reset,High,Chat,411,86.7,5
+TKT00571,CUST00498,Customer 269,customer52@example.com,Laptop,Billing,Login problem,Resolved,Configuration fixed,Medium,Web Form,411,55.5,1
+TKT00572,CUST00304,Customer 349,customer116@example.com,Support Package,Product Question,Performance issue,In Progress,Refund processed,Medium,Web Form,281,43.2,3
+TKT00573,CUST00398,Customer 482,customer381@example.com,CRM License,Technical Issue,Installation help,In Progress,Information provided,Medium,Email,619,64.1,2
+TKT00574,CUST00081,Customer 219,customer458@example.com,CRM License,Feature Request,Installation help,Resolved,Refund processed,High,Phone,413,80.1,5
+TKT00575,CUST00305,Customer 319,customer383@example.com,Cloud Subscription,Account Access,Performance issue,In Progress,Configuration fixed,Medium,Chat,318,27.5,1
+TKT00576,CUST00067,Customer 238,customer65@example.com,AI Platform,Billing,Installation help,In Progress,Refund processed,High,Email,553,10.8,1
+TKT00577,CUST00230,Customer 33,customer130@example.com,AI Platform,Technical Issue,General enquiry,In Progress,Escalated,Low,Chat,253,41.9,1
+TKT00578,CUST00471,Customer 285,customer177@example.com,Cloud Subscription,Account Access,Installation help,Closed,Escalated,Medium,Web Form,465,21.0,2
+TKT00579,CUST00333,Customer 37,customer278@example.com,Cloud Subscription,Billing,Performance issue,Resolved,Refund processed,Medium,Chat,403,41.5,2
+TKT00580,CUST00393,Customer 103,customer480@example.com,Laptop,Feature Request,Installation help,Open,Escalated,Medium,Web Form,672,95.1,1
+TKT00581,CUST00277,Customer 211,customer413@example.com,Support Package,Product Question,Performance issue,Open,Information provided,Medium,Phone,455,55.3,2
+TKT00582,CUST00361,Customer 430,customer163@example.com,AI Platform,Product Question,Payment issue,Resolved,Password reset,Medium,Phone,475,66.7,1
+TKT00583,CUST00072,Customer 280,customer465@example.com,Cloud Subscription,Feature Request,Performance issue,Closed,Refund processed,Medium,Web Form,648,65.2,4
+TKT00584,CUST00209,Customer 142,customer332@example.com,Cloud Subscription,Technical Issue,Installation help,In Progress,Information provided,Medium,Email,563,78.9,2
+TKT00585,CUST00272,Customer 239,customer152@example.com,Support Package,Feature Request,Performance issue,In Progress,Information provided,Medium,Web Form,438,90.7,3
+TKT00586,CUST00144,Customer 229,customer350@example.com,Cloud Subscription,Billing,Login problem,Closed,Information provided,Medium,Chat,450,63.4,2
+TKT00587,CUST00251,Customer 133,customer236@example.com,Laptop,Technical Issue,Performance issue,Open,Configuration fixed,Medium,Chat,711,46.0,1
+TKT00588,CUST00284,Customer 125,customer158@example.com,Support Package,Product Question,Performance issue,Resolved,Refund processed,Low,Chat,107,30.9,3
+TKT00589,CUST00179,Customer 53,customer468@example.com,Laptop,Billing,Login problem,Resolved,Refund processed,High,Email,332,34.9,5
+TKT00590,CUST00440,Customer 88,customer426@example.com,CRM License,Account Access,Login problem,Closed,Refund processed,High,Phone,687,32.4,3
+TKT00591,CUST00080,Customer 98,customer327@example.com,AI Platform,Account Access,Login problem,In Progress,Password reset,Low,Phone,605,31.5,3
+TKT00592,CUST00057,Customer 370,customer106@example.com,Cloud Subscription,Account Access,General enquiry,In Progress,Information provided,Medium,Chat,250,66.8,2
+TKT00593,CUST00366,Customer 95,customer306@example.com,Support Package,Product Question,Performance issue,In Progress,Refund processed,Low,Email,62,56.6,3
+TKT00594,CUST00308,Customer 414,customer255@example.com,Laptop,Feature Request,Login problem,Resolved,Escalated,High,Chat,109,19.8,3
+TKT00595,CUST00174,Customer 188,customer358@example.com,AI Platform,Technical Issue,Login problem,Open,Configuration fixed,High,Phone,696,93.1,1
+TKT00596,CUST00462,Customer 376,customer455@example.com,AI Platform,Product Question,Payment issue,Resolved,Password reset,Low,Web Form,73,41.3,2
+TKT00597,CUST00238,Customer 256,customer444@example.com,Cloud Subscription,Billing,General enquiry,Closed,Configuration fixed,High,Chat,306,54.6,1
+TKT00598,CUST00492,Customer 73,customer113@example.com,AI Platform,Billing,Performance issue,Resolved,Information provided,Low,Chat,157,67.6,2
+TKT00599,CUST00166,Customer 475,customer30@example.com,Cloud Subscription,Account Access,Installation help,Closed,Escalated,Medium,Chat,541,59.1,5
+TKT00600,CUST00084,Customer 412,customer12@example.com,CRM License,Technical Issue,General enquiry,Resolved,Information provided,High,Phone,39,30.2,3
+TKT00601,CUST00493,Customer 362,customer177@example.com,Cloud Subscription,Account Access,General enquiry,Open,Refund processed,High,Email,19,76.7,2
+TKT00602,CUST00048,Customer 282,customer479@example.com,Laptop,Billing,Payment issue,Closed,Configuration fixed,High,Web Form,110,11.0,3
+TKT00603,CUST00127,Customer 18,customer338@example.com,AI Platform,Billing,Performance issue,In Progress,Escalated,Medium,Web Form,78,54.8,3
+TKT00604,CUST00169,Customer 164,customer46@example.com,AI Platform,Feature Request,Performance issue,In Progress,Configuration fixed,Medium,Web Form,289,26.6,4
+TKT00605,CUST00354,Customer 392,customer171@example.com,AI Platform,Feature Request,Login problem,Resolved,Password reset,High,Chat,554,59.3,1
+TKT00606,CUST00374,Customer 146,customer130@example.com,Cloud Subscription,Feature Request,Login problem,Resolved,Escalated,Medium,Phone,201,21.3,2
+TKT00607,CUST00443,Customer 468,customer245@example.com,Support Package,Account Access,General enquiry,Open,Password reset,Medium,Web Form,284,74.2,5
+TKT00608,CUST00349,Customer 314,customer353@example.com,Cloud Subscription,Technical Issue,Payment issue,Open,Escalated,Medium,Chat,690,22.2,4
+TKT00609,CUST00067,Customer 253,customer203@example.com,Laptop,Feature Request,Performance issue,In Progress,Refund processed,High,Email,560,85.5,1
+TKT00610,CUST00330,Customer 160,customer226@example.com,Cloud Subscription,Product Question,Payment issue,Resolved,Configuration fixed,High,Chat,670,82.8,5
+TKT00611,CUST00340,Customer 349,customer80@example.com,AI Platform,Feature Request,Installation help,Closed,Configuration fixed,Medium,Web Form,157,35.1,5
+TKT00612,CUST00194,Customer 49,customer310@example.com,CRM License,Account Access,Performance issue,Open,Information provided,High,Web Form,295,37.3,3
+TKT00613,CUST00155,Customer 176,customer35@example.com,Laptop,Technical Issue,Login problem,Closed,Escalated,Low,Email,146,67.5,1
+TKT00614,CUST00160,Customer 466,customer52@example.com,CRM License,Feature Request,General enquiry,Closed,Escalated,Medium,Phone,316,9.1,4
+TKT00615,CUST00184,Customer 327,customer161@example.com,Laptop,Technical Issue,Payment issue,Open,Password reset,Medium,Email,650,8.2,2
+TKT00616,CUST00266,Customer 65,customer469@example.com,Laptop,Product Question,Login problem,Resolved,Escalated,Low,Email,36,13.5,2
+TKT00617,CUST00168,Customer 476,customer84@example.com,AI Platform,Billing,General enquiry,Closed,Configuration fixed,High,Web Form,30,54.2,4
+TKT00618,CUST00145,Customer 289,customer328@example.com,Cloud Subscription,Technical Issue,Login problem,Resolved,Escalated,High,Web Form,259,14.7,3
+TKT00619,CUST00186,Customer 50,customer435@example.com,AI Platform,Feature Request,Performance issue,Closed,Information provided,Low,Phone,60,27.0,3
+TKT00620,CUST00374,Customer 4,customer26@example.com,AI Platform,Account Access,Payment issue,Resolved,Information provided,High,Web Form,297,62.3,5
+TKT00621,CUST00353,Customer 119,customer225@example.com,AI Platform,Account Access,Installation help,Resolved,Configuration fixed,Medium,Email,641,2.0,1
+TKT00622,CUST00262,Customer 340,customer446@example.com,CRM License,Account Access,Login problem,Resolved,Configuration fixed,Medium,Email,234,17.7,5
+TKT00623,CUST00423,Customer 373,customer317@example.com,Laptop,Account Access,Payment issue,Resolved,Configuration fixed,High,Phone,57,89.3,2
+TKT00624,CUST00495,Customer 500,customer154@example.com,Support Package,Technical Issue,Performance issue,Open,Escalated,Medium,Web Form,105,63.9,4
+TKT00625,CUST00274,Customer 164,customer293@example.com,Cloud Subscription,Account Access,Login problem,Closed,Escalated,High,Web Form,471,29.7,1
+TKT00626,CUST00457,Customer 223,customer414@example.com,AI Platform,Billing,Performance issue,Resolved,Refund processed,Medium,Email,271,4.8,4
+TKT00627,CUST00328,Customer 358,customer95@example.com,Laptop,Product Question,Installation help,In Progress,Password reset,High,Email,6,56.5,1
+TKT00628,CUST00345,Customer 156,customer225@example.com,Cloud Subscription,Technical Issue,Installation help,Closed,Escalated,Medium,Web Form,26,21.8,2
+TKT00629,CUST00223,Customer 387,customer267@example.com,Support Package,Technical Issue,General enquiry,Closed,Refund processed,Low,Chat,582,92.2,2
+TKT00630,CUST00042,Customer 262,customer437@example.com,Support Package,Account Access,General enquiry,Resolved,Refund processed,Medium,Email,216,66.1,1
+TKT00631,CUST00004,Customer 173,customer41@example.com,AI Platform,Account Access,General enquiry,Closed,Information provided,Low,Email,240,93.5,3
+TKT00632,CUST00276,Customer 23,customer133@example.com,Support Package,Technical Issue,Performance issue,In Progress,Escalated,Low,Email,533,81.6,1
+TKT00633,CUST00284,Customer 391,customer66@example.com,Support Package,Account Access,General enquiry,In Progress,Refund processed,Low,Phone,392,46.6,2
+TKT00634,CUST00424,Customer 376,customer397@example.com,Cloud Subscription,Account Access,Payment issue,In Progress,Information provided,High,Web Form,18,64.4,4
+TKT00635,CUST00193,Customer 61,customer447@example.com,Cloud Subscription,Account Access,Performance issue,Closed,Password reset,High,Web Form,523,78.1,5
+TKT00636,CUST00104,Customer 356,customer210@example.com,AI Platform,Account Access,Performance issue,Closed,Information provided,High,Web Form,226,55.7,4
+TKT00637,CUST00247,Customer 321,customer474@example.com,Laptop,Account Access,General enquiry,Resolved,Password reset,High,Email,620,6.4,2
+TKT00638,CUST00300,Customer 134,customer153@example.com,AI Platform,Feature Request,General enquiry,Closed,Configuration fixed,High,Web Form,407,45.4,4
+TKT00639,CUST00023,Customer 24,customer172@example.com,CRM License,Feature Request,Performance issue,Closed,Configuration fixed,Low,Web Form,517,13.0,3
+TKT00640,CUST00441,Customer 293,customer398@example.com,Support Package,Feature Request,Installation help,Resolved,Information provided,High,Web Form,291,68.8,3
+TKT00641,CUST00303,Customer 45,customer325@example.com,Laptop,Technical Issue,Installation help,In Progress,Configuration fixed,High,Phone,388,65.5,1
+TKT00642,CUST00013,Customer 179,customer59@example.com,Cloud Subscription,Product Question,General enquiry,Resolved,Escalated,Low,Phone,251,95.3,4
+TKT00643,CUST00144,Customer 356,customer184@example.com,CRM License,Technical Issue,Installation help,Open,Information provided,Medium,Email,95,60.6,4
+TKT00644,CUST00218,Customer 472,customer490@example.com,CRM License,Feature Request,Payment issue,Closed,Refund processed,Medium,Web Form,316,76.9,2
+TKT00645,CUST00183,Customer 358,customer180@example.com,Support Package,Technical Issue,Payment issue,Closed,Escalated,High,Email,441,26.1,1
+TKT00646,CUST00351,Customer 429,customer322@example.com,Cloud Subscription,Product Question,Payment issue,Open,Information provided,Medium,Email,47,33.0,1
+TKT00647,CUST00242,Customer 63,customer324@example.com,Laptop,Account Access,Performance issue,Open,Password reset,Critical,Email,78,88.1,4
+TKT00648,CUST00193,Customer 29,customer12@example.com,Cloud Subscription,Billing,Performance issue,Open,Configuration fixed,Low,Email,565,72.6,5
+TKT00649,CUST00465,Customer 357,customer459@example.com,Support Package,Feature Request,Performance issue,Resolved,Configuration fixed,Low,Email,320,63.1,4
+TKT00650,CUST00272,Customer 365,customer68@example.com,CRM License,Feature Request,Performance issue,In Progress,Configuration fixed,Critical,Email,148,24.8,4
+TKT00651,CUST00375,Customer 96,customer427@example.com,Support Package,Product Question,Performance issue,Resolved,Information provided,Low,Phone,333,67.2,4
+TKT00652,CUST00165,Customer 409,customer329@example.com,AI Platform,Account Access,General enquiry,Open,Escalated,Medium,Chat,213,85.2,3
+TKT00653,CUST00180,Customer 266,customer202@example.com,CRM License,Account Access,Installation help,Resolved,Password reset,Medium,Phone,103,22.5,1
+TKT00654,CUST00117,Customer 291,customer475@example.com,Support Package,Billing,General enquiry,Closed,Configuration fixed,High,Email,704,67.9,3
+TKT00655,CUST00266,Customer 55,customer6@example.com,Laptop,Account Access,Installation help,Resolved,Escalated,Medium,Chat,118,38.1,5
+TKT00656,CUST00378,Customer 153,customer15@example.com,Laptop,Product Question,General enquiry,Open,Refund processed,Low,Chat,179,11.8,2
+TKT00657,CUST00038,Customer 219,customer42@example.com,Laptop,Account Access,Payment issue,Closed,Refund processed,Medium,Web Form,275,73.4,5
+TKT00658,CUST00044,Customer 173,customer31@example.com,AI Platform,Product Question,Login problem,In Progress,Password reset,Medium,Email,67,16.5,1
+TKT00659,CUST00351,Customer 96,customer470@example.com,Cloud Subscription,Feature Request,Performance issue,Resolved,Configuration fixed,Medium,Email,408,24.7,2
+TKT00660,CUST00074,Customer 123,customer181@example.com,Laptop,Feature Request,Login problem,Resolved,Refund processed,High,Phone,229,75.3,5
+TKT00661,CUST00438,Customer 12,customer262@example.com,AI Platform,Feature Request,Login problem,Open,Escalated,High,Chat,165,71.4,1
+TKT00662,CUST00369,Customer 4,customer289@example.com,Laptop,Technical Issue,Payment issue,In Progress,Escalated,High,Chat,40,24.8,5
+TKT00663,CUST00226,Customer 362,customer413@example.com,AI Platform,Feature Request,Login problem,Closed,Refund processed,Low,Email,385,90.4,2
+TKT00664,CUST00307,Customer 346,customer21@example.com,Laptop,Product Question,Login problem,Open,Configuration fixed,Medium,Web Form,657,21.1,2
+TKT00665,CUST00308,Customer 67,customer380@example.com,Cloud Subscription,Billing,Payment issue,Open,Password reset,Critical,Email,322,95.4,5
+TKT00666,CUST00454,Customer 145,customer182@example.com,Support Package,Account Access,Installation help,Resolved,Configuration fixed,Medium,Chat,712,71.0,3
+TKT00667,CUST00348,Customer 457,customer184@example.com,Laptop,Feature Request,General enquiry,In Progress,Information provided,Low,Web Form,667,38.0,5
+TKT00668,CUST00476,Customer 477,customer244@example.com,Support Package,Technical Issue,Login problem,Open,Refund processed,Critical,Web Form,460,12.9,5
+TKT00669,CUST00315,Customer 65,customer350@example.com,Laptop,Technical Issue,Performance issue,Resolved,Information provided,Medium,Chat,273,31.1,5
+TKT00670,CUST00013,Customer 82,customer149@example.com,Cloud Subscription,Product Question,Payment issue,Closed,Refund processed,High,Email,348,19.0,3
+TKT00671,CUST00425,Customer 105,customer256@example.com,Support Package,Billing,Login problem,Open,Password reset,Low,Email,44,59.9,4
+TKT00672,CUST00012,Customer 181,customer100@example.com,AI Platform,Feature Request,Installation help,Closed,Configuration fixed,Medium,Email,418,34.6,2
+TKT00673,CUST00050,Customer 340,customer55@example.com,Laptop,Feature Request,Installation help,Closed,Configuration fixed,High,Phone,384,28.7,1
+TKT00674,CUST00488,Customer 441,customer186@example.com,Laptop,Technical Issue,Performance issue,Resolved,Refund processed,Medium,Phone,226,72.8,2
+TKT00675,CUST00313,Customer 105,customer320@example.com,AI Platform,Product Question,Login problem,In Progress,Escalated,Medium,Web Form,285,22.5,2
+TKT00676,CUST00434,Customer 226,customer86@example.com,Cloud Subscription,Technical Issue,Performance issue,Closed,Information provided,Low,Email,229,56.5,4
+TKT00677,CUST00249,Customer 371,customer174@example.com,CRM License,Technical Issue,Installation help,Open,Configuration fixed,Medium,Phone,461,19.1,2
+TKT00678,CUST00119,Customer 28,customer468@example.com,Laptop,Billing,Installation help,In Progress,Configuration fixed,Medium,Web Form,158,68.8,2
+TKT00679,CUST00057,Customer 496,customer22@example.com,AI Platform,Product Question,General enquiry,In Progress,Refund processed,High,Chat,284,60.2,3
+TKT00680,CUST00182,Customer 483,customer244@example.com,CRM License,Billing,Installation help,Resolved,Escalated,Low,Chat,357,76.7,3
+TKT00681,CUST00450,Customer 16,customer60@example.com,Laptop,Product Question,Payment issue,Open,Information provided,Low,Email,43,7.0,3
+TKT00682,CUST00264,Customer 277,customer104@example.com,Support Package,Feature Request,General enquiry,Open,Escalated,Medium,Chat,625,20.6,3
+TKT00683,CUST00106,Customer 333,customer139@example.com,AI Platform,Account Access,Performance issue,Resolved,Escalated,Medium,Chat,577,15.3,3
+TKT00684,CUST00191,Customer 483,customer303@example.com,Support Package,Account Access,Installation help,Resolved,Refund processed,Medium,Chat,493,18.7,1
+TKT00685,CUST00137,Customer 298,customer159@example.com,Cloud Subscription,Product Question,Payment issue,In Progress,Escalated,High,Web Form,202,10.3,4
+TKT00686,CUST00188,Customer 54,customer499@example.com,CRM License,Account Access,General enquiry,Closed,Information provided,High,Chat,280,54.2,5
+TKT00687,CUST00120,Customer 288,customer232@example.com,AI Platform,Technical Issue,Payment issue,Closed,Password reset,Medium,Chat,176,57.2,3
+TKT00688,CUST00242,Customer 114,customer77@example.com,Laptop,Feature Request,General enquiry,Closed,Password reset,Medium,Web Form,512,81.1,4
+TKT00689,CUST00319,Customer 38,customer18@example.com,Laptop,Feature Request,General enquiry,Closed,Information provided,Medium,Phone,409,40.4,5
+TKT00690,CUST00072,Customer 454,customer22@example.com,CRM License,Account Access,General enquiry,Open,Refund processed,Low,Web Form,275,51.3,2
+TKT00691,CUST00243,Customer 370,customer184@example.com,Support Package,Product Question,Performance issue,Open,Configuration fixed,Medium,Phone,558,95.2,2
+TKT00692,CUST00131,Customer 230,customer145@example.com,Support Package,Technical Issue,General enquiry,Resolved,Refund processed,High,Web Form,705,51.3,4
+TKT00693,CUST00457,Customer 166,customer38@example.com,AI Platform,Product Question,General enquiry,Resolved,Information provided,Low,Email,668,55.3,1
+TKT00694,CUST00269,Customer 182,customer281@example.com,AI Platform,Account Access,Payment issue,Closed,Escalated,Low,Chat,135,95.6,1
+TKT00695,CUST00393,Customer 444,customer288@example.com,Support Package,Feature Request,General enquiry,Resolved,Password reset,High,Phone,630,95.4,4
+TKT00696,CUST00479,Customer 205,customer143@example.com,AI Platform,Feature Request,Performance issue,Open,Escalated,Medium,Web Form,389,41.0,1
+TKT00697,CUST00473,Customer 366,customer13@example.com,Support Package,Product Question,Payment issue,Closed,Refund processed,Medium,Phone,401,61.1,1
+TKT00698,CUST00052,Customer 245,customer186@example.com,CRM License,Billing,General enquiry,Closed,Information provided,Medium,Phone,570,46.4,2
+TKT00699,CUST00492,Customer 359,customer474@example.com,AI Platform,Product Question,Payment issue,Open,Password reset,Critical,Chat,300,69.3,1
+TKT00700,CUST00062,Customer 333,customer434@example.com,Support Package,Billing,Performance issue,In Progress,Information provided,Low,Phone,387,90.1,1
+TKT00701,CUST00119,Customer 431,customer267@example.com,AI Platform,Product Question,Payment issue,Closed,Password reset,Low,Web Form,516,30.1,4
+TKT00702,CUST00365,Customer 396,customer269@example.com,Laptop,Billing,Performance issue,Resolved,Password reset,Low,Email,399,78.7,1
+TKT00703,CUST00264,Customer 309,customer97@example.com,Laptop,Billing,Installation help,In Progress,Password reset,High,Email,558,63.0,3
+TKT00704,CUST00239,Customer 417,customer434@example.com,Cloud Subscription,Billing,General enquiry,Open,Refund processed,Medium,Chat,609,27.3,3
+TKT00705,CUST00351,Customer 412,customer357@example.com,Support Package,Billing,Performance issue,In Progress,Information provided,Critical,Web Form,264,76.6,4
+TKT00706,CUST00381,Customer 121,customer294@example.com,Cloud Subscription,Technical Issue,General enquiry,In Progress,Configuration fixed,High,Web Form,285,41.3,3
+TKT00707,CUST00255,Customer 259,customer1@example.com,Support Package,Billing,Performance issue,Closed,Configuration fixed,Medium,Email,360,12.0,2
+TKT00708,CUST00173,Customer 210,customer295@example.com,AI Platform,Billing,Login problem,In Progress,Configuration fixed,Low,Web Form,424,95.4,4
+TKT00709,CUST00309,Customer 410,customer27@example.com,Support Package,Feature Request,Login problem,Resolved,Information provided,Medium,Phone,196,41.1,1
+TKT00710,CUST00237,Customer 310,customer36@example.com,Laptop,Technical Issue,Login problem,Closed,Escalated,Medium,Chat,641,52.2,3
+TKT00711,CUST00319,Customer 296,customer160@example.com,AI Platform,Billing,Performance issue,Open,Information provided,High,Email,432,77.7,2
+TKT00712,CUST00095,Customer 194,customer425@example.com,Laptop,Account Access,General enquiry,Resolved,Password reset,Medium,Chat,352,92.3,4
+TKT00713,CUST00337,Customer 68,customer399@example.com,AI Platform,Technical Issue,Login problem,Closed,Escalated,Medium,Phone,433,83.9,4
+TKT00714,CUST00495,Customer 114,customer31@example.com,Support Package,Feature Request,General enquiry,In Progress,Password reset,Medium,Email,396,50.6,1
+TKT00715,CUST00057,Customer 220,customer127@example.com,Support Package,Product Question,Performance issue,Resolved,Password reset,Low,Web Form,345,52.6,5
+TKT00716,CUST00438,Customer 220,customer262@example.com,Laptop,Feature Request,General enquiry,Closed,Information provided,Medium,Web Form,551,27.3,3
+TKT00717,CUST00403,Customer 473,customer345@example.com,CRM License,Feature Request,General enquiry,Closed,Configuration fixed,Low,Phone,406,44.7,2
+TKT00718,CUST00067,Customer 218,customer497@example.com,Support Package,Technical Issue,Login problem,Open,Escalated,Medium,Email,51,90.9,4
+TKT00719,CUST00046,Customer 237,customer436@example.com,CRM License,Technical Issue,Payment issue,Closed,Refund processed,Medium,Chat,669,69.9,3
+TKT00720,CUST00094,Customer 431,customer210@example.com,AI Platform,Account Access,Installation help,Open,Configuration fixed,Medium,Email,429,1.6,2
+TKT00721,CUST00138,Customer 386,customer150@example.com,CRM License,Account Access,Performance issue,In Progress,Refund processed,Medium,Web Form,521,11.6,2
+TKT00722,CUST00369,Customer 298,customer31@example.com,Laptop,Technical Issue,Performance issue,Closed,Information provided,Low,Email,641,88.7,4
+TKT00723,CUST00093,Customer 418,customer100@example.com,Cloud Subscription,Technical Issue,Performance issue,Closed,Escalated,Medium,Email,332,81.6,3
+TKT00724,CUST00232,Customer 94,customer329@example.com,Cloud Subscription,Technical Issue,Installation help,In Progress,Information provided,Medium,Web Form,91,46.9,2
+TKT00725,CUST00402,Customer 253,customer302@example.com,Laptop,Product Question,Payment issue,Closed,Refund processed,Medium,Web Form,519,59.4,4
+TKT00726,CUST00396,Customer 405,customer451@example.com,Cloud Subscription,Feature Request,General enquiry,Closed,Password reset,Critical,Chat,169,28.2,3
+TKT00727,CUST00049,Customer 492,customer353@example.com,Laptop,Account Access,Performance issue,Resolved,Information provided,Low,Email,227,76.2,3
+TKT00728,CUST00023,Customer 357,customer219@example.com,Support Package,Account Access,General enquiry,Open,Escalated,Medium,Web Form,301,58.1,4
+TKT00729,CUST00062,Customer 428,customer253@example.com,CRM License,Billing,Login problem,Closed,Information provided,Medium,Phone,455,66.9,3
+TKT00730,CUST00267,Customer 215,customer171@example.com,Cloud Subscription,Product Question,Login problem,Closed,Configuration fixed,Medium,Web Form,347,36.3,5
+TKT00731,CUST00329,Customer 481,customer257@example.com,Support Package,Technical Issue,Login problem,Open,Information provided,High,Chat,345,41.6,2
+TKT00732,CUST00118,Customer 380,customer428@example.com,Cloud Subscription,Technical Issue,Performance issue,Resolved,Refund processed,Low,Chat,465,20.3,2
+TKT00733,CUST00440,Customer 258,customer57@example.com,AI Platform,Product Question,Installation help,Open,Information provided,High,Phone,396,91.0,3
+TKT00734,CUST00088,Customer 347,customer9@example.com,Laptop,Account Access,Performance issue,Closed,Escalated,Low,Chat,541,90.9,4
+TKT00735,CUST00089,Customer 240,customer5@example.com,Laptop,Technical Issue,Login problem,In Progress,Information provided,Medium,Email,555,78.6,1
+TKT00736,CUST00055,Customer 315,customer335@example.com,Support Package,Billing,Login problem,In Progress,Information provided,High,Chat,425,89.8,3
+TKT00737,CUST00153,Customer 214,customer114@example.com,AI Platform,Account Access,Performance issue,Resolved,Escalated,Low,Phone,385,64.0,1
+TKT00738,CUST00239,Customer 98,customer265@example.com,CRM License,Feature Request,Installation help,Resolved,Information provided,High,Chat,621,22.9,3
+TKT00739,CUST00265,Customer 16,customer173@example.com,AI Platform,Product Question,Installation help,Closed,Escalated,Low,Phone,9,73.1,1
+TKT00740,CUST00268,Customer 404,customer220@example.com,AI Platform,Account Access,General enquiry,Resolved,Refund processed,High,Chat,652,31.6,3
+TKT00741,CUST00395,Customer 154,customer205@example.com,CRM License,Feature Request,Payment issue,Closed,Escalated,Medium,Web Form,8,42.6,4
+TKT00742,CUST00113,Customer 16,customer24@example.com,CRM License,Billing,Login problem,In Progress,Refund processed,Medium,Phone,685,26.7,1
+TKT00743,CUST00166,Customer 198,customer493@example.com,AI Platform,Product Question,Installation help,Resolved,Refund processed,High,Chat,320,41.0,5
+TKT00744,CUST00156,Customer 493,customer458@example.com,Cloud Subscription,Technical Issue,Login problem,Closed,Escalated,Medium,Email,82,65.4,4
+TKT00745,CUST00008,Customer 108,customer170@example.com,Cloud Subscription,Technical Issue,Payment issue,Open,Information provided,Low,Phone,535,11.1,3
+TKT00746,CUST00202,Customer 23,customer406@example.com,AI Platform,Feature Request,Login problem,Resolved,Configuration fixed,High,Phone,359,10.5,1
+TKT00747,CUST00217,Customer 42,customer103@example.com,Cloud Subscription,Account Access,Installation help,Closed,Escalated,Low,Chat,37,65.8,2
+TKT00748,CUST00431,Customer 37,customer60@example.com,CRM License,Billing,General enquiry,Closed,Information provided,Medium,Web Form,666,75.0,4
+TKT00749,CUST00292,Customer 328,customer86@example.com,CRM License,Feature Request,Performance issue,Open,Refund processed,High,Web Form,709,53.2,1
+TKT00750,CUST00381,Customer 390,customer255@example.com,Cloud Subscription,Billing,Performance issue,In Progress,Password reset,Medium,Chat,143,17.8,4
+TKT00751,CUST00050,Customer 165,customer165@example.com,CRM License,Billing,Installation help,Open,Configuration fixed,Low,Chat,276,41.6,1
+TKT00752,CUST00107,Customer 116,customer372@example.com,Laptop,Billing,Installation help,Closed,Information provided,Low,Email,200,72.9,2
+TKT00753,CUST00009,Customer 150,customer167@example.com,CRM License,Product Question,Payment issue,Open,Configuration fixed,Medium,Chat,131,66.0,5
+TKT00754,CUST00233,Customer 6,customer84@example.com,AI Platform,Feature Request,Login problem,Open,Password reset,Medium,Phone,353,11.0,2
+TKT00755,CUST00188,Customer 32,customer458@example.com,Support Package,Product Question,Payment issue,Closed,Password reset,Low,Chat,48,93.1,3
+TKT00756,CUST00456,Customer 145,customer202@example.com,Cloud Subscription,Account Access,Performance issue,In Progress,Password reset,High,Email,248,21.8,4
+TKT00757,CUST00323,Customer 294,customer90@example.com,Cloud Subscription,Account Access,Login problem,Open,Escalated,Medium,Chat,13,21.5,5
+TKT00758,CUST00309,Customer 401,customer89@example.com,CRM License,Technical Issue,Payment issue,Open,Configuration fixed,High,Chat,716,44.4,4
+TKT00759,CUST00338,Customer 293,customer437@example.com,CRM License,Technical Issue,Performance issue,Resolved,Escalated,High,Phone,83,31.8,1
+TKT00760,CUST00110,Customer 407,customer120@example.com,Support Package,Technical Issue,Login problem,Resolved,Password reset,High,Web Form,194,94.5,3
+TKT00761,CUST00483,Customer 177,customer156@example.com,Support Package,Account Access,General enquiry,Closed,Information provided,Medium,Chat,90,7.8,3
+TKT00762,CUST00145,Customer 445,customer461@example.com,AI Platform,Billing,General enquiry,Closed,Password reset,Medium,Email,489,29.8,4
+TKT00763,CUST00228,Customer 177,customer399@example.com,Laptop,Billing,Payment issue,Closed,Escalated,Medium,Chat,275,37.0,3
+TKT00764,CUST00309,Customer 61,customer188@example.com,AI Platform,Feature Request,Installation help,Resolved,Password reset,Medium,Chat,517,47.6,4
+TKT00765,CUST00412,Customer 77,customer188@example.com,Cloud Subscription,Account Access,Login problem,Closed,Password reset,Medium,Phone,24,2.1,1
+TKT00766,CUST00114,Customer 416,customer262@example.com,CRM License,Technical Issue,Payment issue,Open,Escalated,High,Web Form,493,8.4,1
+TKT00767,CUST00063,Customer 383,customer52@example.com,AI Platform,Account Access,Installation help,Open,Escalated,Low,Web Form,134,25.1,4
+TKT00768,CUST00399,Customer 86,customer140@example.com,CRM License,Billing,Installation help,In Progress,Information provided,Medium,Web Form,647,53.4,2
+TKT00769,CUST00275,Customer 191,customer19@example.com,CRM License,Billing,Login problem,Closed,Escalated,Low,Chat,11,73.8,2
+TKT00770,CUST00124,Customer 7,customer480@example.com,AI Platform,Product Question,Login problem,Open,Information provided,High,Phone,708,66.1,1
+TKT00771,CUST00086,Customer 406,customer75@example.com,AI Platform,Product Question,Installation help,Open,Refund processed,High,Phone,314,54.7,5
+TKT00772,CUST00070,Customer 85,customer230@example.com,Support Package,Feature Request,Performance issue,In Progress,Refund processed,Low,Chat,631,38.4,2
+TKT00773,CUST00047,Customer 262,customer481@example.com,Laptop,Account Access,Payment issue,Open,Escalated,Medium,Phone,477,83.7,4
+TKT00774,CUST00199,Customer 445,customer130@example.com,Support Package,Product Question,Login problem,In Progress,Password reset,High,Web Form,106,44.4,1
+TKT00775,CUST00364,Customer 398,customer55@example.com,Laptop,Product Question,Installation help,In Progress,Configuration fixed,Medium,Phone,342,29.1,3
+TKT00776,CUST00432,Customer 400,customer271@example.com,AI Platform,Account Access,Performance issue,Resolved,Password reset,High,Chat,323,60.6,3
+TKT00777,CUST00201,Customer 259,customer448@example.com,Laptop,Billing,General enquiry,Open,Escalated,Low,Chat,517,66.6,2
+TKT00778,CUST00276,Customer 393,customer100@example.com,Cloud Subscription,Feature Request,Installation help,Resolved,Information provided,Medium,Email,29,38.6,5
+TKT00779,CUST00037,Customer 47,customer69@example.com,Support Package,Feature Request,Performance issue,Open,Password reset,Medium,Email,434,3.2,2
+TKT00780,CUST00203,Customer 341,customer399@example.com,Support Package,Feature Request,General enquiry,Resolved,Refund processed,High,Phone,147,9.5,5
+TKT00781,CUST00130,Customer 498,customer299@example.com,Support Package,Product Question,Performance issue,In Progress,Escalated,Medium,Phone,713,81.3,2
+TKT00782,CUST00448,Customer 94,customer458@example.com,CRM License,Billing,Login problem,In Progress,Password reset,Medium,Chat,661,5.9,3
+TKT00783,CUST00470,Customer 478,customer17@example.com,CRM License,Feature Request,Installation help,In Progress,Password reset,Medium,Email,153,57.0,5
+TKT00784,CUST00496,Customer 426,customer354@example.com,AI Platform,Account Access,General enquiry,In Progress,Information provided,Medium,Email,697,18.0,3
+TKT00785,CUST00292,Customer 426,customer116@example.com,AI Platform,Feature Request,Performance issue,Open,Information provided,High,Web Form,59,22.4,4
+TKT00786,CUST00389,Customer 224,customer152@example.com,CRM License,Technical Issue,General enquiry,Closed,Information provided,High,Web Form,475,26.6,4
+TKT00787,CUST00064,Customer 279,customer330@example.com,Support Package,Billing,Payment issue,Open,Configuration fixed,Low,Chat,367,4.2,1
+TKT00788,CUST00263,Customer 3,customer116@example.com,CRM License,Technical Issue,Installation help,Resolved,Escalated,High,Chat,654,17.4,3
+TKT00789,CUST00454,Customer 129,customer30@example.com,Laptop,Billing,Login problem,Open,Escalated,Low,Chat,213,62.6,3
+TKT00790,CUST00120,Customer 323,customer323@example.com,Support Package,Account Access,General enquiry,Open,Refund processed,Medium,Chat,189,48.1,1
+TKT00791,CUST00278,Customer 249,customer51@example.com,CRM License,Product Question,Performance issue,Resolved,Refund processed,High,Email,69,76.6,4
+TKT00792,CUST00202,Customer 229,customer60@example.com,AI Platform,Product Question,General enquiry,In Progress,Escalated,Low,Chat,553,6.3,4
+TKT00793,CUST00046,Customer 327,customer229@example.com,CRM License,Billing,Performance issue,Resolved,Password reset,Low,Chat,116,85.4,5
+TKT00794,CUST00168,Customer 131,customer259@example.com,Cloud Subscription,Feature Request,General enquiry,Resolved,Escalated,Medium,Email,267,95.7,5
+TKT00795,CUST00445,Customer 228,customer360@example.com,CRM License,Technical Issue,Login problem,Closed,Configuration fixed,High,Web Form,80,2.0,4
+TKT00796,CUST00110,Customer 177,customer5@example.com,Support Package,Account Access,Login problem,Closed,Refund processed,Medium,Chat,300,92.9,2
+TKT00797,CUST00046,Customer 323,customer28@example.com,CRM License,Feature Request,Installation help,In Progress,Refund processed,Medium,Web Form,182,23.0,3
+TKT00798,CUST00212,Customer 311,customer254@example.com,AI Platform,Product Question,Login problem,Resolved,Refund processed,High,Email,5,66.6,5
+TKT00799,CUST00028,Customer 388,customer364@example.com,Laptop,Feature Request,General enquiry,Resolved,Escalated,High,Web Form,152,28.4,2
+TKT00800,CUST00087,Customer 31,customer462@example.com,Cloud Subscription,Technical Issue,General enquiry,Resolved,Refund processed,High,Email,675,50.3,5
+TKT00801,CUST00291,Customer 66,customer231@example.com,Support Package,Product Question,Login problem,Open,Refund processed,Medium,Chat,666,49.2,1
+TKT00802,CUST00385,Customer 206,customer395@example.com,AI Platform,Billing,Payment issue,Closed,Escalated,Low,Web Form,133,35.0,3
+TKT00803,CUST00157,Customer 101,customer456@example.com,Cloud Subscription,Account Access,General enquiry,Closed,Password reset,Low,Chat,642,69.0,5
+TKT00804,CUST00265,Customer 320,customer357@example.com,CRM License,Account Access,Installation help,In Progress,Refund processed,High,Phone,517,57.8,4
+TKT00805,CUST00265,Customer 31,customer200@example.com,Cloud Subscription,Product Question,Payment issue,Closed,Refund processed,High,Phone,633,49.0,1
+TKT00806,CUST00022,Customer 373,customer332@example.com,Laptop,Billing,Login problem,Closed,Refund processed,Critical,Web Form,506,94.4,1
+TKT00807,CUST00256,Customer 191,customer271@example.com,Cloud Subscription,Technical Issue,Performance issue,In Progress,Configuration fixed,Low,Email,153,90.3,4
+TKT00808,CUST00191,Customer 66,customer339@example.com,Cloud Subscription,Account Access,General enquiry,Resolved,Escalated,Low,Web Form,273,91.7,1
+TKT00809,CUST00450,Customer 415,customer304@example.com,CRM License,Product Question,Performance issue,Open,Refund processed,Low,Email,705,84.7,3
+TKT00810,CUST00464,Customer 303,customer383@example.com,CRM License,Account Access,Installation help,In Progress,Configuration fixed,Low,Phone,657,24.9,5
+TKT00811,CUST00232,Customer 235,customer46@example.com,Support Package,Billing,Payment issue,Closed,Password reset,Medium,Email,109,33.9,1
+TKT00812,CUST00186,Customer 278,customer28@example.com,CRM License,Technical Issue,Performance issue,In Progress,Password reset,Critical,Phone,470,22.6,3
+TKT00813,CUST00326,Customer 202,customer7@example.com,Cloud Subscription,Billing,Installation help,Closed,Configuration fixed,Medium,Web Form,285,94.7,4
+TKT00814,CUST00183,Customer 500,customer232@example.com,Laptop,Feature Request,Performance issue,Resolved,Password reset,Medium,Chat,411,15.1,5
+TKT00815,CUST00397,Customer 350,customer199@example.com,CRM License,Billing,Performance issue,Resolved,Information provided,Medium,Chat,617,35.5,4
+TKT00816,CUST00481,Customer 225,customer94@example.com,Support Package,Billing,Installation help,Resolved,Password reset,Low,Chat,362,19.5,5
+TKT00817,CUST00403,Customer 83,customer82@example.com,Support Package,Account Access,General enquiry,Closed,Information provided,High,Email,679,21.8,1
+TKT00818,CUST00463,Customer 46,customer88@example.com,Cloud Subscription,Billing,Performance issue,In Progress,Configuration fixed,Medium,Chat,207,24.1,1
+TKT00819,CUST00417,Customer 89,customer390@example.com,CRM License,Product Question,Installation help,Closed,Information provided,Low,Email,616,61.6,5
+TKT00820,CUST00202,Customer 186,customer186@example.com,CRM License,Account Access,Performance issue,Resolved,Password reset,Medium,Chat,285,7.8,3
+TKT00821,CUST00065,Customer 375,customer243@example.com,Support Package,Account Access,General enquiry,Resolved,Refund processed,Medium,Email,261,55.2,3
+TKT00822,CUST00444,Customer 189,customer68@example.com,CRM License,Feature Request,Installation help,Resolved,Information provided,Low,Email,98,78.7,3
+TKT00823,CUST00396,Customer 246,customer311@example.com,Cloud Subscription,Product Question,Performance issue,Closed,Password reset,Medium,Phone,328,73.7,2
+TKT00824,CUST00043,Customer 46,customer451@example.com,Laptop,Billing,Login problem,Open,Refund processed,Medium,Phone,366,14.9,3
+TKT00825,CUST00221,Customer 257,customer433@example.com,Cloud Subscription,Feature Request,General enquiry,Resolved,Configuration fixed,Low,Web Form,666,87.9,1
+TKT00826,CUST00017,Customer 352,customer374@example.com,CRM License,Product Question,Performance issue,In Progress,Configuration fixed,Low,Phone,355,74.0,2
+TKT00827,CUST00324,Customer 409,customer435@example.com,Cloud Subscription,Feature Request,Payment issue,Resolved,Escalated,Medium,Email,66,1.0,3
+TKT00828,CUST00285,Customer 61,customer187@example.com,AI Platform,Technical Issue,Installation help,Closed,Configuration fixed,Medium,Phone,645,70.9,1
+TKT00829,CUST00183,Customer 105,customer239@example.com,AI Platform,Billing,Performance issue,In Progress,Escalated,Medium,Phone,191,70.9,2
+TKT00830,CUST00391,Customer 337,customer390@example.com,CRM License,Feature Request,General enquiry,Closed,Configuration fixed,Critical,Phone,584,47.9,1
+TKT00831,CUST00044,Customer 14,customer218@example.com,CRM License,Technical Issue,General enquiry,Open,Configuration fixed,Medium,Email,546,4.9,5
+TKT00832,CUST00461,Customer 301,customer108@example.com,Laptop,Billing,Payment issue,Open,Configuration fixed,Medium,Email,308,55.9,1
+TKT00833,CUST00389,Customer 77,customer307@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Escalated,High,Web Form,643,73.6,2
+TKT00834,CUST00188,Customer 230,customer38@example.com,Laptop,Feature Request,Performance issue,Resolved,Escalated,Medium,Phone,440,26.4,3
+TKT00835,CUST00390,Customer 167,customer395@example.com,CRM License,Feature Request,Login problem,In Progress,Information provided,Low,Phone,217,64.2,2
+TKT00836,CUST00482,Customer 66,customer436@example.com,CRM License,Feature Request,General enquiry,Resolved,Password reset,Medium,Email,410,34.3,3
+TKT00837,CUST00263,Customer 32,customer349@example.com,Support Package,Account Access,Login problem,Closed,Password reset,High,Web Form,138,55.3,3
+TKT00838,CUST00174,Customer 96,customer276@example.com,Laptop,Feature Request,Login problem,Closed,Password reset,High,Web Form,223,37.2,4
+TKT00839,CUST00441,Customer 58,customer10@example.com,CRM License,Account Access,Performance issue,Resolved,Configuration fixed,Critical,Email,425,29.5,5
+TKT00840,CUST00054,Customer 104,customer26@example.com,AI Platform,Account Access,Installation help,In Progress,Password reset,Medium,Phone,323,82.2,4
+TKT00841,CUST00220,Customer 312,customer48@example.com,Support Package,Technical Issue,Installation help,In Progress,Escalated,High,Web Form,161,72.5,2
+TKT00842,CUST00046,Customer 134,customer347@example.com,Cloud Subscription,Billing,Installation help,In Progress,Information provided,Low,Web Form,192,33.5,4
+TKT00843,CUST00394,Customer 217,customer370@example.com,Support Package,Account Access,Payment issue,In Progress,Refund processed,Medium,Phone,480,42.0,3
+TKT00844,CUST00260,Customer 67,customer14@example.com,Cloud Subscription,Product Question,General enquiry,In Progress,Information provided,High,Web Form,166,66.6,2
+TKT00845,CUST00195,Customer 466,customer100@example.com,AI Platform,Account Access,Payment issue,Open,Password reset,Medium,Phone,133,78.0,4
+TKT00846,CUST00409,Customer 178,customer187@example.com,Cloud Subscription,Product Question,General enquiry,Open,Password reset,Low,Web Form,308,65.9,1
+TKT00847,CUST00471,Customer 374,customer12@example.com,Laptop,Technical Issue,General enquiry,Closed,Escalated,Medium,Web Form,93,52.2,5
+TKT00848,CUST00347,Customer 247,customer372@example.com,Cloud Subscription,Product Question,General enquiry,Open,Information provided,High,Email,166,91.6,1
+TKT00849,CUST00462,Customer 294,customer379@example.com,Cloud Subscription,Technical Issue,Performance issue,In Progress,Escalated,Low,Web Form,40,74.4,2
+TKT00850,CUST00061,Customer 235,customer279@example.com,Support Package,Technical Issue,Installation help,In Progress,Escalated,Medium,Phone,231,11.5,4
+TKT00851,CUST00166,Customer 131,customer341@example.com,AI Platform,Technical Issue,Payment issue,In Progress,Refund processed,Low,Web Form,155,53.8,3
+TKT00852,CUST00160,Customer 112,customer328@example.com,Cloud Subscription,Product Question,Payment issue,Closed,Escalated,Medium,Email,597,39.6,4
+TKT00853,CUST00151,Customer 389,customer167@example.com,Laptop,Product Question,Performance issue,Closed,Escalated,Critical,Web Form,51,76.4,2
+TKT00854,CUST00111,Customer 408,customer122@example.com,Support Package,Technical Issue,General enquiry,Resolved,Refund processed,Low,Chat,664,4.8,2
+TKT00855,CUST00488,Customer 54,customer393@example.com,AI Platform,Technical Issue,Installation help,Open,Configuration fixed,Low,Phone,235,39.7,2
+TKT00856,CUST00037,Customer 290,customer472@example.com,AI Platform,Billing,Login problem,Open,Configuration fixed,Medium,Chat,543,30.9,2
+TKT00857,CUST00003,Customer 239,customer95@example.com,CRM License,Technical Issue,Login problem,Resolved,Refund processed,Medium,Email,705,14.0,4
+TKT00858,CUST00483,Customer 240,customer25@example.com,Laptop,Feature Request,Performance issue,Resolved,Escalated,Medium,Chat,169,36.7,1
+TKT00859,CUST00013,Customer 295,customer17@example.com,Support Package,Billing,Installation help,Open,Password reset,Medium,Web Form,591,64.8,3
+TKT00860,CUST00162,Customer 112,customer426@example.com,Support Package,Billing,Login problem,In Progress,Information provided,Critical,Phone,608,35.0,3
+TKT00861,CUST00344,Customer 88,customer29@example.com,Laptop,Billing,Login problem,Open,Password reset,Medium,Chat,578,55.9,5
+TKT00862,CUST00449,Customer 228,customer444@example.com,AI Platform,Feature Request,Payment issue,In Progress,Password reset,Medium,Web Form,70,57.1,2
+TKT00863,CUST00332,Customer 476,customer323@example.com,Cloud Subscription,Billing,Installation help,Closed,Escalated,Medium,Chat,84,56.6,2
+TKT00864,CUST00264,Customer 304,customer341@example.com,Laptop,Billing,Login problem,Open,Information provided,Medium,Web Form,144,51.1,2
+TKT00865,CUST00083,Customer 305,customer313@example.com,Support Package,Product Question,Payment issue,Open,Information provided,Low,Web Form,404,11.7,1
+TKT00866,CUST00265,Customer 290,customer72@example.com,Laptop,Product Question,Installation help,Closed,Configuration fixed,Medium,Chat,134,21.4,2
+TKT00867,CUST00412,Customer 208,customer270@example.com,AI Platform,Technical Issue,General enquiry,Closed,Refund processed,Critical,Email,450,76.9,5
+TKT00868,CUST00334,Customer 356,customer250@example.com,CRM License,Technical Issue,Installation help,Closed,Escalated,Medium,Phone,33,48.5,5
+TKT00869,CUST00380,Customer 391,customer295@example.com,CRM License,Account Access,Performance issue,Closed,Information provided,Medium,Email,206,67.9,1
+TKT00870,CUST00219,Customer 274,customer144@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Escalated,Low,Chat,241,54.9,2
+TKT00871,CUST00146,Customer 70,customer274@example.com,Cloud Subscription,Product Question,General enquiry,Resolved,Configuration fixed,Medium,Web Form,603,4.2,4
+TKT00872,CUST00298,Customer 370,customer223@example.com,AI Platform,Technical Issue,Payment issue,Resolved,Password reset,Medium,Chat,612,76.5,4
+TKT00873,CUST00297,Customer 220,customer75@example.com,Cloud Subscription,Feature Request,Payment issue,Closed,Information provided,Medium,Web Form,343,6.6,3
+TKT00874,CUST00454,Customer 231,customer102@example.com,CRM License,Billing,Login problem,Closed,Configuration fixed,Medium,Web Form,403,90.6,1
+TKT00875,CUST00161,Customer 290,customer20@example.com,AI Platform,Feature Request,Installation help,Closed,Escalated,Low,Email,443,21.1,4
+TKT00876,CUST00229,Customer 307,customer117@example.com,AI Platform,Product Question,Payment issue,Closed,Configuration fixed,High,Email,293,49.4,3
+TKT00877,CUST00234,Customer 361,customer174@example.com,AI Platform,Account Access,Payment issue,In Progress,Configuration fixed,Medium,Chat,256,6.6,5
+TKT00878,CUST00089,Customer 349,customer373@example.com,Laptop,Product Question,Performance issue,In Progress,Configuration fixed,Medium,Phone,696,86.0,3
+TKT00879,CUST00333,Customer 255,customer173@example.com,Cloud Subscription,Technical Issue,Performance issue,Closed,Configuration fixed,High,Email,104,94.1,2
+TKT00880,CUST00310,Customer 452,customer4@example.com,Support Package,Technical Issue,Performance issue,Closed,Configuration fixed,Low,Web Form,589,14.5,2
+TKT00881,CUST00215,Customer 142,customer340@example.com,CRM License,Feature Request,Payment issue,Open,Configuration fixed,High,Chat,426,28.7,5
+TKT00882,CUST00420,Customer 69,customer479@example.com,Cloud Subscription,Product Question,General enquiry,Closed,Refund processed,Medium,Chat,647,2.0,1
+TKT00883,CUST00097,Customer 89,customer148@example.com,CRM License,Technical Issue,Installation help,Closed,Escalated,Medium,Phone,698,75.7,2
+TKT00884,CUST00213,Customer 359,customer395@example.com,Cloud Subscription,Billing,Payment issue,Resolved,Password reset,Medium,Chat,710,30.2,2
+TKT00885,CUST00354,Customer 136,customer114@example.com,Support Package,Billing,Login problem,In Progress,Escalated,Medium,Email,22,56.7,3
+TKT00886,CUST00312,Customer 143,customer321@example.com,CRM License,Account Access,General enquiry,Closed,Information provided,Low,Web Form,475,4.2,3
+TKT00887,CUST00100,Customer 339,customer492@example.com,Support Package,Feature Request,General enquiry,In Progress,Information provided,High,Chat,642,68.8,3
+TKT00888,CUST00145,Customer 187,customer402@example.com,CRM License,Technical Issue,Installation help,In Progress,Escalated,High,Chat,11,51.1,4
+TKT00889,CUST00010,Customer 11,customer167@example.com,Laptop,Account Access,General enquiry,Open,Configuration fixed,Medium,Web Form,423,69.7,5
+TKT00890,CUST00471,Customer 148,customer300@example.com,Laptop,Billing,Installation help,In Progress,Refund processed,High,Chat,384,75.9,1
+TKT00891,CUST00044,Customer 439,customer481@example.com,CRM License,Account Access,General enquiry,In Progress,Password reset,High,Chat,512,9.0,3
+TKT00892,CUST00251,Customer 292,customer118@example.com,CRM License,Account Access,Installation help,Closed,Configuration fixed,Medium,Phone,118,55.7,1
+TKT00893,CUST00386,Customer 338,customer100@example.com,Support Package,Technical Issue,Performance issue,Resolved,Escalated,Medium,Email,515,62.6,3
+TKT00894,CUST00227,Customer 398,customer274@example.com,AI Platform,Technical Issue,Performance issue,Closed,Escalated,Low,Chat,600,49.8,2
+TKT00895,CUST00398,Customer 442,customer175@example.com,CRM License,Technical Issue,General enquiry,Closed,Refund processed,High,Email,618,17.9,1
+TKT00896,CUST00249,Customer 38,customer159@example.com,Cloud Subscription,Feature Request,General enquiry,Resolved,Refund processed,High,Phone,473,76.5,4
+TKT00897,CUST00495,Customer 345,customer384@example.com,Cloud Subscription,Account Access,Installation help,Resolved,Escalated,Low,Email,97,95.8,3
+TKT00898,CUST00493,Customer 208,customer227@example.com,Cloud Subscription,Account Access,Installation help,Open,Configuration fixed,Medium,Phone,496,93.1,5
+TKT00899,CUST00169,Customer 210,customer423@example.com,Laptop,Feature Request,Payment issue,Resolved,Configuration fixed,High,Email,106,74.8,2
+TKT00900,CUST00130,Customer 1,customer38@example.com,Support Package,Billing,Performance issue,Closed,Configuration fixed,Low,Email,497,40.4,3
