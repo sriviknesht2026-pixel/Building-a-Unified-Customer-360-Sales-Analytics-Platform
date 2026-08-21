@@ -1,701 +1,2001 @@
 registration_id,customer_id,registration_datetime,registration_source,device_type,browser,country
-WEB00001,CUST00305,2025-01-01 00:00:00,Organic Search,Tablet,Chrome,USA
-WEB00002,CUST00281,2025-01-01 20:00:00,Advertisement,Tablet,Edge,Germany
-WEB00003,CUST00108,2025-01-02 16:00:00,Advertisement,Desktop,Firefox,UK
-WEB00004,CUST00096,2025-01-03 12:00:00,Referral,Mobile,Safari,India
-WEB00005,CUST00066,2025-01-04 08:00:00,Social Media,Tablet,Chrome,UK
-WEB00006,CUST00009,2025-01-05 04:00:00,Referral,Tablet,Edge,UK
-WEB00007,CUST00230,2025-01-06 00:00:00,Direct,Desktop,Safari,India
-WEB00008,CUST00221,2025-01-06 20:00:00,Organic Search,Mobile,Safari,UK
-WEB00009,CUST00358,2025-01-07 16:00:00,Referral,Tablet,Edge,UK
-WEB00010,CUST00402,2025-01-08 12:00:00,Referral,Desktop,Chrome,USA
-WEB00011,CUST00278,2025-01-09 08:00:00,Organic Search,Tablet,Edge,USA
-WEB00012,CUST00099,2025-01-10 04:00:00,Organic Search,Tablet,Safari,Germany
-WEB00013,CUST00271,2025-01-11 00:00:00,Advertisement,Mobile,Edge,Australia
-WEB00014,CUST00263,2025-01-11 20:00:00,Advertisement,Mobile,Firefox,Germany
-WEB00015,CUST00397,2025-01-12 16:00:00,Organic Search,Tablet,Safari,USA
-WEB00016,CUST00362,2025-01-13 12:00:00,Referral,Mobile,Chrome,USA
-WEB00017,CUST00164,2025-01-14 08:00:00,Direct,Tablet,Firefox,India
-WEB00018,CUST00016,2025-01-15 04:00:00,Referral,Tablet,Edge,India
-WEB00019,CUST00169,2025-01-16 00:00:00,Direct,Tablet,Chrome,USA
-WEB00020,CUST00021,2025-01-16 20:00:00,Organic Search,Desktop,Firefox,UK
-WEB00021,CUST00028,2025-01-17 16:00:00,Direct,Mobile,Edge,Germany
-WEB00022,CUST00330,2025-01-18 12:00:00,Advertisement,Mobile,Firefox,USA
-WEB00023,CUST00083,2025-01-19 08:00:00,Organic Search,Tablet,Safari,USA
-WEB00024,CUST00273,2025-01-20 04:00:00,Social Media,Mobile,Chrome,India
-WEB00025,CUST00321,2025-01-21 00:00:00,Direct,Tablet,Firefox,Germany
-WEB00026,CUST00397,2025-01-21 20:00:00,Direct,Mobile,Safari,Germany
-WEB00027,CUST00036,2025-01-22 16:00:00,Social Media,Mobile,Edge,Australia
-WEB00028,CUST00495,2025-01-23 12:00:00,Social Media,Tablet,Safari,USA
-WEB00029,CUST00314,2025-01-24 08:00:00,Organic Search,Mobile,Edge,Australia
-WEB00030,CUST00490,2025-01-25 04:00:00,Referral,Tablet,Chrome,India
-WEB00031,CUST00276,2025-01-26 00:00:00,Social Media,Desktop,Safari,Australia
-WEB00032,CUST00233,2025-01-26 20:00:00,Direct,Tablet,Safari,UK
-WEB00033,CUST00104,2025-01-27 16:00:00,Social Media,Mobile,Edge,USA
-WEB00034,CUST00436,2025-01-28 12:00:00,Organic Search,Desktop,Firefox,USA
-WEB00035,CUST00006,2025-01-29 08:00:00,Organic Search,Desktop,Edge,Germany
-WEB00036,CUST00023,2025-01-30 04:00:00,Direct,Tablet,Firefox,Australia
-WEB00037,CUST00170,2025-01-31 00:00:00,Direct,Desktop,Edge,Germany
-WEB00038,CUST00152,2025-01-31 20:00:00,Direct,Tablet,Chrome,Australia
-WEB00039,CUST00244,2025-02-01 16:00:00,Referral,Mobile,Firefox,Australia
-WEB00040,CUST00241,2025-02-02 12:00:00,Direct,Tablet,Safari,India
-WEB00041,CUST00261,2025-02-03 08:00:00,Organic Search,Desktop,Firefox,Australia
-WEB00042,CUST00416,2025-02-04 04:00:00,Organic Search,Tablet,Edge,Germany
-WEB00043,CUST00046,2025-02-05 00:00:00,Social Media,Tablet,Edge,Australia
-WEB00044,CUST00273,2025-02-05 20:00:00,Direct,Mobile,Firefox,Australia
-WEB00045,CUST00075,2025-02-06 16:00:00,Referral,Tablet,Safari,USA
-WEB00046,CUST00283,2025-02-07 12:00:00,Advertisement,Mobile,Chrome,USA
-WEB00047,CUST00196,2025-02-08 08:00:00,Social Media,Desktop,Safari,USA
-WEB00048,CUST00023,2025-02-09 04:00:00,Referral,Desktop,Firefox,UK
-WEB00049,CUST00087,2025-02-10 00:00:00,Direct,Tablet,Edge,USA
-WEB00050,CUST00369,2025-02-10 20:00:00,Referral,Tablet,Safari,UK
-WEB00051,CUST00121,2025-02-11 16:00:00,Advertisement,Desktop,Edge,UK
-WEB00052,CUST00418,2025-02-12 12:00:00,Referral,Desktop,Edge,Germany
-WEB00053,CUST00149,2025-02-13 08:00:00,Advertisement,Desktop,Safari,USA
-WEB00054,CUST00150,2025-02-14 04:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00055,CUST00065,2025-02-15 00:00:00,Advertisement,Desktop,Safari,India
-WEB00056,CUST00160,2025-02-15 20:00:00,Referral,Tablet,Chrome,Australia
-WEB00057,CUST00446,2025-02-16 16:00:00,Direct,Desktop,Edge,USA
-WEB00058,CUST00284,2025-02-17 12:00:00,Organic Search,Desktop,Edge,Australia
-WEB00059,CUST00082,2025-02-18 08:00:00,Organic Search,Tablet,Firefox,USA
-WEB00060,CUST00007,2025-02-19 04:00:00,Referral,Mobile,Edge,USA
-WEB00061,CUST00182,2025-02-20 00:00:00,Direct,Tablet,Edge,Australia
-WEB00062,CUST00358,2025-02-20 20:00:00,Organic Search,Mobile,Edge,UK
-WEB00063,CUST00454,2025-02-21 16:00:00,Advertisement,Tablet,Safari,Germany
-WEB00064,CUST00014,2025-02-22 12:00:00,Referral,Mobile,Edge,Germany
-WEB00065,CUST00478,2025-02-23 08:00:00,Referral,Mobile,Safari,Germany
-WEB00066,CUST00183,2025-02-24 04:00:00,Social Media,Mobile,Firefox,Germany
-WEB00067,CUST00314,2025-02-25 00:00:00,Social Media,Tablet,Chrome,India
-WEB00068,CUST00044,2025-02-25 20:00:00,Social Media,Tablet,Edge,USA
-WEB00069,CUST00174,2025-02-26 16:00:00,Direct,Tablet,Chrome,India
-WEB00070,CUST00014,2025-02-27 12:00:00,Referral,Mobile,Safari,Germany
-WEB00071,CUST00300,2025-02-28 08:00:00,Social Media,Mobile,Firefox,Germany
-WEB00072,CUST00425,2025-03-01 04:00:00,Referral,Tablet,Firefox,Australia
-WEB00073,CUST00073,2025-03-02 00:00:00,Advertisement,Tablet,Safari,Germany
-WEB00074,CUST00223,2025-03-02 20:00:00,Social Media,Desktop,Chrome,USA
-WEB00075,CUST00002,2025-03-03 16:00:00,Referral,Desktop,Edge,Germany
-WEB00076,CUST00210,2025-03-04 12:00:00,Direct,Desktop,Safari,Germany
-WEB00077,CUST00261,2025-03-05 08:00:00,Direct,Desktop,Safari,India
-WEB00078,CUST00090,2025-03-06 04:00:00,Direct,Desktop,Safari,USA
-WEB00079,CUST00343,2025-03-07 00:00:00,Social Media,Tablet,Safari,UK
-WEB00080,CUST00396,2025-03-07 20:00:00,Direct,Mobile,Safari,Australia
-WEB00081,CUST00334,2025-03-08 16:00:00,Organic Search,Mobile,Firefox,UK
-WEB00082,CUST00252,2025-03-09 12:00:00,Advertisement,Tablet,Safari,India
-WEB00083,CUST00383,2025-03-10 08:00:00,Referral,Tablet,Firefox,Germany
-WEB00084,CUST00333,2025-03-11 04:00:00,Organic Search,Tablet,Chrome,Australia
-WEB00085,CUST00355,2025-03-12 00:00:00,Social Media,Desktop,Edge,USA
-WEB00086,CUST00047,2025-03-12 20:00:00,Referral,Desktop,Firefox,Australia
-WEB00087,CUST00335,2025-03-13 16:00:00,Referral,Desktop,Edge,India
-WEB00088,CUST00163,2025-03-14 12:00:00,Direct,Tablet,Edge,Germany
-WEB00089,CUST00116,2025-03-15 08:00:00,Referral,Tablet,Edge,India
-WEB00090,CUST00403,2025-03-16 04:00:00,Referral,Mobile,Firefox,USA
-WEB00091,CUST00079,2025-03-17 00:00:00,Advertisement,Tablet,Firefox,UK
-WEB00092,CUST00447,2025-03-17 20:00:00,Social Media,Desktop,Firefox,Germany
-WEB00093,CUST00371,2025-03-18 16:00:00,Organic Search,Mobile,Chrome,Germany
-WEB00094,CUST00008,2025-03-19 12:00:00,Direct,Tablet,Firefox,India
-WEB00095,CUST00023,2025-03-20 08:00:00,Advertisement,Mobile,Chrome,India
-WEB00096,CUST00269,2025-03-21 04:00:00,Organic Search,Mobile,Firefox,India
-WEB00097,CUST00279,2025-03-22 00:00:00,Organic Search,Tablet,Firefox,Germany
-WEB00098,CUST00031,2025-03-22 20:00:00,Advertisement,Desktop,Edge,India
-WEB00099,CUST00414,2025-03-23 16:00:00,Direct,Desktop,Safari,Australia
-WEB00100,CUST00170,2025-03-24 12:00:00,Social Media,Mobile,Edge,Australia
-WEB00101,CUST00130,2025-03-25 08:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00102,CUST00395,2025-03-26 04:00:00,Advertisement,Tablet,Safari,Germany
-WEB00103,CUST00409,2025-03-27 00:00:00,Advertisement,Desktop,Safari,India
-WEB00104,CUST00157,2025-03-27 20:00:00,Direct,Tablet,Chrome,USA
-WEB00105,CUST00022,2025-03-28 16:00:00,Advertisement,Tablet,Safari,India
-WEB00106,CUST00126,2025-03-29 12:00:00,Advertisement,Mobile,Chrome,Germany
-WEB00107,CUST00403,2025-03-30 08:00:00,Referral,Tablet,Edge,Australia
-WEB00108,CUST00457,2025-03-31 04:00:00,Referral,Tablet,Chrome,Germany
-WEB00109,CUST00169,2025-04-01 00:00:00,Referral,Tablet,Firefox,India
-WEB00110,CUST00166,2025-04-01 20:00:00,Referral,Desktop,Safari,Germany
-WEB00111,CUST00157,2025-04-02 16:00:00,Advertisement,Desktop,Firefox,USA
-WEB00112,CUST00330,2025-04-03 12:00:00,Referral,Mobile,Safari,Germany
-WEB00113,CUST00022,2025-04-04 08:00:00,Organic Search,Desktop,Safari,UK
-WEB00114,CUST00472,2025-04-05 04:00:00,Social Media,Desktop,Edge,Germany
-WEB00115,CUST00264,2025-04-06 00:00:00,Referral,Desktop,Chrome,India
-WEB00116,CUST00303,2025-04-06 20:00:00,Direct,Desktop,Edge,UK
-WEB00117,CUST00390,2025-04-07 16:00:00,Social Media,Mobile,Chrome,Australia
-WEB00118,CUST00263,2025-04-08 12:00:00,Organic Search,Tablet,Edge,India
-WEB00119,CUST00212,2025-04-09 08:00:00,Social Media,Tablet,Edge,USA
-WEB00120,CUST00465,2025-04-10 04:00:00,Social Media,Tablet,Safari,Germany
-WEB00121,CUST00164,2025-04-11 00:00:00,Organic Search,Mobile,Edge,Germany
-WEB00122,CUST00136,2025-04-11 20:00:00,Referral,Desktop,Edge,India
-WEB00123,CUST00252,2025-04-12 16:00:00,Organic Search,Mobile,Chrome,Germany
-WEB00124,CUST00205,2025-04-13 12:00:00,Direct,Mobile,Edge,Germany
-WEB00125,CUST00344,2025-04-14 08:00:00,Organic Search,Mobile,Safari,Australia
-WEB00126,CUST00302,2025-04-15 04:00:00,Advertisement,Tablet,Edge,Germany
-WEB00127,CUST00242,2025-04-16 00:00:00,Advertisement,Desktop,Firefox,Germany
-WEB00128,CUST00320,2025-04-16 20:00:00,Social Media,Tablet,Firefox,Australia
-WEB00129,CUST00415,2025-04-17 16:00:00,Referral,Mobile,Chrome,Germany
-WEB00130,CUST00279,2025-04-18 12:00:00,Referral,Mobile,Chrome,Australia
-WEB00131,CUST00061,2025-04-19 08:00:00,Advertisement,Tablet,Firefox,USA
-WEB00132,CUST00465,2025-04-20 04:00:00,Direct,Tablet,Edge,Germany
-WEB00133,CUST00306,2025-04-21 00:00:00,Organic Search,Tablet,Edge,India
-WEB00134,CUST00302,2025-04-21 20:00:00,Organic Search,Desktop,Chrome,UK
-WEB00135,CUST00472,2025-04-22 16:00:00,Organic Search,Tablet,Safari,USA
-WEB00136,CUST00299,2025-04-23 12:00:00,Direct,Desktop,Edge,Germany
-WEB00137,CUST00394,2025-04-24 08:00:00,Direct,Desktop,Firefox,India
-WEB00138,CUST00095,2025-04-25 04:00:00,Organic Search,Tablet,Safari,UK
-WEB00139,CUST00493,2025-04-26 00:00:00,Organic Search,Mobile,Safari,Australia
-WEB00140,CUST00148,2025-04-26 20:00:00,Direct,Mobile,Edge,Germany
-WEB00141,CUST00400,2025-04-27 16:00:00,Organic Search,Desktop,Safari,Australia
-WEB00142,CUST00462,2025-04-28 12:00:00,Direct,Desktop,Chrome,USA
-WEB00143,CUST00259,2025-04-29 08:00:00,Social Media,Desktop,Safari,UK
-WEB00144,CUST00030,2025-04-30 04:00:00,Advertisement,Mobile,Chrome,UK
-WEB00145,CUST00018,2025-05-01 00:00:00,Advertisement,Desktop,Edge,Australia
-WEB00146,CUST00187,2025-05-01 20:00:00,Direct,Desktop,Safari,Australia
-WEB00147,CUST00454,2025-05-02 16:00:00,Organic Search,Mobile,Firefox,USA
-WEB00148,CUST00212,2025-05-03 12:00:00,Advertisement,Tablet,Firefox,India
-WEB00149,CUST00035,2025-05-04 08:00:00,Referral,Mobile,Chrome,Germany
-WEB00150,CUST00147,2025-05-05 04:00:00,Organic Search,Tablet,Chrome,India
-WEB00151,CUST00282,2025-05-06 00:00:00,Direct,Tablet,Edge,UK
-WEB00152,CUST00035,2025-05-06 20:00:00,Referral,Desktop,Safari,Germany
-WEB00153,CUST00076,2025-05-07 16:00:00,Direct,Desktop,Chrome,USA
-WEB00154,CUST00072,2025-05-08 12:00:00,Organic Search,Tablet,Chrome,India
-WEB00155,CUST00249,2025-05-09 08:00:00,Social Media,Desktop,Edge,India
-WEB00156,CUST00057,2025-05-10 04:00:00,Social Media,Tablet,Safari,Germany
-WEB00157,CUST00357,2025-05-11 00:00:00,Social Media,Desktop,Safari,USA
-WEB00158,CUST00305,2025-05-11 20:00:00,Organic Search,Mobile,Chrome,USA
-WEB00159,CUST00010,2025-05-12 16:00:00,Organic Search,Tablet,Safari,India
-WEB00160,CUST00213,2025-05-13 12:00:00,Referral,Tablet,Safari,India
-WEB00161,CUST00497,2025-05-14 08:00:00,Organic Search,Desktop,Safari,Australia
-WEB00162,CUST00361,2025-05-15 04:00:00,Organic Search,Mobile,Firefox,Germany
-WEB00163,CUST00237,2025-05-16 00:00:00,Referral,Desktop,Safari,USA
-WEB00164,CUST00234,2025-05-16 20:00:00,Referral,Mobile,Firefox,UK
-WEB00165,CUST00413,2025-05-17 16:00:00,Direct,Desktop,Safari,Germany
-WEB00166,CUST00223,2025-05-18 12:00:00,Advertisement,Tablet,Safari,Australia
-WEB00167,CUST00104,2025-05-19 08:00:00,Advertisement,Mobile,Safari,Germany
-WEB00168,CUST00327,2025-05-20 04:00:00,Direct,Mobile,Chrome,India
-WEB00169,CUST00098,2025-05-21 00:00:00,Social Media,Desktop,Chrome,Germany
-WEB00170,CUST00226,2025-05-21 20:00:00,Organic Search,Mobile,Firefox,Germany
-WEB00171,CUST00222,2025-05-22 16:00:00,Referral,Desktop,Safari,Germany
-WEB00172,CUST00324,2025-05-23 12:00:00,Referral,Mobile,Firefox,UK
-WEB00173,CUST00489,2025-05-24 08:00:00,Social Media,Desktop,Safari,Australia
-WEB00174,CUST00478,2025-05-25 04:00:00,Referral,Desktop,Edge,Germany
-WEB00175,CUST00473,2025-05-26 00:00:00,Social Media,Desktop,Firefox,Germany
-WEB00176,CUST00334,2025-05-26 20:00:00,Direct,Tablet,Chrome,UK
-WEB00177,CUST00280,2025-05-27 16:00:00,Social Media,Mobile,Edge,USA
-WEB00178,CUST00043,2025-05-28 12:00:00,Advertisement,Tablet,Chrome,Germany
-WEB00179,CUST00351,2025-05-29 08:00:00,Social Media,Tablet,Edge,Germany
-WEB00180,CUST00382,2025-05-30 04:00:00,Direct,Tablet,Edge,USA
-WEB00181,CUST00423,2025-05-31 00:00:00,Social Media,Tablet,Edge,Germany
-WEB00182,CUST00348,2025-05-31 20:00:00,Direct,Mobile,Firefox,Germany
-WEB00183,CUST00153,2025-06-01 16:00:00,Advertisement,Mobile,Firefox,Germany
-WEB00184,CUST00339,2025-06-02 12:00:00,Organic Search,Tablet,Chrome,Australia
-WEB00185,CUST00452,2025-06-03 08:00:00,Direct,Mobile,Firefox,India
-WEB00186,CUST00290,2025-06-04 04:00:00,Organic Search,Mobile,Chrome,Australia
-WEB00187,CUST00224,2025-06-05 00:00:00,Direct,Desktop,Safari,USA
-WEB00188,CUST00473,2025-06-05 20:00:00,Social Media,Mobile,Chrome,Australia
-WEB00189,CUST00119,2025-06-06 16:00:00,Organic Search,Tablet,Chrome,Australia
-WEB00190,CUST00214,2025-06-07 12:00:00,Direct,Mobile,Firefox,UK
-WEB00191,CUST00053,2025-06-08 08:00:00,Direct,Tablet,Chrome,USA
-WEB00192,CUST00220,2025-06-09 04:00:00,Organic Search,Mobile,Firefox,USA
-WEB00193,CUST00439,2025-06-10 00:00:00,Direct,Tablet,Chrome,USA
-WEB00194,CUST00243,2025-06-10 20:00:00,Organic Search,Mobile,Safari,Australia
-WEB00195,CUST00053,2025-06-11 16:00:00,Advertisement,Mobile,Firefox,USA
-WEB00196,CUST00402,2025-06-12 12:00:00,Referral,Mobile,Firefox,UK
-WEB00197,CUST00117,2025-06-13 08:00:00,Advertisement,Tablet,Safari,Germany
-WEB00198,CUST00391,2025-06-14 04:00:00,Organic Search,Desktop,Firefox,Australia
-WEB00199,CUST00447,2025-06-15 00:00:00,Social Media,Tablet,Chrome,Germany
-WEB00200,CUST00331,2025-06-15 20:00:00,Social Media,Mobile,Edge,Germany
-WEB00201,CUST00042,2025-06-16 16:00:00,Referral,Tablet,Firefox,Australia
-WEB00202,CUST00395,2025-06-17 12:00:00,Organic Search,Mobile,Edge,Australia
-WEB00203,CUST00247,2025-06-18 08:00:00,Direct,Mobile,Chrome,USA
-WEB00204,CUST00393,2025-06-19 04:00:00,Advertisement,Desktop,Safari,UK
-WEB00205,CUST00291,2025-06-20 00:00:00,Advertisement,Mobile,Firefox,Australia
-WEB00206,CUST00248,2025-06-20 20:00:00,Referral,Mobile,Edge,Germany
-WEB00207,CUST00101,2025-06-21 16:00:00,Referral,Mobile,Safari,Australia
-WEB00208,CUST00087,2025-06-22 12:00:00,Referral,Desktop,Safari,UK
-WEB00209,CUST00353,2025-06-23 08:00:00,Referral,Tablet,Firefox,India
-WEB00210,CUST00449,2025-06-24 04:00:00,Referral,Desktop,Edge,Germany
-WEB00211,CUST00084,2025-06-25 00:00:00,Referral,Tablet,Firefox,India
-WEB00212,CUST00261,2025-06-25 20:00:00,Direct,Mobile,Chrome,India
-WEB00213,CUST00221,2025-06-26 16:00:00,Direct,Tablet,Safari,UK
-WEB00214,CUST00154,2025-06-27 12:00:00,Advertisement,Tablet,Edge,Australia
-WEB00215,CUST00051,2025-06-28 08:00:00,Advertisement,Tablet,Firefox,India
-WEB00216,CUST00038,2025-06-29 04:00:00,Referral,Tablet,Safari,USA
-WEB00217,CUST00259,2025-06-30 00:00:00,Advertisement,Mobile,Firefox,Australia
-WEB00218,CUST00469,2025-06-30 20:00:00,Referral,Desktop,Edge,Germany
-WEB00219,CUST00187,2025-07-01 16:00:00,Direct,Tablet,Chrome,Australia
-WEB00220,CUST00013,2025-07-02 12:00:00,Social Media,Mobile,Chrome,UK
-WEB00221,CUST00223,2025-07-03 08:00:00,Direct,Mobile,Chrome,UK
-WEB00222,CUST00465,2025-07-04 04:00:00,Organic Search,Mobile,Firefox,Germany
-WEB00223,CUST00419,2025-07-05 00:00:00,Direct,Mobile,Safari,Germany
-WEB00224,CUST00087,2025-07-05 20:00:00,Organic Search,Tablet,Chrome,Germany
-WEB00225,CUST00259,2025-07-06 16:00:00,Advertisement,Desktop,Chrome,UK
-WEB00226,CUST00181,2025-07-07 12:00:00,Direct,Mobile,Chrome,Australia
-WEB00227,CUST00311,2025-07-08 08:00:00,Social Media,Desktop,Chrome,India
-WEB00228,CUST00173,2025-07-09 04:00:00,Direct,Desktop,Edge,India
-WEB00229,CUST00322,2025-07-10 00:00:00,Direct,Desktop,Edge,USA
-WEB00230,CUST00195,2025-07-10 20:00:00,Direct,Mobile,Safari,UK
-WEB00231,CUST00340,2025-07-11 16:00:00,Referral,Mobile,Edge,Germany
-WEB00232,CUST00496,2025-07-12 12:00:00,Direct,Mobile,Edge,Australia
-WEB00233,CUST00245,2025-07-13 08:00:00,Direct,Desktop,Edge,UK
-WEB00234,CUST00428,2025-07-14 04:00:00,Social Media,Mobile,Firefox,USA
-WEB00235,CUST00329,2025-07-15 00:00:00,Organic Search,Mobile,Edge,India
-WEB00236,CUST00368,2025-07-15 20:00:00,Organic Search,Desktop,Firefox,Australia
-WEB00237,CUST00196,2025-07-16 16:00:00,Social Media,Mobile,Firefox,India
-WEB00238,CUST00062,2025-07-17 12:00:00,Advertisement,Tablet,Edge,Australia
-WEB00239,CUST00025,2025-07-18 08:00:00,Direct,Tablet,Firefox,Germany
-WEB00240,CUST00052,2025-07-19 04:00:00,Advertisement,Tablet,Chrome,Australia
-WEB00241,CUST00050,2025-07-20 00:00:00,Social Media,Tablet,Safari,Germany
-WEB00242,CUST00378,2025-07-20 20:00:00,Advertisement,Desktop,Edge,UK
-WEB00243,CUST00385,2025-07-21 16:00:00,Organic Search,Mobile,Edge,India
-WEB00244,CUST00295,2025-07-22 12:00:00,Referral,Tablet,Safari,Australia
-WEB00245,CUST00052,2025-07-23 08:00:00,Advertisement,Tablet,Edge,Australia
-WEB00246,CUST00332,2025-07-24 04:00:00,Referral,Mobile,Edge,USA
-WEB00247,CUST00040,2025-07-25 00:00:00,Advertisement,Desktop,Safari,India
-WEB00248,CUST00232,2025-07-25 20:00:00,Social Media,Tablet,Firefox,UK
-WEB00249,CUST00060,2025-07-26 16:00:00,Referral,Mobile,Chrome,Germany
-WEB00250,CUST00216,2025-07-27 12:00:00,Advertisement,Mobile,Firefox,UK
-WEB00251,CUST00457,2025-07-28 08:00:00,Social Media,Tablet,Chrome,USA
-WEB00252,CUST00366,2025-07-29 04:00:00,Organic Search,Tablet,Safari,UK
-WEB00253,CUST00340,2025-07-30 00:00:00,Direct,Mobile,Firefox,Germany
-WEB00254,CUST00197,2025-07-30 20:00:00,Social Media,Mobile,Firefox,India
-WEB00255,CUST00276,2025-07-31 16:00:00,Social Media,Tablet,Chrome,USA
-WEB00256,CUST00341,2025-08-01 12:00:00,Organic Search,Tablet,Chrome,Australia
-WEB00257,CUST00002,2025-08-02 08:00:00,Referral,Tablet,Chrome,Australia
-WEB00258,CUST00469,2025-08-03 04:00:00,Advertisement,Tablet,Chrome,India
-WEB00259,CUST00106,2025-08-04 00:00:00,Referral,Desktop,Edge,UK
-WEB00260,CUST00216,2025-08-04 20:00:00,Social Media,Mobile,Safari,Australia
-WEB00261,CUST00265,2025-08-05 16:00:00,Advertisement,Tablet,Chrome,USA
-WEB00262,CUST00167,2025-08-06 12:00:00,Direct,Mobile,Firefox,Germany
-WEB00263,CUST00247,2025-08-07 08:00:00,Direct,Tablet,Firefox,UK
-WEB00264,CUST00414,2025-08-08 04:00:00,Advertisement,Desktop,Firefox,Germany
-WEB00265,CUST00438,2025-08-09 00:00:00,Social Media,Mobile,Chrome,UK
-WEB00266,CUST00210,2025-08-09 20:00:00,Organic Search,Desktop,Safari,USA
-WEB00267,CUST00058,2025-08-10 16:00:00,Referral,Mobile,Edge,Germany
-WEB00268,CUST00428,2025-08-11 12:00:00,Referral,Desktop,Chrome,USA
-WEB00269,CUST00043,2025-08-12 08:00:00,Organic Search,Tablet,Chrome,Germany
-WEB00270,CUST00138,2025-08-13 04:00:00,Organic Search,Tablet,Edge,UK
-WEB00271,CUST00109,2025-08-14 00:00:00,Direct,Desktop,Safari,USA
-WEB00272,CUST00489,2025-08-14 20:00:00,Organic Search,Tablet,Chrome,UK
-WEB00273,CUST00048,2025-08-15 16:00:00,Advertisement,Desktop,Firefox,UK
-WEB00274,CUST00126,2025-08-16 12:00:00,Direct,Desktop,Firefox,Germany
-WEB00275,CUST00469,2025-08-17 08:00:00,Social Media,Mobile,Chrome,Germany
-WEB00276,CUST00214,2025-08-18 04:00:00,Direct,Desktop,Safari,USA
-WEB00277,CUST00401,2025-08-19 00:00:00,Direct,Mobile,Firefox,Australia
-WEB00278,CUST00128,2025-08-19 20:00:00,Referral,Desktop,Firefox,India
-WEB00279,CUST00389,2025-08-20 16:00:00,Organic Search,Mobile,Edge,Germany
-WEB00280,CUST00198,2025-08-21 12:00:00,Advertisement,Mobile,Safari,UK
-WEB00281,CUST00202,2025-08-22 08:00:00,Organic Search,Tablet,Chrome,India
-WEB00282,CUST00192,2025-08-23 04:00:00,Referral,Mobile,Edge,USA
-WEB00283,CUST00107,2025-08-24 00:00:00,Organic Search,Mobile,Edge,India
-WEB00284,CUST00194,2025-08-24 20:00:00,Advertisement,Desktop,Edge,India
-WEB00285,CUST00327,2025-08-25 16:00:00,Organic Search,Mobile,Safari,Australia
-WEB00286,CUST00238,2025-08-26 12:00:00,Referral,Tablet,Safari,Australia
-WEB00287,CUST00132,2025-08-27 08:00:00,Advertisement,Desktop,Safari,India
-WEB00288,CUST00357,2025-08-28 04:00:00,Organic Search,Mobile,Chrome,Australia
-WEB00289,CUST00083,2025-08-29 00:00:00,Referral,Desktop,Safari,Australia
-WEB00290,CUST00284,2025-08-29 20:00:00,Referral,Desktop,Edge,India
-WEB00291,CUST00468,2025-08-30 16:00:00,Direct,Desktop,Firefox,Germany
-WEB00292,CUST00222,2025-08-31 12:00:00,Advertisement,Desktop,Chrome,Australia
-WEB00293,CUST00106,2025-09-01 08:00:00,Advertisement,Desktop,Chrome,India
-WEB00294,CUST00294,2025-09-02 04:00:00,Organic Search,Mobile,Chrome,Germany
-WEB00295,CUST00066,2025-09-03 00:00:00,Direct,Desktop,Edge,Australia
-WEB00296,CUST00195,2025-09-03 20:00:00,Advertisement,Desktop,Safari,India
-WEB00297,CUST00188,2025-09-04 16:00:00,Referral,Tablet,Edge,Australia
-WEB00298,CUST00047,2025-09-05 12:00:00,Advertisement,Tablet,Firefox,Germany
-WEB00299,CUST00362,2025-09-06 08:00:00,Direct,Desktop,Safari,India
-WEB00300,CUST00497,2025-09-07 04:00:00,Social Media,Mobile,Firefox,Germany
-WEB00301,CUST00359,2025-09-08 00:00:00,Referral,Tablet,Chrome,UK
-WEB00302,CUST00025,2025-09-08 20:00:00,Advertisement,Tablet,Chrome,USA
-WEB00303,CUST00066,2025-09-09 16:00:00,Referral,Desktop,Edge,UK
-WEB00304,CUST00487,2025-09-10 12:00:00,Organic Search,Mobile,Safari,Australia
-WEB00305,CUST00335,2025-09-11 08:00:00,Referral,Mobile,Chrome,Germany
-WEB00306,CUST00067,2025-09-12 04:00:00,Advertisement,Tablet,Edge,India
-WEB00307,CUST00197,2025-09-13 00:00:00,Organic Search,Tablet,Firefox,Germany
-WEB00308,CUST00246,2025-09-13 20:00:00,Organic Search,Tablet,Edge,Australia
-WEB00309,CUST00296,2025-09-14 16:00:00,Organic Search,Tablet,Safari,India
-WEB00310,CUST00100,2025-09-15 12:00:00,Social Media,Tablet,Safari,UK
-WEB00311,CUST00178,2025-09-16 08:00:00,Social Media,Desktop,Safari,Germany
-WEB00312,CUST00115,2025-09-17 04:00:00,Organic Search,Desktop,Chrome,USA
-WEB00313,CUST00168,2025-09-18 00:00:00,Advertisement,Desktop,Edge,Australia
-WEB00314,CUST00119,2025-09-18 20:00:00,Organic Search,Tablet,Firefox,Australia
-WEB00315,CUST00486,2025-09-19 16:00:00,Organic Search,Desktop,Safari,Germany
-WEB00316,CUST00165,2025-09-20 12:00:00,Referral,Tablet,Edge,UK
-WEB00317,CUST00219,2025-09-21 08:00:00,Referral,Mobile,Chrome,UK
-WEB00318,CUST00197,2025-09-22 04:00:00,Referral,Mobile,Firefox,USA
-WEB00319,CUST00401,2025-09-23 00:00:00,Direct,Desktop,Firefox,USA
-WEB00320,CUST00318,2025-09-23 20:00:00,Referral,Mobile,Firefox,Germany
-WEB00321,CUST00486,2025-09-24 16:00:00,Referral,Mobile,Chrome,India
-WEB00322,CUST00237,2025-09-25 12:00:00,Advertisement,Mobile,Safari,UK
-WEB00323,CUST00169,2025-09-26 08:00:00,Social Media,Desktop,Chrome,India
-WEB00324,CUST00076,2025-09-27 04:00:00,Social Media,Mobile,Firefox,India
-WEB00325,CUST00426,2025-09-28 00:00:00,Social Media,Desktop,Edge,Germany
-WEB00326,CUST00287,2025-09-28 20:00:00,Direct,Tablet,Firefox,USA
-WEB00327,CUST00033,2025-09-29 16:00:00,Organic Search,Tablet,Edge,India
-WEB00328,CUST00299,2025-09-30 12:00:00,Referral,Desktop,Chrome,Germany
-WEB00329,CUST00349,2025-10-01 08:00:00,Advertisement,Desktop,Chrome,USA
-WEB00330,CUST00230,2025-10-02 04:00:00,Direct,Mobile,Chrome,India
-WEB00331,CUST00195,2025-10-03 00:00:00,Social Media,Tablet,Edge,India
-WEB00332,CUST00294,2025-10-03 20:00:00,Direct,Mobile,Chrome,USA
-WEB00333,CUST00297,2025-10-04 16:00:00,Advertisement,Tablet,Safari,USA
-WEB00334,CUST00374,2025-10-05 12:00:00,Direct,Mobile,Firefox,Australia
-WEB00335,CUST00447,2025-10-06 08:00:00,Social Media,Mobile,Safari,Australia
-WEB00336,CUST00424,2025-10-07 04:00:00,Organic Search,Tablet,Edge,Germany
-WEB00337,CUST00414,2025-10-08 00:00:00,Social Media,Mobile,Chrome,Germany
-WEB00338,CUST00431,2025-10-08 20:00:00,Social Media,Tablet,Firefox,UK
-WEB00339,CUST00278,2025-10-09 16:00:00,Social Media,Desktop,Chrome,Australia
-WEB00340,CUST00230,2025-10-10 12:00:00,Direct,Mobile,Chrome,USA
-WEB00341,CUST00096,2025-10-11 08:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00342,CUST00383,2025-10-12 04:00:00,Social Media,Tablet,Firefox,Germany
-WEB00343,CUST00439,2025-10-13 00:00:00,Direct,Mobile,Safari,Germany
-WEB00344,CUST00171,2025-10-13 20:00:00,Advertisement,Tablet,Safari,Germany
-WEB00345,CUST00317,2025-10-14 16:00:00,Organic Search,Mobile,Safari,USA
-WEB00346,CUST00330,2025-10-15 12:00:00,Social Media,Mobile,Safari,India
-WEB00347,CUST00032,2025-10-16 08:00:00,Referral,Desktop,Safari,Germany
-WEB00348,CUST00491,2025-10-17 04:00:00,Direct,Desktop,Edge,Australia
-WEB00349,CUST00388,2025-10-18 00:00:00,Organic Search,Desktop,Edge,India
-WEB00350,CUST00477,2025-10-18 20:00:00,Organic Search,Mobile,Chrome,Australia
-WEB00351,CUST00045,2025-10-19 16:00:00,Organic Search,Mobile,Chrome,Germany
-WEB00352,CUST00072,2025-10-20 12:00:00,Direct,Tablet,Safari,USA
-WEB00353,CUST00020,2025-10-21 08:00:00,Advertisement,Desktop,Chrome,India
-WEB00354,CUST00239,2025-10-22 04:00:00,Referral,Desktop,Edge,India
-WEB00355,CUST00199,2025-10-23 00:00:00,Advertisement,Tablet,Edge,Germany
-WEB00356,CUST00065,2025-10-23 20:00:00,Social Media,Desktop,Chrome,Germany
-WEB00357,CUST00188,2025-10-24 16:00:00,Referral,Desktop,Safari,Germany
-WEB00358,CUST00089,2025-10-25 12:00:00,Advertisement,Desktop,Edge,UK
-WEB00359,CUST00410,2025-10-26 08:00:00,Social Media,Tablet,Firefox,USA
-WEB00360,CUST00201,2025-10-27 04:00:00,Referral,Desktop,Firefox,USA
-WEB00361,CUST00023,2025-10-28 00:00:00,Direct,Mobile,Chrome,Germany
-WEB00362,CUST00296,2025-10-28 20:00:00,Social Media,Desktop,Safari,UK
-WEB00363,CUST00130,2025-10-29 16:00:00,Advertisement,Mobile,Chrome,Germany
-WEB00364,CUST00154,2025-10-30 12:00:00,Referral,Desktop,Safari,Germany
-WEB00365,CUST00078,2025-10-31 08:00:00,Social Media,Mobile,Safari,USA
-WEB00366,CUST00190,2025-11-01 04:00:00,Social Media,Desktop,Firefox,UK
-WEB00367,CUST00300,2025-11-02 00:00:00,Direct,Mobile,Edge,USA
-WEB00368,CUST00415,2025-11-02 20:00:00,Social Media,Mobile,Edge,Germany
-WEB00369,CUST00154,2025-11-03 16:00:00,Referral,Desktop,Chrome,Australia
-WEB00370,CUST00113,2025-11-04 12:00:00,Organic Search,Tablet,Chrome,India
-WEB00371,CUST00339,2025-11-05 08:00:00,Referral,Desktop,Safari,Germany
-WEB00372,CUST00486,2025-11-06 04:00:00,Referral,Tablet,Edge,UK
-WEB00373,CUST00117,2025-11-07 00:00:00,Direct,Tablet,Safari,Australia
-WEB00374,CUST00005,2025-11-07 20:00:00,Direct,Tablet,Firefox,UK
-WEB00375,CUST00377,2025-11-08 16:00:00,Social Media,Tablet,Firefox,Germany
-WEB00376,CUST00326,2025-11-09 12:00:00,Direct,Tablet,Safari,Germany
-WEB00377,CUST00035,2025-11-10 08:00:00,Social Media,Tablet,Safari,India
-WEB00378,CUST00272,2025-11-11 04:00:00,Organic Search,Desktop,Safari,UK
-WEB00379,CUST00159,2025-11-12 00:00:00,Advertisement,Mobile,Safari,Australia
-WEB00380,CUST00210,2025-11-12 20:00:00,Direct,Mobile,Safari,India
-WEB00381,CUST00014,2025-11-13 16:00:00,Direct,Desktop,Firefox,UK
-WEB00382,CUST00025,2025-11-14 12:00:00,Organic Search,Desktop,Firefox,Germany
-WEB00383,CUST00335,2025-11-15 08:00:00,Direct,Desktop,Firefox,India
-WEB00384,CUST00218,2025-11-16 04:00:00,Organic Search,Tablet,Chrome,Germany
-WEB00385,CUST00254,2025-11-17 00:00:00,Social Media,Tablet,Firefox,USA
-WEB00386,CUST00484,2025-11-17 20:00:00,Direct,Mobile,Edge,USA
-WEB00387,CUST00203,2025-11-18 16:00:00,Direct,Desktop,Edge,India
-WEB00388,CUST00101,2025-11-19 12:00:00,Social Media,Mobile,Safari,India
-WEB00389,CUST00361,2025-11-20 08:00:00,Direct,Mobile,Firefox,UK
-WEB00390,CUST00229,2025-11-21 04:00:00,Referral,Tablet,Safari,Australia
-WEB00391,CUST00199,2025-11-22 00:00:00,Organic Search,Tablet,Safari,Australia
-WEB00392,CUST00402,2025-11-22 20:00:00,Advertisement,Mobile,Edge,USA
-WEB00393,CUST00178,2025-11-23 16:00:00,Referral,Tablet,Edge,USA
-WEB00394,CUST00276,2025-11-24 12:00:00,Advertisement,Tablet,Safari,USA
-WEB00395,CUST00312,2025-11-25 08:00:00,Referral,Tablet,Edge,Germany
-WEB00396,CUST00130,2025-11-26 04:00:00,Referral,Mobile,Safari,Australia
-WEB00397,CUST00410,2025-11-27 00:00:00,Referral,Mobile,Safari,India
-WEB00398,CUST00279,2025-11-27 20:00:00,Organic Search,Mobile,Safari,USA
-WEB00399,CUST00288,2025-11-28 16:00:00,Advertisement,Desktop,Chrome,UK
-WEB00400,CUST00141,2025-11-29 12:00:00,Social Media,Mobile,Edge,India
-WEB00401,CUST00013,2025-11-30 08:00:00,Social Media,Tablet,Edge,India
-WEB00402,CUST00401,2025-12-01 04:00:00,Direct,Mobile,Firefox,India
-WEB00403,CUST00217,2025-12-02 00:00:00,Organic Search,Desktop,Edge,Australia
-WEB00404,CUST00186,2025-12-02 20:00:00,Organic Search,Tablet,Firefox,USA
-WEB00405,CUST00470,2025-12-03 16:00:00,Organic Search,Mobile,Safari,UK
-WEB00406,CUST00027,2025-12-04 12:00:00,Referral,Mobile,Chrome,Germany
-WEB00407,CUST00401,2025-12-05 08:00:00,Organic Search,Tablet,Safari,UK
-WEB00408,CUST00218,2025-12-06 04:00:00,Social Media,Mobile,Safari,UK
-WEB00409,CUST00422,2025-12-07 00:00:00,Organic Search,Desktop,Safari,UK
-WEB00410,CUST00014,2025-12-07 20:00:00,Referral,Tablet,Firefox,Germany
-WEB00411,CUST00142,2025-12-08 16:00:00,Advertisement,Mobile,Chrome,UK
-WEB00412,CUST00396,2025-12-09 12:00:00,Organic Search,Tablet,Safari,UK
-WEB00413,CUST00325,2025-12-10 08:00:00,Advertisement,Mobile,Firefox,USA
-WEB00414,CUST00485,2025-12-11 04:00:00,Direct,Mobile,Safari,USA
-WEB00415,CUST00324,2025-12-12 00:00:00,Referral,Tablet,Chrome,USA
-WEB00416,CUST00055,2025-12-12 20:00:00,Organic Search,Mobile,Safari,India
-WEB00417,CUST00191,2025-12-13 16:00:00,Direct,Mobile,Safari,UK
-WEB00418,CUST00285,2025-12-14 12:00:00,Direct,Tablet,Edge,Australia
-WEB00419,CUST00089,2025-12-15 08:00:00,Advertisement,Mobile,Firefox,Australia
-WEB00420,CUST00045,2025-12-16 04:00:00,Social Media,Mobile,Chrome,Australia
-WEB00421,CUST00132,2025-12-17 00:00:00,Social Media,Tablet,Firefox,Germany
-WEB00422,CUST00498,2025-12-17 20:00:00,Social Media,Desktop,Edge,USA
-WEB00423,CUST00400,2025-12-18 16:00:00,Social Media,Desktop,Safari,USA
-WEB00424,CUST00498,2025-12-19 12:00:00,Referral,Desktop,Chrome,USA
-WEB00425,CUST00066,2025-12-20 08:00:00,Organic Search,Desktop,Chrome,Germany
-WEB00426,CUST00279,2025-12-21 04:00:00,Organic Search,Desktop,Firefox,UK
-WEB00427,CUST00324,2025-12-22 00:00:00,Referral,Desktop,Safari,India
-WEB00428,CUST00148,2025-12-22 20:00:00,Advertisement,Tablet,Edge,USA
-WEB00429,CUST00145,2025-12-23 16:00:00,Organic Search,Tablet,Safari,UK
-WEB00430,CUST00436,2025-12-24 12:00:00,Direct,Tablet,Firefox,Australia
-WEB00431,CUST00006,2025-12-25 08:00:00,Organic Search,Mobile,Chrome,India
-WEB00432,CUST00082,2025-12-26 04:00:00,Referral,Desktop,Chrome,Australia
-WEB00433,CUST00468,2025-12-27 00:00:00,Advertisement,Desktop,Safari,UK
-WEB00434,CUST00123,2025-12-27 20:00:00,Organic Search,Tablet,Safari,UK
-WEB00435,CUST00167,2025-12-28 16:00:00,Referral,Mobile,Safari,Australia
-WEB00436,CUST00237,2025-12-29 12:00:00,Direct,Mobile,Safari,India
-WEB00437,CUST00105,2025-12-30 08:00:00,Social Media,Tablet,Edge,Australia
-WEB00438,CUST00290,2025-12-31 04:00:00,Direct,Desktop,Edge,Australia
-WEB00439,CUST00488,2026-01-01 00:00:00,Direct,Mobile,Edge,Australia
-WEB00440,CUST00238,2026-01-01 20:00:00,Advertisement,Desktop,Edge,India
-WEB00441,CUST00310,2026-01-02 16:00:00,Organic Search,Mobile,Firefox,Germany
-WEB00442,CUST00472,2026-01-03 12:00:00,Social Media,Desktop,Chrome,India
-WEB00443,CUST00082,2026-01-04 08:00:00,Referral,Mobile,Chrome,Australia
-WEB00444,CUST00094,2026-01-05 04:00:00,Social Media,Desktop,Firefox,USA
-WEB00445,CUST00321,2026-01-06 00:00:00,Organic Search,Desktop,Firefox,USA
-WEB00446,CUST00343,2026-01-06 20:00:00,Advertisement,Desktop,Edge,UK
-WEB00447,CUST00285,2026-01-07 16:00:00,Organic Search,Tablet,Safari,Germany
-WEB00448,CUST00297,2026-01-08 12:00:00,Referral,Desktop,Chrome,UK
-WEB00449,CUST00361,2026-01-09 08:00:00,Social Media,Desktop,Firefox,UK
-WEB00450,CUST00319,2026-01-10 04:00:00,Direct,Mobile,Safari,USA
-WEB00451,CUST00416,2026-01-11 00:00:00,Organic Search,Mobile,Edge,India
-WEB00452,CUST00066,2026-01-11 20:00:00,Advertisement,Tablet,Firefox,UK
-WEB00453,CUST00112,2026-01-12 16:00:00,Advertisement,Mobile,Chrome,UK
-WEB00454,CUST00356,2026-01-13 12:00:00,Social Media,Desktop,Chrome,Germany
-WEB00455,CUST00429,2026-01-14 08:00:00,Direct,Tablet,Chrome,USA
-WEB00456,CUST00401,2026-01-15 04:00:00,Referral,Tablet,Firefox,India
-WEB00457,CUST00171,2026-01-16 00:00:00,Direct,Tablet,Chrome,Germany
-WEB00458,CUST00247,2026-01-16 20:00:00,Social Media,Desktop,Edge,India
-WEB00459,CUST00066,2026-01-17 16:00:00,Direct,Desktop,Chrome,India
-WEB00460,CUST00068,2026-01-18 12:00:00,Social Media,Mobile,Edge,UK
-WEB00461,CUST00492,2026-01-19 08:00:00,Direct,Mobile,Chrome,Germany
-WEB00462,CUST00034,2026-01-20 04:00:00,Organic Search,Mobile,Edge,UK
-WEB00463,CUST00001,2026-01-21 00:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00464,CUST00151,2026-01-21 20:00:00,Social Media,Desktop,Edge,India
-WEB00465,CUST00390,2026-01-22 16:00:00,Social Media,Mobile,Firefox,Germany
-WEB00466,CUST00272,2026-01-23 12:00:00,Advertisement,Desktop,Safari,USA
-WEB00467,CUST00258,2026-01-24 08:00:00,Referral,Tablet,Edge,UK
-WEB00468,CUST00238,2026-01-25 04:00:00,Social Media,Desktop,Firefox,Australia
-WEB00469,CUST00116,2026-01-26 00:00:00,Organic Search,Desktop,Safari,Australia
-WEB00470,CUST00076,2026-01-26 20:00:00,Direct,Tablet,Chrome,Australia
-WEB00471,CUST00283,2026-01-27 16:00:00,Organic Search,Mobile,Safari,UK
-WEB00472,CUST00019,2026-01-28 12:00:00,Social Media,Desktop,Edge,USA
-WEB00473,CUST00284,2026-01-29 08:00:00,Referral,Desktop,Safari,Germany
-WEB00474,CUST00035,2026-01-30 04:00:00,Social Media,Tablet,Chrome,India
-WEB00475,CUST00371,2026-01-31 00:00:00,Referral,Desktop,Safari,USA
-WEB00476,CUST00491,2026-01-31 20:00:00,Advertisement,Desktop,Edge,UK
-WEB00477,CUST00324,2026-02-01 16:00:00,Direct,Desktop,Edge,Germany
-WEB00478,CUST00305,2026-02-02 12:00:00,Organic Search,Tablet,Firefox,India
-WEB00479,CUST00241,2026-02-03 08:00:00,Referral,Desktop,Chrome,Germany
-WEB00480,CUST00007,2026-02-04 04:00:00,Organic Search,Tablet,Chrome,India
-WEB00481,CUST00037,2026-02-05 00:00:00,Advertisement,Mobile,Safari,India
-WEB00482,CUST00371,2026-02-05 20:00:00,Social Media,Desktop,Chrome,Australia
-WEB00483,CUST00153,2026-02-06 16:00:00,Referral,Tablet,Edge,UK
-WEB00484,CUST00245,2026-02-07 12:00:00,Direct,Tablet,Safari,USA
-WEB00485,CUST00250,2026-02-08 08:00:00,Referral,Desktop,Firefox,Australia
-WEB00486,CUST00115,2026-02-09 04:00:00,Social Media,Tablet,Safari,Australia
-WEB00487,CUST00041,2026-02-10 00:00:00,Social Media,Mobile,Safari,Germany
-WEB00488,CUST00337,2026-02-10 20:00:00,Direct,Mobile,Firefox,India
-WEB00489,CUST00062,2026-02-11 16:00:00,Direct,Mobile,Safari,India
-WEB00490,CUST00169,2026-02-12 12:00:00,Advertisement,Mobile,Chrome,Germany
-WEB00491,CUST00142,2026-02-13 08:00:00,Organic Search,Tablet,Safari,UK
-WEB00492,CUST00485,2026-02-14 04:00:00,Referral,Tablet,Safari,India
-WEB00493,CUST00438,2026-02-15 00:00:00,Advertisement,Mobile,Safari,Australia
-WEB00494,CUST00258,2026-02-15 20:00:00,Organic Search,Mobile,Edge,Australia
-WEB00495,CUST00088,2026-02-16 16:00:00,Advertisement,Mobile,Edge,India
-WEB00496,CUST00463,2026-02-17 12:00:00,Direct,Mobile,Chrome,India
-WEB00497,CUST00048,2026-02-18 08:00:00,Direct,Mobile,Firefox,UK
-WEB00498,CUST00435,2026-02-19 04:00:00,Social Media,Tablet,Edge,India
-WEB00499,CUST00481,2026-02-20 00:00:00,Referral,Mobile,Edge,UK
-WEB00500,CUST00311,2026-02-20 20:00:00,Referral,Mobile,Chrome,Australia
-WEB00501,CUST00012,2026-02-21 16:00:00,Referral,Desktop,Chrome,UK
-WEB00502,CUST00211,2026-02-22 12:00:00,Advertisement,Tablet,Firefox,India
-WEB00503,CUST00244,2026-02-23 08:00:00,Advertisement,Mobile,Safari,USA
-WEB00504,CUST00239,2026-02-24 04:00:00,Referral,Tablet,Safari,India
-WEB00505,CUST00197,2026-02-25 00:00:00,Social Media,Desktop,Firefox,USA
-WEB00506,CUST00257,2026-02-25 20:00:00,Organic Search,Desktop,Firefox,Australia
-WEB00507,CUST00235,2026-02-26 16:00:00,Advertisement,Mobile,Firefox,Germany
-WEB00508,CUST00187,2026-02-27 12:00:00,Referral,Mobile,Chrome,Australia
-WEB00509,CUST00201,2026-02-28 08:00:00,Direct,Mobile,Safari,Australia
-WEB00510,CUST00103,2026-03-01 04:00:00,Advertisement,Mobile,Firefox,Australia
-WEB00511,CUST00290,2026-03-02 00:00:00,Organic Search,Desktop,Firefox,UK
-WEB00512,CUST00221,2026-03-02 20:00:00,Advertisement,Tablet,Safari,Australia
-WEB00513,CUST00497,2026-03-03 16:00:00,Organic Search,Mobile,Safari,Germany
-WEB00514,CUST00496,2026-03-04 12:00:00,Organic Search,Tablet,Chrome,India
-WEB00515,CUST00368,2026-03-05 08:00:00,Advertisement,Mobile,Edge,USA
-WEB00516,CUST00302,2026-03-06 04:00:00,Organic Search,Mobile,Edge,Australia
-WEB00517,CUST00187,2026-03-07 00:00:00,Advertisement,Desktop,Chrome,USA
-WEB00518,CUST00450,2026-03-07 20:00:00,Advertisement,Mobile,Chrome,Australia
-WEB00519,CUST00403,2026-03-08 16:00:00,Social Media,Mobile,Safari,UK
-WEB00520,CUST00412,2026-03-09 12:00:00,Direct,Mobile,Chrome,USA
-WEB00521,CUST00099,2026-03-10 08:00:00,Organic Search,Desktop,Chrome,Australia
-WEB00522,CUST00424,2026-03-11 04:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00523,CUST00245,2026-03-12 00:00:00,Organic Search,Desktop,Chrome,Germany
-WEB00524,CUST00313,2026-03-12 20:00:00,Advertisement,Mobile,Chrome,Germany
-WEB00525,CUST00307,2026-03-13 16:00:00,Advertisement,Mobile,Firefox,Germany
-WEB00526,CUST00496,2026-03-14 12:00:00,Advertisement,Mobile,Safari,UK
-WEB00527,CUST00022,2026-03-15 08:00:00,Direct,Tablet,Safari,USA
-WEB00528,CUST00068,2026-03-16 04:00:00,Organic Search,Tablet,Chrome,UK
-WEB00529,CUST00392,2026-03-17 00:00:00,Direct,Mobile,Chrome,India
-WEB00530,CUST00316,2026-03-17 20:00:00,Direct,Mobile,Edge,Australia
-WEB00531,CUST00065,2026-03-18 16:00:00,Direct,Tablet,Firefox,Australia
-WEB00532,CUST00292,2026-03-19 12:00:00,Direct,Desktop,Edge,Australia
-WEB00533,CUST00455,2026-03-20 08:00:00,Social Media,Desktop,Chrome,Germany
-WEB00534,CUST00217,2026-03-21 04:00:00,Organic Search,Tablet,Edge,Australia
-WEB00535,CUST00029,2026-03-22 00:00:00,Organic Search,Tablet,Edge,Germany
-WEB00536,CUST00193,2026-03-22 20:00:00,Advertisement,Mobile,Safari,India
-WEB00537,CUST00056,2026-03-23 16:00:00,Organic Search,Tablet,Firefox,UK
-WEB00538,CUST00338,2026-03-24 12:00:00,Direct,Tablet,Safari,UK
-WEB00539,CUST00388,2026-03-25 08:00:00,Referral,Mobile,Safari,UK
-WEB00540,CUST00212,2026-03-26 04:00:00,Organic Search,Tablet,Edge,Germany
-WEB00541,CUST00238,2026-03-27 00:00:00,Referral,Mobile,Firefox,USA
-WEB00542,CUST00200,2026-03-27 20:00:00,Social Media,Desktop,Chrome,USA
-WEB00543,CUST00475,2026-03-28 16:00:00,Advertisement,Desktop,Firefox,India
-WEB00544,CUST00178,2026-03-29 12:00:00,Advertisement,Desktop,Safari,USA
-WEB00545,CUST00423,2026-03-30 08:00:00,Advertisement,Mobile,Edge,India
-WEB00546,CUST00419,2026-03-31 04:00:00,Social Media,Desktop,Chrome,Australia
-WEB00547,CUST00153,2026-04-01 00:00:00,Direct,Desktop,Safari,UK
-WEB00548,CUST00462,2026-04-01 20:00:00,Referral,Mobile,Edge,Germany
-WEB00549,CUST00044,2026-04-02 16:00:00,Organic Search,Mobile,Safari,India
-WEB00550,CUST00431,2026-04-03 12:00:00,Direct,Desktop,Edge,Germany
-WEB00551,CUST00168,2026-04-04 08:00:00,Advertisement,Desktop,Firefox,Germany
-WEB00552,CUST00287,2026-04-05 04:00:00,Advertisement,Desktop,Safari,UK
-WEB00553,CUST00197,2026-04-06 00:00:00,Direct,Tablet,Firefox,Australia
-WEB00554,CUST00337,2026-04-06 20:00:00,Referral,Mobile,Firefox,Australia
-WEB00555,CUST00074,2026-04-07 16:00:00,Direct,Mobile,Edge,USA
-WEB00556,CUST00171,2026-04-08 12:00:00,Social Media,Mobile,Chrome,Australia
-WEB00557,CUST00380,2026-04-09 08:00:00,Advertisement,Mobile,Firefox,UK
-WEB00558,CUST00183,2026-04-10 04:00:00,Referral,Desktop,Safari,Germany
-WEB00559,CUST00016,2026-04-11 00:00:00,Organic Search,Mobile,Safari,India
-WEB00560,CUST00496,2026-04-11 20:00:00,Advertisement,Tablet,Edge,India
-WEB00561,CUST00068,2026-04-12 16:00:00,Direct,Tablet,Firefox,Australia
-WEB00562,CUST00375,2026-04-13 12:00:00,Referral,Desktop,Chrome,USA
-WEB00563,CUST00325,2026-04-14 08:00:00,Advertisement,Desktop,Chrome,India
-WEB00564,CUST00042,2026-04-15 04:00:00,Organic Search,Mobile,Safari,USA
-WEB00565,CUST00110,2026-04-16 00:00:00,Organic Search,Desktop,Edge,India
-WEB00566,CUST00041,2026-04-16 20:00:00,Direct,Desktop,Firefox,USA
-WEB00567,CUST00306,2026-04-17 16:00:00,Social Media,Desktop,Safari,USA
-WEB00568,CUST00468,2026-04-18 12:00:00,Direct,Tablet,Edge,Germany
-WEB00569,CUST00006,2026-04-19 08:00:00,Referral,Mobile,Chrome,UK
-WEB00570,CUST00331,2026-04-20 04:00:00,Direct,Desktop,Safari,India
-WEB00571,CUST00181,2026-04-21 00:00:00,Referral,Mobile,Edge,Australia
-WEB00572,CUST00273,2026-04-21 20:00:00,Social Media,Mobile,Chrome,UK
-WEB00573,CUST00361,2026-04-22 16:00:00,Direct,Mobile,Edge,Germany
-WEB00574,CUST00185,2026-04-23 12:00:00,Organic Search,Tablet,Safari,Germany
-WEB00575,CUST00323,2026-04-24 08:00:00,Referral,Mobile,Firefox,Germany
-WEB00576,CUST00144,2026-04-25 04:00:00,Referral,Mobile,Edge,Australia
-WEB00577,CUST00436,2026-04-26 00:00:00,Organic Search,Desktop,Firefox,India
-WEB00578,CUST00100,2026-04-26 20:00:00,Direct,Desktop,Safari,India
-WEB00579,CUST00090,2026-04-27 16:00:00,Social Media,Tablet,Chrome,USA
-WEB00580,CUST00472,2026-04-28 12:00:00,Advertisement,Mobile,Edge,USA
-WEB00581,CUST00246,2026-04-29 08:00:00,Direct,Tablet,Chrome,USA
-WEB00582,CUST00239,2026-04-30 04:00:00,Direct,Mobile,Firefox,Australia
-WEB00583,CUST00418,2026-05-01 00:00:00,Referral,Tablet,Firefox,UK
-WEB00584,CUST00212,2026-05-01 20:00:00,Referral,Mobile,Chrome,India
-WEB00585,CUST00081,2026-05-02 16:00:00,Social Media,Desktop,Safari,USA
-WEB00586,CUST00115,2026-05-03 12:00:00,Social Media,Tablet,Firefox,Australia
-WEB00587,CUST00276,2026-05-04 08:00:00,Social Media,Desktop,Safari,Australia
-WEB00588,CUST00080,2026-05-05 04:00:00,Organic Search,Mobile,Chrome,USA
-WEB00589,CUST00056,2026-05-06 00:00:00,Advertisement,Tablet,Safari,Germany
-WEB00590,CUST00179,2026-05-06 20:00:00,Advertisement,Desktop,Firefox,Germany
-WEB00591,CUST00309,2026-05-07 16:00:00,Social Media,Desktop,Chrome,Germany
-WEB00592,CUST00049,2026-05-08 12:00:00,Referral,Desktop,Safari,USA
-WEB00593,CUST00260,2026-05-09 08:00:00,Advertisement,Mobile,Safari,Australia
-WEB00594,CUST00274,2026-05-10 04:00:00,Direct,Tablet,Edge,Australia
-WEB00595,CUST00292,2026-05-11 00:00:00,Organic Search,Desktop,Firefox,India
-WEB00596,CUST00373,2026-05-11 20:00:00,Referral,Mobile,Edge,Germany
-WEB00597,CUST00291,2026-05-12 16:00:00,Organic Search,Mobile,Safari,USA
-WEB00598,CUST00030,2026-05-13 12:00:00,Direct,Mobile,Firefox,India
-WEB00599,CUST00374,2026-05-14 08:00:00,Advertisement,Tablet,Chrome,Australia
-WEB00600,CUST00252,2026-05-15 04:00:00,Organic Search,Mobile,Chrome,India
-WEB00601,CUST00063,2026-05-16 00:00:00,Organic Search,Mobile,Chrome,Germany
-WEB00602,CUST00082,2026-05-16 20:00:00,Organic Search,Tablet,Safari,UK
-WEB00603,CUST00405,2026-05-17 16:00:00,Direct,Tablet,Safari,Germany
-WEB00604,CUST00436,2026-05-18 12:00:00,Referral,Mobile,Chrome,Germany
-WEB00605,CUST00480,2026-05-19 08:00:00,Referral,Mobile,Edge,USA
-WEB00606,CUST00325,2026-05-20 04:00:00,Direct,Desktop,Edge,UK
-WEB00607,CUST00381,2026-05-21 00:00:00,Organic Search,Tablet,Firefox,UK
-WEB00608,CUST00169,2026-05-21 20:00:00,Organic Search,Tablet,Firefox,UK
-WEB00609,CUST00310,2026-05-22 16:00:00,Social Media,Desktop,Chrome,Australia
-WEB00610,CUST00343,2026-05-23 12:00:00,Advertisement,Mobile,Safari,India
-WEB00611,CUST00158,2026-05-24 08:00:00,Advertisement,Mobile,Safari,Australia
-WEB00612,CUST00475,2026-05-25 04:00:00,Referral,Mobile,Firefox,UK
-WEB00613,CUST00056,2026-05-26 00:00:00,Direct,Mobile,Chrome,USA
-WEB00614,CUST00335,2026-05-26 20:00:00,Organic Search,Desktop,Firefox,Germany
-WEB00615,CUST00425,2026-05-27 16:00:00,Advertisement,Tablet,Edge,Germany
-WEB00616,CUST00142,2026-05-28 12:00:00,Direct,Tablet,Chrome,Australia
-WEB00617,CUST00149,2026-05-29 08:00:00,Direct,Mobile,Chrome,Australia
-WEB00618,CUST00376,2026-05-30 04:00:00,Organic Search,Desktop,Chrome,USA
-WEB00619,CUST00226,2026-05-31 00:00:00,Direct,Mobile,Edge,Germany
-WEB00620,CUST00474,2026-05-31 20:00:00,Advertisement,Mobile,Chrome,Australia
-WEB00621,CUST00025,2026-06-01 16:00:00,Social Media,Desktop,Firefox,India
-WEB00622,CUST00178,2026-06-02 12:00:00,Advertisement,Desktop,Edge,Australia
-WEB00623,CUST00365,2026-06-03 08:00:00,Social Media,Tablet,Safari,Australia
-WEB00624,CUST00095,2026-06-04 04:00:00,Direct,Tablet,Firefox,UK
-WEB00625,CUST00053,2026-06-05 00:00:00,Advertisement,Mobile,Firefox,India
-WEB00626,CUST00304,2026-06-05 20:00:00,Organic Search,Mobile,Firefox,India
-WEB00627,CUST00070,2026-06-06 16:00:00,Direct,Tablet,Edge,USA
-WEB00628,CUST00176,2026-06-07 12:00:00,Organic Search,Desktop,Firefox,UK
-WEB00629,CUST00132,2026-06-08 08:00:00,Social Media,Mobile,Edge,India
-WEB00630,CUST00408,2026-06-09 04:00:00,Referral,Mobile,Chrome,UK
-WEB00631,CUST00490,2026-06-10 00:00:00,Referral,Desktop,Safari,UK
-WEB00632,CUST00415,2026-06-10 20:00:00,Social Media,Mobile,Chrome,Germany
-WEB00633,CUST00339,2026-06-11 16:00:00,Referral,Desktop,Firefox,India
-WEB00634,CUST00459,2026-06-12 12:00:00,Direct,Tablet,Edge,Germany
-WEB00635,CUST00413,2026-06-13 08:00:00,Direct,Tablet,Edge,Australia
-WEB00636,CUST00389,2026-06-14 04:00:00,Advertisement,Tablet,Chrome,Australia
-WEB00637,CUST00338,2026-06-15 00:00:00,Direct,Tablet,Firefox,Germany
-WEB00638,CUST00451,2026-06-15 20:00:00,Referral,Tablet,Safari,Australia
-WEB00639,CUST00360,2026-06-16 16:00:00,Organic Search,Mobile,Edge,Germany
-WEB00640,CUST00331,2026-06-17 12:00:00,Advertisement,Tablet,Edge,USA
-WEB00641,CUST00213,2026-06-18 08:00:00,Organic Search,Mobile,Firefox,UK
-WEB00642,CUST00478,2026-06-19 04:00:00,Referral,Mobile,Edge,USA
-WEB00643,CUST00211,2026-06-20 00:00:00,Organic Search,Desktop,Firefox,India
-WEB00644,CUST00437,2026-06-20 20:00:00,Referral,Mobile,Firefox,USA
-WEB00645,CUST00345,2026-06-21 16:00:00,Direct,Mobile,Safari,USA
-WEB00646,CUST00064,2026-06-22 12:00:00,Advertisement,Tablet,Firefox,Australia
-WEB00647,CUST00035,2026-06-23 08:00:00,Social Media,Tablet,Chrome,Germany
-WEB00648,CUST00012,2026-06-24 04:00:00,Referral,Desktop,Safari,India
-WEB00649,CUST00431,2026-06-25 00:00:00,Direct,Desktop,Firefox,Australia
-WEB00650,CUST00346,2026-06-25 20:00:00,Organic Search,Mobile,Firefox,India
-WEB00651,CUST00311,2026-06-26 16:00:00,Direct,Desktop,Safari,UK
-WEB00652,CUST00248,2026-06-27 12:00:00,Organic Search,Tablet,Edge,Germany
-WEB00653,CUST00112,2026-06-28 08:00:00,Organic Search,Tablet,Safari,Australia
-WEB00654,CUST00325,2026-06-29 04:00:00,Organic Search,Tablet,Edge,USA
-WEB00655,CUST00467,2026-06-30 00:00:00,Organic Search,Mobile,Safari,UK
-WEB00656,CUST00091,2026-06-30 20:00:00,Advertisement,Mobile,Safari,USA
-WEB00657,CUST00294,2026-07-01 16:00:00,Organic Search,Desktop,Chrome,India
-WEB00658,CUST00029,2026-07-02 12:00:00,Advertisement,Tablet,Safari,UK
-WEB00659,CUST00012,2026-07-03 08:00:00,Social Media,Mobile,Chrome,Australia
-WEB00660,CUST00147,2026-07-04 04:00:00,Advertisement,Mobile,Firefox,USA
-WEB00661,CUST00137,2026-07-05 00:00:00,Organic Search,Desktop,Edge,USA
-WEB00662,CUST00338,2026-07-05 20:00:00,Social Media,Tablet,Edge,India
-WEB00663,CUST00157,2026-07-06 16:00:00,Direct,Tablet,Chrome,India
-WEB00664,CUST00259,2026-07-07 12:00:00,Advertisement,Desktop,Edge,Germany
-WEB00665,CUST00087,2026-07-08 08:00:00,Direct,Desktop,Edge,Germany
-WEB00666,CUST00158,2026-07-09 04:00:00,Social Media,Desktop,Safari,India
-WEB00667,CUST00494,2026-07-10 00:00:00,Advertisement,Desktop,Chrome,Germany
-WEB00668,CUST00186,2026-07-10 20:00:00,Organic Search,Tablet,Edge,USA
-WEB00669,CUST00344,2026-07-11 16:00:00,Advertisement,Tablet,Firefox,India
-WEB00670,CUST00309,2026-07-12 12:00:00,Organic Search,Desktop,Chrome,UK
-WEB00671,CUST00357,2026-07-13 08:00:00,Referral,Mobile,Safari,India
-WEB00672,CUST00229,2026-07-14 04:00:00,Advertisement,Mobile,Firefox,Australia
-WEB00673,CUST00004,2026-07-15 00:00:00,Advertisement,Tablet,Edge,Australia
-WEB00674,CUST00057,2026-07-15 20:00:00,Direct,Tablet,Edge,India
-WEB00675,CUST00438,2026-07-16 16:00:00,Direct,Desktop,Chrome,UK
-WEB00676,CUST00028,2026-07-17 12:00:00,Social Media,Mobile,Edge,India
-WEB00677,CUST00016,2026-07-18 08:00:00,Organic Search,Tablet,Chrome,UK
-WEB00678,CUST00013,2026-07-19 04:00:00,Direct,Mobile,Edge,USA
-WEB00679,CUST00200,2026-07-20 00:00:00,Social Media,Desktop,Firefox,USA
-WEB00680,CUST00184,2026-07-20 20:00:00,Organic Search,Tablet,Safari,UK
-WEB00681,CUST00309,2026-07-21 16:00:00,Organic Search,Tablet,Firefox,Germany
-WEB00682,CUST00304,2026-07-22 12:00:00,Organic Search,Mobile,Safari,USA
-WEB00683,CUST00281,2026-07-23 08:00:00,Referral,Mobile,Chrome,Australia
-WEB00684,CUST00322,2026-07-24 04:00:00,Organic Search,Tablet,Edge,India
-WEB00685,CUST00158,2026-07-25 00:00:00,Social Media,Mobile,Firefox,Germany
-WEB00686,CUST00360,2026-07-25 20:00:00,Organic Search,Mobile,Edge,Australia
-WEB00687,CUST00259,2026-07-26 16:00:00,Organic Search,Desktop,Chrome,India
-WEB00688,CUST00407,2026-07-27 12:00:00,Social Media,Mobile,Safari,Australia
-WEB00689,CUST00157,2026-07-28 08:00:00,Advertisement,Tablet,Firefox,Germany
-WEB00690,CUST00425,2026-07-29 04:00:00,Organic Search,Desktop,Safari,UK
-WEB00691,CUST00094,2026-07-30 00:00:00,Social Media,Tablet,Safari,India
-WEB00692,CUST00267,2026-07-30 20:00:00,Direct,Desktop,Chrome,Australia
-WEB00693,CUST00021,2026-07-31 16:00:00,Social Media,Desktop,Safari,Australia
-WEB00694,CUST00127,2026-08-01 12:00:00,Referral,Mobile,Chrome,Germany
-WEB00695,CUST00347,2026-08-02 08:00:00,Direct,Mobile,Safari,Germany
-WEB00696,CUST00408,2026-08-03 04:00:00,Advertisement,Tablet,Safari,Germany
-WEB00697,CUST00500,2026-08-04 00:00:00,Advertisement,Mobile,Firefox,UK
-WEB00698,CUST00351,2026-08-04 20:00:00,Social Media,Desktop,Chrome,USA
-WEB00699,CUST00350,2026-08-05 16:00:00,Social Media,Mobile,Edge,Australia
-WEB00700,CUST00449,2026-08-06 12:00:00,Organic Search,Tablet,Edge,UK
+WEB00001,CUST00760,2026-05-20 14:20:12,Referral,Mobile,Chrome,Singapore
+WEB00002,CUST01079,2025-07-21 04:34:53,Organic Search,Tablet,Edge,India
+WEB00003,CUST01898,2025-08-02 18:46:11,Advertisement,Desktop,Safari,Australia
+WEB00004,CUST01657,2026-06-24 07:46:07,Direct,Mobile,Edge,Germany
+WEB00005,CUST00003,2025-05-31 08:41:32,Referral,Tablet,Edge,Germany
+WEB00006,CUST01413,2025-05-02 10:10:52,Organic Search,Tablet,Safari,Singapore
+WEB00007,CUST01943,2025-01-06 01:00:49,Advertisement,Mobile,Safari,Singapore
+WEB00008,CUST00362,2026-04-24 01:30:24,Referral,Tablet,Chrome,Australia
+WEB00009,CUST00719,2025-04-30 16:32:20,Advertisement,Desktop,Edge,France
+WEB00010,CUST00518,2025-09-15 05:56:33,Direct,Mobile,Firefox,UK
+WEB00011,CUST00423,2025-01-26 06:05:08,Direct,Mobile,Safari,Australia
+WEB00012,CUST00798,2025-11-04 04:16:56,Social Media,Tablet,Firefox,France
+WEB00013,CUST01652,2026-02-17 19:18:40,Direct,Desktop,Safari,India
+WEB00014,CUST00152,2025-07-14 04:55:56,Advertisement,Mobile,Edge,UK
+WEB00015,CUST00939,2025-02-10 23:10:17,Organic Search,Desktop,Chrome,Germany
+WEB00016,CUST01827,2025-05-08 11:57:19,Advertisement,Mobile,Safari,UK
+WEB00017,CUST00212,2026-03-24 23:16:12,Organic Search,Mobile,Edge,France
+WEB00018,CUST01548,2026-06-08 00:46:08,Social Media,Mobile,Chrome,France
+WEB00019,CUST01334,2026-02-13 23:05:42,Advertisement,Mobile,Firefox,USA
+WEB00020,CUST00410,2026-07-04 14:22:51,Social Media,Tablet,Chrome,Australia
+WEB00021,CUST01557,2025-01-20 19:42:15,Direct,Mobile,Firefox,UK
+WEB00022,CUST00445,2026-04-09 17:58:19,Social Media,Desktop,Firefox,Australia
+WEB00023,CUST00902,2026-08-15 12:10:33,Advertisement,Desktop,Edge,France
+WEB00024,CUST01797,2026-06-10 03:40:32,Social Media,Mobile,Edge,France
+WEB00025,CUST01429,2026-08-07 13:51:03,Organic Search,Tablet,Edge,Australia
+WEB00026,CUST00976,2025-10-31 14:59:26,Organic Search,Tablet,Safari,Germany
+WEB00027,CUST00215,2026-07-19 15:15:12,Social Media,Tablet,Edge,Germany
+WEB00028,CUST00199,2025-09-21 03:29:25,Social Media,Desktop,Firefox,UK
+WEB00029,CUST00064,2025-05-27 12:29:25,Social Media,Desktop,Firefox,Singapore
+WEB00030,CUST00122,2026-05-28 06:03:16,Social Media,Tablet,Chrome,Germany
+WEB00031,CUST00438,2026-02-03 06:11:17,Referral,Desktop,Firefox,USA
+WEB00032,CUST01023,2026-02-14 00:06:59,Referral,Tablet,Edge,Germany
+WEB00033,CUST01962,2025-09-25 02:58:33,Social Media,Desktop,Safari,Singapore
+WEB00034,CUST01692,2026-08-17 05:11:52,Direct,Desktop,Firefox,France
+WEB00035,CUST00351,2025-07-18 21:52:57,Referral,Mobile,Firefox,Australia
+WEB00036,CUST01732,2026-01-01 02:11:29,Referral,Tablet,Safari,France
+WEB00037,CUST01840,2025-09-11 01:44:35,Advertisement,Mobile,Edge,France
+WEB00038,CUST01170,2025-07-19 08:53:51,Organic Search,Mobile,Edge,Germany
+WEB00039,CUST00595,2026-02-19 17:26:03,Social Media,Mobile,Chrome,France
+WEB00040,CUST00702,2025-03-21 04:31:57,Organic Search,Desktop,Chrome,UK
+WEB00041,CUST00984,2025-03-06 14:12:11,Organic Search,Desktop,Safari,France
+WEB00042,CUST00476,2026-01-21 23:44:21,Referral,Mobile,Firefox,USA
+WEB00043,CUST01409,2025-09-22 22:00:07,Social Media,Desktop,Firefox,UK
+WEB00044,CUST01332,2025-03-27 01:03:43,Social Media,Desktop,Firefox,USA
+WEB00045,CUST00340,2026-07-13 03:47:34,Direct,Desktop,Firefox,Australia
+WEB00046,CUST00070,2026-07-13 04:55:51,Direct,Mobile,Safari,Australia
+WEB00047,CUST00400,2025-12-31 04:41:28,Advertisement,Mobile,Chrome,India
+WEB00048,CUST00763,2025-08-11 23:22:57,Referral,Tablet,Firefox,Singapore
+WEB00049,CUST00507,2026-07-01 19:10:31,Advertisement,Tablet,Safari,Germany
+WEB00050,CUST01125,2025-04-30 09:11:55,Referral,Mobile,Edge,Germany
+WEB00051,CUST00955,2025-01-16 08:25:17,Social Media,Tablet,Firefox,Australia
+WEB00052,CUST00782,2025-12-29 02:48:08,Direct,Tablet,Edge,UK
+WEB00053,CUST00693,2025-12-05 12:05:06,Advertisement,Mobile,Safari,Singapore
+WEB00054,CUST01451,2025-06-16 03:55:46,Social Media,Mobile,Safari,UK
+WEB00055,CUST00172,2026-02-20 13:00:14,Organic Search,Tablet,Safari,UK
+WEB00056,CUST00704,2025-05-19 07:20:52,Direct,Mobile,Edge,Germany
+WEB00057,CUST00535,2025-07-21 15:47:08,Organic Search,Mobile,Safari,France
+WEB00058,CUST01547,2025-03-26 08:07:48,Social Media,Mobile,Edge,France
+WEB00059,CUST01655,2025-03-15 14:58:47,Organic Search,Tablet,Firefox,UK
+WEB00060,CUST01689,2025-03-07 03:33:58,Direct,Tablet,Edge,Germany
+WEB00061,CUST01034,2025-02-23 13:30:47,Direct,Desktop,Chrome,UK
+WEB00062,CUST01839,2025-04-29 14:31:39,Social Media,Tablet,Chrome,UK
+WEB00063,CUST01895,2025-11-18 22:04:48,Referral,Mobile,Edge,UK
+WEB00064,CUST01820,2025-08-22 11:07:39,Organic Search,Mobile,Chrome,UK
+WEB00065,CUST00555,2025-04-25 17:39:19,Direct,Mobile,Safari,Australia
+WEB00066,CUST00729,2025-03-14 20:17:07,Advertisement,Desktop,Safari,USA
+WEB00067,CUST00525,2025-01-30 19:26:07,Organic Search,Mobile,Safari,UK
+WEB00068,CUST01316,2026-01-10 23:37:33,Referral,Desktop,Safari,USA
+WEB00069,CUST00852,2026-05-10 15:51:02,Organic Search,Desktop,Firefox,Singapore
+WEB00070,CUST01278,2025-05-26 12:00:29,Direct,Desktop,Firefox,Germany
+WEB00071,CUST00159,2026-04-25 16:22:38,Referral,Tablet,Chrome,Germany
+WEB00072,CUST00271,2026-03-05 08:40:53,Advertisement,Tablet,Edge,Australia
+WEB00073,CUST00633,2026-03-22 06:15:31,Advertisement,Desktop,Safari,France
+WEB00074,CUST01952,2025-06-22 21:02:05,Referral,Desktop,Firefox,Germany
+WEB00075,CUST00721,2025-11-23 09:37:58,Organic Search,Mobile,Safari,USA
+WEB00076,CUST00545,2025-12-04 01:16:33,Advertisement,Desktop,Chrome,USA
+WEB00077,CUST01244,2025-11-04 15:31:27,Advertisement,Mobile,Edge,Australia
+WEB00078,CUST01991,2026-03-20 18:48:24,Advertisement,Mobile,Chrome,USA
+WEB00079,CUST00284,2025-11-24 11:16:19,Organic Search,Tablet,Chrome,India
+WEB00080,CUST00745,2025-12-11 09:19:22,Advertisement,Mobile,Chrome,Germany
+WEB00081,CUST01778,2026-04-06 12:34:15,Advertisement,Desktop,Firefox,UK
+WEB00082,CUST01908,2025-06-02 02:25:52,Direct,Mobile,Firefox,Germany
+WEB00083,CUST01753,2026-01-29 18:00:31,Direct,Mobile,Edge,France
+WEB00084,CUST00713,2026-02-10 22:57:35,Direct,Tablet,Edge,Singapore
+WEB00085,CUST01060,2025-03-27 22:28:15,Organic Search,Tablet,Safari,France
+WEB00086,CUST01748,2026-03-06 09:12:07,Social Media,Mobile,Chrome,USA
+WEB00087,CUST00842,2025-07-27 09:50:31,Organic Search,Tablet,Edge,France
+WEB00088,CUST01776,2026-02-18 20:16:20,Organic Search,Mobile,Firefox,France
+WEB00089,CUST01398,2026-02-12 06:38:01,Organic Search,Desktop,Edge,USA
+WEB00090,CUST00378,2025-06-09 04:44:26,Direct,Desktop,Safari,India
+WEB00091,CUST00408,2025-11-25 10:06:06,Advertisement,Mobile,Edge,Germany
+WEB00092,CUST01167,2025-11-01 10:42:56,Organic Search,Desktop,Firefox,USA
+WEB00093,CUST01128,2026-07-10 04:17:01,Organic Search,Desktop,Firefox,India
+WEB00094,CUST01758,2025-04-14 20:24:20,Organic Search,Tablet,Firefox,Singapore
+WEB00095,CUST00575,2025-06-15 23:41:33,Organic Search,Mobile,Chrome,France
+WEB00096,CUST01442,2025-09-01 01:02:41,Organic Search,Tablet,Edge,France
+WEB00097,CUST01846,2026-03-07 10:40:38,Referral,Tablet,Safari,India
+WEB00098,CUST01416,2025-05-19 10:25:11,Advertisement,Desktop,Chrome,Singapore
+WEB00099,CUST00961,2026-02-28 16:49:49,Direct,Tablet,Safari,India
+WEB00100,CUST01894,2025-03-30 03:51:42,Organic Search,Desktop,Chrome,USA
+WEB00101,CUST01013,2026-03-27 08:44:17,Organic Search,Desktop,Firefox,Singapore
+WEB00102,CUST00860,2026-03-30 01:28:14,Organic Search,Mobile,Edge,India
+WEB00103,CUST01526,2026-01-18 17:15:06,Advertisement,Tablet,Chrome,Australia
+WEB00104,CUST00295,2026-08-10 05:02:53,Advertisement,Mobile,Edge,Australia
+WEB00105,CUST01569,2026-06-14 06:47:19,Direct,Mobile,Edge,France
+WEB00106,CUST00475,2026-02-12 15:01:12,Direct,Desktop,Safari,Germany
+WEB00107,CUST00471,2026-04-11 12:58:00,Organic Search,Mobile,Chrome,Australia
+WEB00108,CUST00221,2026-01-26 11:03:51,Direct,Desktop,Edge,Germany
+WEB00109,CUST01220,2026-05-02 03:21:35,Direct,Tablet,Safari,UK
+WEB00110,CUST00260,2026-04-27 21:11:49,Direct,Desktop,Edge,India
+WEB00111,CUST01732,2025-09-23 17:49:26,Direct,Desktop,Chrome,India
+WEB00112,CUST00126,2025-03-28 13:48:39,Social Media,Desktop,Edge,Singapore
+WEB00113,CUST00827,2025-02-11 13:51:33,Advertisement,Tablet,Edge,Australia
+WEB00114,CUST00852,2025-06-21 21:08:27,Social Media,Mobile,Chrome,USA
+WEB00115,CUST00223,2025-11-22 22:44:14,Advertisement,Mobile,Chrome,Australia
+WEB00116,CUST01805,2025-06-22 10:26:21,Referral,Desktop,Edge,Germany
+WEB00117,CUST01737,2025-10-13 18:55:29,Organic Search,Desktop,Chrome,Australia
+WEB00118,CUST01918,2025-05-01 23:45:10,Direct,Tablet,Firefox,France
+WEB00119,CUST01792,2026-07-08 10:17:23,Organic Search,Tablet,Edge,France
+WEB00120,CUST00223,2025-09-13 20:21:57,Advertisement,Mobile,Firefox,Singapore
+WEB00121,CUST00307,2026-02-08 21:25:40,Organic Search,Mobile,Edge,USA
+WEB00122,CUST01871,2025-11-28 02:47:47,Social Media,Tablet,Chrome,Germany
+WEB00123,CUST00430,2026-04-17 16:34:15,Social Media,Desktop,Safari,France
+WEB00124,CUST01278,2025-12-06 03:46:18,Organic Search,Tablet,Safari,Singapore
+WEB00125,CUST00479,2026-02-21 07:26:48,Referral,Mobile,Chrome,UK
+WEB00126,CUST01470,2026-05-15 08:25:05,Organic Search,Mobile,Edge,UK
+WEB00127,CUST01670,2026-01-15 05:59:33,Social Media,Desktop,Firefox,USA
+WEB00128,CUST00261,2026-01-16 02:40:36,Referral,Desktop,Chrome,UK
+WEB00129,CUST01912,2026-06-29 12:44:51,Organic Search,Tablet,Chrome,Australia
+WEB00130,CUST00729,2026-03-02 02:52:31,Direct,Mobile,Safari,UK
+WEB00131,CUST00790,2025-02-10 01:39:41,Organic Search,Mobile,Firefox,Singapore
+WEB00132,CUST01966,2026-04-23 10:44:09,Direct,Desktop,Safari,Singapore
+WEB00133,CUST01869,2026-06-05 18:14:37,Social Media,Mobile,Safari,Germany
+WEB00134,CUST01330,2025-12-22 05:41:29,Organic Search,Desktop,Edge,Australia
+WEB00135,CUST00042,2026-04-25 03:36:58,Advertisement,Tablet,Safari,France
+WEB00136,CUST00678,2025-02-19 13:41:53,Advertisement,Mobile,Firefox,Singapore
+WEB00137,CUST00793,2026-08-15 22:08:27,Direct,Desktop,Firefox,France
+WEB00138,CUST01808,2026-06-02 18:54:04,Direct,Desktop,Firefox,Australia
+WEB00139,CUST00233,2025-03-22 21:48:27,Advertisement,Mobile,Chrome,Australia
+WEB00140,CUST01770,2026-01-27 07:27:45,Referral,Mobile,Safari,France
+WEB00141,CUST01971,2026-05-18 05:43:21,Advertisement,Tablet,Chrome,Germany
+WEB00142,CUST00464,2026-03-15 13:19:35,Organic Search,Mobile,Chrome,UK
+WEB00143,CUST00393,2025-05-26 13:35:32,Advertisement,Desktop,Safari,France
+WEB00144,CUST01972,2025-05-18 16:09:04,Referral,Desktop,Chrome,USA
+WEB00145,CUST01869,2025-02-06 20:04:10,Organic Search,Tablet,Chrome,USA
+WEB00146,CUST00848,2025-11-19 19:55:42,Social Media,Mobile,Firefox,USA
+WEB00147,CUST01554,2025-05-30 18:48:53,Social Media,Tablet,Edge,Australia
+WEB00148,CUST01946,2025-12-07 20:36:38,Social Media,Desktop,Chrome,UK
+WEB00149,CUST01782,2025-03-30 19:31:26,Social Media,Desktop,Chrome,USA
+WEB00150,CUST00642,2025-09-03 14:55:43,Direct,Tablet,Safari,France
+WEB00151,CUST01017,2025-06-20 20:54:06,Organic Search,Desktop,Chrome,Germany
+WEB00152,CUST00188,2025-03-24 00:31:28,Organic Search,Tablet,Chrome,UK
+WEB00153,CUST01024,2026-06-30 06:58:55,Referral,Tablet,Firefox,USA
+WEB00154,CUST00089,2025-03-07 18:11:56,Advertisement,Desktop,Safari,Singapore
+WEB00155,CUST00296,2026-01-26 20:42:16,Social Media,Tablet,Firefox,UK
+WEB00156,CUST00789,2025-09-20 13:08:46,Advertisement,Desktop,Chrome,Germany
+WEB00157,CUST00250,2025-12-07 07:13:46,Referral,Desktop,Edge,Germany
+WEB00158,CUST00558,2025-06-12 15:14:45,Advertisement,Mobile,Firefox,Australia
+WEB00159,CUST01322,2026-06-04 17:44:54,Direct,Mobile,Edge,France
+WEB00160,CUST01904,2025-07-29 17:24:45,Referral,Mobile,Chrome,USA
+WEB00161,CUST00550,2026-06-20 16:06:56,Social Media,Desktop,Safari,UK
+WEB00162,CUST01273,2025-08-15 10:02:36,Referral,Desktop,Chrome,France
+WEB00163,CUST00950,2026-07-29 06:27:20,Social Media,Tablet,Firefox,UK
+WEB00164,CUST01316,2026-03-13 13:31:21,Advertisement,Tablet,Chrome,Australia
+WEB00165,CUST00246,2026-06-07 16:05:44,Direct,Mobile,Edge,UK
+WEB00166,CUST01457,2025-03-12 19:06:41,Referral,Mobile,Firefox,Australia
+WEB00167,CUST01179,2026-05-03 14:50:48,Advertisement,Tablet,Chrome,France
+WEB00168,CUST01161,2026-03-06 02:22:03,Advertisement,Desktop,Chrome,UK
+WEB00169,CUST00156,2025-01-20 03:35:19,Social Media,Tablet,Firefox,France
+WEB00170,CUST01933,2025-02-05 11:41:57,Direct,Mobile,Edge,India
+WEB00171,CUST00349,2025-11-29 02:53:28,Referral,Desktop,Edge,India
+WEB00172,CUST00029,2026-01-16 15:49:20,Referral,Desktop,Safari,Germany
+WEB00173,CUST00294,2025-08-22 18:42:25,Direct,Mobile,Edge,Germany
+WEB00174,CUST01363,2026-07-05 09:42:38,Referral,Desktop,Edge,France
+WEB00175,CUST00276,2025-02-07 09:04:11,Direct,Tablet,Safari,Singapore
+WEB00176,CUST01880,2025-07-29 05:16:30,Advertisement,Desktop,Chrome,Singapore
+WEB00177,CUST01251,2025-02-24 02:37:23,Organic Search,Mobile,Edge,Singapore
+WEB00178,CUST00638,2026-08-15 04:09:24,Advertisement,Desktop,Firefox,Germany
+WEB00179,CUST00074,2025-09-13 11:31:16,Organic Search,Tablet,Chrome,USA
+WEB00180,CUST00193,2025-01-18 06:17:21,Social Media,Desktop,Chrome,Australia
+WEB00181,CUST01347,2026-07-18 13:22:45,Organic Search,Tablet,Safari,Singapore
+WEB00182,CUST00967,2026-03-14 02:35:24,Referral,Tablet,Firefox,USA
+WEB00183,CUST01348,2025-09-28 20:13:04,Social Media,Desktop,Edge,USA
+WEB00184,CUST00785,2025-12-20 18:06:42,Advertisement,Tablet,Edge,Germany
+WEB00185,CUST00399,2026-04-06 16:48:06,Direct,Mobile,Edge,USA
+WEB00186,CUST01770,2025-05-31 17:14:33,Organic Search,Tablet,Safari,USA
+WEB00187,CUST00947,2025-05-07 12:37:02,Social Media,Mobile,Firefox,India
+WEB00188,CUST01852,2026-05-21 05:09:18,Direct,Desktop,Chrome,Germany
+WEB00189,CUST00353,2025-05-21 16:54:05,Advertisement,Tablet,Chrome,Singapore
+WEB00190,CUST01208,2026-01-31 06:37:43,Advertisement,Tablet,Edge,France
+WEB00191,CUST00597,2026-05-18 08:40:09,Social Media,Tablet,Safari,USA
+WEB00192,CUST00588,2025-02-04 21:18:39,Organic Search,Desktop,Safari,India
+WEB00193,CUST01557,2025-06-23 00:22:17,Social Media,Tablet,Chrome,USA
+WEB00194,CUST00040,2025-01-30 03:08:32,Social Media,Mobile,Firefox,France
+WEB00195,CUST01013,2026-01-22 21:23:59,Direct,Mobile,Edge,Germany
+WEB00196,CUST00936,2025-04-26 16:49:31,Direct,Desktop,Chrome,USA
+WEB00197,CUST01930,2025-01-02 11:29:58,Advertisement,Tablet,Firefox,USA
+WEB00198,CUST00092,2026-04-29 21:19:18,Social Media,Desktop,Chrome,Singapore
+WEB00199,CUST01877,2025-01-17 16:01:55,Social Media,Mobile,Chrome,India
+WEB00200,CUST01968,2025-11-30 00:36:47,Advertisement,Mobile,Firefox,France
+WEB00201,CUST00434,2025-10-11 00:03:47,Direct,Desktop,Chrome,UK
+WEB00202,CUST01233,2025-06-30 19:47:55,Social Media,Tablet,Firefox,France
+WEB00203,CUST01627,2025-12-18 10:50:50,Referral,Desktop,Safari,France
+WEB00204,CUST01972,2025-12-27 18:33:05,Advertisement,Tablet,Chrome,Australia
+WEB00205,CUST00685,2025-02-16 21:58:10,Organic Search,Mobile,Firefox,UK
+WEB00206,CUST00550,2025-02-21 17:00:30,Referral,Desktop,Safari,Germany
+WEB00207,CUST00767,2026-04-15 11:35:51,Organic Search,Mobile,Chrome,France
+WEB00208,CUST00587,2025-04-09 19:45:06,Organic Search,Tablet,Chrome,France
+WEB00209,CUST01192,2025-02-08 22:58:23,Social Media,Tablet,Chrome,Australia
+WEB00210,CUST01865,2025-04-23 05:53:18,Advertisement,Desktop,Safari,Germany
+WEB00211,CUST01009,2026-01-28 17:55:00,Referral,Mobile,Firefox,France
+WEB00212,CUST01624,2025-04-19 10:18:26,Referral,Mobile,Firefox,UK
+WEB00213,CUST01871,2026-02-06 19:20:01,Referral,Mobile,Chrome,Singapore
+WEB00214,CUST01946,2026-07-20 23:04:10,Organic Search,Tablet,Firefox,Germany
+WEB00215,CUST01812,2025-09-19 18:26:39,Referral,Desktop,Firefox,UK
+WEB00216,CUST00725,2026-08-06 14:50:49,Social Media,Tablet,Firefox,Germany
+WEB00217,CUST00896,2025-10-03 12:59:30,Direct,Tablet,Edge,USA
+WEB00218,CUST00530,2026-06-16 19:30:59,Referral,Mobile,Chrome,UK
+WEB00219,CUST01654,2025-01-02 09:04:50,Referral,Tablet,Firefox,India
+WEB00220,CUST01204,2026-03-03 00:50:58,Referral,Desktop,Edge,UK
+WEB00221,CUST01828,2025-11-15 08:16:12,Social Media,Mobile,Edge,UK
+WEB00222,CUST01782,2026-05-26 14:16:19,Referral,Mobile,Safari,France
+WEB00223,CUST01448,2025-06-30 03:15:42,Social Media,Desktop,Chrome,Singapore
+WEB00224,CUST01957,2026-06-09 21:27:45,Social Media,Tablet,Safari,India
+WEB00225,CUST01396,2025-05-16 05:00:45,Social Media,Desktop,Edge,Germany
+WEB00226,CUST00319,2025-10-07 05:35:44,Social Media,Mobile,Chrome,Germany
+WEB00227,CUST01129,2025-03-06 07:33:49,Direct,Desktop,Safari,Singapore
+WEB00228,CUST01446,2025-04-22 05:42:25,Social Media,Mobile,Safari,USA
+WEB00229,CUST01385,2026-01-01 14:34:07,Direct,Mobile,Safari,France
+WEB00230,CUST00808,2025-07-31 15:54:40,Advertisement,Mobile,Edge,UK
+WEB00231,CUST00297,2026-05-26 02:25:14,Social Media,Desktop,Safari,Singapore
+WEB00232,CUST00926,2026-07-02 18:48:20,Social Media,Tablet,Firefox,France
+WEB00233,CUST00413,2025-03-16 10:45:01,Advertisement,Tablet,Edge,France
+WEB00234,CUST01579,2026-04-24 07:18:00,Referral,Desktop,Safari,USA
+WEB00235,CUST00736,2026-03-11 11:20:51,Referral,Mobile,Firefox,USA
+WEB00236,CUST01976,2026-01-18 10:31:15,Organic Search,Desktop,Chrome,Germany
+WEB00237,CUST01887,2025-10-14 03:30:35,Advertisement,Tablet,Firefox,India
+WEB00238,CUST01621,2026-01-26 04:48:39,Organic Search,Desktop,Chrome,India
+WEB00239,CUST00598,2025-01-06 22:30:29,Direct,Desktop,Edge,Singapore
+WEB00240,CUST00685,2025-05-23 08:32:58,Referral,Tablet,Edge,Australia
+WEB00241,CUST00258,2025-10-19 16:12:24,Referral,Desktop,Firefox,Australia
+WEB00242,CUST00181,2026-05-17 23:38:25,Referral,Desktop,Firefox,Australia
+WEB00243,CUST00926,2026-05-20 02:13:13,Advertisement,Tablet,Safari,India
+WEB00244,CUST00656,2025-11-26 02:02:51,Social Media,Tablet,Firefox,India
+WEB00245,CUST00679,2026-07-25 20:53:36,Referral,Desktop,Firefox,France
+WEB00246,CUST01445,2026-07-10 19:54:54,Social Media,Tablet,Firefox,India
+WEB00247,CUST01981,2025-10-06 05:01:05,Referral,Tablet,Firefox,Germany
+WEB00248,CUST00033,2025-02-12 18:34:48,Referral,Mobile,Safari,Germany
+WEB00249,CUST00775,2025-09-26 01:48:19,Advertisement,Tablet,Edge,Australia
+WEB00250,CUST00475,2026-02-18 22:27:59,Referral,Desktop,Chrome,India
+WEB00251,CUST01127,2025-07-24 19:49:20,Advertisement,Desktop,Firefox,Germany
+WEB00252,CUST00374,2026-06-23 16:41:20,Advertisement,Mobile,Safari,Australia
+WEB00253,CUST01931,2025-08-14 15:19:07,Advertisement,Mobile,Chrome,Australia
+WEB00254,CUST01243,2026-05-04 16:57:33,Direct,Tablet,Chrome,UK
+WEB00255,CUST01783,2025-10-11 17:40:02,Advertisement,Tablet,Edge,India
+WEB00256,CUST01268,2025-09-12 09:16:56,Social Media,Mobile,Safari,UK
+WEB00257,CUST01806,2025-02-17 10:19:36,Advertisement,Mobile,Edge,UK
+WEB00258,CUST00689,2025-06-19 00:48:16,Advertisement,Tablet,Safari,UK
+WEB00259,CUST01585,2026-01-22 04:47:35,Advertisement,Tablet,Edge,USA
+WEB00260,CUST00741,2025-10-07 12:04:25,Social Media,Tablet,Safari,UK
+WEB00261,CUST00725,2025-08-01 15:29:35,Advertisement,Tablet,Edge,India
+WEB00262,CUST00812,2025-03-02 16:50:04,Referral,Mobile,Safari,France
+WEB00263,CUST01548,2026-01-29 17:29:27,Referral,Mobile,Edge,Germany
+WEB00264,CUST01587,2025-12-24 21:22:07,Referral,Tablet,Chrome,USA
+WEB00265,CUST01198,2026-01-13 01:16:52,Organic Search,Mobile,Safari,UK
+WEB00266,CUST00515,2025-02-28 23:33:06,Direct,Desktop,Firefox,Australia
+WEB00267,CUST00726,2026-06-13 04:01:51,Advertisement,Mobile,Chrome,India
+WEB00268,CUST01078,2025-05-06 04:07:28,Social Media,Mobile,Edge,India
+WEB00269,CUST01063,2025-06-17 14:37:51,Advertisement,Desktop,Safari,Australia
+WEB00270,CUST00932,2025-05-11 06:11:55,Direct,Tablet,Edge,USA
+WEB00271,CUST01730,2026-07-12 14:36:05,Direct,Tablet,Safari,UK
+WEB00272,CUST00037,2025-10-24 11:21:05,Referral,Mobile,Firefox,India
+WEB00273,CUST00132,2026-01-28 21:54:33,Direct,Mobile,Chrome,France
+WEB00274,CUST00430,2026-03-03 21:23:05,Social Media,Tablet,Firefox,India
+WEB00275,CUST01798,2026-01-06 12:55:47,Direct,Mobile,Chrome,India
+WEB00276,CUST00338,2026-03-13 03:17:34,Referral,Tablet,Firefox,USA
+WEB00277,CUST01421,2025-11-27 18:28:07,Social Media,Tablet,Chrome,India
+WEB00278,CUST01918,2026-01-14 23:27:35,Referral,Desktop,Firefox,Germany
+WEB00279,CUST00654,2025-05-02 17:20:49,Social Media,Desktop,Chrome,Singapore
+WEB00280,CUST01709,2025-09-13 10:57:58,Referral,Tablet,Chrome,UK
+WEB00281,CUST00805,2025-01-05 06:53:45,Referral,Desktop,Chrome,France
+WEB00282,CUST00984,2025-11-01 11:42:43,Social Media,Mobile,Edge,India
+WEB00283,CUST00865,2025-11-29 10:25:37,Direct,Desktop,Firefox,USA
+WEB00284,CUST00594,2025-11-09 12:53:01,Organic Search,Mobile,Safari,Singapore
+WEB00285,CUST00867,2026-06-30 06:09:20,Direct,Desktop,Firefox,USA
+WEB00286,CUST00310,2025-10-22 07:38:15,Social Media,Desktop,Firefox,Australia
+WEB00287,CUST00042,2026-05-21 00:46:00,Organic Search,Mobile,Safari,France
+WEB00288,CUST00621,2025-11-18 09:57:29,Referral,Desktop,Edge,India
+WEB00289,CUST00363,2025-02-16 01:31:28,Direct,Mobile,Chrome,Australia
+WEB00290,CUST00818,2025-01-29 00:24:38,Social Media,Desktop,Chrome,Australia
+WEB00291,CUST00872,2025-07-05 05:59:59,Referral,Tablet,Safari,France
+WEB00292,CUST01164,2026-04-13 01:30:59,Organic Search,Mobile,Safari,India
+WEB00293,CUST00182,2025-10-12 20:24:34,Referral,Mobile,Safari,USA
+WEB00294,CUST01435,2025-08-07 08:03:44,Advertisement,Desktop,Chrome,Australia
+WEB00295,CUST00281,2025-10-19 01:38:49,Direct,Desktop,Chrome,Australia
+WEB00296,CUST00463,2026-07-17 07:27:01,Referral,Desktop,Safari,India
+WEB00297,CUST01858,2025-04-21 07:51:43,Advertisement,Desktop,Safari,USA
+WEB00298,CUST01701,2025-12-22 21:04:15,Referral,Tablet,Edge,India
+WEB00299,CUST01133,2026-02-11 16:56:24,Social Media,Mobile,Safari,Germany
+WEB00300,CUST00478,2026-05-09 02:36:46,Organic Search,Desktop,Firefox,USA
+WEB00301,CUST01809,2025-10-16 18:47:33,Referral,Mobile,Safari,UK
+WEB00302,CUST01979,2026-07-12 03:12:12,Organic Search,Desktop,Chrome,USA
+WEB00303,CUST01300,2026-05-28 07:14:35,Organic Search,Desktop,Firefox,India
+WEB00304,CUST00516,2025-03-01 03:51:51,Referral,Tablet,Chrome,India
+WEB00305,CUST00713,2025-05-30 12:36:52,Referral,Tablet,Safari,Singapore
+WEB00306,CUST00027,2025-05-29 05:47:14,Referral,Desktop,Chrome,Australia
+WEB00307,CUST01623,2026-06-27 01:07:21,Direct,Tablet,Safari,India
+WEB00308,CUST01925,2025-03-12 12:02:27,Advertisement,Tablet,Firefox,USA
+WEB00309,CUST01156,2026-05-07 18:48:21,Social Media,Mobile,Firefox,USA
+WEB00310,CUST01087,2026-07-31 21:06:41,Direct,Tablet,Firefox,USA
+WEB00311,CUST01053,2025-09-05 00:27:51,Social Media,Tablet,Safari,India
+WEB00312,CUST00560,2025-03-26 11:47:10,Advertisement,Tablet,Edge,Singapore
+WEB00313,CUST00184,2026-04-28 12:39:59,Organic Search,Mobile,Edge,Australia
+WEB00314,CUST00604,2025-09-16 19:22:57,Social Media,Tablet,Safari,India
+WEB00315,CUST00411,2026-01-14 06:54:35,Advertisement,Mobile,Edge,Singapore
+WEB00316,CUST01549,2025-06-26 02:40:51,Organic Search,Tablet,Chrome,France
+WEB00317,CUST00082,2025-09-28 05:31:47,Direct,Tablet,Firefox,USA
+WEB00318,CUST01727,2025-08-22 14:37:07,Organic Search,Tablet,Safari,Singapore
+WEB00319,CUST00171,2025-11-01 17:59:48,Advertisement,Desktop,Firefox,Germany
+WEB00320,CUST01046,2025-01-10 06:29:17,Social Media,Mobile,Firefox,France
+WEB00321,CUST01783,2025-11-23 23:56:43,Direct,Mobile,Edge,India
+WEB00322,CUST00549,2025-06-18 01:46:55,Direct,Tablet,Edge,UK
+WEB00323,CUST01583,2025-05-16 15:18:07,Social Media,Mobile,Firefox,India
+WEB00324,CUST00192,2026-07-06 11:19:03,Advertisement,Desktop,Firefox,India
+WEB00325,CUST00444,2025-04-02 08:01:48,Advertisement,Tablet,Safari,USA
+WEB00326,CUST01818,2026-05-12 07:04:21,Referral,Desktop,Edge,USA
+WEB00327,CUST00485,2026-04-14 21:36:57,Social Media,Desktop,Firefox,USA
+WEB00328,CUST01321,2025-08-19 19:38:54,Social Media,Mobile,Safari,Singapore
+WEB00329,CUST00981,2025-02-21 17:37:20,Direct,Desktop,Firefox,France
+WEB00330,CUST00354,2026-01-30 22:27:32,Social Media,Tablet,Edge,Singapore
+WEB00331,CUST00661,2026-02-15 14:06:13,Organic Search,Mobile,Safari,Germany
+WEB00332,CUST01200,2025-04-29 07:56:50,Social Media,Mobile,Firefox,France
+WEB00333,CUST01110,2026-06-08 23:12:48,Direct,Desktop,Edge,India
+WEB00334,CUST01657,2025-07-12 02:50:31,Direct,Tablet,Firefox,India
+WEB00335,CUST00434,2025-09-18 02:49:20,Advertisement,Desktop,Safari,France
+WEB00336,CUST00948,2026-07-13 06:47:30,Organic Search,Desktop,Safari,France
+WEB00337,CUST00815,2026-04-07 19:37:45,Advertisement,Mobile,Firefox,India
+WEB00338,CUST00352,2025-09-21 13:53:13,Social Media,Mobile,Chrome,India
+WEB00339,CUST01833,2026-05-31 02:16:47,Organic Search,Mobile,Firefox,UK
+WEB00340,CUST00587,2025-07-19 10:01:24,Direct,Desktop,Firefox,Singapore
+WEB00341,CUST00919,2025-06-18 17:42:41,Direct,Mobile,Chrome,France
+WEB00342,CUST01299,2026-02-13 22:39:53,Advertisement,Mobile,Edge,UK
+WEB00343,CUST01751,2025-05-30 06:20:50,Referral,Tablet,Chrome,Australia
+WEB00344,CUST00333,2025-11-26 07:30:15,Social Media,Mobile,Edge,India
+WEB00345,CUST01063,2025-11-13 17:31:22,Social Media,Mobile,Edge,USA
+WEB00346,CUST00122,2025-11-04 16:23:59,Social Media,Desktop,Edge,UK
+WEB00347,CUST00854,2026-06-26 04:18:46,Organic Search,Tablet,Safari,UK
+WEB00348,CUST01949,2025-08-14 23:23:38,Advertisement,Tablet,Edge,UK
+WEB00349,CUST01021,2026-02-19 00:12:30,Organic Search,Tablet,Edge,USA
+WEB00350,CUST01945,2025-09-03 17:58:46,Referral,Mobile,Firefox,France
+WEB00351,CUST01483,2025-04-20 09:50:46,Social Media,Desktop,Chrome,Germany
+WEB00352,CUST00577,2025-08-04 12:28:27,Direct,Mobile,Chrome,Australia
+WEB00353,CUST01997,2025-08-27 11:08:52,Direct,Desktop,Firefox,Australia
+WEB00354,CUST01418,2025-04-14 20:07:08,Referral,Desktop,Safari,India
+WEB00355,CUST00060,2025-12-12 10:08:39,Referral,Tablet,Firefox,USA
+WEB00356,CUST01579,2026-08-17 05:50:16,Advertisement,Tablet,Safari,France
+WEB00357,CUST01034,2025-08-10 14:18:30,Direct,Desktop,Chrome,India
+WEB00358,CUST01951,2025-11-28 00:03:15,Direct,Desktop,Chrome,India
+WEB00359,CUST01345,2025-04-25 16:40:06,Referral,Mobile,Safari,USA
+WEB00360,CUST00253,2025-06-30 02:40:11,Advertisement,Tablet,Chrome,Singapore
+WEB00361,CUST00810,2026-04-29 16:21:41,Direct,Desktop,Safari,India
+WEB00362,CUST01536,2025-04-03 12:55:32,Organic Search,Desktop,Edge,USA
+WEB00363,CUST01144,2026-02-15 20:04:07,Referral,Mobile,Chrome,Germany
+WEB00364,CUST00070,2026-07-22 06:49:41,Organic Search,Mobile,Firefox,France
+WEB00365,CUST00108,2026-04-14 08:04:20,Referral,Tablet,Safari,Singapore
+WEB00366,CUST00564,2026-04-01 21:44:49,Direct,Tablet,Firefox,Singapore
+WEB00367,CUST00561,2025-04-07 14:58:04,Organic Search,Mobile,Safari,France
+WEB00368,CUST01133,2025-02-16 03:22:13,Advertisement,Mobile,Chrome,USA
+WEB00369,CUST00755,2025-04-02 06:46:11,Organic Search,Tablet,Safari,USA
+WEB00370,CUST00567,2026-05-07 14:12:24,Direct,Tablet,Firefox,UK
+WEB00371,CUST00813,2025-02-27 00:40:29,Organic Search,Tablet,Safari,USA
+WEB00372,CUST00374,2025-03-24 11:37:11,Direct,Mobile,Chrome,UK
+WEB00373,CUST01364,2026-01-26 13:45:15,Advertisement,Tablet,Edge,USA
+WEB00374,CUST00091,2025-02-05 09:39:25,Organic Search,Desktop,Chrome,Australia
+WEB00375,CUST01805,2026-06-23 00:43:37,Referral,Mobile,Safari,India
+WEB00376,CUST01531,2026-02-16 03:52:25,Social Media,Desktop,Edge,UK
+WEB00377,CUST00123,2026-05-24 18:06:59,Advertisement,Desktop,Firefox,USA
+WEB00378,CUST01306,2026-02-16 07:06:16,Referral,Desktop,Firefox,France
+WEB00379,CUST00899,2025-06-04 11:06:59,Advertisement,Desktop,Edge,Australia
+WEB00380,CUST01170,2026-01-08 20:46:25,Social Media,Mobile,Safari,Australia
+WEB00381,CUST00796,2025-07-20 13:50:02,Organic Search,Mobile,Firefox,Germany
+WEB00382,CUST00597,2026-07-18 03:52:28,Referral,Mobile,Chrome,Australia
+WEB00383,CUST01930,2025-10-14 01:40:36,Direct,Desktop,Edge,Singapore
+WEB00384,CUST00364,2025-12-29 15:56:02,Organic Search,Desktop,Chrome,UK
+WEB00385,CUST01412,2025-01-12 13:32:51,Advertisement,Mobile,Chrome,India
+WEB00386,CUST01012,2025-03-28 11:23:38,Organic Search,Desktop,Chrome,USA
+WEB00387,CUST01910,2026-02-05 20:48:11,Referral,Mobile,Firefox,Singapore
+WEB00388,CUST00952,2026-07-12 12:28:47,Organic Search,Tablet,Firefox,UK
+WEB00389,CUST01007,2025-05-10 15:23:09,Organic Search,Mobile,Edge,Australia
+WEB00390,CUST01768,2026-07-20 17:40:17,Advertisement,Desktop,Chrome,USA
+WEB00391,CUST01256,2026-05-01 07:09:14,Social Media,Tablet,Firefox,India
+WEB00392,CUST00901,2026-02-25 13:47:01,Social Media,Desktop,Safari,France
+WEB00393,CUST01709,2025-11-04 13:16:23,Referral,Tablet,Safari,UK
+WEB00394,CUST01688,2025-01-02 18:55:45,Advertisement,Tablet,Firefox,Australia
+WEB00395,CUST00074,2025-04-03 10:24:37,Direct,Desktop,Firefox,USA
+WEB00396,CUST00463,2025-03-09 02:08:35,Advertisement,Tablet,Firefox,USA
+WEB00397,CUST01851,2026-03-23 17:55:20,Referral,Tablet,Edge,Germany
+WEB00398,CUST01830,2025-06-11 11:35:03,Referral,Tablet,Edge,USA
+WEB00399,CUST00953,2026-04-27 19:48:25,Direct,Mobile,Firefox,France
+WEB00400,CUST00737,2026-03-21 16:43:50,Social Media,Desktop,Firefox,India
+WEB00401,CUST01923,2026-05-25 16:44:49,Referral,Tablet,Chrome,UK
+WEB00402,CUST00082,2026-06-04 04:08:57,Direct,Mobile,Edge,UK
+WEB00403,CUST00019,2025-03-05 01:55:57,Social Media,Tablet,Chrome,Singapore
+WEB00404,CUST01273,2026-01-31 13:49:18,Advertisement,Mobile,Edge,India
+WEB00405,CUST00188,2025-10-08 05:16:58,Organic Search,Mobile,Safari,Germany
+WEB00406,CUST00395,2026-04-04 20:17:16,Social Media,Mobile,Chrome,France
+WEB00407,CUST00150,2025-01-31 20:14:41,Social Media,Desktop,Firefox,France
+WEB00408,CUST01867,2025-09-20 23:28:46,Advertisement,Mobile,Chrome,India
+WEB00409,CUST00112,2026-07-26 04:34:53,Social Media,Tablet,Firefox,USA
+WEB00410,CUST01831,2025-01-06 04:14:27,Social Media,Desktop,Chrome,UK
+WEB00411,CUST00268,2025-10-06 08:33:09,Social Media,Mobile,Chrome,USA
+WEB00412,CUST01793,2025-07-01 20:36:11,Direct,Mobile,Firefox,UK
+WEB00413,CUST00667,2026-03-31 20:50:07,Referral,Desktop,Safari,France
+WEB00414,CUST00852,2025-09-06 00:55:29,Advertisement,Tablet,Safari,India
+WEB00415,CUST00269,2025-05-30 00:26:09,Referral,Desktop,Safari,UK
+WEB00416,CUST00561,2025-12-16 04:25:42,Referral,Desktop,Safari,India
+WEB00417,CUST00291,2025-11-01 15:05:15,Organic Search,Desktop,Firefox,Singapore
+WEB00418,CUST00420,2025-10-15 00:39:28,Advertisement,Mobile,Firefox,Germany
+WEB00419,CUST00900,2026-08-16 23:56:11,Advertisement,Tablet,Edge,UK
+WEB00420,CUST00973,2025-12-29 08:58:56,Referral,Desktop,Safari,Singapore
+WEB00421,CUST01254,2026-07-03 13:30:41,Referral,Desktop,Chrome,Germany
+WEB00422,CUST01835,2025-06-12 11:34:56,Referral,Desktop,Edge,Australia
+WEB00423,CUST00090,2025-01-26 03:00:06,Organic Search,Tablet,Safari,France
+WEB00424,CUST00547,2025-07-27 15:11:18,Direct,Desktop,Safari,France
+WEB00425,CUST01149,2025-09-26 16:47:45,Direct,Tablet,Chrome,Singapore
+WEB00426,CUST00941,2025-09-05 12:45:54,Social Media,Mobile,Chrome,Singapore
+WEB00427,CUST01164,2025-01-04 16:21:54,Social Media,Desktop,Safari,India
+WEB00428,CUST00588,2025-01-06 23:40:48,Referral,Tablet,Firefox,Germany
+WEB00429,CUST00642,2025-11-26 19:52:55,Organic Search,Desktop,Safari,Singapore
+WEB00430,CUST01422,2025-05-24 04:45:54,Organic Search,Desktop,Edge,France
+WEB00431,CUST00378,2025-08-02 00:08:44,Advertisement,Mobile,Safari,France
+WEB00432,CUST00170,2026-04-06 20:47:44,Advertisement,Mobile,Firefox,Australia
+WEB00433,CUST01266,2025-08-18 01:26:46,Advertisement,Desktop,Firefox,France
+WEB00434,CUST01135,2026-04-30 13:01:57,Referral,Mobile,Firefox,Singapore
+WEB00435,CUST01563,2025-10-21 11:09:02,Referral,Tablet,Chrome,India
+WEB00436,CUST01311,2026-03-15 21:18:37,Direct,Desktop,Safari,UK
+WEB00437,CUST00569,2025-06-20 17:09:26,Organic Search,Mobile,Firefox,France
+WEB00438,CUST00949,2025-03-25 02:53:25,Social Media,Tablet,Chrome,Singapore
+WEB00439,CUST01020,2025-06-05 01:13:00,Advertisement,Desktop,Chrome,Germany
+WEB00440,CUST00202,2025-03-26 13:17:08,Advertisement,Mobile,Safari,USA
+WEB00441,CUST00198,2025-10-11 04:49:38,Referral,Mobile,Edge,Australia
+WEB00442,CUST01939,2025-07-05 03:26:56,Direct,Mobile,Edge,India
+WEB00443,CUST01564,2025-06-08 01:15:21,Direct,Mobile,Safari,USA
+WEB00444,CUST01644,2025-05-08 14:16:59,Direct,Tablet,Chrome,France
+WEB00445,CUST01326,2025-09-01 05:47:44,Organic Search,Tablet,Safari,France
+WEB00446,CUST01702,2025-01-14 11:36:12,Referral,Mobile,Edge,India
+WEB00447,CUST00857,2025-08-15 00:15:35,Direct,Tablet,Safari,France
+WEB00448,CUST00326,2025-05-12 22:59:18,Social Media,Mobile,Chrome,India
+WEB00449,CUST01211,2025-11-16 00:34:17,Advertisement,Tablet,Safari,India
+WEB00450,CUST00106,2025-10-17 06:10:55,Organic Search,Desktop,Firefox,France
+WEB00451,CUST01911,2025-09-30 11:55:22,Referral,Mobile,Safari,UK
+WEB00452,CUST01221,2025-12-29 07:56:22,Direct,Tablet,Chrome,Germany
+WEB00453,CUST01124,2025-02-03 12:34:00,Advertisement,Desktop,Chrome,USA
+WEB00454,CUST01413,2025-02-23 09:27:45,Organic Search,Mobile,Firefox,France
+WEB00455,CUST00855,2025-10-13 21:26:15,Direct,Tablet,Firefox,Germany
+WEB00456,CUST01274,2025-08-12 21:05:46,Direct,Mobile,Safari,India
+WEB00457,CUST00906,2025-06-28 03:18:21,Social Media,Mobile,Safari,UK
+WEB00458,CUST00445,2025-08-13 11:50:28,Referral,Mobile,Firefox,France
+WEB00459,CUST00364,2025-05-27 00:30:30,Referral,Tablet,Safari,Singapore
+WEB00460,CUST00288,2025-03-21 06:50:32,Social Media,Desktop,Firefox,UK
+WEB00461,CUST01820,2025-05-15 15:49:41,Organic Search,Desktop,Chrome,Singapore
+WEB00462,CUST00727,2026-07-19 21:54:31,Advertisement,Desktop,Edge,Germany
+WEB00463,CUST01102,2025-03-11 19:22:29,Organic Search,Desktop,Chrome,Singapore
+WEB00464,CUST00391,2026-08-16 05:44:27,Referral,Mobile,Chrome,Germany
+WEB00465,CUST00790,2026-02-07 11:10:08,Direct,Tablet,Chrome,India
+WEB00466,CUST00957,2025-03-09 11:11:19,Referral,Desktop,Edge,India
+WEB00467,CUST01873,2026-04-18 12:01:39,Organic Search,Desktop,Firefox,UK
+WEB00468,CUST01798,2025-06-12 19:51:41,Referral,Desktop,Edge,India
+WEB00469,CUST01102,2025-10-18 20:25:59,Referral,Mobile,Safari,UK
+WEB00470,CUST00622,2025-01-07 22:34:33,Referral,Desktop,Edge,France
+WEB00471,CUST00293,2025-01-11 11:34:03,Referral,Mobile,Edge,USA
+WEB00472,CUST01903,2026-04-16 12:07:09,Direct,Mobile,Firefox,USA
+WEB00473,CUST01387,2025-12-17 07:22:57,Advertisement,Mobile,Chrome,France
+WEB00474,CUST00683,2025-09-07 18:04:17,Referral,Desktop,Firefox,USA
+WEB00475,CUST01935,2026-07-14 07:39:56,Advertisement,Tablet,Chrome,USA
+WEB00476,CUST01371,2026-08-09 01:16:52,Organic Search,Tablet,Safari,France
+WEB00477,CUST01654,2026-07-30 15:08:12,Direct,Desktop,Edge,India
+WEB00478,CUST00531,2025-10-23 05:41:20,Referral,Tablet,Safari,USA
+WEB00479,CUST00761,2026-05-09 21:53:52,Referral,Tablet,Edge,Singapore
+WEB00480,CUST00813,2025-02-10 17:24:50,Direct,Desktop,Firefox,India
+WEB00481,CUST01618,2026-03-12 11:10:11,Advertisement,Desktop,Chrome,India
+WEB00482,CUST01711,2026-05-05 01:23:31,Advertisement,Tablet,Safari,Australia
+WEB00483,CUST00963,2025-01-02 16:07:35,Direct,Desktop,Edge,UK
+WEB00484,CUST01204,2026-04-13 01:45:05,Advertisement,Mobile,Edge,UK
+WEB00485,CUST00810,2026-06-13 16:07:30,Referral,Tablet,Safari,Germany
+WEB00486,CUST00794,2025-04-30 23:42:55,Advertisement,Mobile,Safari,USA
+WEB00487,CUST01112,2026-07-03 17:34:50,Advertisement,Mobile,Firefox,France
+WEB00488,CUST01804,2025-04-19 06:42:05,Advertisement,Mobile,Edge,Australia
+WEB00489,CUST00154,2026-07-18 11:35:17,Advertisement,Tablet,Edge,UK
+WEB00490,CUST00566,2026-07-11 07:04:58,Referral,Desktop,Edge,Australia
+WEB00491,CUST00529,2025-10-19 00:18:04,Direct,Mobile,Edge,USA
+WEB00492,CUST01170,2026-08-17 07:09:48,Advertisement,Tablet,Safari,India
+WEB00493,CUST01159,2025-11-11 21:34:37,Advertisement,Desktop,Firefox,Australia
+WEB00494,CUST01812,2026-03-03 21:48:33,Organic Search,Mobile,Safari,Australia
+WEB00495,CUST00235,2025-09-27 06:23:06,Referral,Desktop,Edge,Germany
+WEB00496,CUST01424,2025-04-12 21:09:33,Advertisement,Desktop,Edge,Singapore
+WEB00497,CUST00821,2025-07-07 12:53:13,Advertisement,Tablet,Chrome,UK
+WEB00498,CUST00133,2025-04-28 20:56:55,Referral,Desktop,Firefox,Australia
+WEB00499,CUST01656,2025-04-27 10:12:30,Referral,Desktop,Firefox,Australia
+WEB00500,CUST00012,2026-02-02 02:12:51,Referral,Tablet,Safari,Singapore
+WEB00501,CUST01788,2025-02-09 09:23:51,Organic Search,Tablet,Safari,India
+WEB00502,CUST00539,2025-02-21 01:34:20,Social Media,Mobile,Chrome,Australia
+WEB00503,CUST00366,2026-07-08 18:14:39,Referral,Desktop,Chrome,India
+WEB00504,CUST00611,2025-04-29 18:12:59,Social Media,Mobile,Safari,Singapore
+WEB00505,CUST01890,2025-12-19 23:57:10,Social Media,Tablet,Edge,UK
+WEB00506,CUST01610,2025-01-06 03:41:42,Direct,Mobile,Edge,France
+WEB00507,CUST00935,2026-03-22 01:57:59,Social Media,Tablet,Edge,USA
+WEB00508,CUST00684,2025-11-19 10:30:26,Advertisement,Mobile,Safari,France
+WEB00509,CUST00305,2025-01-15 16:17:19,Organic Search,Mobile,Safari,India
+WEB00510,CUST01062,2026-01-03 07:51:17,Social Media,Tablet,Chrome,India
+WEB00511,CUST01502,2025-04-07 05:54:10,Organic Search,Tablet,Firefox,India
+WEB00512,CUST00215,2026-08-01 12:17:13,Organic Search,Mobile,Firefox,India
+WEB00513,CUST00171,2025-10-28 08:17:02,Social Media,Desktop,Edge,UK
+WEB00514,CUST01542,2025-02-27 01:47:38,Social Media,Desktop,Safari,UK
+WEB00515,CUST01464,2025-10-12 02:28:37,Organic Search,Desktop,Chrome,UK
+WEB00516,CUST00864,2026-07-01 04:06:28,Direct,Desktop,Chrome,UK
+WEB00517,CUST01397,2026-04-22 05:33:52,Organic Search,Desktop,Edge,USA
+WEB00518,CUST01019,2025-07-01 19:53:14,Direct,Desktop,Safari,UK
+WEB00519,CUST01275,2025-11-04 14:27:20,Direct,Desktop,Chrome,Germany
+WEB00520,CUST00389,2026-06-10 07:49:29,Social Media,Tablet,Edge,USA
+WEB00521,CUST01656,2025-08-24 07:07:26,Advertisement,Desktop,Firefox,France
+WEB00522,CUST01592,2026-02-09 00:23:54,Advertisement,Mobile,Chrome,Singapore
+WEB00523,CUST01646,2025-10-09 21:17:42,Referral,Mobile,Edge,India
+WEB00524,CUST00335,2025-07-16 17:28:41,Organic Search,Desktop,Firefox,France
+WEB00525,CUST00882,2025-03-26 09:25:10,Social Media,Mobile,Safari,UK
+WEB00526,CUST00587,2025-11-20 16:36:27,Referral,Tablet,Chrome,USA
+WEB00527,CUST01033,2025-12-22 06:23:10,Referral,Desktop,Firefox,Germany
+WEB00528,CUST00856,2025-01-17 02:07:04,Advertisement,Desktop,Safari,Germany
+WEB00529,CUST00836,2026-01-25 16:39:31,Organic Search,Desktop,Edge,UK
+WEB00530,CUST01821,2025-05-03 21:16:48,Social Media,Tablet,Firefox,USA
+WEB00531,CUST01227,2026-06-16 09:33:44,Social Media,Mobile,Safari,India
+WEB00532,CUST01926,2026-01-29 08:26:20,Organic Search,Mobile,Safari,India
+WEB00533,CUST01046,2025-09-28 19:19:28,Advertisement,Mobile,Edge,India
+WEB00534,CUST01498,2025-08-20 05:11:12,Organic Search,Tablet,Firefox,Australia
+WEB00535,CUST00593,2025-03-09 02:36:34,Advertisement,Tablet,Firefox,Australia
+WEB00536,CUST00943,2026-02-27 09:24:41,Social Media,Desktop,Safari,UK
+WEB00537,CUST00847,2025-02-18 03:43:12,Referral,Mobile,Edge,France
+WEB00538,CUST01532,2026-07-25 20:18:54,Social Media,Desktop,Firefox,Germany
+WEB00539,CUST01130,2025-07-12 15:20:34,Referral,Tablet,Edge,Australia
+WEB00540,CUST00645,2026-06-28 01:27:46,Advertisement,Mobile,Edge,France
+WEB00541,CUST01601,2026-05-27 02:03:48,Referral,Tablet,Edge,India
+WEB00542,CUST01588,2025-10-05 11:38:57,Social Media,Mobile,Chrome,Singapore
+WEB00543,CUST00270,2026-07-21 04:49:31,Social Media,Desktop,Firefox,UK
+WEB00544,CUST00798,2026-02-14 19:30:22,Referral,Tablet,Edge,Germany
+WEB00545,CUST01125,2025-12-02 22:51:24,Social Media,Mobile,Firefox,France
+WEB00546,CUST01783,2025-05-29 01:51:32,Social Media,Desktop,Safari,India
+WEB00547,CUST01877,2025-12-06 22:47:07,Referral,Mobile,Edge,Germany
+WEB00548,CUST00499,2025-12-30 23:21:57,Direct,Desktop,Safari,India
+WEB00549,CUST00818,2025-05-28 08:17:44,Organic Search,Tablet,Chrome,India
+WEB00550,CUST00291,2025-12-08 19:02:07,Social Media,Mobile,Chrome,USA
+WEB00551,CUST00138,2026-06-11 05:59:59,Referral,Mobile,Edge,India
+WEB00552,CUST00673,2025-10-17 05:35:35,Direct,Desktop,Edge,USA
+WEB00553,CUST01700,2025-08-21 19:25:07,Organic Search,Desktop,Safari,India
+WEB00554,CUST00804,2025-12-27 20:36:05,Organic Search,Mobile,Chrome,Germany
+WEB00555,CUST00425,2025-10-15 11:33:32,Organic Search,Desktop,Safari,France
+WEB00556,CUST00485,2026-01-31 07:05:59,Organic Search,Mobile,Firefox,France
+WEB00557,CUST01395,2026-07-27 04:37:08,Referral,Mobile,Chrome,India
+WEB00558,CUST01101,2026-03-10 14:06:35,Social Media,Mobile,Edge,Germany
+WEB00559,CUST00924,2026-04-20 19:38:08,Direct,Desktop,Firefox,India
+WEB00560,CUST00730,2025-05-11 21:46:07,Social Media,Tablet,Safari,India
+WEB00561,CUST01882,2026-04-01 06:24:29,Advertisement,Tablet,Chrome,UK
+WEB00562,CUST00283,2025-02-06 13:25:27,Referral,Tablet,Edge,Australia
+WEB00563,CUST01548,2025-09-26 23:11:39,Organic Search,Desktop,Edge,Singapore
+WEB00564,CUST01993,2025-04-27 19:27:47,Referral,Desktop,Firefox,France
+WEB00565,CUST01604,2025-03-28 02:15:04,Social Media,Desktop,Safari,France
+WEB00566,CUST01080,2026-07-31 23:04:04,Advertisement,Desktop,Safari,France
+WEB00567,CUST01202,2025-07-27 20:42:22,Referral,Tablet,Firefox,Singapore
+WEB00568,CUST01711,2025-11-18 15:52:23,Advertisement,Desktop,Chrome,Singapore
+WEB00569,CUST00279,2025-09-16 01:06:07,Direct,Mobile,Chrome,France
+WEB00570,CUST01618,2026-03-05 08:54:27,Organic Search,Desktop,Safari,Germany
+WEB00571,CUST00339,2026-04-21 07:57:56,Social Media,Tablet,Edge,India
+WEB00572,CUST00291,2025-01-28 00:28:15,Organic Search,Tablet,Firefox,Germany
+WEB00573,CUST00089,2026-04-04 11:09:47,Referral,Desktop,Firefox,Australia
+WEB00574,CUST00207,2026-01-29 22:08:17,Social Media,Mobile,Safari,Germany
+WEB00575,CUST01259,2026-07-03 10:46:53,Referral,Tablet,Edge,India
+WEB00576,CUST00184,2025-02-17 07:39:58,Referral,Tablet,Safari,India
+WEB00577,CUST01381,2025-02-12 20:13:14,Social Media,Tablet,Firefox,Singapore
+WEB00578,CUST00187,2025-05-22 08:39:34,Social Media,Tablet,Firefox,Singapore
+WEB00579,CUST00412,2025-09-21 01:52:22,Organic Search,Mobile,Chrome,India
+WEB00580,CUST00728,2026-02-09 04:20:06,Advertisement,Tablet,Firefox,UK
+WEB00581,CUST01719,2026-05-10 21:38:48,Referral,Desktop,Safari,USA
+WEB00582,CUST00308,2026-02-10 06:40:44,Direct,Desktop,Safari,France
+WEB00583,CUST00707,2025-10-06 15:17:11,Social Media,Mobile,Edge,Singapore
+WEB00584,CUST00217,2025-03-21 21:19:27,Advertisement,Desktop,Safari,France
+WEB00585,CUST00439,2025-05-19 00:32:15,Direct,Mobile,Safari,Australia
+WEB00586,CUST01072,2025-09-04 06:42:16,Advertisement,Mobile,Firefox,Germany
+WEB00587,CUST01502,2026-04-21 11:59:23,Direct,Mobile,Chrome,France
+WEB00588,CUST01051,2026-06-17 18:56:18,Referral,Desktop,Chrome,Australia
+WEB00589,CUST01254,2025-01-31 02:56:01,Social Media,Tablet,Firefox,UK
+WEB00590,CUST00708,2026-07-02 18:29:50,Referral,Desktop,Edge,France
+WEB00591,CUST00400,2025-08-04 17:09:56,Social Media,Desktop,Firefox,USA
+WEB00592,CUST01320,2025-12-29 20:26:04,Social Media,Tablet,Safari,USA
+WEB00593,CUST01666,2026-02-14 03:30:31,Referral,Desktop,Firefox,USA
+WEB00594,CUST01202,2025-08-22 17:56:07,Referral,Desktop,Chrome,France
+WEB00595,CUST00210,2025-04-06 12:39:01,Referral,Mobile,Edge,India
+WEB00596,CUST01993,2025-04-30 12:43:43,Direct,Mobile,Safari,India
+WEB00597,CUST00381,2026-05-15 23:03:57,Referral,Mobile,Safari,USA
+WEB00598,CUST01095,2026-01-29 20:41:22,Referral,Tablet,Firefox,Germany
+WEB00599,CUST01535,2025-08-25 18:59:20,Advertisement,Desktop,Edge,France
+WEB00600,CUST01962,2026-08-06 22:16:44,Organic Search,Tablet,Safari,Australia
+WEB00601,CUST01082,2025-08-16 02:01:00,Organic Search,Desktop,Firefox,Australia
+WEB00602,CUST01836,2026-03-21 19:47:43,Referral,Tablet,Edge,Australia
+WEB00603,CUST00866,2026-07-20 16:16:12,Organic Search,Tablet,Chrome,UK
+WEB00604,CUST00160,2025-08-04 07:27:49,Social Media,Desktop,Edge,India
+WEB00605,CUST00304,2025-03-29 11:49:40,Advertisement,Mobile,Safari,France
+WEB00606,CUST01834,2025-09-30 10:10:51,Referral,Tablet,Safari,India
+WEB00607,CUST00180,2025-09-18 01:45:46,Referral,Mobile,Firefox,India
+WEB00608,CUST01845,2025-11-01 16:18:05,Advertisement,Mobile,Firefox,USA
+WEB00609,CUST00870,2026-01-07 19:27:01,Social Media,Tablet,Firefox,India
+WEB00610,CUST01909,2025-02-27 17:05:19,Referral,Tablet,Firefox,Australia
+WEB00611,CUST01968,2026-05-25 01:50:11,Advertisement,Tablet,Firefox,Germany
+WEB00612,CUST00157,2025-07-08 02:41:05,Social Media,Mobile,Safari,UK
+WEB00613,CUST01245,2026-04-12 17:46:56,Advertisement,Tablet,Safari,Germany
+WEB00614,CUST00059,2025-11-14 08:12:10,Social Media,Tablet,Edge,India
+WEB00615,CUST00636,2025-07-16 19:17:47,Organic Search,Tablet,Edge,India
+WEB00616,CUST01896,2026-07-04 14:52:40,Referral,Tablet,Chrome,USA
+WEB00617,CUST01999,2025-06-14 02:02:46,Referral,Mobile,Firefox,Singapore
+WEB00618,CUST00276,2025-10-08 02:12:45,Advertisement,Desktop,Chrome,Australia
+WEB00619,CUST01996,2025-06-27 21:04:55,Direct,Desktop,Chrome,Germany
+WEB00620,CUST00366,2025-11-29 22:51:48,Direct,Tablet,Firefox,Germany
+WEB00621,CUST00676,2025-03-09 20:40:54,Social Media,Mobile,Firefox,Singapore
+WEB00622,CUST01041,2026-02-07 10:00:45,Advertisement,Mobile,Safari,Singapore
+WEB00623,CUST00436,2025-01-16 09:40:29,Advertisement,Desktop,Edge,India
+WEB00624,CUST00126,2025-03-28 20:36:42,Advertisement,Desktop,Firefox,Singapore
+WEB00625,CUST00389,2026-08-11 05:57:55,Social Media,Tablet,Edge,UK
+WEB00626,CUST00127,2025-03-29 16:24:58,Social Media,Mobile,Firefox,USA
+WEB00627,CUST01176,2025-07-07 01:59:24,Organic Search,Desktop,Edge,USA
+WEB00628,CUST01281,2025-10-13 01:54:11,Referral,Tablet,Firefox,Australia
+WEB00629,CUST00629,2025-10-22 10:43:42,Referral,Tablet,Chrome,Australia
+WEB00630,CUST01674,2026-01-08 00:57:00,Advertisement,Tablet,Chrome,Germany
+WEB00631,CUST01560,2025-02-25 22:19:40,Organic Search,Mobile,Edge,USA
+WEB00632,CUST00674,2025-07-09 04:36:59,Organic Search,Mobile,Edge,USA
+WEB00633,CUST00709,2025-09-20 01:35:38,Direct,Desktop,Firefox,Germany
+WEB00634,CUST00797,2025-02-18 10:56:35,Referral,Tablet,Safari,UK
+WEB00635,CUST01219,2025-01-01 18:39:33,Organic Search,Tablet,Edge,USA
+WEB00636,CUST01684,2026-03-27 05:38:50,Direct,Desktop,Chrome,USA
+WEB00637,CUST00498,2026-06-16 23:38:03,Direct,Tablet,Edge,USA
+WEB00638,CUST00666,2026-02-21 20:08:41,Direct,Mobile,Firefox,Germany
+WEB00639,CUST00962,2026-07-30 06:22:08,Referral,Tablet,Safari,Australia
+WEB00640,CUST00506,2026-06-26 08:47:55,Social Media,Tablet,Firefox,Germany
+WEB00641,CUST01317,2026-07-23 22:59:30,Direct,Desktop,Edge,UK
+WEB00642,CUST00162,2026-04-17 20:08:32,Referral,Desktop,Firefox,Australia
+WEB00643,CUST01982,2025-04-26 06:18:04,Direct,Desktop,Edge,India
+WEB00644,CUST00563,2026-03-18 09:52:56,Direct,Mobile,Safari,Singapore
+WEB00645,CUST00609,2026-04-28 07:09:30,Social Media,Desktop,Chrome,India
+WEB00646,CUST00544,2025-11-08 15:11:11,Direct,Desktop,Safari,USA
+WEB00647,CUST01510,2025-07-25 13:13:29,Referral,Desktop,Firefox,Germany
+WEB00648,CUST00339,2026-07-13 23:55:23,Advertisement,Tablet,Safari,Singapore
+WEB00649,CUST01211,2026-01-26 21:04:36,Direct,Desktop,Firefox,Germany
+WEB00650,CUST01340,2026-02-15 04:13:07,Referral,Mobile,Edge,Singapore
+WEB00651,CUST01510,2026-07-07 03:57:51,Social Media,Tablet,Firefox,France
+WEB00652,CUST01061,2025-03-08 12:34:38,Direct,Mobile,Chrome,Germany
+WEB00653,CUST01226,2025-11-23 22:11:14,Organic Search,Mobile,Edge,Singapore
+WEB00654,CUST00913,2026-04-09 10:15:28,Direct,Desktop,Firefox,France
+WEB00655,CUST00217,2025-08-28 12:51:04,Social Media,Mobile,Chrome,Australia
+WEB00656,CUST00029,2025-05-15 01:58:23,Direct,Mobile,Safari,India
+WEB00657,CUST00476,2025-11-07 20:53:14,Advertisement,Desktop,Chrome,India
+WEB00658,CUST01425,2026-04-27 07:30:40,Direct,Mobile,Chrome,UK
+WEB00659,CUST01426,2026-01-06 08:10:48,Organic Search,Desktop,Chrome,USA
+WEB00660,CUST01197,2026-08-14 03:14:47,Advertisement,Desktop,Firefox,UK
+WEB00661,CUST01485,2025-11-24 08:02:24,Referral,Mobile,Chrome,USA
+WEB00662,CUST01603,2025-03-19 13:34:25,Referral,Tablet,Firefox,Australia
+WEB00663,CUST01260,2025-03-21 01:59:05,Direct,Tablet,Safari,France
+WEB00664,CUST00953,2025-02-17 22:32:16,Organic Search,Tablet,Firefox,Germany
+WEB00665,CUST00396,2026-03-08 11:49:20,Direct,Desktop,Chrome,India
+WEB00666,CUST00234,2026-04-11 07:42:42,Referral,Tablet,Safari,USA
+WEB00667,CUST00216,2025-01-09 18:55:49,Social Media,Mobile,Chrome,UK
+WEB00668,CUST00216,2026-04-21 21:15:40,Organic Search,Tablet,Safari,USA
+WEB00669,CUST01473,2026-02-03 23:25:00,Organic Search,Mobile,Firefox,Singapore
+WEB00670,CUST01362,2026-02-06 17:09:35,Referral,Tablet,Chrome,Australia
+WEB00671,CUST01275,2025-09-08 06:02:29,Referral,Mobile,Chrome,Australia
+WEB00672,CUST01017,2025-10-05 11:00:45,Referral,Tablet,Chrome,Singapore
+WEB00673,CUST01117,2025-01-03 09:08:51,Organic Search,Mobile,Firefox,Germany
+WEB00674,CUST00512,2026-05-27 07:50:11,Social Media,Tablet,Chrome,USA
+WEB00675,CUST00038,2026-02-28 10:40:24,Advertisement,Desktop,Edge,Australia
+WEB00676,CUST01665,2026-01-30 21:30:01,Advertisement,Desktop,Safari,Singapore
+WEB00677,CUST01239,2026-07-22 23:28:03,Organic Search,Desktop,Safari,Germany
+WEB00678,CUST01896,2026-05-31 01:08:34,Direct,Desktop,Chrome,UK
+WEB00679,CUST01558,2025-05-02 13:56:56,Social Media,Tablet,Firefox,Singapore
+WEB00680,CUST00771,2025-07-19 09:48:58,Organic Search,Mobile,Firefox,France
+WEB00681,CUST00929,2025-06-14 10:20:38,Organic Search,Mobile,Edge,UK
+WEB00682,CUST00771,2025-07-23 08:26:38,Social Media,Mobile,Chrome,Australia
+WEB00683,CUST00103,2025-03-06 04:38:18,Social Media,Tablet,Edge,Germany
+WEB00684,CUST00414,2025-12-30 16:39:39,Direct,Mobile,Firefox,Australia
+WEB00685,CUST00580,2025-03-19 14:19:18,Direct,Tablet,Firefox,Germany
+WEB00686,CUST01777,2026-07-23 22:57:39,Direct,Tablet,Edge,USA
+WEB00687,CUST00349,2025-03-21 17:17:24,Direct,Mobile,Safari,Germany
+WEB00688,CUST00098,2025-06-19 23:26:14,Referral,Tablet,Chrome,Germany
+WEB00689,CUST01237,2025-04-05 15:46:49,Direct,Mobile,Firefox,Australia
+WEB00690,CUST00605,2026-04-18 12:46:20,Organic Search,Mobile,Firefox,France
+WEB00691,CUST00244,2026-05-12 09:46:17,Referral,Tablet,Chrome,India
+WEB00692,CUST00770,2026-01-17 10:02:03,Organic Search,Desktop,Edge,France
+WEB00693,CUST00082,2025-12-09 06:30:30,Social Media,Desktop,Chrome,Germany
+WEB00694,CUST00891,2025-11-07 17:56:03,Social Media,Desktop,Edge,Germany
+WEB00695,CUST01637,2025-05-17 11:50:22,Direct,Desktop,Firefox,France
+WEB00696,CUST01129,2025-12-30 02:18:19,Organic Search,Mobile,Safari,France
+WEB00697,CUST01844,2025-07-18 16:02:49,Social Media,Tablet,Chrome,Germany
+WEB00698,CUST01989,2025-08-20 21:38:48,Organic Search,Desktop,Edge,France
+WEB00699,CUST01688,2026-05-03 06:04:30,Organic Search,Mobile,Edge,USA
+WEB00700,CUST01536,2026-06-13 01:30:21,Referral,Mobile,Safari,France
+WEB00701,CUST01168,2025-05-07 06:05:22,Direct,Desktop,Safari,Singapore
+WEB00702,CUST00171,2026-01-18 13:53:45,Organic Search,Desktop,Safari,Australia
+WEB00703,CUST00714,2025-12-27 13:51:02,Advertisement,Tablet,Safari,Singapore
+WEB00704,CUST01824,2026-07-20 17:56:09,Direct,Desktop,Chrome,USA
+WEB00705,CUST00161,2025-10-31 02:04:44,Direct,Mobile,Chrome,Germany
+WEB00706,CUST01555,2025-08-30 19:53:15,Referral,Tablet,Edge,Australia
+WEB00707,CUST00781,2026-07-24 10:05:07,Advertisement,Desktop,Firefox,UK
+WEB00708,CUST01858,2026-07-17 20:08:51,Direct,Tablet,Edge,Australia
+WEB00709,CUST00368,2026-03-31 05:36:33,Referral,Tablet,Safari,France
+WEB00710,CUST00855,2026-07-12 01:37:28,Advertisement,Tablet,Firefox,Germany
+WEB00711,CUST01617,2026-03-04 01:18:01,Advertisement,Mobile,Firefox,Singapore
+WEB00712,CUST00829,2025-07-17 09:16:05,Direct,Tablet,Edge,India
+WEB00713,CUST01668,2026-03-25 18:18:31,Referral,Mobile,Firefox,India
+WEB00714,CUST00725,2026-08-17 08:30:13,Direct,Mobile,Edge,USA
+WEB00715,CUST00940,2026-07-19 13:22:44,Organic Search,Tablet,Firefox,Australia
+WEB00716,CUST01424,2026-04-03 05:13:06,Referral,Desktop,Firefox,Australia
+WEB00717,CUST00615,2025-06-02 17:40:31,Referral,Desktop,Edge,Singapore
+WEB00718,CUST01619,2026-04-06 08:05:40,Organic Search,Mobile,Safari,India
+WEB00719,CUST01399,2025-01-21 14:06:13,Direct,Mobile,Edge,India
+WEB00720,CUST01748,2026-01-09 10:39:32,Organic Search,Mobile,Firefox,Australia
+WEB00721,CUST01255,2025-06-22 18:40:27,Organic Search,Desktop,Chrome,USA
+WEB00722,CUST01723,2025-03-31 10:12:40,Direct,Desktop,Edge,UK
+WEB00723,CUST01162,2026-06-28 16:00:58,Advertisement,Tablet,Safari,France
+WEB00724,CUST00921,2026-03-20 04:39:40,Referral,Desktop,Firefox,UK
+WEB00725,CUST01852,2026-02-21 15:32:51,Organic Search,Tablet,Edge,Germany
+WEB00726,CUST00867,2026-01-04 16:27:43,Advertisement,Mobile,Firefox,UK
+WEB00727,CUST00560,2025-04-03 21:37:39,Direct,Desktop,Firefox,France
+WEB00728,CUST01625,2025-11-14 03:17:13,Advertisement,Desktop,Safari,India
+WEB00729,CUST00662,2025-07-22 11:23:05,Direct,Tablet,Edge,Singapore
+WEB00730,CUST00053,2026-08-15 22:22:56,Direct,Mobile,Firefox,Singapore
+WEB00731,CUST00110,2025-12-25 05:10:58,Direct,Mobile,Safari,Australia
+WEB00732,CUST01455,2026-05-28 01:42:35,Direct,Mobile,Firefox,France
+WEB00733,CUST00440,2025-04-08 03:09:38,Referral,Mobile,Firefox,UK
+WEB00734,CUST00768,2025-06-25 06:45:40,Advertisement,Desktop,Firefox,Germany
+WEB00735,CUST00940,2025-12-23 20:52:58,Social Media,Mobile,Safari,Germany
+WEB00736,CUST00770,2026-08-03 18:36:43,Referral,Desktop,Edge,UK
+WEB00737,CUST01642,2025-02-14 03:16:02,Organic Search,Tablet,Safari,Singapore
+WEB00738,CUST01685,2025-03-12 12:13:00,Direct,Tablet,Firefox,USA
+WEB00739,CUST00379,2026-03-10 04:46:19,Direct,Mobile,Firefox,Singapore
+WEB00740,CUST00123,2025-03-07 19:47:49,Social Media,Desktop,Safari,Australia
+WEB00741,CUST01047,2025-06-29 01:40:14,Referral,Mobile,Chrome,France
+WEB00742,CUST01697,2026-01-29 05:35:11,Social Media,Tablet,Safari,Singapore
+WEB00743,CUST00618,2025-09-12 17:01:31,Organic Search,Mobile,Safari,UK
+WEB00744,CUST00798,2026-03-29 13:17:13,Direct,Desktop,Chrome,UK
+WEB00745,CUST01571,2025-01-09 08:19:29,Direct,Tablet,Firefox,Singapore
+WEB00746,CUST00863,2026-01-20 00:52:53,Direct,Mobile,Edge,France
+WEB00747,CUST01277,2026-01-20 05:24:58,Referral,Tablet,Chrome,France
+WEB00748,CUST01769,2025-06-09 12:28:47,Social Media,Tablet,Chrome,Australia
+WEB00749,CUST00110,2026-02-13 19:52:27,Organic Search,Mobile,Chrome,Australia
+WEB00750,CUST00104,2025-09-15 08:37:16,Referral,Desktop,Safari,Germany
+WEB00751,CUST00326,2026-06-05 18:25:34,Referral,Mobile,Edge,India
+WEB00752,CUST01046,2026-04-03 08:15:34,Direct,Desktop,Firefox,Germany
+WEB00753,CUST01528,2026-03-10 15:14:39,Direct,Desktop,Edge,UK
+WEB00754,CUST00250,2025-11-09 21:19:54,Social Media,Tablet,Safari,Germany
+WEB00755,CUST01357,2026-02-08 03:16:25,Organic Search,Tablet,Chrome,Germany
+WEB00756,CUST00166,2025-03-25 19:19:16,Organic Search,Tablet,Chrome,UK
+WEB00757,CUST00233,2025-09-08 20:11:10,Direct,Tablet,Firefox,Germany
+WEB00758,CUST01860,2025-08-07 17:48:50,Referral,Tablet,Firefox,Singapore
+WEB00759,CUST00604,2025-02-13 06:24:50,Direct,Mobile,Firefox,India
+WEB00760,CUST00831,2026-04-28 04:10:59,Referral,Tablet,Edge,USA
+WEB00761,CUST00545,2026-01-20 04:07:48,Organic Search,Mobile,Firefox,USA
+WEB00762,CUST00682,2025-07-16 22:43:21,Direct,Tablet,Firefox,India
+WEB00763,CUST00943,2025-01-14 03:03:16,Direct,Desktop,Safari,Australia
+WEB00764,CUST00412,2026-08-01 17:00:57,Referral,Desktop,Safari,Germany
+WEB00765,CUST00052,2026-01-28 04:34:16,Advertisement,Mobile,Safari,India
+WEB00766,CUST01401,2026-04-26 23:34:32,Advertisement,Mobile,Safari,UK
+WEB00767,CUST01061,2025-02-14 14:01:12,Direct,Tablet,Chrome,Australia
+WEB00768,CUST01084,2026-06-30 04:07:31,Organic Search,Desktop,Chrome,India
+WEB00769,CUST00333,2025-02-05 10:08:09,Referral,Mobile,Firefox,Singapore
+WEB00770,CUST01438,2026-06-29 10:35:41,Direct,Tablet,Safari,Australia
+WEB00771,CUST01469,2025-12-05 00:54:11,Referral,Mobile,Edge,Singapore
+WEB00772,CUST00965,2026-06-03 01:25:47,Referral,Tablet,Safari,Australia
+WEB00773,CUST01097,2026-07-03 10:04:09,Referral,Mobile,Edge,USA
+WEB00774,CUST00760,2026-06-08 20:29:31,Advertisement,Tablet,Safari,Germany
+WEB00775,CUST01575,2026-03-08 01:13:46,Advertisement,Desktop,Chrome,India
+WEB00776,CUST01835,2025-03-04 08:11:17,Referral,Desktop,Chrome,UK
+WEB00777,CUST01260,2026-02-22 11:04:47,Referral,Tablet,Safari,France
+WEB00778,CUST00206,2025-11-10 07:27:53,Organic Search,Desktop,Edge,India
+WEB00779,CUST01819,2026-04-19 13:39:13,Direct,Tablet,Safari,UK
+WEB00780,CUST01095,2026-08-08 08:33:33,Organic Search,Tablet,Chrome,Germany
+WEB00781,CUST01910,2025-10-02 12:37:19,Advertisement,Mobile,Safari,India
+WEB00782,CUST01456,2025-06-11 08:51:39,Advertisement,Desktop,Safari,Singapore
+WEB00783,CUST01246,2026-03-11 22:35:50,Direct,Desktop,Safari,USA
+WEB00784,CUST00634,2025-05-24 06:00:15,Social Media,Tablet,Edge,France
+WEB00785,CUST01255,2025-10-13 00:19:15,Organic Search,Tablet,Edge,Australia
+WEB00786,CUST00455,2026-02-25 00:17:24,Social Media,Mobile,Safari,Germany
+WEB00787,CUST00711,2026-07-21 00:42:45,Referral,Tablet,Chrome,USA
+WEB00788,CUST01288,2026-03-16 03:44:07,Organic Search,Desktop,Safari,UK
+WEB00789,CUST01868,2026-03-01 13:09:59,Referral,Mobile,Chrome,UK
+WEB00790,CUST01079,2025-11-06 14:08:45,Social Media,Mobile,Edge,USA
+WEB00791,CUST01630,2025-06-29 22:11:50,Referral,Desktop,Safari,France
+WEB00792,CUST00875,2026-05-23 22:30:17,Social Media,Desktop,Edge,France
+WEB00793,CUST00499,2025-08-06 15:24:20,Direct,Mobile,Chrome,France
+WEB00794,CUST00188,2025-05-08 11:30:45,Advertisement,Desktop,Edge,Germany
+WEB00795,CUST00528,2026-01-17 01:52:12,Referral,Desktop,Firefox,India
+WEB00796,CUST00227,2026-06-30 14:36:15,Organic Search,Tablet,Edge,UK
+WEB00797,CUST01484,2025-10-11 02:05:08,Referral,Mobile,Firefox,France
+WEB00798,CUST00207,2025-08-09 09:31:56,Social Media,Tablet,Firefox,Australia
+WEB00799,CUST00703,2026-05-01 21:47:59,Referral,Tablet,Firefox,Singapore
+WEB00800,CUST01760,2026-01-13 12:25:50,Referral,Mobile,Chrome,Australia
+WEB00801,CUST01646,2025-04-18 08:37:55,Referral,Mobile,Chrome,Singapore
+WEB00802,CUST01668,2026-01-04 17:36:22,Advertisement,Desktop,Firefox,Singapore
+WEB00803,CUST01834,2025-08-10 22:23:48,Social Media,Mobile,Edge,Germany
+WEB00804,CUST01020,2025-01-10 23:06:25,Referral,Desktop,Safari,Singapore
+WEB00805,CUST00231,2026-01-17 10:29:41,Advertisement,Desktop,Edge,UK
+WEB00806,CUST00443,2025-08-16 14:08:33,Direct,Tablet,Chrome,India
+WEB00807,CUST01042,2025-05-05 05:37:37,Social Media,Desktop,Chrome,Germany
+WEB00808,CUST00400,2026-03-13 14:40:55,Organic Search,Tablet,Edge,Germany
+WEB00809,CUST01776,2025-05-05 12:37:18,Social Media,Tablet,Chrome,Singapore
+WEB00810,CUST00866,2025-04-18 17:39:09,Referral,Desktop,Safari,France
+WEB00811,CUST01104,2025-04-18 19:03:35,Social Media,Mobile,Firefox,France
+WEB00812,CUST00228,2026-05-23 22:54:23,Advertisement,Mobile,Firefox,Singapore
+WEB00813,CUST00292,2025-09-14 01:39:08,Organic Search,Desktop,Firefox,India
+WEB00814,CUST01598,2025-12-05 06:26:17,Advertisement,Desktop,Chrome,France
+WEB00815,CUST01583,2026-05-08 07:11:45,Referral,Desktop,Firefox,Germany
+WEB00816,CUST01208,2025-08-31 12:17:28,Social Media,Mobile,Edge,Australia
+WEB00817,CUST00411,2025-06-09 23:24:16,Advertisement,Desktop,Safari,USA
+WEB00818,CUST00927,2026-08-12 04:10:18,Social Media,Mobile,Chrome,Singapore
+WEB00819,CUST00991,2025-12-29 21:16:31,Social Media,Desktop,Edge,India
+WEB00820,CUST00511,2026-01-16 03:39:54,Direct,Tablet,Chrome,UK
+WEB00821,CUST01936,2025-06-26 01:36:10,Social Media,Desktop,Edge,Australia
+WEB00822,CUST00866,2026-07-06 18:35:12,Advertisement,Mobile,Safari,USA
+WEB00823,CUST01780,2025-07-17 19:37:59,Referral,Desktop,Chrome,Australia
+WEB00824,CUST01044,2026-08-19 11:04:11,Referral,Mobile,Chrome,France
+WEB00825,CUST01220,2026-01-05 17:48:49,Advertisement,Mobile,Safari,Germany
+WEB00826,CUST01949,2025-10-01 15:17:52,Organic Search,Tablet,Edge,Australia
+WEB00827,CUST00314,2026-03-03 15:55:21,Referral,Mobile,Chrome,Australia
+WEB00828,CUST01169,2025-08-04 13:40:00,Direct,Mobile,Chrome,Singapore
+WEB00829,CUST00773,2026-05-09 17:31:31,Referral,Desktop,Chrome,Singapore
+WEB00830,CUST00388,2026-06-02 10:39:21,Social Media,Desktop,Safari,France
+WEB00831,CUST00475,2025-02-28 19:00:25,Social Media,Mobile,Safari,France
+WEB00832,CUST00373,2025-01-07 03:18:05,Direct,Tablet,Edge,Australia
+WEB00833,CUST01353,2025-02-10 21:58:13,Referral,Mobile,Firefox,UK
+WEB00834,CUST01262,2025-10-03 15:38:06,Social Media,Tablet,Edge,Singapore
+WEB00835,CUST01523,2026-01-31 21:01:29,Direct,Tablet,Edge,UK
+WEB00836,CUST01618,2026-01-19 20:31:02,Organic Search,Mobile,Chrome,Germany
+WEB00837,CUST01249,2025-06-03 22:03:54,Organic Search,Tablet,Chrome,USA
+WEB00838,CUST00641,2026-04-29 00:18:55,Referral,Tablet,Safari,USA
+WEB00839,CUST01217,2025-02-24 10:55:29,Direct,Tablet,Chrome,USA
+WEB00840,CUST01225,2026-02-13 07:59:57,Direct,Mobile,Safari,France
+WEB00841,CUST00626,2025-01-12 23:48:50,Referral,Tablet,Safari,USA
+WEB00842,CUST01771,2026-05-29 14:03:52,Organic Search,Mobile,Safari,Germany
+WEB00843,CUST00906,2026-02-07 06:35:14,Social Media,Desktop,Chrome,Germany
+WEB00844,CUST00970,2025-11-27 17:59:59,Advertisement,Desktop,Safari,UK
+WEB00845,CUST01965,2026-01-25 03:06:25,Organic Search,Mobile,Firefox,Germany
+WEB00846,CUST00920,2025-07-06 00:02:41,Social Media,Desktop,Safari,USA
+WEB00847,CUST01819,2025-01-06 11:57:47,Direct,Tablet,Safari,India
+WEB00848,CUST00710,2025-08-15 03:49:02,Referral,Mobile,Firefox,Australia
+WEB00849,CUST01426,2025-06-28 05:44:32,Advertisement,Tablet,Firefox,Germany
+WEB00850,CUST01902,2026-02-19 06:09:07,Organic Search,Tablet,Safari,France
+WEB00851,CUST01735,2025-10-08 00:10:08,Direct,Tablet,Firefox,Australia
+WEB00852,CUST00352,2026-07-29 02:22:06,Organic Search,Mobile,Safari,USA
+WEB00853,CUST01417,2026-01-13 01:20:35,Social Media,Desktop,Safari,Australia
+WEB00854,CUST00424,2026-02-09 15:56:29,Organic Search,Desktop,Edge,India
+WEB00855,CUST01278,2026-02-10 13:00:25,Referral,Tablet,Safari,Australia
+WEB00856,CUST01492,2025-06-24 06:21:00,Referral,Mobile,Chrome,India
+WEB00857,CUST01514,2025-11-20 23:35:34,Direct,Desktop,Edge,France
+WEB00858,CUST01730,2026-06-27 10:38:10,Direct,Tablet,Firefox,USA
+WEB00859,CUST00495,2026-08-15 21:25:35,Direct,Tablet,Safari,France
+WEB00860,CUST00299,2025-07-10 10:33:11,Referral,Mobile,Safari,UK
+WEB00861,CUST01929,2026-02-13 19:28:31,Referral,Tablet,Chrome,UK
+WEB00862,CUST01309,2025-02-18 19:47:48,Referral,Mobile,Firefox,Australia
+WEB00863,CUST00869,2025-04-09 11:44:36,Advertisement,Desktop,Chrome,USA
+WEB00864,CUST00853,2025-09-02 13:45:11,Advertisement,Desktop,Firefox,India
+WEB00865,CUST00089,2026-03-11 04:07:23,Organic Search,Mobile,Safari,USA
+WEB00866,CUST01972,2025-04-18 12:36:59,Direct,Tablet,Chrome,Germany
+WEB00867,CUST00376,2025-05-08 22:58:58,Social Media,Desktop,Edge,UK
+WEB00868,CUST01404,2026-03-03 11:25:47,Direct,Tablet,Chrome,France
+WEB00869,CUST01325,2025-04-11 04:45:18,Advertisement,Desktop,Chrome,UK
+WEB00870,CUST01926,2025-02-13 04:30:45,Social Media,Mobile,Edge,Singapore
+WEB00871,CUST01330,2026-01-11 20:09:53,Organic Search,Tablet,Chrome,India
+WEB00872,CUST01854,2025-10-28 00:37:06,Referral,Tablet,Firefox,India
+WEB00873,CUST01085,2025-11-03 16:46:13,Referral,Tablet,Chrome,UK
+WEB00874,CUST01061,2025-11-26 10:42:34,Direct,Mobile,Chrome,Australia
+WEB00875,CUST01005,2026-07-19 03:48:53,Referral,Mobile,Safari,Australia
+WEB00876,CUST01859,2026-07-18 19:03:15,Referral,Desktop,Chrome,Singapore
+WEB00877,CUST01268,2025-12-14 11:40:11,Direct,Desktop,Firefox,Singapore
+WEB00878,CUST01824,2026-01-27 12:49:14,Advertisement,Desktop,Safari,India
+WEB00879,CUST01443,2025-11-07 23:24:55,Direct,Desktop,Safari,Germany
+WEB00880,CUST01104,2025-08-07 07:54:05,Organic Search,Tablet,Safari,USA
+WEB00881,CUST00404,2025-03-23 06:21:22,Direct,Desktop,Safari,India
+WEB00882,CUST01312,2026-01-22 13:19:44,Organic Search,Tablet,Edge,India
+WEB00883,CUST00412,2026-05-29 11:09:44,Referral,Desktop,Safari,India
+WEB00884,CUST01473,2026-02-23 13:39:46,Referral,Mobile,Chrome,Australia
+WEB00885,CUST00073,2025-12-31 17:00:02,Organic Search,Mobile,Edge,Singapore
+WEB00886,CUST00843,2025-09-06 09:42:45,Advertisement,Desktop,Chrome,Germany
+WEB00887,CUST01208,2026-08-04 21:19:41,Organic Search,Tablet,Firefox,India
+WEB00888,CUST00731,2025-10-27 16:02:21,Advertisement,Mobile,Edge,France
+WEB00889,CUST00747,2025-10-07 10:25:08,Social Media,Mobile,Safari,Singapore
+WEB00890,CUST00109,2026-07-25 01:42:58,Referral,Mobile,Chrome,France
+WEB00891,CUST01874,2025-04-24 18:41:36,Social Media,Mobile,Edge,Singapore
+WEB00892,CUST00073,2025-06-04 02:19:39,Social Media,Tablet,Chrome,USA
+WEB00893,CUST00671,2025-05-01 04:08:09,Social Media,Tablet,Chrome,Australia
+WEB00894,CUST01792,2026-02-13 03:18:14,Social Media,Tablet,Safari,USA
+WEB00895,CUST01130,2026-02-14 02:26:40,Referral,Mobile,Chrome,USA
+WEB00896,CUST00978,2026-02-25 12:31:26,Social Media,Desktop,Edge,UK
+WEB00897,CUST00692,2026-07-08 14:08:37,Direct,Desktop,Chrome,USA
+WEB00898,CUST00123,2025-01-15 20:50:33,Direct,Desktop,Safari,UK
+WEB00899,CUST00713,2025-05-27 11:06:48,Referral,Mobile,Edge,France
+WEB00900,CUST01076,2025-08-22 20:46:17,Organic Search,Tablet,Safari,UK
+WEB00901,CUST00726,2025-05-07 07:33:19,Advertisement,Tablet,Chrome,Singapore
+WEB00902,CUST00945,2025-01-25 07:36:58,Direct,Desktop,Edge,France
+WEB00903,CUST01221,2025-05-22 22:09:11,Social Media,Tablet,Firefox,USA
+WEB00904,CUST00888,2025-03-28 11:17:04,Organic Search,Desktop,Edge,Australia
+WEB00905,CUST00734,2026-07-16 08:33:21,Advertisement,Mobile,Safari,Germany
+WEB00906,CUST01728,2025-02-16 05:49:03,Social Media,Tablet,Firefox,UK
+WEB00907,CUST00296,2025-05-08 18:35:05,Direct,Mobile,Safari,USA
+WEB00908,CUST01063,2025-05-31 17:06:42,Referral,Mobile,Safari,Australia
+WEB00909,CUST00331,2026-03-01 15:34:53,Direct,Tablet,Safari,Germany
+WEB00910,CUST00274,2026-02-18 08:14:28,Referral,Desktop,Safari,Germany
+WEB00911,CUST01055,2026-06-02 00:45:53,Social Media,Mobile,Edge,Australia
+WEB00912,CUST00086,2025-03-30 08:07:22,Direct,Desktop,Chrome,Germany
+WEB00913,CUST00868,2026-05-23 20:41:56,Referral,Tablet,Edge,Germany
+WEB00914,CUST00578,2025-08-24 09:47:36,Social Media,Desktop,Safari,France
+WEB00915,CUST01746,2026-05-05 16:54:00,Organic Search,Tablet,Chrome,France
+WEB00916,CUST00419,2025-12-08 10:22:27,Organic Search,Desktop,Firefox,Germany
+WEB00917,CUST00085,2025-10-17 13:56:17,Referral,Tablet,Safari,Singapore
+WEB00918,CUST00134,2025-05-02 20:39:19,Social Media,Mobile,Edge,USA
+WEB00919,CUST00530,2025-01-21 14:12:55,Advertisement,Tablet,Firefox,Germany
+WEB00920,CUST00036,2025-06-04 00:56:36,Referral,Desktop,Chrome,Australia
+WEB00921,CUST01385,2025-05-13 17:59:37,Referral,Desktop,Safari,France
+WEB00922,CUST00081,2025-11-28 05:04:30,Referral,Tablet,Firefox,Germany
+WEB00923,CUST01369,2026-03-03 17:51:11,Social Media,Tablet,Edge,Australia
+WEB00924,CUST00483,2026-02-22 00:44:58,Organic Search,Tablet,Firefox,Singapore
+WEB00925,CUST00154,2026-05-10 06:20:14,Advertisement,Tablet,Safari,Singapore
+WEB00926,CUST00776,2025-10-11 13:26:21,Direct,Tablet,Edge,USA
+WEB00927,CUST00494,2025-05-24 14:00:50,Direct,Tablet,Firefox,Singapore
+WEB00928,CUST01032,2025-08-05 10:22:50,Advertisement,Mobile,Safari,India
+WEB00929,CUST00456,2025-07-22 09:50:17,Referral,Mobile,Safari,France
+WEB00930,CUST01864,2026-05-22 10:38:45,Direct,Desktop,Chrome,France
+WEB00931,CUST01919,2026-01-24 16:34:00,Referral,Tablet,Edge,France
+WEB00932,CUST00692,2026-05-12 15:07:50,Direct,Desktop,Chrome,USA
+WEB00933,CUST01842,2025-06-23 03:25:22,Organic Search,Mobile,Safari,France
+WEB00934,CUST01949,2025-06-11 19:50:03,Direct,Desktop,Firefox,Singapore
+WEB00935,CUST01964,2026-05-17 10:19:45,Referral,Desktop,Chrome,Singapore
+WEB00936,CUST00639,2026-03-04 00:17:04,Referral,Desktop,Chrome,UK
+WEB00937,CUST00293,2025-01-26 09:24:43,Advertisement,Tablet,Chrome,Singapore
+WEB00938,CUST01300,2026-01-07 15:22:31,Direct,Desktop,Firefox,UK
+WEB00939,CUST01391,2025-01-15 17:57:26,Advertisement,Tablet,Edge,India
+WEB00940,CUST00970,2025-02-11 22:55:18,Advertisement,Desktop,Edge,UK
+WEB00941,CUST01046,2025-02-21 08:11:58,Referral,Tablet,Chrome,Australia
+WEB00942,CUST00743,2025-02-07 14:13:11,Referral,Tablet,Edge,UK
+WEB00943,CUST01503,2025-10-04 06:26:49,Organic Search,Tablet,Edge,Germany
+WEB00944,CUST01664,2025-01-01 04:07:50,Referral,Tablet,Edge,UK
+WEB00945,CUST00424,2025-11-26 00:21:16,Advertisement,Tablet,Edge,USA
+WEB00946,CUST01770,2025-03-29 01:49:24,Referral,Desktop,Chrome,India
+WEB00947,CUST00060,2025-05-29 15:30:22,Advertisement,Tablet,Safari,France
+WEB00948,CUST01338,2025-03-12 15:01:46,Referral,Mobile,Edge,Singapore
+WEB00949,CUST00227,2025-05-30 00:55:05,Organic Search,Desktop,Chrome,UK
+WEB00950,CUST00395,2025-03-02 21:36:27,Social Media,Tablet,Edge,France
+WEB00951,CUST01012,2025-11-15 18:51:08,Advertisement,Tablet,Edge,Australia
+WEB00952,CUST00509,2025-08-29 11:13:15,Organic Search,Tablet,Safari,France
+WEB00953,CUST01960,2026-06-26 15:36:14,Organic Search,Mobile,Edge,USA
+WEB00954,CUST01471,2026-03-07 06:18:57,Direct,Mobile,Safari,Australia
+WEB00955,CUST00071,2025-08-30 21:34:33,Social Media,Desktop,Edge,USA
+WEB00956,CUST00632,2025-09-30 21:17:03,Referral,Tablet,Edge,France
+WEB00957,CUST01175,2025-01-12 10:40:54,Advertisement,Desktop,Chrome,France
+WEB00958,CUST00304,2025-11-25 20:24:53,Social Media,Desktop,Chrome,Singapore
+WEB00959,CUST00396,2025-11-27 10:54:48,Referral,Mobile,Edge,Germany
+WEB00960,CUST00072,2025-07-20 06:41:14,Direct,Desktop,Edge,Singapore
+WEB00961,CUST00145,2025-06-29 23:58:05,Social Media,Tablet,Edge,Germany
+WEB00962,CUST01914,2026-01-27 23:26:13,Direct,Mobile,Edge,Singapore
+WEB00963,CUST01248,2026-01-13 13:55:06,Direct,Desktop,Chrome,USA
+WEB00964,CUST00590,2025-07-17 13:43:29,Referral,Mobile,Edge,USA
+WEB00965,CUST00750,2026-04-01 07:43:31,Organic Search,Mobile,Chrome,Australia
+WEB00966,CUST01056,2025-07-04 19:18:53,Direct,Mobile,Firefox,UK
+WEB00967,CUST01487,2025-09-13 07:49:24,Advertisement,Desktop,Chrome,France
+WEB00968,CUST00583,2026-07-18 03:57:32,Referral,Tablet,Edge,Germany
+WEB00969,CUST00738,2026-02-18 00:12:18,Social Media,Desktop,Edge,Singapore
+WEB00970,CUST00992,2025-09-19 17:47:13,Advertisement,Tablet,Edge,Germany
+WEB00971,CUST00201,2025-12-13 00:30:20,Social Media,Desktop,Chrome,UK
+WEB00972,CUST00407,2025-09-24 07:25:12,Referral,Desktop,Chrome,India
+WEB00973,CUST01466,2025-04-15 07:42:51,Direct,Mobile,Safari,France
+WEB00974,CUST01644,2025-02-13 07:09:20,Organic Search,Desktop,Safari,USA
+WEB00975,CUST01307,2026-05-08 04:16:05,Advertisement,Mobile,Chrome,Germany
+WEB00976,CUST01852,2026-07-04 02:30:54,Social Media,Desktop,Firefox,Australia
+WEB00977,CUST01807,2026-06-16 06:02:11,Direct,Desktop,Edge,Singapore
+WEB00978,CUST01310,2025-08-08 15:20:44,Advertisement,Mobile,Safari,Germany
+WEB00979,CUST01394,2025-09-06 06:42:35,Social Media,Desktop,Edge,India
+WEB00980,CUST00665,2026-02-10 09:39:55,Referral,Desktop,Chrome,UK
+WEB00981,CUST00026,2025-08-03 11:20:18,Direct,Desktop,Safari,Australia
+WEB00982,CUST00554,2026-02-04 23:36:07,Advertisement,Desktop,Safari,Germany
+WEB00983,CUST01658,2025-10-19 11:12:50,Direct,Tablet,Chrome,Australia
+WEB00984,CUST01492,2026-06-12 23:06:30,Advertisement,Tablet,Safari,Germany
+WEB00985,CUST01107,2026-05-30 10:52:50,Direct,Desktop,Edge,UK
+WEB00986,CUST01117,2026-06-08 18:21:33,Social Media,Mobile,Safari,France
+WEB00987,CUST00023,2026-04-24 22:20:54,Advertisement,Tablet,Firefox,India
+WEB00988,CUST00376,2025-04-02 15:24:39,Advertisement,Desktop,Chrome,Singapore
+WEB00989,CUST01605,2026-04-10 09:54:22,Organic Search,Mobile,Safari,India
+WEB00990,CUST01850,2025-03-06 21:17:54,Direct,Tablet,Edge,India
+WEB00991,CUST01542,2026-03-05 17:02:16,Organic Search,Mobile,Chrome,France
+WEB00992,CUST00425,2026-06-14 22:39:27,Organic Search,Desktop,Safari,UK
+WEB00993,CUST02000,2026-05-22 05:30:58,Referral,Mobile,Edge,Australia
+WEB00994,CUST00999,2025-06-13 05:49:13,Referral,Tablet,Firefox,Singapore
+WEB00995,CUST00966,2026-03-04 02:44:25,Social Media,Mobile,Edge,Germany
+WEB00996,CUST00834,2026-05-14 13:11:06,Referral,Desktop,Safari,UK
+WEB00997,CUST01558,2025-01-25 06:59:01,Advertisement,Desktop,Edge,Australia
+WEB00998,CUST01408,2025-08-31 19:59:33,Referral,Tablet,Edge,India
+WEB00999,CUST01427,2025-04-10 10:03:11,Direct,Mobile,Safari,UK
+WEB01000,CUST00004,2025-07-27 18:02:47,Organic Search,Desktop,Edge,India
+WEB01001,CUST00991,2026-06-19 00:55:22,Advertisement,Mobile,Chrome,India
+WEB01002,CUST00269,2025-04-17 01:39:42,Direct,Tablet,Edge,Singapore
+WEB01003,CUST00348,2026-02-08 05:37:49,Direct,Mobile,Edge,USA
+WEB01004,CUST01462,2026-08-03 17:11:43,Advertisement,Tablet,Safari,India
+WEB01005,CUST00889,2026-05-14 03:37:08,Direct,Tablet,Chrome,Germany
+WEB01006,CUST01826,2025-02-08 03:20:47,Advertisement,Desktop,Chrome,France
+WEB01007,CUST00313,2026-07-15 09:41:32,Social Media,Tablet,Firefox,France
+WEB01008,CUST01902,2025-11-09 00:56:37,Referral,Mobile,Edge,USA
+WEB01009,CUST00610,2026-08-17 11:29:32,Referral,Mobile,Chrome,UK
+WEB01010,CUST01286,2026-03-05 10:02:09,Organic Search,Desktop,Safari,Australia
+WEB01011,CUST01746,2026-03-25 19:28:40,Advertisement,Desktop,Chrome,France
+WEB01012,CUST00292,2025-09-07 02:41:38,Social Media,Tablet,Safari,India
+WEB01013,CUST00507,2025-04-04 10:07:24,Social Media,Tablet,Firefox,Germany
+WEB01014,CUST00603,2025-06-26 03:55:51,Advertisement,Desktop,Safari,France
+WEB01015,CUST01653,2025-10-27 02:14:35,Organic Search,Mobile,Safari,Australia
+WEB01016,CUST01843,2025-04-04 17:51:44,Social Media,Desktop,Chrome,Australia
+WEB01017,CUST00065,2025-01-11 19:49:34,Advertisement,Mobile,Firefox,France
+WEB01018,CUST01588,2025-04-27 06:08:36,Advertisement,Desktop,Firefox,USA
+WEB01019,CUST00978,2026-04-08 15:19:21,Referral,Mobile,Edge,UK
+WEB01020,CUST01403,2026-07-18 03:50:05,Social Media,Tablet,Edge,France
+WEB01021,CUST01482,2026-05-06 15:53:18,Advertisement,Mobile,Firefox,France
+WEB01022,CUST01326,2025-09-04 00:52:53,Referral,Desktop,Safari,Australia
+WEB01023,CUST01732,2025-10-30 19:37:55,Direct,Mobile,Safari,Australia
+WEB01024,CUST00441,2025-01-20 12:23:51,Direct,Tablet,Firefox,India
+WEB01025,CUST00051,2025-11-07 01:55:36,Referral,Tablet,Edge,France
+WEB01026,CUST01048,2025-08-22 02:45:22,Advertisement,Tablet,Safari,UK
+WEB01027,CUST01593,2025-08-14 02:05:28,Advertisement,Desktop,Chrome,Singapore
+WEB01028,CUST00427,2025-12-31 01:13:48,Referral,Mobile,Chrome,Australia
+WEB01029,CUST01783,2025-09-07 10:37:14,Advertisement,Mobile,Chrome,Germany
+WEB01030,CUST00248,2026-01-04 10:48:50,Referral,Tablet,Safari,USA
+WEB01031,CUST00307,2026-05-17 01:04:46,Referral,Desktop,Chrome,India
+WEB01032,CUST01765,2025-02-26 03:16:48,Organic Search,Mobile,Edge,Australia
+WEB01033,CUST00105,2026-06-21 13:25:26,Referral,Mobile,Chrome,Australia
+WEB01034,CUST01950,2025-06-05 15:50:38,Referral,Desktop,Edge,USA
+WEB01035,CUST00409,2026-03-08 03:34:39,Direct,Desktop,Edge,India
+WEB01036,CUST00328,2026-03-15 01:49:27,Referral,Tablet,Safari,USA
+WEB01037,CUST00474,2026-08-13 17:50:15,Referral,Tablet,Chrome,USA
+WEB01038,CUST01658,2026-08-11 20:00:50,Organic Search,Desktop,Chrome,Singapore
+WEB01039,CUST00381,2025-05-04 03:44:01,Organic Search,Desktop,Firefox,USA
+WEB01040,CUST01242,2025-11-02 10:29:05,Social Media,Tablet,Chrome,Singapore
+WEB01041,CUST01182,2026-06-26 12:25:29,Referral,Tablet,Edge,France
+WEB01042,CUST01315,2025-02-21 06:06:17,Referral,Mobile,Chrome,France
+WEB01043,CUST00507,2026-01-23 07:50:47,Advertisement,Mobile,Firefox,France
+WEB01044,CUST01582,2026-06-06 09:05:58,Organic Search,Tablet,Firefox,Australia
+WEB01045,CUST01443,2025-09-18 15:24:24,Direct,Desktop,Firefox,USA
+WEB01046,CUST01292,2025-08-28 02:57:33,Social Media,Mobile,Firefox,Singapore
+WEB01047,CUST01031,2026-03-14 09:09:41,Referral,Desktop,Edge,France
+WEB01048,CUST00953,2025-04-09 03:49:23,Referral,Mobile,Safari,Singapore
+WEB01049,CUST00913,2025-05-26 23:18:48,Organic Search,Desktop,Safari,Australia
+WEB01050,CUST01749,2025-02-22 18:02:41,Direct,Tablet,Safari,Germany
+WEB01051,CUST01736,2026-06-04 20:44:55,Social Media,Desktop,Safari,France
+WEB01052,CUST00487,2026-04-12 03:50:22,Referral,Mobile,Firefox,India
+WEB01053,CUST01192,2025-06-09 00:31:10,Direct,Mobile,Safari,Australia
+WEB01054,CUST01471,2025-12-27 21:25:47,Advertisement,Desktop,Firefox,India
+WEB01055,CUST00529,2026-02-18 13:06:23,Advertisement,Desktop,Safari,France
+WEB01056,CUST00368,2025-05-04 19:27:23,Social Media,Mobile,Edge,France
+WEB01057,CUST00179,2025-08-27 19:45:39,Direct,Tablet,Firefox,UK
+WEB01058,CUST00301,2025-07-30 20:31:53,Referral,Desktop,Edge,USA
+WEB01059,CUST01078,2025-08-07 02:28:27,Organic Search,Mobile,Edge,India
+WEB01060,CUST00950,2026-01-30 09:36:00,Direct,Tablet,Safari,USA
+WEB01061,CUST01495,2025-04-24 17:35:29,Organic Search,Desktop,Chrome,India
+WEB01062,CUST01619,2025-05-26 15:28:06,Referral,Mobile,Edge,Singapore
+WEB01063,CUST01349,2026-05-16 05:32:03,Referral,Mobile,Safari,India
+WEB01064,CUST00893,2025-04-23 13:39:29,Advertisement,Desktop,Edge,France
+WEB01065,CUST01610,2025-09-20 17:49:30,Direct,Tablet,Firefox,Germany
+WEB01066,CUST01786,2026-03-22 09:27:01,Referral,Mobile,Safari,Germany
+WEB01067,CUST01558,2025-09-06 05:07:19,Social Media,Mobile,Safari,France
+WEB01068,CUST01291,2025-10-03 11:08:57,Organic Search,Desktop,Safari,France
+WEB01069,CUST01040,2025-03-08 01:32:43,Direct,Mobile,Chrome,Singapore
+WEB01070,CUST00586,2025-09-16 06:01:21,Advertisement,Desktop,Firefox,Germany
+WEB01071,CUST00530,2025-03-27 05:01:19,Organic Search,Mobile,Safari,UK
+WEB01072,CUST01824,2025-04-04 00:17:44,Referral,Mobile,Firefox,Singapore
+WEB01073,CUST01650,2025-08-09 09:39:34,Referral,Desktop,Safari,Germany
+WEB01074,CUST01743,2026-01-14 17:19:05,Social Media,Desktop,Edge,India
+WEB01075,CUST00880,2025-01-26 16:57:16,Social Media,Mobile,Safari,India
+WEB01076,CUST01514,2025-03-09 11:56:23,Advertisement,Mobile,Safari,UK
+WEB01077,CUST00279,2025-12-23 22:39:21,Advertisement,Tablet,Safari,UK
+WEB01078,CUST01802,2026-01-02 12:48:18,Organic Search,Mobile,Safari,Germany
+WEB01079,CUST01787,2025-04-22 12:35:21,Direct,Desktop,Firefox,India
+WEB01080,CUST01232,2025-02-05 15:14:02,Advertisement,Mobile,Firefox,Germany
+WEB01081,CUST00412,2026-03-10 11:39:20,Direct,Tablet,Firefox,Germany
+WEB01082,CUST01577,2026-07-29 03:13:52,Referral,Mobile,Edge,Singapore
+WEB01083,CUST00334,2026-01-21 18:08:06,Direct,Tablet,Safari,India
+WEB01084,CUST00104,2025-05-24 18:02:03,Referral,Tablet,Chrome,France
+WEB01085,CUST00382,2025-10-09 01:14:04,Direct,Mobile,Safari,France
+WEB01086,CUST00924,2026-06-05 15:37:29,Direct,Tablet,Firefox,Singapore
+WEB01087,CUST00416,2025-05-01 14:12:27,Organic Search,Tablet,Edge,France
+WEB01088,CUST01366,2025-02-12 06:31:05,Organic Search,Mobile,Firefox,Germany
+WEB01089,CUST00554,2026-04-07 11:17:00,Organic Search,Desktop,Chrome,India
+WEB01090,CUST01556,2026-01-26 05:14:56,Referral,Mobile,Firefox,UK
+WEB01091,CUST01133,2026-08-15 09:50:38,Organic Search,Desktop,Safari,Germany
+WEB01092,CUST01254,2025-10-21 14:28:01,Organic Search,Desktop,Chrome,USA
+WEB01093,CUST00426,2026-02-28 19:41:03,Advertisement,Mobile,Edge,Germany
+WEB01094,CUST01204,2025-09-29 01:02:43,Direct,Mobile,Firefox,Australia
+WEB01095,CUST01730,2026-03-09 16:10:17,Advertisement,Desktop,Firefox,India
+WEB01096,CUST01119,2026-02-07 09:54:30,Social Media,Tablet,Safari,Singapore
+WEB01097,CUST00860,2025-04-27 22:06:53,Advertisement,Tablet,Firefox,UK
+WEB01098,CUST01176,2026-05-15 05:24:44,Advertisement,Tablet,Firefox,Germany
+WEB01099,CUST00946,2025-08-29 03:12:03,Organic Search,Desktop,Safari,Australia
+WEB01100,CUST00014,2025-10-10 16:28:51,Referral,Tablet,Edge,Singapore
+WEB01101,CUST01381,2025-02-19 10:52:27,Referral,Mobile,Chrome,France
+WEB01102,CUST00999,2025-06-11 21:55:29,Direct,Tablet,Safari,France
+WEB01103,CUST00113,2025-02-19 00:56:28,Direct,Desktop,Firefox,UK
+WEB01104,CUST01748,2026-07-14 06:09:52,Organic Search,Tablet,Firefox,Germany
+WEB01105,CUST00631,2025-09-24 07:26:49,Referral,Mobile,Edge,Singapore
+WEB01106,CUST01548,2025-03-24 19:12:53,Advertisement,Tablet,Safari,Germany
+WEB01107,CUST01373,2025-05-30 04:56:24,Social Media,Mobile,Chrome,USA
+WEB01108,CUST01101,2026-01-29 10:53:00,Referral,Mobile,Chrome,India
+WEB01109,CUST00767,2026-01-20 18:38:54,Advertisement,Desktop,Safari,India
+WEB01110,CUST01768,2025-12-30 07:06:41,Advertisement,Desktop,Chrome,USA
+WEB01111,CUST00186,2026-07-10 11:54:27,Referral,Mobile,Chrome,Singapore
+WEB01112,CUST00363,2026-07-31 10:40:50,Organic Search,Desktop,Safari,India
+WEB01113,CUST00982,2025-09-13 18:36:28,Referral,Tablet,Edge,India
+WEB01114,CUST00028,2026-02-22 15:20:42,Organic Search,Desktop,Safari,UK
+WEB01115,CUST00435,2025-03-17 06:51:22,Organic Search,Desktop,Chrome,UK
+WEB01116,CUST00243,2025-02-19 10:48:08,Advertisement,Desktop,Chrome,Australia
+WEB01117,CUST01764,2025-05-04 01:31:16,Social Media,Desktop,Firefox,France
+WEB01118,CUST00084,2025-08-21 19:58:15,Social Media,Tablet,Safari,France
+WEB01119,CUST00239,2025-09-30 16:35:42,Direct,Tablet,Edge,Australia
+WEB01120,CUST01727,2026-08-02 13:41:10,Direct,Desktop,Firefox,Germany
+WEB01121,CUST00152,2025-10-03 23:06:05,Advertisement,Mobile,Chrome,Australia
+WEB01122,CUST00548,2025-10-08 11:44:02,Advertisement,Tablet,Edge,UK
+WEB01123,CUST01121,2025-11-22 08:49:29,Direct,Tablet,Firefox,France
+WEB01124,CUST00141,2025-02-27 22:30:12,Direct,Mobile,Chrome,India
+WEB01125,CUST00402,2026-06-22 13:28:20,Social Media,Desktop,Chrome,Germany
+WEB01126,CUST01843,2025-05-30 15:00:44,Referral,Tablet,Firefox,Australia
+WEB01127,CUST01720,2026-06-28 04:12:04,Advertisement,Desktop,Chrome,UK
+WEB01128,CUST01298,2026-03-22 23:14:13,Organic Search,Tablet,Chrome,Germany
+WEB01129,CUST00356,2026-01-17 19:49:40,Direct,Mobile,Chrome,USA
+WEB01130,CUST01919,2026-06-13 22:27:06,Referral,Tablet,Firefox,India
+WEB01131,CUST00948,2025-04-03 02:14:16,Organic Search,Desktop,Firefox,Germany
+WEB01132,CUST00770,2026-03-08 02:38:56,Advertisement,Tablet,Safari,UK
+WEB01133,CUST01504,2025-04-10 16:58:49,Social Media,Mobile,Chrome,USA
+WEB01134,CUST01388,2026-08-18 14:26:13,Advertisement,Tablet,Firefox,France
+WEB01135,CUST00102,2025-06-28 12:11:42,Direct,Mobile,Safari,Germany
+WEB01136,CUST01249,2025-07-28 02:39:35,Advertisement,Mobile,Safari,France
+WEB01137,CUST02000,2026-03-08 21:47:32,Direct,Desktop,Firefox,France
+WEB01138,CUST01358,2025-08-31 15:49:19,Referral,Tablet,Firefox,USA
+WEB01139,CUST01535,2026-05-16 23:36:51,Direct,Desktop,Chrome,USA
+WEB01140,CUST01350,2025-08-25 22:50:04,Referral,Desktop,Firefox,USA
+WEB01141,CUST00672,2026-01-25 23:43:15,Social Media,Tablet,Chrome,France
+WEB01142,CUST00403,2025-04-25 02:58:22,Advertisement,Desktop,Edge,Australia
+WEB01143,CUST00943,2026-05-19 11:06:46,Advertisement,Desktop,Edge,UK
+WEB01144,CUST00588,2025-01-16 10:21:57,Organic Search,Mobile,Firefox,India
+WEB01145,CUST00312,2025-05-23 19:42:21,Referral,Tablet,Safari,France
+WEB01146,CUST01254,2026-04-14 14:23:00,Referral,Desktop,Safari,Australia
+WEB01147,CUST00788,2026-02-10 14:20:50,Social Media,Mobile,Safari,UK
+WEB01148,CUST01389,2025-04-16 16:39:18,Direct,Tablet,Chrome,Germany
+WEB01149,CUST00630,2025-06-12 16:06:10,Direct,Desktop,Chrome,Singapore
+WEB01150,CUST00425,2025-06-21 12:01:29,Advertisement,Tablet,Chrome,Singapore
+WEB01151,CUST00615,2026-01-26 11:36:05,Organic Search,Mobile,Safari,UK
+WEB01152,CUST00016,2025-07-22 16:15:59,Referral,Desktop,Firefox,UK
+WEB01153,CUST01542,2025-01-17 20:44:24,Direct,Desktop,Firefox,USA
+WEB01154,CUST01372,2025-08-20 08:09:38,Social Media,Mobile,Safari,Germany
+WEB01155,CUST01603,2025-12-30 10:34:30,Referral,Mobile,Edge,Germany
+WEB01156,CUST01345,2025-08-23 14:38:31,Referral,Desktop,Edge,USA
+WEB01157,CUST00733,2026-06-15 16:15:54,Direct,Tablet,Firefox,USA
+WEB01158,CUST01768,2026-01-25 16:37:55,Social Media,Desktop,Edge,Germany
+WEB01159,CUST00233,2025-06-06 02:05:30,Direct,Mobile,Chrome,USA
+WEB01160,CUST01264,2026-01-22 23:01:48,Organic Search,Mobile,Safari,Germany
+WEB01161,CUST00087,2026-05-31 05:14:35,Advertisement,Desktop,Safari,France
+WEB01162,CUST01489,2026-07-30 11:15:16,Organic Search,Desktop,Edge,Singapore
+WEB01163,CUST01904,2025-02-02 12:10:12,Referral,Desktop,Chrome,Singapore
+WEB01164,CUST01235,2025-06-12 16:09:19,Organic Search,Tablet,Edge,Australia
+WEB01165,CUST00207,2026-01-26 16:09:37,Direct,Tablet,Edge,India
+WEB01166,CUST00162,2025-01-11 17:21:19,Direct,Mobile,Edge,USA
+WEB01167,CUST01307,2025-09-08 01:37:29,Direct,Mobile,Safari,Singapore
+WEB01168,CUST00952,2025-12-20 18:33:20,Organic Search,Desktop,Firefox,France
+WEB01169,CUST00181,2025-01-17 14:51:19,Referral,Desktop,Safari,France
+WEB01170,CUST01229,2025-03-11 16:51:39,Direct,Mobile,Chrome,France
+WEB01171,CUST01588,2026-01-18 09:09:06,Referral,Desktop,Chrome,Germany
+WEB01172,CUST01277,2025-10-09 03:22:50,Organic Search,Mobile,Edge,Singapore
+WEB01173,CUST00722,2025-04-06 07:48:31,Social Media,Mobile,Chrome,India
+WEB01174,CUST01973,2025-01-13 11:45:55,Referral,Mobile,Firefox,Australia
+WEB01175,CUST00659,2025-10-23 23:06:13,Direct,Desktop,Chrome,Singapore
+WEB01176,CUST01990,2026-07-04 10:39:07,Referral,Mobile,Chrome,France
+WEB01177,CUST00050,2025-05-27 20:32:05,Advertisement,Desktop,Chrome,Singapore
+WEB01178,CUST00185,2025-09-07 19:06:05,Social Media,Mobile,Edge,Singapore
+WEB01179,CUST01930,2025-03-15 22:36:54,Social Media,Tablet,Edge,USA
+WEB01180,CUST00263,2025-08-14 22:20:19,Organic Search,Tablet,Edge,France
+WEB01181,CUST00969,2025-03-08 11:24:18,Advertisement,Mobile,Edge,UK
+WEB01182,CUST01339,2025-05-18 10:57:53,Social Media,Desktop,Chrome,Germany
+WEB01183,CUST00300,2026-01-11 06:35:33,Direct,Mobile,Chrome,Australia
+WEB01184,CUST00334,2025-10-10 03:04:12,Direct,Desktop,Safari,France
+WEB01185,CUST00255,2025-04-28 23:12:06,Organic Search,Desktop,Chrome,Singapore
+WEB01186,CUST01405,2025-03-25 10:08:14,Direct,Desktop,Edge,India
+WEB01187,CUST01363,2025-07-04 04:30:27,Referral,Desktop,Chrome,France
+WEB01188,CUST01474,2026-05-07 23:50:23,Direct,Tablet,Edge,Australia
+WEB01189,CUST00416,2025-05-01 08:05:19,Advertisement,Tablet,Firefox,USA
+WEB01190,CUST01791,2025-07-14 04:33:09,Direct,Tablet,Firefox,Germany
+WEB01191,CUST00992,2025-03-17 08:43:19,Referral,Desktop,Safari,Germany
+WEB01192,CUST00524,2026-01-02 23:50:12,Advertisement,Desktop,Chrome,France
+WEB01193,CUST00388,2025-01-02 15:16:18,Advertisement,Mobile,Firefox,India
+WEB01194,CUST00805,2025-04-29 18:41:55,Organic Search,Mobile,Firefox,UK
+WEB01195,CUST00767,2025-10-14 21:53:17,Direct,Tablet,Chrome,Australia
+WEB01196,CUST01669,2026-02-02 04:00:31,Referral,Tablet,Chrome,Germany
+WEB01197,CUST01532,2026-04-04 09:34:48,Social Media,Tablet,Firefox,Singapore
+WEB01198,CUST01295,2026-03-20 02:22:10,Advertisement,Tablet,Firefox,Germany
+WEB01199,CUST00056,2025-02-11 09:57:36,Advertisement,Mobile,Chrome,Germany
+WEB01200,CUST00935,2025-12-16 07:07:31,Direct,Desktop,Chrome,France
+WEB01201,CUST00457,2025-04-13 14:56:11,Organic Search,Tablet,Chrome,Germany
+WEB01202,CUST01154,2025-12-20 16:39:22,Referral,Mobile,Safari,Germany
+WEB01203,CUST01843,2026-06-14 21:29:47,Referral,Tablet,Chrome,India
+WEB01204,CUST01792,2025-01-16 09:48:14,Advertisement,Tablet,Safari,Germany
+WEB01205,CUST01318,2026-06-29 04:32:15,Referral,Desktop,Chrome,Singapore
+WEB01206,CUST00416,2026-07-07 01:36:41,Direct,Tablet,Safari,France
+WEB01207,CUST01767,2026-07-27 20:08:29,Advertisement,Mobile,Firefox,Australia
+WEB01208,CUST01263,2025-01-21 01:19:07,Advertisement,Desktop,Safari,Australia
+WEB01209,CUST00049,2026-01-10 07:23:32,Advertisement,Desktop,Edge,France
+WEB01210,CUST00068,2025-06-06 10:10:16,Referral,Mobile,Firefox,USA
+WEB01211,CUST01756,2025-01-10 08:15:37,Direct,Mobile,Edge,Singapore
+WEB01212,CUST00222,2025-02-07 06:00:03,Referral,Tablet,Chrome,Singapore
+WEB01213,CUST01563,2025-03-18 04:09:12,Social Media,Desktop,Firefox,Australia
+WEB01214,CUST00048,2025-09-03 19:55:03,Direct,Mobile,Chrome,UK
+WEB01215,CUST00252,2025-05-12 00:55:15,Organic Search,Desktop,Edge,Singapore
+WEB01216,CUST00018,2025-02-17 04:32:02,Referral,Mobile,Chrome,Germany
+WEB01217,CUST00886,2025-07-30 01:25:22,Direct,Desktop,Firefox,France
+WEB01218,CUST01619,2025-10-15 11:01:36,Advertisement,Desktop,Safari,Singapore
+WEB01219,CUST00776,2025-07-28 17:29:12,Advertisement,Desktop,Chrome,France
+WEB01220,CUST00651,2026-01-08 18:15:31,Organic Search,Mobile,Safari,UK
+WEB01221,CUST01729,2025-04-16 22:45:13,Organic Search,Desktop,Edge,Singapore
+WEB01222,CUST01119,2025-07-13 13:24:20,Referral,Desktop,Chrome,Germany
+WEB01223,CUST01326,2025-04-16 10:39:37,Social Media,Desktop,Safari,UK
+WEB01224,CUST01468,2025-05-15 08:27:08,Social Media,Desktop,Chrome,USA
+WEB01225,CUST01477,2026-07-23 23:44:18,Referral,Tablet,Firefox,USA
+WEB01226,CUST00322,2026-01-19 20:00:30,Advertisement,Mobile,Chrome,Germany
+WEB01227,CUST01828,2025-02-23 23:15:42,Referral,Desktop,Chrome,Singapore
+WEB01228,CUST01274,2025-04-11 00:34:42,Social Media,Tablet,Safari,Germany
+WEB01229,CUST00627,2025-01-12 09:58:02,Advertisement,Desktop,Edge,UK
+WEB01230,CUST01286,2026-05-22 21:46:36,Referral,Mobile,Edge,USA
+WEB01231,CUST00137,2025-01-15 17:18:38,Referral,Mobile,Safari,India
+WEB01232,CUST01680,2025-02-16 06:11:34,Organic Search,Mobile,Safari,USA
+WEB01233,CUST00871,2025-11-29 13:42:08,Social Media,Mobile,Chrome,Australia
+WEB01234,CUST00119,2025-10-04 09:23:15,Organic Search,Desktop,Safari,Australia
+WEB01235,CUST01879,2025-05-13 07:09:40,Referral,Desktop,Edge,UK
+WEB01236,CUST00872,2025-10-05 09:05:07,Organic Search,Tablet,Safari,Germany
+WEB01237,CUST01352,2025-10-14 06:03:52,Advertisement,Mobile,Edge,Germany
+WEB01238,CUST01501,2025-03-23 00:49:25,Referral,Tablet,Firefox,India
+WEB01239,CUST00073,2025-10-05 04:37:13,Organic Search,Mobile,Safari,Germany
+WEB01240,CUST00764,2026-04-28 02:49:12,Direct,Tablet,Chrome,France
+WEB01241,CUST01969,2026-06-23 14:34:16,Direct,Mobile,Chrome,France
+WEB01242,CUST01101,2026-01-04 08:41:41,Advertisement,Tablet,Chrome,India
+WEB01243,CUST01080,2025-04-07 08:21:55,Referral,Mobile,Edge,Singapore
+WEB01244,CUST01938,2026-04-16 11:07:41,Social Media,Mobile,Safari,Germany
+WEB01245,CUST00793,2025-07-05 20:20:23,Referral,Mobile,Safari,USA
+WEB01246,CUST00908,2025-04-04 21:35:25,Direct,Tablet,Firefox,India
+WEB01247,CUST00990,2026-02-10 00:52:06,Direct,Mobile,Edge,USA
+WEB01248,CUST01759,2025-04-19 16:42:28,Referral,Mobile,Firefox,India
+WEB01249,CUST01075,2025-11-12 04:10:17,Social Media,Desktop,Safari,UK
+WEB01250,CUST01277,2025-10-29 07:07:11,Direct,Mobile,Firefox,France
+WEB01251,CUST01841,2025-12-14 23:07:47,Direct,Desktop,Firefox,Germany
+WEB01252,CUST00390,2025-07-30 06:22:23,Advertisement,Mobile,Edge,Germany
+WEB01253,CUST00728,2025-10-05 18:23:13,Direct,Mobile,Safari,Australia
+WEB01254,CUST01227,2025-03-16 00:59:07,Referral,Desktop,Firefox,USA
+WEB01255,CUST01324,2026-05-05 00:21:18,Direct,Tablet,Firefox,Australia
+WEB01256,CUST00400,2026-02-04 06:40:33,Referral,Tablet,Safari,Singapore
+WEB01257,CUST00230,2025-03-13 23:38:06,Direct,Mobile,Firefox,Germany
+WEB01258,CUST00878,2026-05-05 04:51:28,Organic Search,Mobile,Chrome,France
+WEB01259,CUST00849,2026-07-22 22:14:44,Social Media,Mobile,Firefox,Australia
+WEB01260,CUST00637,2026-04-05 11:50:43,Referral,Desktop,Chrome,India
+WEB01261,CUST01858,2025-04-19 07:21:36,Organic Search,Mobile,Chrome,USA
+WEB01262,CUST00403,2026-02-08 10:52:31,Social Media,Tablet,Chrome,Australia
+WEB01263,CUST01527,2025-04-22 09:57:02,Referral,Mobile,Chrome,Australia
+WEB01264,CUST01818,2026-04-18 18:48:40,Organic Search,Mobile,Safari,Australia
+WEB01265,CUST01859,2025-05-18 19:51:48,Organic Search,Tablet,Chrome,France
+WEB01266,CUST01743,2026-07-02 14:54:49,Social Media,Desktop,Firefox,India
+WEB01267,CUST00258,2026-03-18 17:57:38,Direct,Mobile,Safari,India
+WEB01268,CUST01477,2026-05-06 17:40:36,Referral,Desktop,Firefox,USA
+WEB01269,CUST00933,2025-12-23 16:31:10,Advertisement,Desktop,Chrome,Germany
+WEB01270,CUST01998,2025-03-06 04:18:38,Advertisement,Tablet,Chrome,Australia
+WEB01271,CUST01050,2025-03-03 10:15:55,Social Media,Mobile,Edge,UK
+WEB01272,CUST00350,2026-04-28 17:14:37,Advertisement,Tablet,Edge,Australia
+WEB01273,CUST00189,2026-06-05 12:11:36,Referral,Desktop,Safari,Singapore
+WEB01274,CUST01376,2025-08-16 01:20:40,Direct,Desktop,Chrome,France
+WEB01275,CUST01042,2026-08-13 10:35:42,Social Media,Mobile,Safari,UK
+WEB01276,CUST00667,2025-06-21 04:22:06,Direct,Tablet,Firefox,Singapore
+WEB01277,CUST00760,2025-10-24 13:37:29,Social Media,Tablet,Edge,UK
+WEB01278,CUST01551,2025-09-17 05:43:24,Advertisement,Desktop,Edge,USA
+WEB01279,CUST00018,2025-01-14 10:31:18,Organic Search,Desktop,Firefox,USA
+WEB01280,CUST00351,2025-06-12 21:23:19,Referral,Tablet,Safari,Australia
+WEB01281,CUST00219,2025-01-14 12:46:09,Advertisement,Mobile,Edge,France
+WEB01282,CUST01061,2025-12-12 06:00:39,Referral,Desktop,Firefox,Germany
+WEB01283,CUST00977,2025-11-02 06:56:40,Direct,Desktop,Firefox,Germany
+WEB01284,CUST01558,2025-04-27 20:35:05,Social Media,Desktop,Chrome,Germany
+WEB01285,CUST00217,2025-11-14 03:57:27,Organic Search,Tablet,Safari,France
+WEB01286,CUST00974,2025-01-21 09:16:44,Advertisement,Tablet,Chrome,India
+WEB01287,CUST00799,2026-01-22 15:01:03,Organic Search,Mobile,Chrome,Australia
+WEB01288,CUST01534,2025-10-18 09:00:37,Advertisement,Mobile,Chrome,Singapore
+WEB01289,CUST01976,2025-08-07 18:17:26,Direct,Mobile,Edge,USA
+WEB01290,CUST00398,2026-06-05 02:39:53,Organic Search,Desktop,Chrome,UK
+WEB01291,CUST00880,2026-05-12 19:04:57,Social Media,Mobile,Edge,Germany
+WEB01292,CUST01041,2025-05-28 20:25:25,Organic Search,Tablet,Safari,Australia
+WEB01293,CUST01131,2025-11-20 06:22:47,Organic Search,Desktop,Chrome,Singapore
+WEB01294,CUST00438,2025-08-09 01:01:40,Organic Search,Desktop,Safari,Singapore
+WEB01295,CUST00835,2026-06-02 22:19:25,Referral,Tablet,Edge,USA
+WEB01296,CUST01455,2026-06-23 23:39:39,Organic Search,Desktop,Edge,UK
+WEB01297,CUST00215,2026-05-12 14:28:16,Organic Search,Mobile,Chrome,USA
+WEB01298,CUST01478,2025-12-30 12:13:25,Advertisement,Desktop,Chrome,USA
+WEB01299,CUST01618,2026-08-09 12:52:56,Social Media,Mobile,Safari,India
+WEB01300,CUST01926,2025-12-06 07:19:51,Advertisement,Desktop,Edge,Singapore
+WEB01301,CUST01468,2026-01-15 02:48:53,Organic Search,Desktop,Safari,Australia
+WEB01302,CUST00510,2025-07-15 15:51:42,Organic Search,Tablet,Firefox,France
+WEB01303,CUST00889,2026-03-05 05:43:26,Organic Search,Mobile,Chrome,Germany
+WEB01304,CUST01603,2026-07-28 15:06:17,Direct,Tablet,Edge,UK
+WEB01305,CUST00382,2025-11-26 20:22:50,Referral,Tablet,Chrome,UK
+WEB01306,CUST01481,2026-02-21 05:47:39,Organic Search,Mobile,Edge,UK
+WEB01307,CUST01462,2025-06-16 18:08:52,Organic Search,Mobile,Edge,Germany
+WEB01308,CUST00151,2025-03-02 22:57:01,Direct,Tablet,Chrome,Singapore
+WEB01309,CUST00659,2025-08-12 15:34:19,Direct,Mobile,Firefox,USA
+WEB01310,CUST00636,2025-01-28 22:14:10,Social Media,Desktop,Edge,India
+WEB01311,CUST00976,2026-08-19 05:15:00,Referral,Desktop,Safari,India
+WEB01312,CUST01488,2026-01-03 11:52:20,Social Media,Mobile,Edge,India
+WEB01313,CUST00512,2026-03-19 20:16:53,Referral,Mobile,Safari,Germany
+WEB01314,CUST00113,2025-06-10 09:03:35,Advertisement,Mobile,Chrome,Australia
+WEB01315,CUST00844,2025-12-24 15:19:29,Referral,Desktop,Firefox,USA
+WEB01316,CUST01876,2025-03-06 10:42:47,Direct,Tablet,Firefox,UK
+WEB01317,CUST01824,2026-07-05 18:48:20,Advertisement,Tablet,Chrome,France
+WEB01318,CUST00845,2026-03-12 23:52:05,Advertisement,Tablet,Chrome,Australia
+WEB01319,CUST00598,2025-06-24 23:28:55,Social Media,Tablet,Edge,Singapore
+WEB01320,CUST00743,2026-05-31 22:00:51,Organic Search,Tablet,Edge,Australia
+WEB01321,CUST00776,2025-11-21 07:15:24,Referral,Tablet,Safari,India
+WEB01322,CUST00544,2025-09-25 18:47:24,Organic Search,Tablet,Safari,India
+WEB01323,CUST01016,2025-11-05 18:50:20,Organic Search,Tablet,Chrome,India
+WEB01324,CUST01078,2025-06-30 08:11:35,Advertisement,Desktop,Firefox,Australia
+WEB01325,CUST00569,2025-08-30 07:24:45,Social Media,Desktop,Chrome,Australia
+WEB01326,CUST01411,2025-03-23 01:25:23,Organic Search,Desktop,Safari,Singapore
+WEB01327,CUST01938,2025-02-21 14:37:16,Organic Search,Mobile,Firefox,France
+WEB01328,CUST01489,2026-02-08 21:59:32,Direct,Desktop,Edge,Singapore
+WEB01329,CUST00210,2026-01-11 05:09:48,Direct,Desktop,Firefox,France
+WEB01330,CUST00867,2025-01-09 06:45:31,Referral,Mobile,Chrome,UK
+WEB01331,CUST00246,2025-08-11 00:54:05,Referral,Mobile,Edge,India
+WEB01332,CUST00690,2026-02-11 08:37:01,Direct,Tablet,Firefox,USA
+WEB01333,CUST01258,2025-03-27 06:23:18,Advertisement,Mobile,Firefox,Australia
+WEB01334,CUST01877,2026-07-24 20:57:00,Referral,Desktop,Chrome,Australia
+WEB01335,CUST01219,2025-07-12 17:02:29,Organic Search,Mobile,Firefox,Australia
+WEB01336,CUST00460,2025-08-21 05:42:38,Organic Search,Desktop,Chrome,Singapore
+WEB01337,CUST00570,2025-12-28 10:48:06,Advertisement,Mobile,Chrome,India
+WEB01338,CUST01025,2026-03-10 12:40:44,Referral,Mobile,Chrome,UK
+WEB01339,CUST00153,2025-07-25 02:58:37,Organic Search,Desktop,Safari,Germany
+WEB01340,CUST00439,2025-02-03 14:37:08,Organic Search,Desktop,Firefox,France
+WEB01341,CUST00264,2025-11-06 06:17:14,Organic Search,Desktop,Chrome,UK
+WEB01342,CUST01992,2025-07-23 07:56:46,Direct,Tablet,Edge,USA
+WEB01343,CUST00445,2025-05-22 05:33:15,Advertisement,Mobile,Safari,France
+WEB01344,CUST00998,2025-09-30 07:14:51,Social Media,Mobile,Edge,UK
+WEB01345,CUST00800,2025-04-05 06:48:28,Direct,Tablet,Edge,France
+WEB01346,CUST01453,2026-01-20 10:16:27,Advertisement,Tablet,Edge,Australia
+WEB01347,CUST01121,2026-02-05 22:33:15,Organic Search,Mobile,Chrome,Singapore
+WEB01348,CUST00537,2025-06-28 17:37:12,Social Media,Desktop,Safari,USA
+WEB01349,CUST01240,2025-09-04 18:00:35,Advertisement,Mobile,Safari,UK
+WEB01350,CUST01654,2026-01-21 23:38:40,Social Media,Tablet,Chrome,UK
+WEB01351,CUST01392,2026-05-25 23:42:35,Direct,Desktop,Safari,France
+WEB01352,CUST00507,2026-03-08 04:41:30,Direct,Desktop,Firefox,Germany
+WEB01353,CUST00098,2026-06-15 23:12:40,Advertisement,Tablet,Firefox,Germany
+WEB01354,CUST01426,2025-04-03 10:29:12,Social Media,Mobile,Safari,USA
+WEB01355,CUST01094,2025-07-01 20:31:06,Referral,Mobile,Safari,Germany
+WEB01356,CUST00138,2026-05-18 08:57:46,Social Media,Desktop,Chrome,Germany
+WEB01357,CUST00089,2025-05-01 12:49:33,Advertisement,Tablet,Chrome,UK
+WEB01358,CUST00276,2026-02-13 11:12:22,Referral,Mobile,Firefox,USA
+WEB01359,CUST01304,2025-02-13 18:39:20,Organic Search,Tablet,Firefox,France
+WEB01360,CUST00507,2026-08-14 02:35:57,Advertisement,Desktop,Firefox,Germany
+WEB01361,CUST00638,2025-06-30 08:52:53,Advertisement,Tablet,Chrome,Australia
+WEB01362,CUST01993,2026-04-09 01:19:57,Advertisement,Mobile,Edge,Germany
+WEB01363,CUST01216,2026-04-19 19:12:37,Organic Search,Desktop,Edge,India
+WEB01364,CUST00162,2026-03-30 17:43:50,Social Media,Desktop,Safari,UK
+WEB01365,CUST00954,2025-06-09 05:41:39,Direct,Mobile,Firefox,Australia
+WEB01366,CUST00675,2025-01-12 04:17:57,Direct,Tablet,Firefox,UK
+WEB01367,CUST01631,2026-08-16 09:20:30,Social Media,Mobile,Edge,Germany
+WEB01368,CUST01119,2025-09-09 17:49:25,Social Media,Mobile,Firefox,India
+WEB01369,CUST00196,2026-02-16 01:12:40,Advertisement,Mobile,Chrome,France
+WEB01370,CUST00635,2025-07-03 16:37:30,Direct,Desktop,Chrome,USA
+WEB01371,CUST01069,2026-08-12 20:07:42,Referral,Tablet,Edge,Australia
+WEB01372,CUST00638,2026-04-07 01:32:56,Social Media,Mobile,Firefox,France
+WEB01373,CUST00624,2026-01-27 17:56:04,Organic Search,Mobile,Edge,Australia
+WEB01374,CUST01979,2026-01-28 05:46:02,Social Media,Mobile,Chrome,Australia
+WEB01375,CUST00026,2025-02-10 09:21:05,Organic Search,Tablet,Firefox,Germany
+WEB01376,CUST00634,2025-11-01 11:07:08,Organic Search,Mobile,Chrome,Singapore
+WEB01377,CUST01077,2025-06-12 23:52:49,Direct,Tablet,Chrome,Singapore
+WEB01378,CUST01545,2025-08-05 07:54:16,Social Media,Desktop,Edge,Singapore
+WEB01379,CUST01565,2025-11-21 14:46:50,Organic Search,Mobile,Firefox,UK
+WEB01380,CUST00453,2025-03-01 15:34:38,Organic Search,Mobile,Chrome,Germany
+WEB01381,CUST01228,2026-04-09 22:29:58,Social Media,Mobile,Safari,France
+WEB01382,CUST01404,2025-07-06 13:00:25,Referral,Mobile,Chrome,UK
+WEB01383,CUST00094,2025-10-01 23:12:29,Organic Search,Mobile,Edge,France
+WEB01384,CUST01120,2025-12-26 12:01:45,Referral,Desktop,Safari,USA
+WEB01385,CUST01296,2025-02-28 16:18:04,Direct,Desktop,Safari,France
+WEB01386,CUST00341,2025-06-25 07:51:48,Social Media,Tablet,Safari,Australia
+WEB01387,CUST01434,2025-05-15 08:52:11,Direct,Mobile,Firefox,Germany
+WEB01388,CUST00812,2025-03-11 02:16:03,Direct,Desktop,Chrome,USA
+WEB01389,CUST00145,2026-02-21 18:56:31,Direct,Mobile,Firefox,France
+WEB01390,CUST00874,2025-01-10 07:22:14,Referral,Tablet,Chrome,Singapore
+WEB01391,CUST00772,2025-03-31 17:05:37,Direct,Tablet,Safari,Germany
+WEB01392,CUST01482,2026-06-26 05:59:29,Referral,Tablet,Edge,Australia
+WEB01393,CUST00598,2026-01-16 23:23:24,Advertisement,Desktop,Chrome,India
+WEB01394,CUST01524,2025-05-14 00:49:23,Referral,Tablet,Chrome,Singapore
+WEB01395,CUST01500,2026-03-26 10:33:28,Direct,Desktop,Chrome,Germany
+WEB01396,CUST01251,2026-07-10 18:48:15,Advertisement,Tablet,Edge,USA
+WEB01397,CUST00737,2025-08-18 11:49:34,Referral,Mobile,Chrome,Australia
+WEB01398,CUST00234,2025-01-14 10:05:17,Advertisement,Desktop,Firefox,UK
+WEB01399,CUST00416,2025-10-26 11:12:42,Advertisement,Mobile,Firefox,Singapore
+WEB01400,CUST00601,2025-09-12 07:08:33,Organic Search,Mobile,Chrome,UK
+WEB01401,CUST01063,2025-05-18 21:29:57,Direct,Mobile,Chrome,UK
+WEB01402,CUST01869,2025-10-22 18:04:21,Direct,Tablet,Safari,Australia
+WEB01403,CUST01519,2025-08-03 18:41:15,Direct,Desktop,Chrome,Australia
+WEB01404,CUST01756,2025-08-24 02:46:51,Organic Search,Desktop,Safari,Singapore
+WEB01405,CUST00785,2025-06-19 12:27:04,Organic Search,Tablet,Edge,India
+WEB01406,CUST00115,2025-02-28 09:33:24,Direct,Mobile,Chrome,France
+WEB01407,CUST01794,2025-07-27 02:37:20,Direct,Mobile,Firefox,USA
+WEB01408,CUST01877,2026-06-07 03:22:56,Advertisement,Desktop,Firefox,India
+WEB01409,CUST01302,2026-06-22 13:33:49,Referral,Mobile,Safari,USA
+WEB01410,CUST00970,2026-07-02 14:05:13,Social Media,Tablet,Chrome,Singapore
+WEB01411,CUST00233,2025-05-30 17:51:15,Advertisement,Mobile,Edge,Germany
+WEB01412,CUST01563,2026-03-26 12:41:32,Social Media,Desktop,Firefox,India
+WEB01413,CUST01953,2025-01-11 03:55:56,Social Media,Tablet,Edge,Singapore
+WEB01414,CUST00974,2025-03-06 08:54:05,Advertisement,Mobile,Chrome,USA
+WEB01415,CUST01448,2026-04-22 11:21:51,Organic Search,Mobile,Chrome,UK
+WEB01416,CUST00188,2025-05-31 01:53:08,Referral,Tablet,Edge,India
+WEB01417,CUST00473,2026-05-25 12:20:01,Direct,Desktop,Firefox,India
+WEB01418,CUST01246,2025-06-25 08:36:25,Referral,Desktop,Edge,Singapore
+WEB01419,CUST00620,2026-01-13 17:04:48,Organic Search,Mobile,Firefox,India
+WEB01420,CUST00204,2026-07-17 15:16:26,Organic Search,Mobile,Safari,Australia
+WEB01421,CUST00944,2025-11-22 18:17:24,Direct,Desktop,Chrome,India
+WEB01422,CUST01446,2026-04-22 14:35:35,Organic Search,Desktop,Chrome,UK
+WEB01423,CUST00044,2026-07-29 11:28:06,Organic Search,Tablet,Firefox,India
+WEB01424,CUST00721,2025-09-17 21:09:40,Social Media,Mobile,Chrome,Germany
+WEB01425,CUST01790,2025-10-17 10:27:43,Organic Search,Desktop,Edge,Singapore
+WEB01426,CUST00097,2025-10-28 11:47:32,Referral,Desktop,Chrome,UK
+WEB01427,CUST00161,2026-02-12 21:20:41,Organic Search,Desktop,Chrome,Germany
+WEB01428,CUST01844,2026-04-21 10:40:13,Direct,Tablet,Chrome,India
+WEB01429,CUST00343,2025-05-09 22:35:51,Organic Search,Tablet,Chrome,USA
+WEB01430,CUST01092,2025-02-07 01:51:38,Advertisement,Mobile,Firefox,UK
+WEB01431,CUST01073,2025-09-10 09:44:04,Advertisement,Tablet,Firefox,Singapore
+WEB01432,CUST01203,2025-08-22 21:13:54,Advertisement,Mobile,Safari,Singapore
+WEB01433,CUST01594,2025-11-24 02:21:47,Advertisement,Mobile,Safari,USA
+WEB01434,CUST01294,2025-01-31 18:48:15,Social Media,Tablet,Firefox,Singapore
+WEB01435,CUST01877,2025-04-09 03:57:03,Referral,Mobile,Safari,USA
+WEB01436,CUST01279,2026-06-29 00:36:06,Social Media,Tablet,Firefox,Singapore
+WEB01437,CUST00231,2025-12-09 04:17:05,Referral,Desktop,Safari,France
+WEB01438,CUST01198,2025-09-21 04:38:45,Advertisement,Desktop,Firefox,Germany
+WEB01439,CUST00031,2025-12-31 13:24:52,Direct,Desktop,Safari,Germany
+WEB01440,CUST00764,2025-04-17 23:24:28,Organic Search,Mobile,Chrome,UK
+WEB01441,CUST01399,2025-07-06 06:40:05,Direct,Tablet,Safari,France
+WEB01442,CUST01921,2026-08-07 14:36:37,Organic Search,Mobile,Safari,France
+WEB01443,CUST00541,2025-05-08 19:08:44,Referral,Mobile,Chrome,Germany
+WEB01444,CUST00194,2026-06-08 03:14:44,Organic Search,Desktop,Safari,India
+WEB01445,CUST00265,2025-04-06 16:27:48,Referral,Mobile,Edge,Germany
+WEB01446,CUST00811,2025-10-30 21:02:45,Advertisement,Mobile,Chrome,Australia
+WEB01447,CUST00009,2026-04-29 19:21:57,Organic Search,Mobile,Firefox,India
+WEB01448,CUST00641,2026-07-06 00:24:05,Advertisement,Tablet,Chrome,UK
+WEB01449,CUST01929,2025-04-26 17:07:34,Referral,Desktop,Firefox,France
+WEB01450,CUST00722,2025-04-19 19:45:46,Organic Search,Desktop,Firefox,Germany
+WEB01451,CUST01468,2025-08-25 01:45:08,Referral,Desktop,Firefox,Germany
+WEB01452,CUST00304,2026-04-01 17:02:48,Social Media,Mobile,Safari,France
+WEB01453,CUST00687,2025-03-08 06:41:06,Advertisement,Mobile,Firefox,USA
+WEB01454,CUST00945,2026-04-06 20:51:13,Advertisement,Tablet,Firefox,USA
+WEB01455,CUST01196,2025-11-02 10:37:30,Referral,Mobile,Edge,Germany
+WEB01456,CUST01081,2025-12-20 02:09:58,Referral,Tablet,Edge,Singapore
+WEB01457,CUST01781,2026-02-14 01:48:29,Social Media,Mobile,Chrome,Australia
+WEB01458,CUST01933,2025-08-25 09:22:44,Direct,Desktop,Edge,India
+WEB01459,CUST01824,2025-08-19 16:45:03,Social Media,Mobile,Chrome,Singapore
+WEB01460,CUST01501,2025-06-17 10:45:14,Advertisement,Mobile,Edge,USA
+WEB01461,CUST01070,2025-02-04 08:56:17,Direct,Tablet,Chrome,France
+WEB01462,CUST01361,2026-01-19 12:52:29,Advertisement,Mobile,Safari,India
+WEB01463,CUST01878,2026-02-17 02:51:56,Social Media,Mobile,Edge,Australia
+WEB01464,CUST01323,2025-07-12 09:15:59,Advertisement,Desktop,Safari,USA
+WEB01465,CUST01516,2026-08-15 23:08:28,Advertisement,Desktop,Chrome,France
+WEB01466,CUST01271,2025-03-19 13:24:42,Organic Search,Desktop,Safari,France
+WEB01467,CUST01095,2026-05-27 09:14:18,Direct,Desktop,Chrome,UK
+WEB01468,CUST00830,2026-05-24 05:06:50,Advertisement,Desktop,Chrome,UK
+WEB01469,CUST00763,2025-01-31 21:42:34,Organic Search,Tablet,Edge,Singapore
+WEB01470,CUST00772,2026-04-22 09:13:34,Direct,Tablet,Edge,Singapore
+WEB01471,CUST01874,2025-04-09 06:15:31,Direct,Tablet,Safari,USA
+WEB01472,CUST00297,2025-06-27 09:43:48,Organic Search,Desktop,Safari,Singapore
+WEB01473,CUST00390,2026-02-08 23:52:59,Direct,Desktop,Firefox,UK
+WEB01474,CUST00841,2025-01-05 17:30:13,Advertisement,Desktop,Chrome,Singapore
+WEB01475,CUST01089,2025-05-22 02:00:06,Social Media,Tablet,Safari,UK
+WEB01476,CUST00263,2025-05-22 21:18:16,Organic Search,Tablet,Edge,France
+WEB01477,CUST00266,2025-01-28 00:38:02,Organic Search,Tablet,Firefox,Singapore
+WEB01478,CUST00653,2025-12-04 12:42:21,Organic Search,Mobile,Safari,France
+WEB01479,CUST00268,2026-01-31 10:49:14,Social Media,Desktop,Chrome,Singapore
+WEB01480,CUST01606,2026-02-14 18:52:57,Advertisement,Desktop,Firefox,France
+WEB01481,CUST00120,2026-03-17 07:51:24,Organic Search,Tablet,Firefox,Singapore
+WEB01482,CUST01673,2025-08-29 17:34:38,Direct,Mobile,Firefox,France
+WEB01483,CUST00621,2025-08-13 16:15:13,Advertisement,Tablet,Edge,Singapore
+WEB01484,CUST01288,2026-05-27 01:04:05,Organic Search,Desktop,Edge,France
+WEB01485,CUST01599,2025-01-23 21:44:05,Direct,Mobile,Firefox,France
+WEB01486,CUST00729,2025-06-05 23:49:01,Social Media,Tablet,Chrome,UK
+WEB01487,CUST00369,2025-07-10 17:04:15,Social Media,Desktop,Firefox,France
+WEB01488,CUST01533,2026-07-17 07:55:58,Organic Search,Desktop,Safari,India
+WEB01489,CUST01665,2025-04-22 00:34:26,Organic Search,Tablet,Chrome,India
+WEB01490,CUST01030,2026-01-21 19:46:52,Social Media,Mobile,Chrome,UK
+WEB01491,CUST01988,2025-07-21 04:35:04,Social Media,Mobile,Firefox,Singapore
+WEB01492,CUST01486,2026-03-23 14:28:10,Direct,Desktop,Firefox,Australia
+WEB01493,CUST01051,2025-08-16 19:50:59,Direct,Desktop,Chrome,USA
+WEB01494,CUST01573,2025-11-18 18:26:18,Advertisement,Desktop,Firefox,Australia
+WEB01495,CUST01576,2025-03-24 21:59:09,Referral,Mobile,Chrome,India
+WEB01496,CUST01381,2026-08-19 23:18:50,Referral,Mobile,Edge,France
+WEB01497,CUST01337,2025-02-26 05:46:56,Referral,Tablet,Chrome,UK
+WEB01498,CUST01678,2025-04-09 02:23:52,Referral,Mobile,Safari,Germany
+WEB01499,CUST00920,2025-09-14 02:34:11,Direct,Desktop,Safari,Singapore
+WEB01500,CUST01065,2025-09-28 16:24:20,Advertisement,Mobile,Chrome,Singapore
+WEB01501,CUST00570,2025-10-05 08:52:26,Referral,Tablet,Firefox,USA
+WEB01502,CUST00698,2025-06-07 06:58:38,Organic Search,Mobile,Edge,Singapore
+WEB01503,CUST01343,2025-05-15 02:49:28,Referral,Desktop,Chrome,India
+WEB01504,CUST01654,2025-06-11 02:58:15,Organic Search,Tablet,Firefox,Germany
+WEB01505,CUST00462,2025-10-17 18:51:45,Direct,Desktop,Safari,UK
+WEB01506,CUST01975,2026-04-30 00:56:03,Advertisement,Tablet,Chrome,India
+WEB01507,CUST00738,2025-03-16 23:30:07,Advertisement,Tablet,Chrome,Germany
+WEB01508,CUST01370,2025-12-08 12:48:38,Advertisement,Desktop,Safari,Singapore
+WEB01509,CUST00310,2025-09-01 14:25:02,Advertisement,Mobile,Chrome,France
+WEB01510,CUST01533,2025-03-03 19:17:54,Referral,Tablet,Edge,Australia
+WEB01511,CUST01156,2025-08-29 04:02:19,Advertisement,Tablet,Safari,Germany
+WEB01512,CUST01234,2026-07-08 21:36:00,Organic Search,Mobile,Firefox,UK
+WEB01513,CUST00330,2025-04-08 13:06:32,Organic Search,Desktop,Chrome,USA
+WEB01514,CUST01128,2025-03-27 19:02:48,Social Media,Mobile,Chrome,USA
+WEB01515,CUST01605,2026-07-28 15:17:57,Advertisement,Tablet,Firefox,Australia
+WEB01516,CUST00536,2026-02-28 16:38:14,Organic Search,Desktop,Firefox,Germany
+WEB01517,CUST00952,2025-08-31 18:39:17,Social Media,Desktop,Firefox,India
+WEB01518,CUST01101,2026-02-09 06:02:35,Organic Search,Tablet,Chrome,Australia
+WEB01519,CUST01428,2025-12-30 22:16:40,Social Media,Mobile,Safari,India
+WEB01520,CUST01391,2026-05-08 11:38:33,Advertisement,Tablet,Edge,Singapore
+WEB01521,CUST00909,2025-08-14 03:05:16,Referral,Tablet,Safari,Australia
+WEB01522,CUST00930,2026-01-16 04:28:06,Social Media,Desktop,Safari,UK
+WEB01523,CUST01549,2025-04-11 02:09:05,Referral,Desktop,Chrome,Australia
+WEB01524,CUST00028,2025-08-16 03:30:08,Organic Search,Desktop,Firefox,Singapore
+WEB01525,CUST01771,2025-03-29 14:12:07,Social Media,Tablet,Edge,UK
+WEB01526,CUST00759,2025-05-01 19:04:08,Social Media,Mobile,Firefox,Australia
+WEB01527,CUST00937,2026-04-02 18:19:13,Advertisement,Mobile,Firefox,Australia
+WEB01528,CUST00283,2025-11-18 16:12:24,Social Media,Mobile,Safari,USA
+WEB01529,CUST00739,2025-02-28 08:26:05,Organic Search,Tablet,Firefox,USA
+WEB01530,CUST00946,2025-01-20 14:19:25,Advertisement,Tablet,Chrome,UK
+WEB01531,CUST01439,2026-07-31 18:49:34,Direct,Mobile,Safari,Australia
+WEB01532,CUST01679,2025-11-09 00:01:33,Organic Search,Mobile,Chrome,Germany
+WEB01533,CUST01932,2025-08-06 15:59:42,Advertisement,Desktop,Firefox,India
+WEB01534,CUST01831,2025-04-14 00:24:56,Direct,Mobile,Safari,UK
+WEB01535,CUST00353,2025-05-18 08:21:51,Referral,Desktop,Firefox,India
+WEB01536,CUST00940,2026-01-20 09:14:50,Advertisement,Mobile,Chrome,Singapore
+WEB01537,CUST01493,2025-02-16 15:36:18,Social Media,Desktop,Edge,UK
+WEB01538,CUST01424,2025-09-03 11:01:31,Social Media,Desktop,Safari,UK
+WEB01539,CUST00008,2026-04-21 10:45:00,Referral,Desktop,Safari,UK
+WEB01540,CUST01708,2026-03-29 11:33:58,Social Media,Desktop,Firefox,Germany
+WEB01541,CUST01963,2025-09-04 23:01:26,Social Media,Desktop,Edge,France
+WEB01542,CUST01949,2025-12-18 18:35:51,Referral,Desktop,Chrome,India
+WEB01543,CUST01594,2026-02-11 00:44:12,Organic Search,Desktop,Edge,Singapore
+WEB01544,CUST01301,2025-10-25 06:43:26,Referral,Desktop,Firefox,Germany
+WEB01545,CUST01893,2026-02-24 11:49:29,Direct,Tablet,Safari,USA
+WEB01546,CUST00038,2026-01-28 00:57:09,Advertisement,Tablet,Edge,UK
+WEB01547,CUST00215,2025-07-13 22:12:53,Organic Search,Tablet,Chrome,India
+WEB01548,CUST01328,2025-05-13 04:26:25,Referral,Desktop,Chrome,Singapore
+WEB01549,CUST00103,2025-06-04 15:47:05,Advertisement,Desktop,Edge,Germany
+WEB01550,CUST00638,2026-07-05 05:04:58,Direct,Mobile,Safari,Australia
+WEB01551,CUST00874,2025-03-09 01:02:05,Social Media,Mobile,Firefox,Germany
+WEB01552,CUST01622,2025-02-12 04:00:07,Social Media,Tablet,Edge,Germany
+WEB01553,CUST00119,2026-03-13 02:31:11,Referral,Mobile,Safari,Germany
+WEB01554,CUST01694,2025-07-24 18:24:33,Advertisement,Tablet,Chrome,India
+WEB01555,CUST00109,2025-02-04 03:52:42,Social Media,Mobile,Chrome,UK
+WEB01556,CUST01537,2026-05-02 17:29:01,Social Media,Tablet,Firefox,France
+WEB01557,CUST00184,2025-12-16 06:45:55,Advertisement,Desktop,Chrome,Australia
+WEB01558,CUST01595,2025-01-03 09:19:33,Social Media,Desktop,Edge,USA
+WEB01559,CUST00124,2025-08-15 21:21:52,Direct,Tablet,Chrome,Germany
+WEB01560,CUST01852,2025-01-17 10:17:41,Referral,Desktop,Edge,India
+WEB01561,CUST00196,2025-02-03 22:27:07,Advertisement,Desktop,Edge,India
+WEB01562,CUST00915,2025-02-11 10:58:45,Referral,Tablet,Firefox,Australia
+WEB01563,CUST00734,2026-02-02 11:14:56,Referral,Desktop,Safari,France
+WEB01564,CUST00802,2025-10-19 01:47:59,Referral,Desktop,Firefox,France
+WEB01565,CUST01004,2026-07-26 01:30:07,Social Media,Desktop,Chrome,France
+WEB01566,CUST01574,2026-02-14 23:22:01,Social Media,Tablet,Chrome,India
+WEB01567,CUST00208,2025-03-05 17:56:04,Social Media,Mobile,Edge,Singapore
+WEB01568,CUST00063,2026-06-20 11:22:14,Social Media,Desktop,Safari,Germany
+WEB01569,CUST01282,2025-05-12 09:56:21,Social Media,Mobile,Edge,Germany
+WEB01570,CUST00043,2025-07-17 20:44:29,Direct,Mobile,Edge,USA
+WEB01571,CUST01217,2025-06-12 11:40:31,Advertisement,Mobile,Edge,Singapore
+WEB01572,CUST00238,2025-08-25 13:24:53,Direct,Tablet,Chrome,Australia
+WEB01573,CUST00591,2026-02-10 07:29:44,Organic Search,Desktop,Edge,Singapore
+WEB01574,CUST01085,2025-04-24 11:08:19,Direct,Mobile,Chrome,France
+WEB01575,CUST00608,2025-08-19 07:23:19,Referral,Desktop,Edge,Germany
+WEB01576,CUST01009,2026-05-27 23:24:40,Direct,Desktop,Safari,Australia
+WEB01577,CUST01970,2026-03-26 18:54:06,Direct,Desktop,Chrome,USA
+WEB01578,CUST00849,2025-06-24 16:24:33,Organic Search,Desktop,Chrome,UK
+WEB01579,CUST00601,2025-10-03 21:16:34,Referral,Tablet,Chrome,India
+WEB01580,CUST00337,2026-02-07 19:08:56,Advertisement,Desktop,Firefox,India
+WEB01581,CUST01812,2025-01-14 23:27:49,Organic Search,Desktop,Chrome,UK
+WEB01582,CUST01930,2026-04-05 20:09:11,Advertisement,Mobile,Chrome,Germany
+WEB01583,CUST00409,2025-04-14 15:41:50,Social Media,Desktop,Chrome,Singapore
+WEB01584,CUST00258,2025-08-26 07:17:54,Social Media,Mobile,Safari,India
+WEB01585,CUST00360,2025-07-10 17:55:30,Organic Search,Tablet,Chrome,USA
+WEB01586,CUST01478,2025-03-07 22:42:46,Referral,Desktop,Safari,UK
+WEB01587,CUST01721,2026-01-14 00:22:41,Social Media,Desktop,Firefox,Singapore
+WEB01588,CUST00052,2025-07-09 20:11:36,Direct,Tablet,Edge,UK
+WEB01589,CUST01215,2026-02-10 18:24:07,Advertisement,Desktop,Safari,India
+WEB01590,CUST01058,2025-07-10 23:45:32,Social Media,Desktop,Chrome,Germany
+WEB01591,CUST01532,2026-01-17 11:33:20,Social Media,Tablet,Chrome,France
+WEB01592,CUST01481,2026-07-27 20:44:21,Referral,Mobile,Chrome,Singapore
+WEB01593,CUST01152,2025-02-06 18:50:21,Advertisement,Desktop,Edge,France
+WEB01594,CUST00850,2025-02-01 20:30:53,Direct,Tablet,Safari,France
+WEB01595,CUST01946,2025-08-08 23:47:36,Organic Search,Mobile,Firefox,Australia
+WEB01596,CUST00575,2026-04-13 21:31:35,Social Media,Mobile,Firefox,France
+WEB01597,CUST00059,2026-01-14 13:49:01,Direct,Tablet,Chrome,USA
+WEB01598,CUST01575,2026-08-03 02:52:11,Organic Search,Tablet,Safari,USA
+WEB01599,CUST00301,2026-01-17 04:01:12,Social Media,Mobile,Safari,Germany
+WEB01600,CUST01577,2026-05-30 16:17:25,Referral,Desktop,Edge,Australia
+WEB01601,CUST00223,2025-12-12 09:46:52,Social Media,Desktop,Edge,India
+WEB01602,CUST01895,2025-04-29 08:59:04,Direct,Desktop,Safari,Singapore
+WEB01603,CUST01343,2025-09-11 22:32:02,Advertisement,Mobile,Edge,USA
+WEB01604,CUST01920,2026-01-14 01:47:28,Social Media,Tablet,Safari,India
+WEB01605,CUST00628,2025-01-06 08:31:31,Direct,Tablet,Edge,UK
+WEB01606,CUST00825,2025-08-18 21:05:33,Organic Search,Desktop,Edge,Germany
+WEB01607,CUST01574,2025-11-30 06:43:24,Direct,Tablet,Chrome,Singapore
+WEB01608,CUST01712,2025-09-18 16:31:31,Organic Search,Tablet,Chrome,USA
+WEB01609,CUST00249,2025-06-05 22:14:52,Organic Search,Tablet,Safari,Singapore
+WEB01610,CUST00963,2025-09-15 00:10:44,Social Media,Tablet,Edge,Australia
+WEB01611,CUST00461,2025-07-30 01:46:02,Direct,Desktop,Firefox,Australia
+WEB01612,CUST00691,2026-03-13 22:28:39,Social Media,Desktop,Firefox,France
+WEB01613,CUST00132,2025-12-23 01:32:22,Organic Search,Desktop,Chrome,USA
+WEB01614,CUST01061,2026-07-01 12:29:46,Direct,Tablet,Firefox,UK
+WEB01615,CUST01987,2025-10-13 04:24:34,Advertisement,Mobile,Chrome,Australia
+WEB01616,CUST01618,2026-01-21 18:13:58,Advertisement,Desktop,Safari,Singapore
+WEB01617,CUST01435,2025-09-15 16:34:18,Social Media,Tablet,Edge,UK
+WEB01618,CUST00009,2026-03-16 18:00:05,Direct,Mobile,Safari,France
+WEB01619,CUST00218,2025-08-30 17:41:39,Social Media,Desktop,Firefox,UK
+WEB01620,CUST01337,2026-04-09 16:03:30,Direct,Mobile,Chrome,India
+WEB01621,CUST01294,2026-04-01 20:09:30,Advertisement,Desktop,Safari,UK
+WEB01622,CUST00230,2025-05-14 08:45:17,Referral,Tablet,Safari,France
+WEB01623,CUST00880,2025-10-22 22:05:18,Referral,Mobile,Firefox,USA
+WEB01624,CUST01903,2026-04-11 22:15:39,Referral,Desktop,Safari,India
+WEB01625,CUST01833,2026-01-05 06:37:33,Direct,Tablet,Edge,Australia
+WEB01626,CUST01348,2026-01-22 21:19:08,Advertisement,Mobile,Chrome,USA
+WEB01627,CUST00269,2025-02-25 23:09:13,Organic Search,Desktop,Firefox,India
+WEB01628,CUST00489,2026-06-18 14:49:30,Advertisement,Mobile,Safari,India
+WEB01629,CUST00056,2025-12-30 16:32:36,Organic Search,Desktop,Edge,Germany
+WEB01630,CUST00277,2025-02-14 13:16:16,Organic Search,Mobile,Chrome,Germany
+WEB01631,CUST00309,2025-02-04 00:17:40,Advertisement,Mobile,Chrome,UK
+WEB01632,CUST01815,2025-05-25 18:54:56,Advertisement,Desktop,Firefox,USA
+WEB01633,CUST01876,2026-04-05 21:16:46,Direct,Tablet,Firefox,India
+WEB01634,CUST01580,2026-02-10 01:03:37,Organic Search,Desktop,Safari,Singapore
+WEB01635,CUST01859,2025-01-07 06:13:33,Advertisement,Desktop,Chrome,India
+WEB01636,CUST01129,2025-07-08 01:06:22,Social Media,Desktop,Chrome,UK
+WEB01637,CUST00138,2026-03-20 18:50:07,Social Media,Tablet,Firefox,USA
+WEB01638,CUST01582,2025-05-25 12:43:10,Organic Search,Mobile,Firefox,Australia
+WEB01639,CUST01047,2025-11-12 10:24:06,Referral,Mobile,Edge,Germany
+WEB01640,CUST00259,2026-04-10 06:13:31,Direct,Tablet,Firefox,Germany
+WEB01641,CUST01369,2026-02-26 10:20:02,Advertisement,Desktop,Chrome,France
+WEB01642,CUST00512,2026-07-30 01:31:44,Direct,Tablet,Firefox,India
+WEB01643,CUST00009,2025-05-26 18:51:29,Direct,Mobile,Edge,Australia
+WEB01644,CUST00226,2025-11-05 17:31:06,Advertisement,Tablet,Firefox,UK
+WEB01645,CUST00033,2025-11-10 05:59:38,Advertisement,Desktop,Safari,Australia
+WEB01646,CUST00908,2025-09-11 20:48:49,Direct,Desktop,Chrome,UK
+WEB01647,CUST00133,2026-05-19 03:37:59,Referral,Mobile,Safari,Singapore
+WEB01648,CUST01134,2025-08-01 20:18:16,Referral,Tablet,Chrome,India
+WEB01649,CUST01409,2025-05-07 17:26:28,Referral,Mobile,Chrome,Australia
+WEB01650,CUST01462,2025-01-07 04:58:19,Direct,Tablet,Chrome,India
+WEB01651,CUST01881,2025-01-16 09:27:24,Organic Search,Tablet,Chrome,USA
+WEB01652,CUST01923,2025-02-24 21:50:40,Social Media,Tablet,Chrome,India
+WEB01653,CUST00137,2026-03-25 18:53:06,Organic Search,Tablet,Safari,India
+WEB01654,CUST00691,2025-12-09 13:34:59,Organic Search,Mobile,Edge,USA
+WEB01655,CUST00288,2026-02-24 08:17:55,Organic Search,Tablet,Edge,Australia
+WEB01656,CUST00605,2025-05-19 22:44:55,Social Media,Mobile,Firefox,USA
+WEB01657,CUST00935,2025-03-31 11:47:37,Direct,Desktop,Chrome,France
+WEB01658,CUST01727,2026-04-01 22:06:28,Social Media,Desktop,Chrome,Germany
+WEB01659,CUST00886,2025-07-23 19:13:23,Referral,Tablet,Edge,USA
+WEB01660,CUST00496,2026-04-08 12:11:07,Direct,Tablet,Firefox,Australia
+WEB01661,CUST00425,2025-09-06 15:58:49,Advertisement,Desktop,Chrome,Australia
+WEB01662,CUST01508,2025-03-20 00:25:09,Social Media,Desktop,Safari,USA
+WEB01663,CUST00401,2025-01-24 04:53:54,Social Media,Desktop,Chrome,USA
+WEB01664,CUST01439,2025-02-22 15:36:12,Social Media,Desktop,Chrome,France
+WEB01665,CUST00280,2025-08-16 02:34:19,Advertisement,Desktop,Edge,Singapore
+WEB01666,CUST01975,2025-07-06 04:45:39,Social Media,Tablet,Chrome,India
+WEB01667,CUST00502,2025-02-25 23:32:39,Organic Search,Mobile,Edge,Germany
+WEB01668,CUST01979,2025-05-16 04:14:42,Direct,Tablet,Edge,UK
+WEB01669,CUST01683,2026-08-16 01:27:35,Organic Search,Desktop,Firefox,India
+WEB01670,CUST01082,2026-01-04 23:09:59,Social Media,Mobile,Firefox,Australia
+WEB01671,CUST00916,2026-08-09 01:58:02,Referral,Mobile,Chrome,India
+WEB01672,CUST00565,2025-10-31 03:27:49,Social Media,Mobile,Chrome,USA
+WEB01673,CUST01836,2025-12-04 16:11:32,Organic Search,Mobile,Chrome,Singapore
+WEB01674,CUST01881,2025-10-25 05:47:22,Organic Search,Tablet,Edge,Singapore
+WEB01675,CUST01684,2025-10-13 16:47:49,Advertisement,Desktop,Safari,Australia
+WEB01676,CUST01681,2025-06-29 14:46:13,Direct,Desktop,Safari,UK
+WEB01677,CUST01058,2026-07-30 17:53:53,Referral,Desktop,Safari,UK
+WEB01678,CUST01049,2025-02-15 11:42:33,Direct,Mobile,Firefox,USA
+WEB01679,CUST01649,2026-02-02 19:06:43,Advertisement,Mobile,Firefox,UK
+WEB01680,CUST01107,2026-06-09 19:44:27,Referral,Desktop,Chrome,India
+WEB01681,CUST00329,2025-03-20 20:47:47,Referral,Tablet,Edge,Singapore
+WEB01682,CUST00061,2026-07-09 13:34:08,Direct,Desktop,Firefox,Germany
+WEB01683,CUST01282,2025-05-07 12:30:49,Referral,Tablet,Chrome,Singapore
+WEB01684,CUST01854,2026-07-30 12:56:41,Referral,Mobile,Edge,USA
+WEB01685,CUST01881,2026-01-26 15:52:01,Advertisement,Mobile,Firefox,UK
+WEB01686,CUST00722,2025-09-29 22:12:37,Referral,Desktop,Safari,UK
+WEB01687,CUST01240,2026-07-19 21:08:33,Referral,Tablet,Safari,India
+WEB01688,CUST01215,2025-04-25 12:06:58,Direct,Desktop,Safari,UK
+WEB01689,CUST00982,2025-07-18 02:37:17,Referral,Mobile,Firefox,Australia
+WEB01690,CUST01202,2025-12-20 06:31:33,Advertisement,Desktop,Chrome,Germany
+WEB01691,CUST01312,2025-03-11 17:28:06,Social Media,Tablet,Chrome,France
+WEB01692,CUST00215,2025-04-08 10:57:40,Social Media,Tablet,Safari,UK
+WEB01693,CUST00274,2026-03-29 09:18:24,Advertisement,Desktop,Firefox,Australia
+WEB01694,CUST00484,2025-03-24 08:43:22,Direct,Desktop,Safari,Singapore
+WEB01695,CUST00589,2025-05-03 11:15:04,Advertisement,Desktop,Firefox,UK
+WEB01696,CUST01349,2026-06-16 20:08:32,Direct,Tablet,Chrome,France
+WEB01697,CUST00505,2025-02-27 09:49:54,Advertisement,Mobile,Firefox,Australia
+WEB01698,CUST01463,2026-01-09 14:50:04,Social Media,Tablet,Safari,France
+WEB01699,CUST00237,2026-02-16 03:12:13,Advertisement,Mobile,Chrome,France
+WEB01700,CUST01126,2025-02-23 09:55:10,Advertisement,Tablet,Chrome,Germany
+WEB01701,CUST01417,2025-11-22 13:30:34,Organic Search,Mobile,Edge,Australia
+WEB01702,CUST01554,2025-09-03 12:48:15,Social Media,Mobile,Chrome,India
+WEB01703,CUST01269,2025-09-19 21:51:08,Referral,Tablet,Chrome,Australia
+WEB01704,CUST01538,2025-07-12 20:18:26,Organic Search,Mobile,Safari,USA
+WEB01705,CUST01746,2025-02-01 19:27:08,Advertisement,Desktop,Safari,UK
+WEB01706,CUST01138,2025-10-27 17:23:44,Social Media,Tablet,Edge,India
+WEB01707,CUST01397,2025-01-08 18:45:11,Social Media,Tablet,Chrome,Germany
+WEB01708,CUST00411,2025-09-08 11:02:00,Social Media,Desktop,Safari,Australia
+WEB01709,CUST01624,2025-09-06 07:17:16,Direct,Tablet,Safari,Germany
+WEB01710,CUST00434,2025-12-29 05:07:56,Direct,Desktop,Edge,UK
+WEB01711,CUST00279,2025-12-26 03:19:26,Advertisement,Tablet,Safari,Singapore
+WEB01712,CUST00243,2026-03-27 07:31:45,Advertisement,Desktop,Firefox,USA
+WEB01713,CUST00132,2026-06-07 13:32:34,Advertisement,Tablet,Firefox,France
+WEB01714,CUST01653,2025-11-01 17:54:17,Social Media,Tablet,Firefox,Germany
+WEB01715,CUST00742,2025-12-22 15:34:45,Social Media,Mobile,Edge,Australia
+WEB01716,CUST00337,2025-11-05 16:37:43,Referral,Mobile,Safari,Germany
+WEB01717,CUST00262,2025-10-18 12:03:35,Social Media,Mobile,Chrome,Australia
+WEB01718,CUST01116,2025-12-24 13:02:01,Social Media,Desktop,Chrome,UK
+WEB01719,CUST01536,2025-04-15 19:47:24,Direct,Mobile,Chrome,India
+WEB01720,CUST00146,2025-01-20 10:51:27,Social Media,Mobile,Chrome,Germany
+WEB01721,CUST00867,2025-04-04 19:53:45,Referral,Desktop,Safari,UK
+WEB01722,CUST00857,2025-04-12 11:13:39,Organic Search,Mobile,Safari,Australia
+WEB01723,CUST01878,2025-12-31 08:23:26,Referral,Mobile,Chrome,France
+WEB01724,CUST00014,2025-03-05 16:57:27,Social Media,Mobile,Edge,France
+WEB01725,CUST00177,2025-07-31 11:47:55,Direct,Mobile,Chrome,France
+WEB01726,CUST00483,2025-03-05 07:29:39,Organic Search,Tablet,Firefox,Singapore
+WEB01727,CUST01893,2025-04-03 20:34:36,Advertisement,Mobile,Safari,India
+WEB01728,CUST00055,2026-01-18 19:47:22,Direct,Desktop,Chrome,USA
+WEB01729,CUST01455,2025-08-26 10:20:05,Direct,Desktop,Edge,UK
+WEB01730,CUST00918,2026-04-30 03:10:10,Organic Search,Desktop,Firefox,UK
+WEB01731,CUST01608,2026-03-15 14:06:26,Advertisement,Tablet,Safari,Singapore
+WEB01732,CUST00460,2025-05-28 13:19:31,Direct,Desktop,Chrome,Germany
+WEB01733,CUST00986,2025-02-16 09:43:57,Organic Search,Desktop,Firefox,Singapore
+WEB01734,CUST00968,2026-07-28 18:24:44,Advertisement,Mobile,Safari,Singapore
+WEB01735,CUST00729,2025-03-21 06:47:20,Direct,Mobile,Safari,India
+WEB01736,CUST00672,2026-02-11 16:46:48,Referral,Desktop,Firefox,USA
+WEB01737,CUST01449,2025-12-15 20:35:13,Direct,Tablet,Safari,Singapore
+WEB01738,CUST00302,2026-05-04 23:21:18,Referral,Mobile,Firefox,Australia
+WEB01739,CUST01959,2025-11-25 01:15:40,Advertisement,Mobile,Chrome,USA
+WEB01740,CUST01785,2025-01-05 19:45:28,Referral,Desktop,Chrome,Germany
+WEB01741,CUST00053,2025-04-03 03:48:18,Social Media,Tablet,Safari,France
+WEB01742,CUST01789,2026-05-10 19:15:48,Social Media,Desktop,Edge,Australia
+WEB01743,CUST01195,2025-12-25 13:05:03,Referral,Desktop,Firefox,France
+WEB01744,CUST01843,2026-04-04 15:04:06,Social Media,Tablet,Chrome,USA
+WEB01745,CUST00495,2026-01-12 19:34:30,Organic Search,Desktop,Firefox,UK
+WEB01746,CUST01697,2026-08-09 12:42:26,Advertisement,Tablet,Edge,Australia
+WEB01747,CUST00801,2025-02-19 10:54:14,Social Media,Tablet,Firefox,UK
+WEB01748,CUST00973,2025-02-18 21:03:23,Social Media,Desktop,Edge,Singapore
+WEB01749,CUST01149,2026-03-09 11:58:31,Direct,Desktop,Safari,USA
+WEB01750,CUST01557,2025-01-25 23:10:55,Referral,Tablet,Edge,India
+WEB01751,CUST00434,2025-03-09 02:11:44,Referral,Desktop,Safari,Australia
+WEB01752,CUST00052,2026-03-09 04:19:25,Social Media,Tablet,Safari,USA
+WEB01753,CUST00021,2026-03-29 00:12:14,Organic Search,Tablet,Edge,Singapore
+WEB01754,CUST01772,2026-05-19 13:26:24,Social Media,Mobile,Firefox,Germany
+WEB01755,CUST00138,2025-05-25 01:00:17,Advertisement,Mobile,Edge,India
+WEB01756,CUST00132,2026-02-05 00:12:10,Social Media,Tablet,Edge,India
+WEB01757,CUST00052,2025-05-15 07:45:08,Direct,Mobile,Firefox,Singapore
+WEB01758,CUST00661,2026-08-15 23:50:29,Organic Search,Desktop,Safari,USA
+WEB01759,CUST00091,2026-02-04 08:24:02,Advertisement,Tablet,Edge,Australia
+WEB01760,CUST00931,2026-04-04 21:59:24,Social Media,Desktop,Edge,Germany
+WEB01761,CUST00331,2026-01-30 16:27:27,Organic Search,Mobile,Edge,India
+WEB01762,CUST00551,2026-08-11 19:42:37,Referral,Tablet,Edge,Australia
+WEB01763,CUST00889,2025-06-10 22:31:21,Social Media,Desktop,Chrome,UK
+WEB01764,CUST00968,2026-03-31 20:33:21,Organic Search,Tablet,Chrome,Australia
+WEB01765,CUST00905,2026-07-30 11:37:54,Direct,Tablet,Edge,Singapore
+WEB01766,CUST00155,2025-05-07 01:39:00,Organic Search,Desktop,Firefox,Germany
+WEB01767,CUST00024,2025-08-20 10:22:18,Social Media,Desktop,Safari,Singapore
+WEB01768,CUST01538,2026-02-24 20:33:42,Advertisement,Desktop,Chrome,UK
+WEB01769,CUST00054,2025-08-30 08:13:17,Referral,Desktop,Edge,Australia
+WEB01770,CUST00796,2026-02-23 21:13:09,Direct,Mobile,Chrome,France
+WEB01771,CUST00506,2025-04-30 13:38:35,Direct,Desktop,Safari,France
+WEB01772,CUST00074,2025-02-14 23:30:36,Social Media,Desktop,Edge,Singapore
+WEB01773,CUST00100,2025-02-04 15:18:35,Advertisement,Mobile,Chrome,Germany
+WEB01774,CUST00216,2025-04-23 15:36:03,Organic Search,Desktop,Safari,UK
+WEB01775,CUST00411,2026-05-04 06:37:36,Social Media,Tablet,Chrome,UK
+WEB01776,CUST01529,2026-02-08 06:02:35,Direct,Desktop,Safari,Germany
+WEB01777,CUST00071,2025-07-19 09:30:08,Advertisement,Mobile,Firefox,Germany
+WEB01778,CUST01623,2026-02-05 19:09:57,Social Media,Tablet,Firefox,Germany
+WEB01779,CUST00174,2025-10-20 05:08:50,Advertisement,Desktop,Edge,USA
+WEB01780,CUST00353,2025-04-15 10:45:32,Referral,Tablet,Safari,Singapore
+WEB01781,CUST01322,2026-04-13 07:37:10,Organic Search,Mobile,Chrome,France
+WEB01782,CUST01895,2025-01-24 01:49:49,Direct,Tablet,Edge,Germany
+WEB01783,CUST00270,2025-03-05 22:10:56,Direct,Mobile,Chrome,France
+WEB01784,CUST01333,2025-06-03 23:33:23,Social Media,Desktop,Firefox,Australia
+WEB01785,CUST00893,2026-01-04 09:47:40,Organic Search,Mobile,Firefox,Australia
+WEB01786,CUST01584,2025-07-31 18:17:25,Referral,Desktop,Safari,France
+WEB01787,CUST01616,2025-08-05 12:19:45,Referral,Tablet,Firefox,Australia
+WEB01788,CUST01448,2025-11-18 00:15:52,Social Media,Tablet,Firefox,Singapore
+WEB01789,CUST00117,2026-05-13 19:51:15,Social Media,Tablet,Firefox,Australia
+WEB01790,CUST00610,2025-07-15 10:04:26,Organic Search,Desktop,Edge,Germany
+WEB01791,CUST00541,2025-08-20 21:27:33,Direct,Mobile,Safari,France
+WEB01792,CUST01441,2025-01-23 17:10:35,Referral,Mobile,Chrome,USA
+WEB01793,CUST01252,2026-07-23 10:33:21,Organic Search,Tablet,Edge,France
+WEB01794,CUST01025,2026-05-18 19:05:42,Advertisement,Tablet,Safari,France
+WEB01795,CUST00347,2025-08-11 14:50:13,Social Media,Mobile,Firefox,Singapore
+WEB01796,CUST00273,2026-05-21 09:03:38,Advertisement,Mobile,Chrome,USA
+WEB01797,CUST01040,2025-01-19 19:01:41,Referral,Desktop,Firefox,UK
+WEB01798,CUST01986,2025-02-13 10:39:07,Referral,Desktop,Edge,Singapore
+WEB01799,CUST01387,2025-11-23 03:51:59,Advertisement,Tablet,Firefox,Germany
+WEB01800,CUST00337,2025-11-28 19:18:05,Advertisement,Mobile,Safari,Australia
+WEB01801,CUST01898,2025-03-19 02:07:27,Referral,Mobile,Firefox,France
+WEB01802,CUST00551,2025-11-02 04:15:01,Organic Search,Tablet,Firefox,India
+WEB01803,CUST01949,2025-03-24 22:34:23,Social Media,Tablet,Safari,India
+WEB01804,CUST01606,2025-09-28 19:03:53,Direct,Mobile,Safari,Australia
+WEB01805,CUST00327,2025-10-15 05:06:59,Social Media,Desktop,Firefox,India
+WEB01806,CUST00121,2025-05-05 03:06:02,Organic Search,Desktop,Safari,Australia
+WEB01807,CUST01753,2025-06-21 06:20:09,Referral,Tablet,Edge,UK
+WEB01808,CUST00022,2025-11-04 17:51:08,Direct,Desktop,Safari,Germany
+WEB01809,CUST00105,2025-11-20 17:44:30,Social Media,Mobile,Safari,USA
+WEB01810,CUST00966,2026-08-09 21:39:43,Social Media,Mobile,Chrome,France
+WEB01811,CUST00901,2026-01-28 23:01:47,Social Media,Mobile,Edge,India
+WEB01812,CUST00863,2026-03-24 11:50:42,Organic Search,Desktop,Chrome,Germany
+WEB01813,CUST00940,2026-06-21 10:26:09,Social Media,Mobile,Chrome,UK
+WEB01814,CUST00444,2025-08-15 10:08:04,Advertisement,Desktop,Safari,Australia
+WEB01815,CUST00169,2025-06-21 07:24:38,Organic Search,Mobile,Safari,UK
+WEB01816,CUST00786,2025-12-16 03:10:21,Social Media,Mobile,Edge,Australia
+WEB01817,CUST00632,2025-11-01 07:39:13,Social Media,Desktop,Firefox,Singapore
+WEB01818,CUST00816,2026-01-18 08:03:31,Organic Search,Mobile,Firefox,Singapore
+WEB01819,CUST01556,2026-03-30 16:39:49,Social Media,Mobile,Chrome,Singapore
+WEB01820,CUST00007,2025-12-27 09:01:34,Social Media,Mobile,Firefox,Australia
+WEB01821,CUST00429,2025-12-14 07:38:07,Advertisement,Desktop,Firefox,USA
+WEB01822,CUST01827,2026-05-03 05:00:49,Advertisement,Mobile,Safari,UK
+WEB01823,CUST01247,2025-08-04 04:47:41,Direct,Mobile,Edge,France
+WEB01824,CUST01019,2025-04-19 02:22:45,Organic Search,Mobile,Edge,India
+WEB01825,CUST01927,2025-02-21 07:59:10,Social Media,Desktop,Edge,UK
+WEB01826,CUST00822,2025-04-12 13:59:53,Social Media,Mobile,Safari,India
+WEB01827,CUST00106,2025-04-24 05:52:06,Advertisement,Desktop,Chrome,Singapore
+WEB01828,CUST01901,2025-09-21 19:31:47,Advertisement,Mobile,Edge,Singapore
+WEB01829,CUST00030,2025-01-22 22:56:34,Referral,Desktop,Chrome,Australia
+WEB01830,CUST01567,2026-04-06 22:45:49,Advertisement,Tablet,Chrome,Australia
+WEB01831,CUST00532,2026-01-02 08:14:49,Organic Search,Tablet,Chrome,USA
+WEB01832,CUST01552,2025-06-03 20:01:47,Referral,Mobile,Edge,Germany
+WEB01833,CUST00194,2025-10-29 12:17:20,Social Media,Tablet,Firefox,France
+WEB01834,CUST00604,2025-02-21 11:02:47,Referral,Mobile,Firefox,UK
+WEB01835,CUST00168,2025-06-28 11:20:11,Social Media,Desktop,Chrome,Australia
+WEB01836,CUST01186,2025-10-15 09:27:01,Social Media,Desktop,Chrome,UK
+WEB01837,CUST00824,2026-07-20 23:36:50,Referral,Desktop,Edge,USA
+WEB01838,CUST00440,2026-01-24 03:57:51,Social Media,Desktop,Chrome,Germany
+WEB01839,CUST01305,2025-10-26 15:51:16,Organic Search,Mobile,Chrome,Singapore
+WEB01840,CUST00006,2026-08-17 09:11:13,Direct,Desktop,Safari,Australia
+WEB01841,CUST01485,2026-08-13 22:29:20,Organic Search,Desktop,Edge,Singapore
+WEB01842,CUST00192,2025-11-15 15:35:20,Social Media,Desktop,Firefox,UK
+WEB01843,CUST00218,2025-08-08 04:07:40,Social Media,Mobile,Edge,UK
+WEB01844,CUST00571,2025-08-04 19:26:48,Direct,Desktop,Firefox,USA
+WEB01845,CUST01143,2026-01-06 22:01:22,Advertisement,Tablet,Edge,USA
+WEB01846,CUST01697,2026-04-14 19:28:10,Advertisement,Mobile,Edge,USA
+WEB01847,CUST01434,2025-07-04 18:36:19,Advertisement,Mobile,Safari,Singapore
+WEB01848,CUST00676,2026-05-21 19:32:22,Referral,Desktop,Firefox,France
+WEB01849,CUST01233,2026-07-10 13:39:12,Advertisement,Desktop,Safari,France
+WEB01850,CUST01652,2025-12-04 12:35:29,Direct,Tablet,Chrome,Singapore
+WEB01851,CUST00929,2025-06-02 23:48:29,Social Media,Mobile,Edge,India
+WEB01852,CUST01481,2025-06-27 05:33:07,Direct,Mobile,Chrome,Germany
+WEB01853,CUST00883,2025-04-28 00:01:25,Referral,Tablet,Chrome,Singapore
+WEB01854,CUST00853,2025-06-07 16:12:44,Direct,Mobile,Safari,Germany
+WEB01855,CUST01559,2026-01-15 12:39:09,Organic Search,Tablet,Safari,Australia
+WEB01856,CUST01579,2025-01-31 06:16:07,Referral,Desktop,Chrome,Australia
+WEB01857,CUST00462,2025-07-14 01:00:53,Social Media,Mobile,Edge,Germany
+WEB01858,CUST00222,2026-05-20 20:34:59,Referral,Tablet,Edge,Germany
+WEB01859,CUST00372,2026-06-04 17:06:04,Social Media,Mobile,Edge,UK
+WEB01860,CUST01825,2025-02-14 19:36:54,Organic Search,Desktop,Safari,France
+WEB01861,CUST00120,2025-03-14 10:03:31,Direct,Mobile,Edge,USA
+WEB01862,CUST01617,2025-05-21 00:21:34,Organic Search,Mobile,Firefox,UK
+WEB01863,CUST00805,2025-02-06 12:34:56,Organic Search,Desktop,Firefox,UK
+WEB01864,CUST01732,2025-12-05 06:44:15,Referral,Tablet,Chrome,Australia
+WEB01865,CUST01330,2025-01-17 08:07:27,Social Media,Mobile,Firefox,USA
+WEB01866,CUST01418,2025-05-27 09:21:05,Advertisement,Desktop,Edge,Australia
+WEB01867,CUST01049,2025-06-30 19:04:11,Direct,Desktop,Firefox,Germany
+WEB01868,CUST00850,2026-06-07 14:42:32,Advertisement,Tablet,Edge,Germany
+WEB01869,CUST00170,2026-04-26 09:54:32,Social Media,Desktop,Chrome,UK
+WEB01870,CUST00624,2026-03-21 21:54:32,Organic Search,Desktop,Edge,France
+WEB01871,CUST01985,2026-07-04 14:56:43,Social Media,Tablet,Safari,Australia
+WEB01872,CUST00834,2026-08-09 16:36:40,Social Media,Desktop,Safari,Germany
+WEB01873,CUST00743,2026-06-23 08:38:06,Organic Search,Tablet,Chrome,UK
+WEB01874,CUST01993,2026-07-17 09:21:25,Direct,Mobile,Firefox,India
+WEB01875,CUST00006,2026-07-10 01:24:34,Social Media,Desktop,Firefox,France
+WEB01876,CUST01265,2025-05-11 03:07:32,Referral,Desktop,Safari,UK
+WEB01877,CUST01212,2025-06-28 00:41:42,Direct,Desktop,Edge,UK
+WEB01878,CUST01399,2025-10-11 00:45:57,Direct,Mobile,Edge,Singapore
+WEB01879,CUST00015,2025-11-26 03:43:48,Advertisement,Mobile,Safari,Germany
+WEB01880,CUST01614,2025-09-28 20:27:15,Direct,Mobile,Firefox,Singapore
+WEB01881,CUST01804,2025-07-28 22:03:49,Direct,Mobile,Chrome,India
+WEB01882,CUST01312,2025-09-19 00:59:55,Organic Search,Mobile,Edge,Australia
+WEB01883,CUST01202,2026-02-25 14:44:48,Social Media,Mobile,Chrome,Germany
+WEB01884,CUST01069,2026-03-20 10:51:33,Direct,Desktop,Safari,France
+WEB01885,CUST00659,2026-06-26 15:07:34,Organic Search,Tablet,Edge,India
+WEB01886,CUST01820,2026-04-25 02:44:52,Organic Search,Tablet,Firefox,India
+WEB01887,CUST00672,2025-04-09 05:59:52,Social Media,Tablet,Safari,UK
+WEB01888,CUST01579,2025-05-01 12:08:33,Organic Search,Desktop,Edge,USA
+WEB01889,CUST00208,2025-10-15 03:06:09,Advertisement,Desktop,Safari,India
+WEB01890,CUST00251,2026-05-30 21:55:57,Referral,Mobile,Edge,UK
+WEB01891,CUST00842,2025-09-25 11:07:10,Direct,Desktop,Edge,France
+WEB01892,CUST00047,2025-03-18 12:09:35,Social Media,Desktop,Safari,Australia
+WEB01893,CUST01004,2026-06-26 00:42:35,Advertisement,Tablet,Chrome,India
+WEB01894,CUST01159,2025-12-19 22:33:21,Referral,Mobile,Firefox,Australia
+WEB01895,CUST00304,2026-06-12 23:22:30,Referral,Desktop,Chrome,Australia
+WEB01896,CUST01204,2025-08-04 00:07:07,Advertisement,Tablet,Firefox,USA
+WEB01897,CUST01357,2026-05-29 07:09:33,Referral,Desktop,Edge,USA
+WEB01898,CUST00389,2025-02-02 17:34:48,Social Media,Mobile,Safari,Singapore
+WEB01899,CUST00638,2026-03-21 14:20:57,Organic Search,Tablet,Edge,Singapore
+WEB01900,CUST01622,2026-08-10 09:47:28,Direct,Mobile,Chrome,Australia
+WEB01901,CUST00137,2026-07-01 13:16:07,Social Media,Tablet,Safari,India
+WEB01902,CUST01321,2025-10-02 22:09:46,Social Media,Desktop,Firefox,Australia
+WEB01903,CUST00495,2026-08-18 04:31:49,Referral,Desktop,Firefox,USA
+WEB01904,CUST01417,2026-08-11 13:30:12,Advertisement,Mobile,Chrome,India
+WEB01905,CUST00073,2025-03-19 14:11:14,Social Media,Tablet,Edge,UK
+WEB01906,CUST01651,2025-10-19 15:38:12,Direct,Tablet,Chrome,Singapore
+WEB01907,CUST01820,2026-06-28 10:42:33,Organic Search,Tablet,Safari,Germany
+WEB01908,CUST01182,2026-06-05 14:00:52,Advertisement,Desktop,Firefox,India
+WEB01909,CUST00921,2025-11-26 04:02:12,Direct,Tablet,Edge,India
+WEB01910,CUST01406,2025-05-24 15:41:44,Direct,Tablet,Chrome,UK
+WEB01911,CUST01920,2025-06-10 03:47:59,Direct,Desktop,Firefox,Singapore
+WEB01912,CUST01330,2025-02-24 23:25:39,Organic Search,Tablet,Chrome,Germany
+WEB01913,CUST01229,2025-12-06 06:43:18,Organic Search,Tablet,Safari,Australia
+WEB01914,CUST01025,2025-01-16 23:56:44,Direct,Tablet,Chrome,USA
+WEB01915,CUST00086,2025-10-23 18:22:37,Direct,Tablet,Edge,Australia
+WEB01916,CUST00249,2025-04-15 11:48:05,Advertisement,Tablet,Firefox,Australia
+WEB01917,CUST00345,2025-11-19 09:16:27,Advertisement,Mobile,Chrome,Australia
+WEB01918,CUST00127,2025-02-03 13:12:00,Referral,Tablet,Safari,Singapore
+WEB01919,CUST01064,2025-08-10 20:27:15,Organic Search,Mobile,Firefox,Germany
+WEB01920,CUST00789,2025-07-25 19:21:19,Direct,Mobile,Firefox,France
+WEB01921,CUST00018,2026-01-21 00:44:27,Direct,Tablet,Chrome,USA
+WEB01922,CUST01075,2026-02-10 19:59:58,Social Media,Tablet,Firefox,UK
+WEB01923,CUST01225,2026-02-08 14:24:28,Organic Search,Tablet,Safari,Germany
+WEB01924,CUST00404,2025-10-21 05:41:46,Referral,Desktop,Edge,Australia
+WEB01925,CUST01748,2025-02-06 21:10:55,Referral,Tablet,Safari,France
+WEB01926,CUST00628,2026-06-23 01:53:26,Social Media,Mobile,Chrome,Singapore
+WEB01927,CUST00638,2026-04-05 02:23:48,Organic Search,Desktop,Firefox,Australia
+WEB01928,CUST01840,2026-02-02 20:36:01,Referral,Mobile,Safari,Australia
+WEB01929,CUST01679,2025-11-21 20:05:49,Direct,Mobile,Firefox,India
+WEB01930,CUST00766,2025-12-04 15:24:56,Organic Search,Mobile,Chrome,India
+WEB01931,CUST01849,2026-06-05 22:29:46,Direct,Tablet,Edge,France
+WEB01932,CUST01196,2025-07-05 02:28:21,Referral,Mobile,Firefox,India
+WEB01933,CUST00508,2026-01-23 21:26:48,Organic Search,Desktop,Chrome,Australia
+WEB01934,CUST00911,2026-08-16 01:20:20,Social Media,Desktop,Edge,Germany
+WEB01935,CUST00944,2026-08-16 04:38:33,Social Media,Tablet,Firefox,USA
+WEB01936,CUST00078,2026-03-26 18:37:27,Organic Search,Tablet,Edge,USA
+WEB01937,CUST00628,2026-03-19 10:09:08,Referral,Tablet,Edge,Germany
+WEB01938,CUST01319,2025-03-10 11:43:45,Advertisement,Tablet,Firefox,UK
+WEB01939,CUST00571,2025-09-21 18:21:09,Direct,Tablet,Firefox,Germany
+WEB01940,CUST01207,2026-05-14 08:07:28,Advertisement,Mobile,Chrome,USA
+WEB01941,CUST00019,2025-05-23 07:41:42,Organic Search,Tablet,Chrome,UK
+WEB01942,CUST00452,2025-07-23 18:13:06,Referral,Mobile,Firefox,UK
+WEB01943,CUST00462,2026-01-13 07:28:19,Direct,Mobile,Safari,USA
+WEB01944,CUST01290,2026-07-30 21:38:24,Advertisement,Desktop,Edge,India
+WEB01945,CUST01587,2025-10-24 10:00:46,Direct,Desktop,Edge,France
+WEB01946,CUST00802,2025-09-15 14:52:30,Advertisement,Mobile,Chrome,Australia
+WEB01947,CUST01799,2026-01-25 23:40:06,Direct,Desktop,Chrome,UK
+WEB01948,CUST01953,2026-05-09 17:19:57,Referral,Mobile,Edge,UK
+WEB01949,CUST00587,2026-06-09 09:36:23,Referral,Tablet,Safari,Germany
+WEB01950,CUST00827,2026-07-01 16:33:36,Social Media,Mobile,Safari,India
+WEB01951,CUST00072,2026-05-31 15:10:42,Referral,Tablet,Safari,UK
+WEB01952,CUST00717,2025-09-30 08:47:59,Advertisement,Mobile,Edge,India
+WEB01953,CUST01502,2025-03-03 18:04:17,Advertisement,Mobile,Chrome,USA
+WEB01954,CUST01616,2025-01-19 10:34:55,Advertisement,Mobile,Safari,Germany
+WEB01955,CUST01405,2026-08-16 00:20:13,Referral,Desktop,Chrome,USA
+WEB01956,CUST00921,2026-06-08 23:38:20,Referral,Desktop,Chrome,USA
+WEB01957,CUST00567,2025-06-25 12:10:58,Social Media,Mobile,Safari,Australia
+WEB01958,CUST01006,2025-01-26 22:58:55,Advertisement,Desktop,Chrome,India
+WEB01959,CUST01629,2025-12-15 02:59:13,Advertisement,Desktop,Firefox,Singapore
+WEB01960,CUST01809,2025-09-25 18:25:34,Direct,Tablet,Safari,Australia
+WEB01961,CUST01516,2025-10-22 03:47:04,Direct,Tablet,Safari,USA
+WEB01962,CUST00888,2025-07-17 18:04:38,Direct,Mobile,Chrome,India
+WEB01963,CUST00186,2025-01-05 01:47:32,Advertisement,Tablet,Chrome,France
+WEB01964,CUST01493,2025-08-04 02:34:09,Advertisement,Desktop,Chrome,USA
+WEB01965,CUST00975,2025-09-01 12:35:44,Social Media,Mobile,Edge,Germany
+WEB01966,CUST00105,2026-01-17 03:34:54,Organic Search,Tablet,Safari,Singapore
+WEB01967,CUST00335,2025-05-20 20:03:29,Direct,Mobile,Chrome,Singapore
+WEB01968,CUST01995,2026-05-26 00:03:20,Advertisement,Mobile,Chrome,Singapore
+WEB01969,CUST00336,2026-05-04 21:10:58,Advertisement,Desktop,Edge,UK
+WEB01970,CUST00840,2026-03-06 03:28:47,Social Media,Tablet,Firefox,France
+WEB01971,CUST00750,2025-08-13 14:06:05,Advertisement,Tablet,Edge,France
+WEB01972,CUST00976,2025-09-17 15:51:10,Referral,Desktop,Chrome,USA
+WEB01973,CUST00317,2026-07-15 22:37:54,Direct,Mobile,Safari,India
+WEB01974,CUST00753,2026-04-05 14:46:15,Organic Search,Mobile,Safari,India
+WEB01975,CUST01660,2025-12-07 03:27:59,Organic Search,Tablet,Edge,USA
+WEB01976,CUST00209,2026-01-21 03:36:26,Social Media,Desktop,Firefox,France
+WEB01977,CUST00889,2026-08-05 07:24:08,Organic Search,Tablet,Edge,France
+WEB01978,CUST01629,2025-10-20 16:24:22,Social Media,Tablet,Edge,USA
+WEB01979,CUST01743,2025-08-03 18:42:53,Advertisement,Tablet,Safari,India
+WEB01980,CUST01756,2025-07-19 02:57:19,Advertisement,Tablet,Edge,UK
+WEB01981,CUST01096,2026-06-04 15:59:49,Advertisement,Tablet,Safari,France
+WEB01982,CUST00075,2025-10-18 16:05:03,Organic Search,Desktop,Edge,Germany
+WEB01983,CUST01202,2025-08-10 13:57:27,Direct,Tablet,Chrome,Singapore
+WEB01984,CUST01876,2026-04-14 17:46:23,Referral,Tablet,Edge,France
+WEB01985,CUST01140,2026-05-21 21:06:58,Advertisement,Desktop,Edge,Australia
+WEB01986,CUST01354,2026-02-13 14:32:53,Referral,Tablet,Safari,France
+WEB01987,CUST00370,2026-06-04 19:43:46,Advertisement,Desktop,Firefox,Australia
+WEB01988,CUST01455,2026-04-27 14:46:13,Referral,Tablet,Edge,Australia
+WEB01989,CUST00273,2026-02-05 01:02:01,Organic Search,Mobile,Chrome,Australia
+WEB01990,CUST00741,2026-08-10 20:53:43,Direct,Tablet,Chrome,USA
+WEB01991,CUST00599,2025-08-12 23:32:08,Social Media,Desktop,Edge,Singapore
+WEB01992,CUST00062,2026-08-02 08:56:26,Advertisement,Mobile,Edge,UK
+WEB01993,CUST01342,2025-07-20 07:08:58,Referral,Desktop,Chrome,Australia
+WEB01994,CUST00234,2026-07-02 12:57:37,Referral,Desktop,Edge,India
+WEB01995,CUST01730,2026-02-18 04:27:52,Organic Search,Tablet,Chrome,Australia
+WEB01996,CUST01692,2026-03-26 14:47:25,Social Media,Desktop,Edge,France
+WEB01997,CUST00309,2026-08-14 02:41:59,Referral,Mobile,Safari,USA
+WEB01998,CUST00992,2026-08-15 23:12:25,Social Media,Mobile,Edge,Australia
+WEB01999,CUST00166,2026-07-01 03:55:15,Advertisement,Tablet,Chrome,Australia
+WEB02000,CUST00395,2025-10-11 00:33:11,Direct,Tablet,Chrome,Singapore
