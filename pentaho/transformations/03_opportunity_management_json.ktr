@@ -415,6 +415,7 @@
     <feedback_shown>Y</feedback_shown>
     <feedback_size>50000</feedback_size>
     <using_thread_priorities>Y</using_thread_priorities>
+    <shared_objects_file/>
     <capture_step_performance>N</capture_step_performance>
     <step_performance_capturing_delay>1000</step_performance_capturing_delay>
     <step_performance_capturing_size_limit>100</step_performance_capturing_size_limit>
@@ -430,7 +431,7 @@
     <created_date>2026/08/18 22:26:06.379</created_date>
     <modified_user>-</modified_user>
     <modified_date>2026/08/18 22:26:06.379</modified_date>
-    <key_for_session_key>H4sIAAAAAAAA/wMAAAAAAAAAAAA=</key_for_session_key>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -476,7 +477,7 @@
     <includeNulls>N</includeNulls>
     <rownum_field/>
     <file>
-      <name>/Users/erenyeager/Downloads/DataEngineering Project/Datasets/customer_360_mixed_formats/03_opportunity_management(1).json</name>
+      <name>${Internal.Transformation.Filename.Directory}/../../datasets/03_opportunity_management.json</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -485,7 +486,7 @@
     <fields>
       <field>
         <name>opportunity_id</name>
-        <path>$[*].opportunity_id</path>
+        <path>$..[*].opportunity_id</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -498,7 +499,7 @@
       </field>
       <field>
         <name>lead_id</name>
-        <path>$[*].lead_id</path>
+        <path>$..[*].lead_id</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -511,7 +512,7 @@
       </field>
       <field>
         <name>customer_id</name>
-        <path>$[*].customer_id</path>
+        <path>$..[*].customer_id</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -524,7 +525,7 @@
       </field>
       <field>
         <name>product</name>
-        <path>$[*].product</path>
+        <path>$..[*].product</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -537,7 +538,7 @@
       </field>
       <field>
         <name>opportunity_stage</name>
-        <path>$[*].opportunity_stage</path>
+        <path>$..[*].opportunity_stage</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -550,7 +551,7 @@
       </field>
       <field>
         <name>opportunity_value</name>
-        <path>$[*].opportunity_value</path>
+        <path>$..[*].opportunity_value</path>
         <type>None</type>
         <format/>
         <currency/>
@@ -563,7 +564,7 @@
       </field>
       <field>
         <name>probability</name>
-        <path>$[*].probability</path>
+        <path>$..[*].probability</path>
         <type>None</type>
         <format/>
         <currency/>
@@ -576,7 +577,7 @@
       </field>
       <field>
         <name>created_date</name>
-        <path>$[*].created_date</path>
+        <path>$..[*].created_date</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -589,7 +590,7 @@
       </field>
       <field>
         <name>sales_agent</name>
-        <path>$[*].sales_agent</path>
+        <path>$..[*].sales_agent</path>
         <type>String</type>
         <format/>
         <currency/>
@@ -744,7 +745,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection>DA-1_Project</connection>
+    <connection/>
     <schema>public</schema>
     <table>opportunity_management_03</table>
     <commit>1000</commit>
