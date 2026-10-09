@@ -21,9 +21,13 @@ Prerequisites: PostgreSQL, Pentaho Data Integration (Spoon), Python 3.
    ```
    It writes `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, `DB_PASSWORD` into `~/.kettle/kettle.properties`,
    creates the database if needed, and creates all staging and star-schema tables.
-4. Restart Spoon and run the jobs:
-   - `pentaho/jobs/ECRMDP_Sprint1_ETL.kjb` — bronze ingestion
-   - `silver/job_1.kjb` — silver / star-schema load
+4. Restart Spoon and run **`pentaho/jobs/ECRMDP_Master_ETL.kjb`**. In one run it:
+   - clears the star schema (`sql/reset_star_schema.sql`), so it is safe to run again,
+   - loads the 10 bronze staging tables,
+   - builds `dim_date` and the other dimensions, then the 8 facts,
+   - runs `sql/post_load_check.sql`, which fails the job if any table is empty or a required key is missing.
+
+   The individual jobs (`pentaho/jobs/ECRMDP_Sprint1_ETL.kjb`, `silver/job_1.kjb`) still work on their own.
 
 All Pentaho files use paths relative to the repo and a `DA-1_Project` connection built from those variables,
 so nothing needs editing per machine.
