@@ -314,7 +314,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/01_customer_master_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/01_customer_master_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -353,7 +353,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/02_lead_management_excel.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/02_lead_management_excel.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -392,7 +392,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/03_opportunity_management_json.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/03_opportunity_management_json.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -431,7 +431,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/04_sales_pipeline_xml.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/04_sales_pipeline_xml.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -470,7 +470,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/05_marketing_campaign_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/05_marketing_campaign_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -509,7 +509,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/06_customer_support_tickets_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/06_customer_support_tickets_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -548,7 +548,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/07_contact_center_logs_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/07_contact_center_logs_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -587,7 +587,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/08_website_registration_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/08_website_registration_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -626,7 +626,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/09_mobile_application_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/09_mobile_application_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -665,7 +665,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR/10_social_media_engagement_csv.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/10_social_media_engagement_csv.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

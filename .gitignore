@@ -1,0 +1,2 @@
+# local database credentials - never commit
+config/db.env

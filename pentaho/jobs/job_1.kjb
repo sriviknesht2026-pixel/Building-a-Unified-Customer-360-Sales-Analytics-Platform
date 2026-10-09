@@ -314,7 +314,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/01_customer_master_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/01_customer_master_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -353,7 +353,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/02_product_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/02_product_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -392,7 +392,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/03_sales_agent_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/03_sales_agent_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -431,7 +431,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/04_campaign_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/04_campaign_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -470,7 +470,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/06_leads_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/06_leads_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -509,7 +509,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/07_opportunity_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/07_opportunity_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -548,7 +548,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/08_sales_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/08_sales_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -587,7 +587,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/09_support_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/09_support_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -626,7 +626,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/10_contact_center_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/10_contact_center_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -665,7 +665,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/11_website_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/11_website_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -704,7 +704,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/12_mobile_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/12_mobile_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -743,7 +743,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>/Users/erenyeager/Downloads/DataEngineering Project/KTR_Silver/13_social_media_silver.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../../silver/transformations/13_social_media_silver.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

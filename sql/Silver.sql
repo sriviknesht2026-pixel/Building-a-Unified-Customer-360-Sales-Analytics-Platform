@@ -166,6 +166,7 @@ CREATE TABLE fact_support (
     support_fact_key SERIAL PRIMARY KEY,
     ticket_id VARCHAR(20),
     customer_key INT,
+    date_key INT,
     product_purchased VARCHAR(100),
     ticket_type VARCHAR(50),
     ticket_status VARCHAR(50),
