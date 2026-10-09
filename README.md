@@ -32,6 +32,17 @@ Prerequisites: PostgreSQL, Pentaho Data Integration (Spoon), Python 3.
 All Pentaho files use paths relative to the repo and a `DA-1_Project` connection built from those variables,
 so nothing needs editing per machine.
 
+## Reconciliation & validation report
+
+After the master ETL job finishes, run from the repo root:
+```
+pip install pandas openpyxl psycopg2-binary
+python python/reconciliation.py
+```
+It compares every layer (raw file → bronze → silver → warehouse) on row counts, column totals and business IDs,
+checks every surrogate key for empty or orphan values, and writes `docs/ECRMDP_Validation_Report.xlsx`.
+The script exits with code 1 if any check fails.
+
 ## Continuous deployment
 
 `.github/workflows/deploy.yml` runs on every push to `main`: it deploys the SQL schema to a fresh PostgreSQL,
