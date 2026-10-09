@@ -39,13 +39,13 @@ CREATE TABLE dim_customer (
 
 CREATE TABLE dim_product (
     product_key SERIAL PRIMARY KEY,
-    product_name VARCHAR(100)
+    product_name VARCHAR(100) UNIQUE
 );
 
 
 CREATE TABLE dim_sales_agent (
     sales_agent_key SERIAL PRIMARY KEY,
-    sales_agent VARCHAR(100)
+    sales_agent VARCHAR(100) UNIQUE
 );
 
 
