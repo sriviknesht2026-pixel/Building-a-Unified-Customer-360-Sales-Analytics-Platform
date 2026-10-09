@@ -57,7 +57,10 @@ CREATE TABLE dim_campaign (
     target_audience VARCHAR(50),
     duration_days INT,
     channel_used VARCHAR(50),
-    location VARCHAR(50)
+    location VARCHAR(50),
+    conversion_rate NUMERIC(8,4),
+    acquisition_cost NUMERIC(14,2),
+    roi NUMERIC(12,4)
 );
 
 

@@ -942,9 +942,6 @@
       </field>
       <select_unspecified>N</select_unspecified>
       <remove>
-        <name>opportunity_id</name>
-      </remove>
-      <remove>
         <name>product</name>
       </remove>
       <remove>

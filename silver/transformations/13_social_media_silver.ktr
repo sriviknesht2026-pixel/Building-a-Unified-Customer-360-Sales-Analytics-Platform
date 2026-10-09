@@ -936,6 +936,10 @@
         <name>date_key</name>
         <rename/>
       </field>
+      <field>
+        <name>campaign_key</name>
+        <rename/>
+      </field>
       <select_unspecified>N</select_unspecified>
       <remove>
         <name>customer_id</name>

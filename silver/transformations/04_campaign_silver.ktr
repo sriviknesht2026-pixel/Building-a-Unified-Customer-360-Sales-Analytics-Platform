@@ -679,15 +679,6 @@
         <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>conversion_rate</name>
-      </remove>
-      <remove>
-        <name>acquisition_cost</name>
-      </remove>
-      <remove>
-        <name>roi</name>
-      </remove>
     </fields>
     <attributes/>
     <cluster_schema/>
