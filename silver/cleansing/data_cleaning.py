@@ -1,17 +1,23 @@
+import pathlib
 import pandas as pd
+
+# Paths are relative to the repo, so the script runs from any folder on any laptop
+REPO = pathlib.Path(__file__).resolve().parents[2]
+RAW = REPO / "datasets"
+OUT = REPO / "datasets"
 
 # Load data
 
-customer = pd.read_csv("../Datasets/customer_360_mixed_formats/01_customer_master(2).csv")
-lead = pd.read_excel("../Datasets/customer_360_mixed_formats/02_lead_management(1).xlsx")
-opportunity = pd.read_json("../Datasets/customer_360_mixed_formats/03_opportunity_management(1).json")
-sales = pd.read_xml("../Datasets/customer_360_mixed_formats/04_sales_pipeline(1).xml")
-marketing = pd.read_csv("../Datasets/customer_360_mixed_formats/05_marketing_campaign(2).csv")
-support = pd.read_csv("../Datasets/customer_360_mixed_formats/06_customer_support_tickets(2).csv")
-contact = pd.read_csv("../Datasets/customer_360_mixed_formats/07_contact_center_logs(2).csv")
-website = pd.read_csv("../Datasets/customer_360_mixed_formats/08_website_registration(2).csv")
-mobile = pd.read_csv("../Datasets/customer_360_mixed_formats/09_mobile_application(2).csv")
-social = pd.read_csv("../Datasets/customer_360_mixed_formats/10_social_media_engagement(2).csv")
+customer = pd.read_csv(RAW / "01_customer_master.csv")
+lead = pd.read_excel(RAW / "02_lead_management.xlsx")
+opportunity = pd.read_json(RAW / "03_opportunity_management.json")
+sales = pd.read_xml(RAW / "04_sales_pipeline.xml", parser="etree")
+marketing = pd.read_csv(RAW / "05_marketing_campaign.csv")
+support = pd.read_csv(RAW / "06_customer_support_tickets.csv")
+contact = pd.read_csv(RAW / "07_contact_center_logs.csv")
+website = pd.read_csv(RAW / "08_website_registration.csv")
+mobile = pd.read_csv(RAW / "09_mobile_application.csv")
+social = pd.read_csv(RAW / "10_social_media_engagement.csv")
 
 
 # Remove duplicate rows
@@ -50,6 +56,8 @@ support["customer_email"] = support["customer_email"].str.strip().str.lower()
 
 customer["gender"] = customer["gender"].str.strip().str.title()
 customer["country"] = customer["country"].str.strip().str.title()
+# Title Case breaks country acronyms (UK -> Uk, USA -> Usa); restore them so they match other sources
+customer["country"] = customer["country"].replace({"Uk": "UK", "Usa": "USA"})
 customer["city"] = customer["city"].str.strip().str.title()
 
 lead["lead_source"] = lead["lead_source"].str.strip().str.title()
@@ -100,16 +108,16 @@ opportunity["probability"] = opportunity["probability"].fillna(
 
 # Save cleaned data
 
-customer.to_csv("../Datasets/customer_master_silver.csv", index=False)
-lead.to_csv("../Datasets/lead_management_silver.csv", index=False)
-opportunity.to_csv("../Datasets/opportunity_management_silver.csv", index=False)
-sales.to_csv("../Datasets/sales_pipeline_silver.csv", index=False)
-marketing.to_csv("../Datasets/marketing_campaign_silver.csv", index=False)
-support.to_csv("../Datasets/customer_support_tickets_silver.csv", index=False)
-contact.to_csv("../Datasets/contact_center_logs_silver.csv", index=False)
-website.to_csv("../Datasets/website_registration_silver.csv", index=False)
-mobile.to_csv("../Datasets/mobile_application_silver.csv", index=False)
-social.to_csv("../Datasets/social_media_engagement_silver.csv", index=False)
+customer.to_csv(OUT / "customer_master_silver.csv", index=False)
+lead.to_csv(OUT / "lead_management_silver.csv", index=False)
+opportunity.to_csv(OUT / "opportunity_management_silver.csv", index=False)
+sales.to_csv(OUT / "sales_pipeline_silver.csv", index=False)
+marketing.to_csv(OUT / "marketing_campaign_silver.csv", index=False)
+support.to_csv(OUT / "customer_support_tickets_silver.csv", index=False)
+contact.to_csv(OUT / "contact_center_logs_silver.csv", index=False)
+website.to_csv(OUT / "website_registration_silver.csv", index=False)
+mobile.to_csv(OUT / "mobile_application_silver.csv", index=False)
+social.to_csv(OUT / "social_media_engagement_silver.csv", index=False)
 
 
 print("\nData cleaning completed!")

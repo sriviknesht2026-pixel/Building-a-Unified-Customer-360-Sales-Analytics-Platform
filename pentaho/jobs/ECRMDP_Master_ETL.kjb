@@ -24,15 +24,42 @@
     <data_tablespace/>
     <index_tablespace/>
     <attributes>
-      <attribute><code>FORCE_IDENTIFIERS_TO_LOWERCASE</code><attribute>N</attribute></attribute>
-      <attribute><code>FORCE_IDENTIFIERS_TO_UPPERCASE</code><attribute>N</attribute></attribute>
-      <attribute><code>IS_CLUSTERED</code><attribute>N</attribute></attribute>
-      <attribute><code>PORT_NUMBER</code><attribute>${DB_PORT}</attribute></attribute>
-      <attribute><code>PRESERVE_RESERVED_WORD_CASE</code><attribute>Y</attribute></attribute>
-      <attribute><code>QUOTE_ALL_FIELDS</code><attribute>N</attribute></attribute>
-      <attribute><code>SUPPORTS_BOOLEAN_DATA_TYPE</code><attribute>Y</attribute></attribute>
-      <attribute><code>SUPPORTS_TIMESTAMP_DATA_TYPE</code><attribute>Y</attribute></attribute>
-      <attribute><code>USE_POOLING</code><attribute>N</attribute></attribute>
+      <attribute>
+        <code>FORCE_IDENTIFIERS_TO_LOWERCASE</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>FORCE_IDENTIFIERS_TO_UPPERCASE</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>IS_CLUSTERED</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>PORT_NUMBER</code>
+        <attribute>${DB_PORT}</attribute>
+      </attribute>
+      <attribute>
+        <code>PRESERVE_RESERVED_WORD_CASE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>QUOTE_ALL_FIELDS</code>
+        <attribute>N</attribute>
+      </attribute>
+      <attribute>
+        <code>SUPPORTS_BOOLEAN_DATA_TYPE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>SUPPORTS_TIMESTAMP_DATA_TYPE</code>
+        <attribute>Y</attribute>
+      </attribute>
+      <attribute>
+        <code>USE_POOLING</code>
+        <attribute>N</attribute>
+      </attribute>
     </attributes>
   </connection>
   <slaveservers>
@@ -308,6 +335,7 @@
     </field>
   </channel-log-table>
   <pass_batchid>N</pass_batchid>
+  <shared_objects_file/>
   <entries>
     <entry>
       <name>Start</name>
@@ -1280,7 +1308,7 @@ BEGIN
       ('fact_social_media','customer_key'),('fact_social_media','campaign_key'),('fact_social_media','date_key')
     ) AS v(tbl, col) LOOP
     EXECUTE format('SELECT COUNT(*) FROM %I WHERE %I IS NULL', chk.tbl, chk.col) INTO n;
-    IF n &gt; 0 THEN problems := problems || format(' %s.%s has %s empty rows;', chk.tbl, chk.col, n); END IF;
+    IF n > 0 THEN problems := problems || format(' %s.%s has %s empty rows;', chk.tbl, chk.col, n); END IF;
   END LOOP;
 
   IF problems &lt;&gt; '' THEN
@@ -1556,10 +1584,10 @@ Row 1: clear the star schema, then load the 10 bronze staging tables.
 Row 2: build dim_date and the 4 other dimensions.
 Row 3: load the 8 fact tables, then run post-load checks (fails the job if any table is empty or a required key is missing).
 Every arrow is 'on success': the job stops at the first failed step.</note>
-      <xloc>80</xloc>
+      <xloc>128</xloc>
       <yloc>560</yloc>
-      <width>620</width>
-      <heigth>110</heigth>
+      <width>947</width>
+      <heigth>130</heigth>
       <fontname>Segoe UI</fontname>
       <fontsize>9</fontsize>
       <fontbold>N</fontbold>
